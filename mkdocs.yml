@@ -1,0 +1,23 @@
+site_name: База знаний по FPV
+site_url: https://github.com/askrinnik/FPV_FAQ
+plugins:
+  - gen_nav:
+      enabled: true
+  - search
+  - autorefs
+markdown_extensions:
+  - attr_list
+theme:
+  name: material
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode

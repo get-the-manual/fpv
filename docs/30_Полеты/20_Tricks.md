@@ -1,0 +1,70 @@
+# FPV Freestyle трюки
+[96 Tricks! ULTIMATE FPV Tricktionary. Freestyle Bible](https://www.youtube.com/watch?v=hIbHrO-VBu8)  
+
+[FPV Freestyle Tricktionary. YouTube: Rotor Riot](https://www.youtube.com/watch?v=n6RX8iI6gcQ)
+
+
+## [YouTube канал headmazta](https://www.youtube.com/@headmazta)   
+Большое количество коротких роликов с подробным пошаговым обучением различных трюков.  
+Все трюки сгруппированы в плейлисты:  
+[FPV Trick Tutorials](https://www.youtube.com/playlist?list=PLj23ZLg5V56oNLTC4bNI4TndtTEvK-UoT)  
+[FPV Trick Tutorials - BEGINNER](https://www.youtube.com/playlist?list=PLj23ZLg5V56prLy-r3-GVd_9wBU4iVC7H)  
+[FPV Trick Tutorials - INTERMEDIATE](https://www.youtube.com/playlist?list=PLj23ZLg5V56qvExRVYQkBq6bUsJjwHQqZ)  
+[FPV Trick Tutorials - ADVANCED](https://www.youtube.com/playlist?list=PLj23ZLg5V56q99molL1nY1XVa0j42cnzl)  
+
+## [Trick Series. YouTube: Rotor Riot](https://www.youtube.com/playlist?list=PLXKJ80BTT1lb_kGy8HIkMx2hVgZA-VbKP)
+
+## [Telegram channel 'FPV Tricks'](https://t.me/fpv_tricks)
+
+## Отдельные трюки
+
+[Fpv Freestyle - 14 TRICKS IN 10 min. YouTube: Bard Fpv](https://www.youtube.com/watch?v=H0kxJqmjbgE)  
+
+[Fpv Freestyle - 11 FPV TRICKS Vol 2. YouTube: Bard Fpv](https://www.youtube.com/watch?v=2mZuCbVaWpc)
+
+#### Matty Flip (backwards powerloop)
+[Learn to Fly an FPV Drone - Lesson 19 - Matty Flip. YouTube: Joshua Bardwell](https://www.youtube.com/watch?v=v25IwLExF80)  
+[How To: Matty Flip | FPV Tutorial](https://www.youtube.com/watch?v=mZVjPSQHm9Y)  
+[how to MATTYFLIP (backwards powerloop)](https://www.youtube.com/watch?v=625wUUsPqwk&list=WL&index=10&t=268s)  
+[I Can't Matty Flip! FPV Freestyle Tutorial and Practice](https://www.youtube.com/watch?v=REaUgDKeFXs)  
+[Mattyflip with MattyStuntz - Trick Series](https://www.youtube.com/watch?v=Twcj_8k_-vk)    
+
+#### Orbit
+[How To Do FPV Orbits (as made famous by Mr. Steele)](https://www.youtube.com/watch?v=qycbKimdr_I)  
+[Розбираємо Орбіту. YouTube: FlyingCat (укр.)](https://www.youtube.com/watch?v=iTOF2Rq_ZGU)
+
+#### Powerloop
+[How to Powerloop Obstacles SAFELY | FPV Trick Tutorial](https://www.youtube.com/watch?v=Ip7JBqRNDzg)  
+[How To Powerloop an FPV Drone For Beginner and Advanced Pilots](https://www.youtube.com/watch?v=LTl0780qgCE)  
+[FPV Tricks - Split S & Reverse Split S](https://www.youtube.com/watch?v=Iu7Q4SHjpjQ)
+
+#### Split-S
+[FPV freestyle уроки. Split-S. (3)](https://www.youtube.com/watch?v=7A_mpyqKZyo)  
+[How To Perfect Split-S | FPV Trick Tutorial](https://www.youtube.com/watch?v=gepPp2OyXUQ)  
+
+#### Reverse Split-S
+[FPV Trick Tutorial | REVERSE SPLIT-S. YouTube: Patrick Watkins](https://www.youtube.com/watch?v=IoBxHBNK5j4)
+
+#### Inverted Yaw Spin
+[FPV Trick Tutorial | INVERTED YAW SPIN. YouTube: Patrick Watkins](https://www.youtube.com/watch?v=02x7HyC2U1E)
+
+#### Trippy Spin (Inverted Orbit):
+[Trippy spin или обратная орбита. Научиться за один вечер?](https://www.youtube.com/watch?v=Lk9EkWkudN0)  
+[FPV freestyle уроки. Trippy spin или обратная орбита. (2)](https://www.youtube.com/watch?v=knTYPUcpjL8)  
+[I Can't Trippy Spin! or Inverted Orbit? 🤔 FPV Freestyle Tutorial](https://www.youtube.com/watch?v=M5YY4iC5z1o)  
+[How to Inverted Orbit (Trippy Spin) | FPV Trick Tutorial](https://www.youtube.com/watch?v=HbUVa1IUfFs)  
+[Trippy Spin Tutorial (Inverted Orbit) - Understand The Trippy](https://www.youtube.com/watch?v=-TxgEsk8T5I)  
+[I learned to trippy spin, and so can you.](https://www.youtube.com/watch?v=2cInhs27EXs)  
+
+#### Juicy Flick
+[How To Juicy Flick an FPV Drone For Beginner and Advanced Pilots, An In-Depth Look](https://www.youtube.com/watch?v=tbem8fUPPxU)  
+
+#### Dolphin Dive
+[FPV Trick Tutorial - DOLPHIN DIVE](https://www.youtube.com/watch?v=WuSz_mIioqE)  
+[Which level can you reach?](https://www.youtube.com/shorts/GCQNPSjebIE)  
+
+#### Barani
+[FPV Trick Tutorial - BARANI YouTube: Patrick Watkins](https://www.youtube.com/watch?v=guEXMMV3TSo)
+
+#### Rubik's Cube
+[Як робити Rubik's Cube. YouTube: FlyingCat](https://www.youtube.com/shorts/Ioo8-RNfXy0)
