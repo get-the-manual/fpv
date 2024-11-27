@@ -1,4 +1,4 @@
-# Управление ресурсами 9маппинг) в Betaflight
+# Управление ресурсами (маппинг) в Betaflight
 
 [Подключить неподключаемое - vifly mini на meteor75 где нет контактов BUZ. YouTube: Petrokey](https://www.youtube.com/watch?v=JfopONCaKm4)    
 
