@@ -3,6 +3,10 @@
 
 [FPV Freestyle Tricktionary. YouTube: Rotor Riot](https://www.youtube.com/watch?v=n6RX8iI6gcQ)
 
+[Fpv Freestyle - 14 TRICKS IN 10 min. YouTube: Bard Fpv](https://www.youtube.com/watch?v=H0kxJqmjbgE)
+
+## Последовательности и комбинация трюков
+[Linking Tricks FEAT. PDEVX - Trick Series. YouTube: Rotor Riot](https://www.youtube.com/watch?v=7ZXll22kJxk)  
 
 ## [YouTube канал headmazta](https://www.youtube.com/@headmazta)   
 Большое количество коротких роликов с подробным пошаговым обучением различных трюков.  
@@ -68,3 +72,5 @@
 
 #### Rubik's Cube
 [Як робити Rubik's Cube. YouTube: FlyingCat](https://www.youtube.com/shorts/Ioo8-RNfXy0)
+
+#### [20 routines to improve your looρ abilities. YouTube: AuxPlumes](https://www.youtube.com/watch?v=tA7XWwtBn0Q)
