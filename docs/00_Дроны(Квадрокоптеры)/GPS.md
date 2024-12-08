@@ -30,7 +30,8 @@
 
 [Как настроить GPS на FPV дроне - возврат домой, FAILSAFE, RESCUE в BETAFLIGHT 4.5ю YouTube: recopter](https://www.youtube.com/watch?v=l4f07dlX5eQ)  
 
-[Подключаем GPS к FPV, ViFly GPS mate, ost, телеметрия на апе. YouTube: Петрокей](https://www.youtube.com/watch?v=AULG-AP712E)
+[Подключаем GPS к FPV, ViFly GPS mate, ost, телеметрия на апе. YouTube: Петрокей](https://www.youtube.com/watch?v=AULG-AP712E)  
+[VIFLY GPS-Mate 3.7V 50mAh LIPO Exclusive Power Module with Built-in Lost Drone Alarm](https://vi.aliexpress.com/item/1005003676846838.html)
 
 ## Отзывы и комментарии от пользователей
 

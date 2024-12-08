@@ -16,6 +16,8 @@ Betaflight - это открытое программное обеспечени
 
 [Налаштування квадрокоптера в бетафлай за 15хв (укр.) YouTube: Nazar Kovalenko](https://www.youtube.com/watch?v=JR5qjRWxhkQ)  
 
+## Blackbox Explorer
+[BetaFlight Blackbox Explorer - детальна інструкція. YouTube: Aves Lab (укр.)](https://www.youtube.com/watch?v=FhQDbtbXL5Y)
 
 ## Серия видео Продвинутый Betaflight от My Hobby Log
 [Продвинутый Betaflight - Знакомство с Blackbox](https://www.youtube.com/watch?v=GphFE2Lt8SU)  

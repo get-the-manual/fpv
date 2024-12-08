@@ -19,6 +19,8 @@
 
 [Betafpv Cetus X - угомонись! Дрон прыгает, дрейфует и прилипает к стенам. Настройка FPV для квартиры. YouTube: Petrokey](https://www.youtube.com/watch?v=kPr2hmY9g5g)
 
+[FPV Drone Rates Explained_ Betaflight & Actual Rates - Oscar Liang](https://oscarliang.com/rates/)
+
 ### [Конвертер рейтов](https://rates.metamarc.com/)
 
 ## PID
