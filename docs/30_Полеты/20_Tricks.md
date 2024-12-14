@@ -3,7 +3,8 @@
 
 [FPV Freestyle Tricktionary. YouTube: Rotor Riot](https://www.youtube.com/watch?v=n6RX8iI6gcQ)
 
-[Fpv Freestyle - 14 TRICKS IN 10 min. YouTube: Bard Fpv](https://www.youtube.com/watch?v=H0kxJqmjbgE)
+[Fpv Freestyle - 14 TRICKS IN 10 min. YouTube: Bard Fpv](https://www.youtube.com/watch?v=H0kxJqmjbgE)  
+[Fpv Freestyle - 11 FPV TRICKS Vol 2. YouTube: Bard Fpv](https://www.youtube.com/watch?v=2mZuCbVaWpc)
 
 ## Последовательности и комбинация трюков
 [Linking Tricks FEAT. PDEVX - Trick Series. YouTube: Rotor Riot](https://www.youtube.com/watch?v=7ZXll22kJxk)  
