@@ -19,7 +19,10 @@ Betaflight - это открытое программное обеспечени
 ## Blackbox Explorer
 [BetaFlight Blackbox Explorer - детальна інструкція. YouTube: Aves Lab (укр.)](https://www.youtube.com/watch?v=FhQDbtbXL5Y)
 
-## Серия видео Продвинутый Betaflight от My Hobby Log
+## Серия видео `Betaflight Won't Arm` от Joshua Bardwell
+[Betaflight Won't Arm](https://www.youtube.com/playlist?list=PLwoDb7WF6c8n8SCsG7mtIgQUgsuWxaiiO)
+
+## Серия видео `Продвинутый Betaflight` от My Hobby Log
 [Продвинутый Betaflight - Знакомство с Blackbox](https://www.youtube.com/watch?v=GphFE2Lt8SU)  
 [Продвинутый Betaflight - Акро (Acro) и Рейты (Rates)](https://www.youtube.com/watch?v=xnpsr-AiDBo)  
 [Продвинутый Betaflight - вибрации и фильтры (Notch, LPF)](https://www.youtube.com/watch?v=L7qY19ynXFk)  
