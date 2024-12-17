@@ -7,7 +7,14 @@
 [FPV Freestyle Tricktionary. YouTube: Rotor Riot](https://www.youtube.com/watch?v=n6RX8iI6gcQ)
 
 [Fpv Freestyle - 14 TRICKS IN 10 min. YouTube: Bard Fpv](https://www.youtube.com/watch?v=H0kxJqmjbgE)  
-[Fpv Freestyle - 11 FPV TRICKS Vol 2. YouTube: Bard Fpv](https://www.youtube.com/watch?v=2mZuCbVaWpc)
+[Fpv Freestyle - 11 FPV TRICKS Vol 2. YouTube: Bard Fpv](https://www.youtube.com/watch?v=2mZuCbVaWpc)  
+
+[I Asked ChatGPT for the 10 Most Difficult FPV Drone Tricks, YouTube: 
+Patrick Watkins](https://www.youtube.com/watch?v=vYaq1cCAjTs)  
+- Corkscrew
+- Death Spiral
+- Superman Flip
+- Khalifa Loop
 
 ## Последовательности и комбинация трюков
 [Linking Tricks FEAT. PDEVX - Trick Series. YouTube: Rotor Riot](https://www.youtube.com/watch?v=7ZXll22kJxk)  
@@ -25,10 +32,6 @@
 ## [Telegram channel 'FPV Tricks'](https://t.me/fpv_tricks)
 
 ## Отдельные трюки
-
-[Fpv Freestyle - 14 TRICKS IN 10 min. YouTube: Bard Fpv](https://www.youtube.com/watch?v=H0kxJqmjbgE)  
-
-[Fpv Freestyle - 11 FPV TRICKS Vol 2. YouTube: Bard Fpv](https://www.youtube.com/watch?v=2mZuCbVaWpc)
 
 #### Matty Flip (backwards powerloop)
 [Learn to Fly an FPV Drone - Lesson 19 - Matty Flip. YouTube: Joshua Bardwell](https://www.youtube.com/watch?v=v25IwLExF80)  
