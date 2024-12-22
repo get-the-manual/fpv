@@ -7,6 +7,12 @@ Betaflight - это открытое программное обеспечени
 [Страница закачки Betaflight Configurator (на все ОС, включая Android)](https://github.com/betaflight/betaflight-configurator/releases/)  
 [SpeedyBee - альтернатива Betaflight Configurator для Android](https://play.google.com/store/apps/details?id=com.runcam.android.runcambf&hl=ru&gl=US)
 
+## Установка на Linux
+```
+sudo apt install betaflight-configurator  
+sudo pacman -S betaflight-configurator
+```
+
 ## Видео по настройке дрона в Betaflight
 [Настройка FPV дрона в Betaflight для новичков + прошивка ESC BiHeli_S, BlueJay. YouTube: Recopter](https://www.youtube.com/watch?v=yJxMRLE3dVI)  
 
@@ -15,6 +21,12 @@ Betaflight - это открытое программное обеспечени
 [Собрал и Полетел! Как настроить FPV дрон за минуты (на примере SpeedyBee Bee35). YouTube: DRONOFLY FPV](https://www.youtube.com/watch?v=-c042AORi24) 
 
 [Налаштування квадрокоптера в бетафлай за 15хв (укр.) YouTube: Nazar Kovalenko](https://www.youtube.com/watch?v=JR5qjRWxhkQ)  
+
+## Рекомендованные пресеты от Lesha Rodin
+Начни например с Justice, главное галочки протыкай нормально, не ставь spicy tune поставь в normal билд и normal tune.   
+Если плохо полетит попробуй karate2024.  
+Прошить bluejay 48khz  
+Подобрать рейты себе по вкусу, рекомендую рейты Min Chan Kim, но у Justice в пресете тоже похожие по форме в целом.
 
 ## Blackbox Explorer
 [BetaFlight Blackbox Explorer - детальна інструкція. YouTube: Aves Lab (укр.)](https://www.youtube.com/watch?v=FhQDbtbXL5Y)
