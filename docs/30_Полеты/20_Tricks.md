@@ -53,7 +53,11 @@ Patrick Watkins](https://www.youtube.com/watch?v=vYaq1cCAjTs)
 [FPV freestyle уроки. Split-S. (3)](https://www.youtube.com/watch?v=7A_mpyqKZyo)  
 [How To Perfect Split-S | FPV Trick Tutorial](https://www.youtube.com/watch?v=gepPp2OyXUQ)  
 
-#### Reverse Split-S
+#### Split S Rewind
+![](Trick_Split-S_Rewind.gif)   
+[Apprends le Split S Rewind - Tuto BARD - Fpv Freestyle. YouTube: Bard Fpv](https://www.youtube.com/watch?v=YZnMHTyD5TE)  
+
+#### Reverse Split-S (Half Matty)
 [FPV Trick Tutorial | REVERSE SPLIT-S. YouTube: Patrick Watkins](https://www.youtube.com/watch?v=IoBxHBNK5j4)
 
 #### Inverted Yaw Spin
@@ -79,5 +83,16 @@ Patrick Watkins](https://www.youtube.com/watch?v=vYaq1cCAjTs)
 
 #### Rubik's Cube
 [Як робити Rubik's Cube. YouTube: FlyingCat](https://www.youtube.com/shorts/Ioo8-RNfXy0)
+
+#### Corkscrew (Freestyle Version)
+![](Trick_Corkscrew.gif)   
+[How To: Corkscrew (Freestyle Version) | FPV Tutorial. YouTube: headmazta](https://www.youtube.com/watch?v=ti8pGuEvwbM)
+
+#### Corkscrew (Race version)
+![](Trick_RaceCorkscrew.gif)   
+[Racing with the DJI FPV Drone! - How to Corkscrew. Youtube: Rotor Riot](https://www.youtube.com/watch?v=TNr8TydRE7A)
+
+### Side Rewind
+[Side Rewind - You're Doing it WRONG! FPV Drone Trick Tutorial. YouTube: Patrick Watkins](https://www.youtube.com/watch?v=wG-9BXBt3hU)
 
 #### [20 routines to improve your looρ abilities. YouTube: AuxPlumes](https://www.youtube.com/watch?v=tA7XWwtBn0Q)
