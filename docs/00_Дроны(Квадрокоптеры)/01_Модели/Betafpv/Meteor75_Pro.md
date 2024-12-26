@@ -2,6 +2,8 @@
 [Страница на сайте производителя](https://betafpv.com/collections/meteor-series/products/meteor75-pro-brushless-whoop-quadcopter)  
 ![](Meteor75pro.png) 
 
+[METEOR 75 PRO МНЕНИЕ О ВУПЕ. YouTube: АквариуМИСТИКА FPV](https://www.youtube.com/watch?v=2zEOoNoXRAQ)  
+
 ## Bind
 Полетный контроллер имеет встроенный ELRS приемник подключен через `UART`.
 
