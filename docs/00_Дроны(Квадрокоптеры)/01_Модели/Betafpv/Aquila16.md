@@ -10,9 +10,14 @@
 [BETAFPV Configurator](https://github.com/BETAFPV/BETAFPV_Configurator/releases)  
 Там две версии: `V2.0.0-RC2` и `V1.1.1-RC1`/ Нужно скачивать и ставить обе. Может оказаться что одна из них не будет работать с дроном или аппой, а вторая будет.
 
-## Инструкцияи
+## Инструкции
 [Для Aquila16 FPV Kit](https://support.betafpv.com/hc/en-us/articles/24444264493081-Manual-for-Aquila16-FPV-Kit)  
 [Для дрона Aquila16](https://support.betafpv.com/hc/en-us/articles/24444068242329-Manual-for-Aquila16-Brushless-Quadcopter)
+
+## Bind
+[Aquila16 как подключить (забиндить) к другой аппаратуре и обратно. (бинд фраза)](https://www.youtube.com/watch?v=IUj-B8MIZGw)
+[
+User Guide on Aquila16 FPV Kit - Including Binding and Battery Installation](https://www.youtube.com/watch?v=sVDAzZalURg)  
 
 ## Решение проблемы дизарма в воздухе  
 [Новая прошивка на Aquila 16. YouTube: БПЛА Drone](https://www.youtube.com/watch?app=desktop&v=PDqRkcoW8BY)  
