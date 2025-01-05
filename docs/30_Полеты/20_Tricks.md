@@ -1,6 +1,7 @@
 # FPV Freestyle трюки
 [**Энциклопедия трюков** с поиском и анимированными GIF](https://prowhooper.com/all-tricks/)  
 
+[216 TRICKS! ULTIMATE FPV Tricktionary 2025. YouTube: Phantom ](https://www.youtube.com/watch?v=NpLIhHIBO24)  
 [96 Tricks! ULTIMATE FPV Tricktionary. Freestyle Bible](https://www.youtube.com/watch?v=hIbHrO-VBu8)  
 [100+ FPV Freestyle Tricks // DRL Simulator](https://www.youtube.com/watch?v=GVi42YUs7Vs)
 
