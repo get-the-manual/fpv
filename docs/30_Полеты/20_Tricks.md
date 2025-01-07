@@ -12,10 +12,10 @@
 
 [I Asked ChatGPT for the 10 Most Difficult FPV Drone Tricks, YouTube: 
 Patrick Watkins](https://www.youtube.com/watch?v=vYaq1cCAjTs)  
-- Corkscrew
-- Death Spiral
-- Superman Flip
-- Khalifa Loop
+- Corkscrew  
+- Death Spiral  
+- Superman Flip  
+- Khalifa Loop  
 
 ## Последовательности и комбинация трюков
 [Linking Tricks FEAT. PDEVX - Trick Series. YouTube: Rotor Riot](https://www.youtube.com/watch?v=7ZXll22kJxk)  
