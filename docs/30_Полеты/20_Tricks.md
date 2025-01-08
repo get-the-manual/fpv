@@ -93,7 +93,12 @@ Patrick Watkins](https://www.youtube.com/watch?v=vYaq1cCAjTs)
 ![](Trick_RaceCorkscrew.gif)   
 [Racing with the DJI FPV Drone! - How to Corkscrew. Youtube: Rotor Riot](https://www.youtube.com/watch?v=TNr8TydRE7A)
 
-### Side Rewind
+#### Side Rewind
 [Side Rewind - You're Doing it WRONG! FPV Drone Trick Tutorial. YouTube: Patrick Watkins](https://www.youtube.com/watch?v=wG-9BXBt3hU)
+
+
+#### Boomerang
+Boomerang, Wide boomerang, Infinite Boomerang  
+[Apprends le Boomerang - Tuto BARD 08 - Fpv Freestyle. YouTube: Bard Fpv](https://www.youtube.com/watch?v=O7_SbN4PV5M)
 
 #### [20 routines to improve your looρ abilities. YouTube: AuxPlumes](https://www.youtube.com/watch?v=tA7XWwtBn0Q)
