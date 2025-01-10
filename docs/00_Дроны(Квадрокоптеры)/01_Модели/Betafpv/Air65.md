@@ -11,6 +11,15 @@ Air65 FC: [Air Brushless Flight Controller](https://betafpv.com/products/air-bru
 Freestyle Version props: [HQ 31mm Ultralight 3-Blade Propellers (1.0mm Shaft)](https://betafpv.com/products/hq-31mm-ultralight-3-blade-propellers-1-0mm-shaft)  
 Racing Version props: [Gemfan 1219S 3-Blade Propellers (1.0mm Shaft)](https://betafpv.com/products/gemfan-1219s-3-blade-propellers-1-0mm-shaft)
 
+## VTX Table
+![](Air65ch_VTX_Table.png)
+
+## Bind
+Полетный контроллер имеет встроенный ELRS приемник подключен через `UART`.
+
+### [Перевод дрона в режим Bind](./../../../60_Bind/40_Режим_Bind_дрона_с_UART.md)
+
+### [Ввод Bind фразы на дроне](./../../../60_Bind/44_Bind_фраза_дрона_с_UART.md)
 
 ## Обзоры
 [Betafpv Air65 - дрон-электрон. YouTube: Петрокей](https://www.youtube.com/watch?v=JC9LpR21nRg)  
