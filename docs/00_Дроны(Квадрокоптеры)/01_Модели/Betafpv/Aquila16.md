@@ -15,9 +15,15 @@
 [Для дрона Aquila16](https://support.betafpv.com/hc/en-us/articles/24444068242329-Manual-for-Aquila16-Brushless-Quadcopter)
 
 ## Bind
+Полетный контроллер имеет встроенный ELRS приемник подключен через `UART`.
+
+### [Перевод дрона в режим Bind](./../../../60_Bind/40_Режим_Bind_дрона_с_UART.md)  
+
+[User Guide on Aquila16 FPV Kit - Including Binding and Battery Installation](https://www.youtube.com/watch?v=sVDAzZalURg)  
+
+### [Ввод Bind фразы на дроне](./../../../60_Bind/44_Bind_фраза_дрона_с_UART.md)
+
 [Aquila16 как подключить (забиндить) к другой аппаратуре и обратно. (бинд фраза)](https://www.youtube.com/watch?v=IUj-B8MIZGw)
-[
-User Guide on Aquila16 FPV Kit - Including Binding and Battery Installation](https://www.youtube.com/watch?v=sVDAzZalURg)  
 
 ## Решение проблемы дизарма в воздухе  
 [Новая прошивка на Aquila 16. YouTube: БПЛА Drone](https://www.youtube.com/watch?app=desktop&v=PDqRkcoW8BY)  
