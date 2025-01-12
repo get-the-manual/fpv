@@ -24,6 +24,12 @@
 ### Схема подключения оригинального бутерброда и альтернативы
 ![](VTX_Camera_FC_schema.jpg)
 
-### Крепление камеры и VTX под канопой от [Lex RES](https://t.me/meganoobe)
-![](UnderCanopa.jpg)
+### Крепление камеры и VTX под канопой
+
+От [Lex RES](https://t.me/meganoobe)
+![](Cetus_VTX_set1.jpg)
+
+От `Timofey`  
+![](Cetus_VTX_set2.jpg)
+
 
