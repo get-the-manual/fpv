@@ -8,7 +8,7 @@
 
 ## Программа для настройки дрона и аппы
 [BETAFPV Configurator](https://github.com/BETAFPV/BETAFPV_Configurator/releases)  
-Там две версии: `V2.0.0-RC2` и `V1.1.1-RC1`/ Нужно скачивать и ставить обе. Может оказаться что одна из них не будет работать с дроном или аппой, а вторая будет.
+Текущая рабочая версия: `V2.0.0.
 
 ## Инструкции
 [Для Aquila16 FPV Kit](https://support.betafpv.com/hc/en-us/articles/24444264493081-Manual-for-Aquila16-FPV-Kit)  
