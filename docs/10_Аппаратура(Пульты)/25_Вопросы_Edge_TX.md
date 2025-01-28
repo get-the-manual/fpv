@@ -12,6 +12,8 @@
 3. Покетрейт на 250 Гц без букв спереди  
 4. ADC фильтр отключить  
 
+## [EdgeTX - Complete Beginner Guide. YouTube: Joshua Bardwell](https://www.youtube.com/watch?v=CrXZO9HMGko&list=PLwoDb7WF6c8lhlzE6_iA2X50bk3pIYcbb)
+
 ## Прошивка ELRS передатчика
 [ExpressLRS.RU](https://expresslrs.ru/Manuals/Firmware/Transmitters/Flashing-internal-tx/)  
 [Updating Internal ExpressLRS Module](https://oscarliang.com/setup-radiomaster-pocket/#Updating-Internal-ExpressLRS-Module)
