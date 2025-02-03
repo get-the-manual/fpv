@@ -11,6 +11,8 @@
 
 [ЛУЧШАЯ СИСТЕМА для FPV ДРОНА - АНАЛОГ или ЦИФРА? DJI, Walksnail, HDZero. YouTube: recopter](https://www.youtube.com/watch?v=1AQI37pF4fw)
 
+[Заход в FPV в 2025 для новичка (2 года опыта)| Flywoo Flytimes 85 2S O4Pro. YouTube: Alexander Goncharov](https://www.youtube.com/watch?v=-tH1bS7eAF4)
+
 ## Другие ресурсы
 [Dron Docs. Cайт про FPV](https://propwashservice.ru/) 
  
