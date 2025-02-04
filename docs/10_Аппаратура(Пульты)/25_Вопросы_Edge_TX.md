@@ -14,6 +14,17 @@
 
 ## [EdgeTX - Complete Beginner Guide. YouTube: Joshua Bardwell](https://www.youtube.com/watch?v=CrXZO9HMGko&list=PLwoDb7WF6c8lhlzE6_iA2X50bk3pIYcbb)
 
+## На каком протоколе передатчик?
+В аппаратуре присутствует встроенный передатчик. Так же может быть присоединен внешний. Они могут быть на разных протоколах.  
+То, какой передатчик активен в данный момент времени, можно увидеть в настройки текущей модели.  
+Нажимаем кнопку `MODEL`. Попадаем в список моделей.  
+Нажимаем кнопку `PAGE >` и попадаем на страницу `SETUP` текущей модели.   
+Скроллим колесом до раздела `Internal RF`. Если там в строке `Mode` стоит `CRSF 5.25M`, значит это ELRS модуль.  
+Если в модели выбран внешний модуль, то в `Internal RF` будет стоять `OFF` и тогда нужно смотреть в разделе `External RF`.
+
+Также можно косвенно понять что активный в данный момент передатчик на ELRS.  
+Нажимаем кнопку `SYS`. Попадаем на первый экран `TOOLS`. Есть есть строчка `ExpressLRS`, то в аппе присутствует LUA скрипт для настройки ELRS передатчика. Скорее всего в аппе и стоит ELRS передатчик. Можно нажать на `ExpressLRS`. Если скрипт загрузится и будет доступно меню настройки, то в самом низу можно посмотреть версию прошивки ELRS.
+
 ## Прошивка ELRS передатчика
 [ExpressLRS.RU](https://expresslrs.ru/Manuals/Firmware/Transmitters/Flashing-internal-tx/)  
 [Updating Internal ExpressLRS Module](https://oscarliang.com/setup-radiomaster-pocket/#Updating-Internal-ExpressLRS-Module)
