@@ -4,20 +4,20 @@
 [Matty Flips Ruining Your Flow? Top 5 Exits & Entries to Fix Your Flow. YouTube: Patrick Watkins](https://www.youtube.com/watch?v=sQ9Ye0KOJuc)
 
 ### Входы
-6:11 Rewind. Ныряем под ворота, качелька назад.  
-6:54 180 Yaw Spin под воротами.  
-7:27 Reverse Split-S  
-8:19 Juicy Moonwalk (Split-S backward)    
-9:10 Trippy Spin  
+- 6:11 Rewind. Ныряем под ворота, качелька назад.  
+- 6:54 180 Yaw Spin под воротами.  
+- 7:27 Reverse Split-S  
+- 8:19 Juicy Moonwalk (Split-S backward)    
+- 9:10 Trippy Spin  
 
 
 ### Выходы
-1:12 Send it back over the top with a roll.  
-1:55 Rewind it.  
-3:01 Juicy Flick.  
-3:49 Flip to inverted yaw spin. Exit with roll/flip 180.  
-4:36 Power Loop.  
-Reverse Split-S under the gate, and again Reverse Split-S under the gate.
+- 1:12 Взлетаем опустив нос вниз и глядя на ворота.  Через Roll уходим в сторону.
+- 1:55 Rewind it.  
+- 3:01 Juicy Flick.  
+- 3:49 Flip to inverted yaw spin. Exit with roll/flip 180.  
+- 4:36 Power Loop.  
+- Reverse Split-S под ворота, опять Reverse Split-S под ворота.
 
 
 ## Разные связки
