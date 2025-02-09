@@ -18,6 +18,7 @@
 - 3:49 Flip to inverted yaw spin. Exit with roll/flip 180.  
 - 4:36 Power Loop.  
 - Reverse Split-S под ворота, опять Reverse Split-S под ворота.
+- Взлетаем опустив нос вниз, Roll 180, пауза, Roll -180
 
 
 ## Разные связки
