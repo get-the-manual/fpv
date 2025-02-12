@@ -65,7 +65,9 @@
 ## Использовние логических свичей (`Logical Switch`)
 [Логические свитчи или как настроить ARM на кнопку без фиксации (ARM on momentary switch). YouTube: ZhukoRama FPVlog (ZRFPV)](https://www.youtube.com/watch?v=y9OvhpLNMMs)
 
-[Озвучивание на пульте низкого заряда батареи на дроне](Озвучка_низкого_напряжения.md)
+[Озвучивание на пульте низкого заряда батареи на дроне](Озвучка_низкого_напряжения.md)  
+
+[Режим черепахи на кнопку SE](./10_Модели/10_Radiomaster/01_Pocket/05_Черепаха_на_SE.md)  
 
 ## Прошивка для аппаратуры EdgeTX
 [Официальный сайт](https://edgetx.org/)
@@ -81,6 +83,8 @@
 ## Поиск дрона по значению 1RSS
 Если на аппаратуре [настроить телеметрию](40_Настройка_телеметрии.md) и вывести значение 1RSS, то можно искать дрон, ориентируясь по значению. Как в игре "холодно, горячо".  
 Подробнее можно узнать в видео [Never lose a model again with this ExpressLRS trick (so long as you're getting telemetry!)](https://www.youtube.com/watch?v=ARJ7Vomnczw) 
+
+## [Как настроить профили ELRS в EdgeTX. YouTube: DRONOFLY FPV](https://www.youtube.com/watch?v=CExl7LSWQbc)
 
 ## Изменение голосовой озвучки
 [Adding sounds to your EdgeTX SD Card / No sounds after upgrading to EdgeTX](https://www.youtube.com/watch?v=jZ29qmtMSyU)  
