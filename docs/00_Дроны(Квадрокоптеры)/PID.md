@@ -7,9 +7,7 @@
 
 ## PID для чайников от Mustfly
 [О настройке PID простыми словами. Часть 1](https://www.youtube.com/watch?v=aLAsaDUWzuc)  
-
 [Часть 2. Дружище, ты в порядке?](https://www.youtube.com/watch?v=YZBem_4jWSQ)  
-
 [Часть 3. Настраиваем PID контроллер](https://www.youtube.com/watch?v=zGu1mwwVEm8)  
 [Базовая настройка PID в Betaflight](https://www.youtube.com/watch?v=KkFfeIvJPjI)
 
