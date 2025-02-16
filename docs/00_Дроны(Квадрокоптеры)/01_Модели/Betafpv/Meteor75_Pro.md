@@ -4,6 +4,8 @@
 
 [METEOR 75 PRO МНЕНИЕ О ВУПЕ. YouTube: АквариуМИСТИКА FPV](https://www.youtube.com/watch?v=2zEOoNoXRAQ)  
 
+[Meteor75 Pro vs Air75: Which TinyWhoop is Right for You? YouTube: NordFPV](https://www.youtube.com/watch?v=sfPQj4Wa40Y)
+
 ## Bind
 Полетный контроллер имеет встроенный ELRS приемник подключен через `UART`.
 
