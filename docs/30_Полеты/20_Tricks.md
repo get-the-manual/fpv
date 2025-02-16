@@ -9,6 +9,7 @@
 
 [Fpv Freestyle - 14 TRICKS IN 10 min. YouTube: Bard Fpv](https://www.youtube.com/watch?v=H0kxJqmjbgE)  
 [Fpv Freestyle - 11 FPV TRICKS Vol 2. YouTube: Bard Fpv](https://www.youtube.com/watch?v=2mZuCbVaWpc)  
+[Ultimate Compilation Fpv Freestyle Tricks Débutant. YouTube: Bard Fpv](https://www.youtube.com/watch?v=MjvcWIFAg9o)
 
 [I Asked ChatGPT for the 10 Most Difficult FPV Drone Tricks, YouTube: 
 Patrick Watkins](https://www.youtube.com/watch?v=vYaq1cCAjTs)  
