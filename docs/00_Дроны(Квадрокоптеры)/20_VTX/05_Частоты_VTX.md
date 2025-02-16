@@ -1,6 +1,6 @@
 # Частоты передачи видео
 
-## Таблица каналов Betaflight
+## Таблица каналов в Betaflight Configurator
 ![](ChannelsTable.jpg)
 
 ## Упрощенная диаграмма частот
