@@ -28,7 +28,9 @@
 ## Установка и настройка
 [Cetus X GPS module installation. YouTube: Mustikkakeitto](https://www.youtube.com/watch?v=C2e9Owgp-a8)  
 
-[Как настроить GPS на FPV дроне - возврат домой, FAILSAFE, RESCUE в BETAFLIGHT 4.5ю YouTube: recopter](https://www.youtube.com/watch?v=l4f07dlX5eQ)  
+[Как настроить GPS на FPV дроне - возврат домой, FAILSAFE, RESCUE в BETAFLIGHT 4.5. YouTube: recopter](https://www.youtube.com/watch?v=l4f07dlX5eQ)  
+
+[ИДЕАЛЬНАЯ НАСТРОЙКА FAILSAFE и GPS RESCUE в BETAFLIGHT | Практическое руководство](https://www.youtube.com/watch?v=ybucv4Lv9Uc)  
 
 [Подключаем GPS к FPV, ViFly GPS mate, ost, телеметрия на апе. YouTube: Петрокей](https://www.youtube.com/watch?v=AULG-AP712E)  
 [VIFLY GPS-Mate 3.7V 50mAh LIPO Exclusive Power Module with Built-in Lost Drone Alarm](https://vi.aliexpress.com/item/1005003676846838.html)
