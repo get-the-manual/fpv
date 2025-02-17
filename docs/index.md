@@ -20,6 +20,9 @@
  
 [YouTube канал Recopter](https://www.youtube.com/@recopter)  
 
+[YouTube канал Chris Rosser](https://www.youtube.com/@ChrisRosser)  
+[Сайт где Chris Rosser тестирует и сравнивает разное железо](https://www.aos-rc.com/aos-labs)  
+
 [FPV Know-It-All - The Ultimate FPV Shopping List by Joshua Bardwell](https://www.fpvknowitall.com/ultimate-fpv-shopping-list/)
 
 https://t.me/FPVequipment  
