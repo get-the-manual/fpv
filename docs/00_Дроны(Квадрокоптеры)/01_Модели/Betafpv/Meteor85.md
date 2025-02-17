@@ -22,3 +22,16 @@
 ### [Перевод дрона в режим Bind](./../../../60_Bind/50_Режим_Bind_дрона_с_SPI.md)
 
 ### [Ввод Bind фразы на дроне](./../../../60_Bind/54_Bind_фраза_дрона_с_SPI.md)
+
+## Крепление антенны от Eugenius Makhorin
+![](Meteor85_Antenna_mount.jpg)
+
+## Печатная канопа с креплением Runcam Thumb от V8787
+[Файл для 3D печати](Meteor_85_canopa.stl)  
+![](Meteor85_canopa1.jpg)  
+![](Meteor85_canopa2.jpg)  
+![](Meteor85_canopa3.jpg)  
+
+## 3D модель крепления антенны, пищалки или конденсатора
+[Betafpv meteor85 active buzzer or capacitor mount](https://www.thingiverse.com/thing:6186817)  
+![](Meteor85_buzzer_mount.png)
