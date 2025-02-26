@@ -31,3 +31,5 @@ Racing Version props: [Gemfan 1219S 3-Blade Propellers (1.0mm Shaft)](https://be
 [Testing and Tuning the NEW BETAFPV Air65. YouTube: Chris Rosser](https://www.youtube.com/watch?v=N6B7GpprVBI)  
 
 [Mobula6 vs BetaFPV AIR65: Ultimate Tiny Whoop Showdown for 2024 | TrickyFPV](https://www.youtube.com/watch?v=hAr059pClBg)
+
+[New BetaFPV Air65 + Tinywhoop 300mah UPDATES +(Giveaway). YouTube: Infinity Loops](https://www.youtube.com/watch?v=PJTh98q0fgg)
