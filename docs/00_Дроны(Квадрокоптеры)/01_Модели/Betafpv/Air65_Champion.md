@@ -9,7 +9,7 @@ Air65 Champion Edition FC: [Matrix 1S Brushless Flight Controller](https://betaf
 [Battery LAVA 1S 300mAh 75C Battery](https://betafpv.com/products/lava-1s-300mah-75c-battery-5pcs?variant=40374765387910)   
 Motor [0702 II|30000KV (dual ball bearings)](https://betafpv.com/collections/brushless-motors/products/0702-brushless-motors?variant=40175488237702)  
 
-![](Comparison.png)
+![](Meteor65_Air65_Comparison.png)
 
 ## VTX Table
 ![](Air65ch_VTX_Table.png)
