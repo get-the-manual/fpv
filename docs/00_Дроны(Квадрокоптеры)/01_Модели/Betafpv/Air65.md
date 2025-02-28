@@ -11,6 +11,8 @@ Air65 FC: [Air Brushless Flight Controller](https://betafpv.com/products/air-bru
 Freestyle Version props: [HQ 31mm Ultralight 3-Blade Propellers (1.0mm Shaft)](https://betafpv.com/products/hq-31mm-ultralight-3-blade-propellers-1-0mm-shaft)  
 Racing Version props: [Gemfan 1219S 3-Blade Propellers (1.0mm Shaft)](https://betafpv.com/products/gemfan-1219s-3-blade-propellers-1-0mm-shaft)
 
+![](Meteor65_Air65_Comparison.png)
+
 ## VTX Table
 ![](Air65ch_VTX_Table.png)
 

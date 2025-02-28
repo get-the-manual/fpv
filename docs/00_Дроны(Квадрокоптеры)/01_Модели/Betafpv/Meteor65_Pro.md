@@ -7,6 +7,7 @@
 [Gemfan 35mm 3-Blade Propellers (1.0mm Shaft 4PCS)](https://betafpv.com/products/gemfan-35mm-3-blade-propellers-1-0mm-shaft-4pcs?variant=39586100052102)  
 [Gemfan 35mmS-2 35mm 2-Blade Propeller 1mm](https://vi.aliexpress.com/item/1005007922211102.html)  
 
+![](Meteor65_Air65_Comparison.png)
 
 ## Bind
 Полетный контроллер имеет встроенный ELRS приемник подключен через `UART`.
