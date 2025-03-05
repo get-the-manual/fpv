@@ -11,6 +11,10 @@
 [Fpv Freestyle - 11 FPV TRICKS Vol 2. YouTube: Bard Fpv](https://www.youtube.com/watch?v=2mZuCbVaWpc)  
 [Ultimate Compilation Fpv Freestyle Tricks Débutant. YouTube: Bard Fpv](https://www.youtube.com/watch?v=MjvcWIFAg9o)
 
+[+70 Freestyle tricks ( Simulator ) 2019. YouTube: AuxPlumes](https://www.youtube.com/watch?v=yVmR9wyIrpc)
+
+[FPV Freestyle Tricks - 3 Levels of Rewinds. YouTube: FlowPV](https://www.youtube.com/watch?v=GHwKQtJ5w5E)
+
 [I Asked ChatGPT for the 10 Most Difficult FPV Drone Tricks, YouTube: 
 Patrick Watkins](https://www.youtube.com/watch?v=vYaq1cCAjTs)  
 - Corkscrew  
