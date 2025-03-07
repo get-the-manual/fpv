@@ -2,17 +2,21 @@
 
 ## [EdgeTX User Manual](https://manual.edgetx.org/)
 
-## Первичная настройка аппаратуры на Edge TX 
-<font color="red">**Видео от Валентины.**</font>    
-[Гайд для начинающих: как настроить аппаратуру на EdgeTx [Radiomaster Boxer ELRS]. YouTube: PropWash Service](https://www.youtube.com/watch?v=wU67j2G5Ibg)
+## Настройка аппаратуры на Edge TX 
 
+### Кратко
 От @Konstantin_Gr  
 1. Выбираешь модель: фпв дрон.  
 2. Включаешь внутренний приёмник  
 3. Покетрейт на 250 Гц без букв спереди  
 4. ADC фильтр отключить  
 
-## [EdgeTX - Complete Beginner Guide. YouTube: Joshua Bardwell](https://www.youtube.com/watch?v=CrXZO9HMGko&list=PLwoDb7WF6c8lhlzE6_iA2X50bk3pIYcbb)
+### <font color="red">**Видео от Валентины.**</font>    
+[Гайд для начинающих: как настроить аппаратуру на EdgeTx [Radiomaster Boxer ELRS]. YouTube: PropWash Service](https://www.youtube.com/watch?v=wU67j2G5Ibg)
+
+### [EdgeTX - Complete Beginner Guide. YouTube: Joshua Bardwell](https://www.youtube.com/watch?v=CrXZO9HMGko&list=PLwoDb7WF6c8lhlzE6_iA2X50bk3pIYcbb)
+
+### [Повний курс по всім налаштуванням радіопередавача на EdgeTX/OpenTX/FreedomTX. YouTube: SMAKADRON (укр.)](https://www.youtube.com/watch?v=Hu2xjAXTtSA)
 
 ## На каком протоколе передатчик?
 В аппаратуре присутствует встроенный передатчик. Так же может быть присоединен внешний. Они могут быть на разных протоколах.  
@@ -90,6 +94,8 @@
 ## [Как настроить профили ELRS в EdgeTX. YouTube: DRONOFLY FPV](https://www.youtube.com/watch?v=CExl7LSWQbc)
 
 ## Изменение голосовой озвучки
+
+### Русский язык
 [Adding sounds to your EdgeTX SD Card / No sounds after upgrading to EdgeTX](https://www.youtube.com/watch?v=jZ29qmtMSyU)  
 
 Здесь много языковых файлов:  
@@ -99,5 +105,5 @@
 Заходим на сайт с нейронкой, например, [play.ht](https://play.ht/), выбираеv голос, пишешь фразу и сохраняешь, потом конвертируеv в 32 килогерца 16 бит, моно и сохраняем.  
 Имя файла нужно дать такое как и у того файла, озвучку которого заменяем.
 
-## [Українізація OpenTX - EDGE - FreedomTX 13:08](https://youtu.be/4y8Xvei-NMk?si=_DWQJWdCbDi6c_b2&t=788)
+##№ [Українізація OpenTX - EDGE - FreedomTX 13:08](https://youtu.be/4y8Xvei-NMk?si=_DWQJWdCbDi6c_b2&t=788)
 [Посилання на Google Disk](https://drive.google.com/drive/folders/1qzFfbYw4vBnAh9kmXtYUbzmgwg7lizD0)
