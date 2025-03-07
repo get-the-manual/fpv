@@ -23,4 +23,6 @@ Outside the EU, you can use the fully functional FCC version without any restric
 ## Прошивка приемников и передатчиков
 Процесс обновления прошивки в приемниках – это важная процедура, позволяющая пользователям адаптировать оборудование под конкретные стандарты. Следует отметить, что прошивка приемника должна соответствовать прошивке передатчика. К примеру, приемник с EU LBT прошивкой не будет совместим с передатчиком на прошивке FCC.
 
+[Ссылка на источник](https://modelistam.com.ua/standarty-fcc-lbt-a-294/)
+
 При прошивки можно указать `FCC` или `LBT`. Подробнее можно прочитать в этой статье в разделе [Updating Internal ExpressLRS Module](https://oscarliang.com/setup-radiomaster-pocket/#Updating-Internal-ExpressLRS-Module)
