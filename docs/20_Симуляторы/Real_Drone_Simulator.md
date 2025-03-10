@@ -1,5 +1,5 @@
 # Real Drone Simulator
-[Jawbfkmysq cfqn](https://www.realdronesimulator.com/)  
+[Официальный сайт](https://www.realdronesimulator.com/)  
 Скачать можно прямо на сайте.  
 **БЕСПЛАТНЫЙ!!!**
 
