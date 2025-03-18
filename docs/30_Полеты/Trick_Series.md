@@ -1,4 +1,15 @@
-# Связки трюков
+# Последовательности и комбинация трюков
+
+[Linking Tricks FEAT. PDEVX - Trick Series. YouTube: Rotor Riot](https://www.youtube.com/watch?v=7ZXll22kJxk)  
+
+## Базовые
+
+Snapback => Reverse Split-S => Immelmann Turn  
+
+Reverse Split-S => Trippy Spin
+
+Заход на Trippy Spin и выход 
+
 
 ## Входы и выход из Matty Flip
 [Matty Flips Ruining Your Flow? Top 5 Exits & Entries to Fix Your Flow. YouTube: Patrick Watkins](https://www.youtube.com/watch?v=sQ9Ye0KOJuc)
@@ -32,6 +43,7 @@
 1. Залетая под балку Snapback,  
 продолжаем крутить ролл, под балку с Reverse Split-S
 можно продолжить, сделав задом Snapback
+можно продолжить Yaw 180
 0:06 
 
 2. Juicy Flick над балкой, 

@@ -22,8 +22,6 @@ Patrick Watkins](https://www.youtube.com/watch?v=vYaq1cCAjTs)
 - Superman Flip  
 - Khalifa Loop  
 
-## Последовательности и комбинация трюков
-[Linking Tricks FEAT. PDEVX - Trick Series. YouTube: Rotor Riot](https://www.youtube.com/watch?v=7ZXll22kJxk)  
 
 ## [YouTube канал headmazta](https://www.youtube.com/@headmazta)   
 Большое количество коротких роликов с подробным пошаговым обучением различных трюков.  
@@ -32,8 +30,6 @@ Patrick Watkins](https://www.youtube.com/watch?v=vYaq1cCAjTs)
 [FPV Trick Tutorials - BEGINNER](https://www.youtube.com/playlist?list=PLj23ZLg5V56prLy-r3-GVd_9wBU4iVC7H)  
 [FPV Trick Tutorials - INTERMEDIATE](https://www.youtube.com/playlist?list=PLj23ZLg5V56qvExRVYQkBq6bUsJjwHQqZ)  
 [FPV Trick Tutorials - ADVANCED](https://www.youtube.com/playlist?list=PLj23ZLg5V56q99molL1nY1XVa0j42cnzl)  
-
-## [Trick Series. YouTube: Rotor Riot](https://www.youtube.com/playlist?list=PLXKJ80BTT1lb_kGy8HIkMx2hVgZA-VbKP)
 
 ## [Telegram channel 'FPV Tricks'](https://t.me/fpv_tricks)
 
@@ -86,7 +82,7 @@ Patrick Watkins](https://www.youtube.com/watch?v=vYaq1cCAjTs)
 [Apprends le Dolphin Dive - Fpv Freestyle. YouTube: Bard Fpv](https://www.youtube.com/watch?v=X3eSvNI12HE)  
 
 #### Barani
-[FPV Trick Tutorial - BARANI YouTube: Patrick Watkins](https://www.youtube.com/watch?v=guEXMMV3TSo)
+[FPV Trick Tutorial - BARANI. YouTube: Patrick Watkins](https://www.youtube.com/watch?v=guEXMMV3TSo)
 
 #### Rubik's Cube
 [Як робити Rubik's Cube. YouTube: FlyingCat](https://www.youtube.com/shorts/Ioo8-RNfXy0)
@@ -102,9 +98,12 @@ Patrick Watkins](https://www.youtube.com/watch?v=vYaq1cCAjTs)
 #### Side Rewind
 [Side Rewind - You're Doing it WRONG! FPV Drone Trick Tutorial. YouTube: Patrick Watkins](https://www.youtube.com/watch?v=wG-9BXBt3hU)
 
-
 #### Boomerang
 Boomerang, Wide boomerang, Infinite Boomerang  
 [Apprends le Boomerang - Tuto BARD 08 - Fpv Freestyle. YouTube: Bard Fpv](https://www.youtube.com/watch?v=O7_SbN4PV5M)
 
-#### [20 routines to improve your looρ abilities. YouTube: AuxPlumes](https://www.youtube.com/watch?v=tA7XWwtBn0Q)
+#### Reverse Wall Ride
+[FPV Trick Tutorial - REVERSE WALL RIDE. YouTube: Patrick Watkins](https://www.youtube.com/watch?v=RsqibmwzpqA)
+
+
+### [20 routines to improve your looρ abilities. YouTube: AuxPlumes](https://www.youtube.com/watch?v=tA7XWwtBn0Q)
