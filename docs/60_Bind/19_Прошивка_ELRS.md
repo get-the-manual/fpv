@@ -1,5 +1,7 @@
 # Прошивка ELRS приемника/передатчика
 
+## [ExpressLRS Web Flasher](https://expresslrs.github.io/web-flasher/)
+
 ## Прошивка внутренних передатчиков
 [expresslrs.ru](https://expresslrs.ru/Manuals/Firmware/Transmitters/Flashing-internal-tx/)    
 [Easiest Way To Flash and Bind ExpressLRS. YouTube: Joshua Bardwell](https://www.youtube.com/watch?v=MFFUsN9ZHSU)  
