@@ -81,8 +81,9 @@ Patrick Watkins](https://www.youtube.com/watch?v=vYaq1cCAjTs)
 [How To Juicy Flick an FPV Drone For Beginner and Advanced Pilots, An In-Depth Look](https://www.youtube.com/watch?v=tbem8fUPPxU)  
 
 #### Dolphin Dive
-[FPV Trick Tutorial - DOLPHIN DIVE](https://www.youtube.com/watch?v=WuSz_mIioqE)  
-[Which level can you reach?](https://www.youtube.com/shorts/GCQNPSjebIE)  
+[FPV Trick Tutorial - DOLPHIN DIVE. YouTube: Patrick Watkins](https://www.youtube.com/watch?v=WuSz_mIioqE)  
+[Which level can you reach?. YouTube: Patrick Watkins](https://www.youtube.com/shorts/GCQNPSjebIE)  
+[Apprends le Dolphin Dive - Fpv Freestyle. YouTube: Bard Fpv](https://www.youtube.com/watch?v=X3eSvNI12HE)  
 
 #### Barani
 [FPV Trick Tutorial - BARANI YouTube: Patrick Watkins](https://www.youtube.com/watch?v=guEXMMV3TSo)
