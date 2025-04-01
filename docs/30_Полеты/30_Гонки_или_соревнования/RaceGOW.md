@@ -1,9 +1,5 @@
-# IGOW и RaceGOW
+# RaceGOW
 
-## IGOW
-[YouTube канал IGOW: International Game of WHOOP](https://www.youtube.com/@FPVSkittles/)
-
-## RaceGOW
 [What Is RaceGOW? Bardwell Is Competing! - FPV Questions. YouTube: Joshua Bardwell](https://www.youtube.com/watch?v=fqmBZYIu9LE)
 
 RaceGOW (Race Game of Whoops) - это онлайн соревнование на вупах. С определенной периодичностью выкладывается видео с инструкцией построения трассы. Каждый желающий строит трассу у себя дома и может по ней летать и тренироваться. Можно просто для себя, а можно и принять участие в соревновании. Для этого нужно зарегистрироваться на сайте и потом записывать видео своих полетов, выкладывать в YouTube и отправлять организаторам ссылку. За лучшие пролеты дают призы.
@@ -21,7 +17,7 @@ RaceGOW (Race Game of Whoops) - это онлайн соревнование н�
 
 
 
-### RaceGOW3
+## RaceGOW3
 [Из канала LeshaRodin FPV](https://t.me/FPVSHIT/532):
 
 Открыта [регистрация на #RaceGow 3](https://youtu.be/38HZa-dr90o)  
@@ -42,7 +38,7 @@ RaceGOW (Race Game of Whoops) - это онлайн соревнование н�
 Основной зачет идет на 1s вупах до 85мм, но дома в целом комфортнее всего на 65 1s в любом случае, есть также и hd и open классы с меньшими ограничениями, а также все треки будут в [Velocidrone](https://velocidrone.co.uk/). Желательно купить и аддон с Tinywhoop.  
 Если летать в VelociDrone FPV Simulator, то лучше в режиме Nemesis. Тогда будут видны трассы близких по времени соперников.
 
-#### Track1
+### Track1
 [RaceGOW3 Track1](https://www.youtube.com/watch?v=fNKNY7rtGjI)  
 [Leaderboard в Velocidrone](https://velocidrone.co.uk/leaderboard/42/1584/All)
 
@@ -50,7 +46,7 @@ RaceGOW (Race Game of Whoops) - это онлайн соревнование н�
 
 [RaceGOW3 Track3](https://www.youtube.com/watch?v=Ys2NeVkt23w)
 
-### RaceGOW2
+## RaceGOW2
 [RaceGOW2 Track1](https://www.youtube.com/watch?v=Y0apC4zXNHE)  
 [RaceGOW2 Track2](https://www.youtube.com/watch?v=Zx6jlNR8veA)  
 [RaceGOW2 Track3](https://www.youtube.com/watch?v=_AZxRec6hM4)  
