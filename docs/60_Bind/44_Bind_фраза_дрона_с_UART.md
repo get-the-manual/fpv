@@ -13,7 +13,7 @@
  - Ищем  WiFi сеть с именем  `ExpressLRS RX` и коннектимся с паролем `expresslrs`  
  - Идем браузером по адресу http://10.0.0.1  
  - На этой странице можно посмотреть версию прошивки:  
-![](ELRS_RX_Version.png) 
+![](ELRS_RX_Version.png)  
  - Вводим значение в поле `Binding Phrase`  
  - Нажимаем `Save`  
 
