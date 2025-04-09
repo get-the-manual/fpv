@@ -5,6 +5,8 @@
 ## Статьи
 [Что такое PID, на что влияет и как настроить - Все о квадрокоптерах - PROFPV.RU](https://profpv.ru/chto-takoe-pid-na-chto-vliyaet-i-kak-nastroit/)
 
+[How to Tune FPV Drone Filters & PID with Blackbox (PIDToolBox & Blackbox Explorer Guide) - oscarliang.com](https://oscarliang.com/pid-filter-tuning-blackbox/)
+
 ## PID для чайников от Mustfly
 [О настройке PID простыми словами. Часть 1](https://www.youtube.com/watch?v=aLAsaDUWzuc)  
 [Часть 2. Дружище, ты в порядке?](https://www.youtube.com/watch?v=YZBem_4jWSQ)  
