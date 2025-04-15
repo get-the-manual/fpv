@@ -1,4 +1,4 @@
-# BETAFPV LiteRadio 2, 2SE, 3
+		# BETAFPV LiteRadio 2, 2SE, 3
 
 [LiteRadio 2 SE. Страница на сайте производителя](https://betafpv.com/collections/tx/products/literadio-2-se-radio-transmitter)  
 [LiteRadio 3. Страница на сайте производителя](https://betafpv.com/collections/tx/products/literadio-3-radio-transmitter)  
@@ -73,7 +73,8 @@ YouTube: IRONQUAD](https://www.youtube.com/watch?v=5UcZ9E8DDoE)
 ![](LR3_Repl_10.jpg)  
 
 ## Проблемы со стиками
-[Проблема с дрожанием стиков на потенциометрах][sticks_repair]  
+[Проблема с дрожанием стиков на потенциометрах](02_Ремонт_стиков.md)  
+
 [Ремонт BetaFPV LiteRadio 3 после падения](https://dzen.ru/a/Zaz-SmWVr2TlJhph)
 
 ### Проблема при большом значении газа LiteRadio 3
