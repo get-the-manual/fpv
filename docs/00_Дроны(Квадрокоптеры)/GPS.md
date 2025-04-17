@@ -67,3 +67,8 @@ GPS modules can be used for two quite different purposes:
 Поэтому пересадил управление VTX на софтсириал, а GPS повесил на освободившейся от VTX порт UART.
 
 Про SoftSerial можно посмотреть тут: [Tutorial: Betaflight Softserial](https://www.youtube.com/watch?v=7b_ltNHvuvk)
+
+## Position Hold, Altitude Hold
+[Утримання позиції на FPV дроні по GPS. Betaflight 4.6 Прошивка, налаштування і тести. YouTube: Є-Дрон (укр.)](https://www.youtube.com/watch?v=VrKpEzWQol0)
+
+
