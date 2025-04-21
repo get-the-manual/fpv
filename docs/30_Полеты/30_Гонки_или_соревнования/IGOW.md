@@ -38,10 +38,13 @@
 [Список участников тут](https://bit.ly/IGOW5Players)
 
 ### Challenge #0
-[Velocidrone FPV Flight Fundamentals: IGOW5 Preseason Training Grounds Challenge #0](https://www.youtube.com/watch?v=WkIlK5aMJpU)  
-Краткое содержание:  
+[IGOW5 Preseason Training Grounds Challenge #0](https://www.youtube.com/watch?v=WkIlK5aMJpU)  
 Самое важное в первых 4-х минутах. Объясняются 3 задания: для новичков, тех кто по опытнее и еще более опытных.  
-Потом болтовня, реклама Velocidrone.  
-Дальше Скиттлс идет в парк, еще раз выполняет первые два задания. Потом идет в гараж и выполняет третье.  
-
 Задания опциональные. Срок выполнения 19-е апреля 2025
+
+### Challenge #1
+[IGOW5 Preseason Training Grounds Challenge #1](https://www.youtube.com/watch?v=6QYzsyfZjNM)  
+Самое важное в первых 4-х минутах. Объясняются 3 задания: для новичков, тех кто по опытнее и еще более опытных.  
+Задания опциональные. Срок выполнения 26-е апреля 2025
+
+
