@@ -31,6 +31,8 @@ Betaflight 4.4.x идет с ELRS 3.x.x
 ## Статьи и видео
 [ExpressLRS - взгляд изнутри. Принципы, алгоритмы, форматы... Youtube: Petrokey](https://www.youtube.com/watch?v=WoXPkvHTBi4)  
 
+[ELRS Complete Beginner Guide 2025. YouTube: Joshua Bardwell](https://www.youtube.com/watch?v=N0ajKoef3qs)
+
 [Всё про ELRS (dzen.ru)](https://dzen.ru/a/ZiC61ueuLzUoSm3_)  
 
 [Сайт по ELRS от Алексея Родина](https://expresslrs.ru/)

@@ -24,3 +24,5 @@
 [О том что такое PID и рейты, как настроить ПИДы? YouTube: WARPfly](https://www.youtube.com/watch?v=Rnytz89bVss)
 
 [КАК НАСТРОИТЬ FPV ДРОН - PID и ФИЛЬТРЫ для НОВИЧКОВ - Betaflight 4.4. YouTube: recopter](https://www.youtube.com/watch?v=X5IRArDcGx8)
+
+[Налаштування фільтрів FPV в Betaflight від #SocialDroneUA (укр.)](https://www.youtube.com/watch?v=Wlc4EoptGGk)
