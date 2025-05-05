@@ -85,7 +85,9 @@
 
 [User Manual for Monochrome Screen Radios with EdgeTX](https://github.com/EdgeTX/edgetx-user-manual/tree/2.7/b-and-w-radios)
 
-[Manual for OpenTX 2.2](https://doc.open-tx.org/manual-for-opentx-2-2)
+[Manual for OpenTX 2.2](https://doc.open-tx.org/manual-for-opentx-2-2)  
+
+[Оновлення прошивки Edge TX Centurion 2.10.6 на Radiomaster Boxer. YouTube: Жвавий Дрон (укр.)](https://www.youtube.com/watch?v=tTAflDUA30M)
 
 ## Поиск дрона по значению 1RSS
 Если на аппаратуре [настроить телеметрию](40_Настройка_телеметрии.md) и вывести значение 1RSS, то можно искать дрон, ориентируясь по значению. Как в игре "холодно, горячо".  
