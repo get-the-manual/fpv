@@ -8,8 +8,7 @@ Snapback => Reverse Split-S => Immelmann Turn
 
 Reverse Split-S => Trippy Spin
 
-Заход на Trippy Spin и выход 
-
+Juicy Flick + Power Loop
 
 ## Входы и выход из Matty Flip
 [Matty Flips Ruining Your Flow? Top 5 Exits & Entries to Fix Your Flow. YouTube: Patrick Watkins](https://www.youtube.com/watch?v=sQ9Ye0KOJuc)
