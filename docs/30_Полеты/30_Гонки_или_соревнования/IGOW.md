@@ -37,21 +37,59 @@
 [Регистрация тут](https://docs.google.com/forms/d/e/1FAIpQLSdYRaHYyD5K8a4agzNA4DkbpwWwu-vnOILIGNzA_ekEvV13Ug/viewform)  
 [Список участников тут](https://bit.ly/IGOW5Players)
 
-### Challenge #0
+### Training Ground Challenge #0
 [IGOW5 Preseason Training Grounds Challenge #0](https://www.youtube.com/watch?v=WkIlK5aMJpU)  
-Самое важное в первых 4-х минутах. Объясняются 3 задания: для новичков, тех кто по опытнее и еще более опытных.  
-Задания опциональные. Срок выполнения 19-е апреля 2025
 
-### Challenge #1
+[Beginner](https://www.youtube.com/shorts/xKC_Qjs3fKg)  
+![](IGOW5_TG0_b.png)
+
+[Intermediate](https://www.youtube.com/shorts/sg_jjx3Jblw)  
+![](IGOW5_TG0_i.png)
+
+[Advanced](https://www.youtube.com/shorts/Mf7GHdbpOiQ)  
+![](IGOW5_TG0_a.png)
+
+### Training Ground Challenge #1
 [IGOW5 Preseason Training Grounds Challenge #1](https://www.youtube.com/watch?v=6QYzsyfZjNM)  
-Самое важное в первых 4-х минутах. Объясняются 3 задания: для новичков, тех кто по опытнее и еще более опытных.  
-Задания опциональные. Срок выполнения 26-е апреля 2025
 
-### Challenge #2
-[ IGOW5 Preseason Training Grounds Challenge #2](https://www.youtube.com/watch?v=1_BIrUA2g1c)  
-Самое важное в первых 4-х минутах. Объясняются 3 задания: для новичков, тех кто по опытнее и еще более опытных.  
-Задания опциональные. Срок выполнения 3-е мая 2025
-Дальше очень подробно объясняется как делать Split-S и Immelmann Turn
+[Beginner](https://www.youtube.com/shorts/jQUpjdQxzNM)  
+![](IGOW5_TG1_b.png)
 
+[Intermediate](https://www.youtube.com/shorts/Aq9FV3X-4-0)  
+![](IGOW5_TG1_i.png)
 
+[Advanced](https://www.youtube.com/shorts/eW1aKY9XZI4)  
+![](IGOW5_TG1_a.png)
+
+### Training Ground Challenge #2
+[IGOW5 Preseason Training Grounds Challenge #2](https://www.youtube.com/watch?v=1_BIrUA2g1c)  
+
+[Beginner](https://www.youtube.com/shorts/eJdQvWuXHcE)  
+![](IGOW5_TG2_b.png)
+
+[Intermediate](https://www.youtube.com/shorts/FlCkrsTnLbY)  
+![](IGOW5_TG2_i.png)
+
+[Advanced](https://www.youtube.com/shorts/dEKlGknFd44)  
+![](IGOW5_TG2_a.png)
+
+### Training Ground Challenge #3
+[Beginner](https://www.youtube.com/shorts/aqc03ejHS34)  
+![](IGOW5_TG3_b.png)
+
+[Intermediate](https://www.youtube.com/shorts/B3BJ_tAECZ4)  
+![](IGOW5_TG3_i.png)
+
+[Advanced](https://www.youtube.com/shorts/VwyVdXg7XJE)  
+![](IGOW5_TG3_a.png)
+
+### Training Ground Challenge #4
+[Beginner](https://www.youtube.com/shorts/7FkKd9QnmpE)  
+![](IGOW5_TG4_b.png)
+
+[Intermediate](https://www.youtube.com/shorts/3mhypVmMCcg)  
+![](IGOW5_TG4_i.png)
+
+[Advanced](https://www.youtube.com/shorts/PZnyjs0xyFA)  
+![](IGOW5_TG4_a.png)
 
