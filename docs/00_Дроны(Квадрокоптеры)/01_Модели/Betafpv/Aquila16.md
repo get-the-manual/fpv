@@ -28,6 +28,11 @@
 ## Решение проблемы дизарма в воздухе  
 [Новая прошивка на Aquila 16. YouTube: БПЛА Drone](https://www.youtube.com/watch?app=desktop&v=PDqRkcoW8BY)  
 
+## Видео от Alex Dark
+[Aquilla 16 Kit FPV дрон для начинающих. Проблемы и особенности эксплуатации.](https://www.youtube.com/watch?v=pDoivglHIw0)  
+[Улучшаем видео на квадрокоптере Aquilla 16 - Замена штатной камеры.](https://www.youtube.com/watch?v=raeuKodLCjs)  
+[Aquilla 16 - сгорел полетный контроллер! Меняем на Betaflight.](https://www.youtube.com/watch?v=Qj4eTH4MT7o)  
+
 ## Мнение пользователя @three_sss
 Всем привет. Aquila16, мой первый дрон. Отзыв о самом дроне, опыт использования и доработки по замене камеры. Может кому будет полезно.
 
