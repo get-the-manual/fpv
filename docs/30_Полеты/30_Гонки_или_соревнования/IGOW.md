@@ -93,3 +93,13 @@
 [Advanced](https://www.youtube.com/shorts/PZnyjs0xyFA)  
 ![](IGOW5_TG4_a.png)
 
+### Training Ground Challenge #5
+[Beginner](https://www.youtube.com/shorts/AgZGN-JXcAk)  
+![](IGOW5_TG5_b.png)
+
+[Intermediate](https://www.youtube.com/shorts/BkaIfOcX3c8)  
+![](IGOW5_TG5_i.png)
+
+[Advanced](https://www.youtube.com/shorts/LrKNQR1SRUo)  
+![](IGOW5_TG5_a.png)
+
