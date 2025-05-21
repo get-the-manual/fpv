@@ -8,18 +8,22 @@
 
 ## Программа для настройки дрона и аппы
 [BETAFPV Configurator](https://github.com/BETAFPV/BETAFPV_Configurator/releases)  
-Текущая рабочая версия: `V2.0.0.
+Текущая рабочая версия: `V2.0.0`.
 
 ## Инструкции
 [Для Aquila16 FPV Kit](https://support.betafpv.com/hc/en-us/articles/24444264493081-Manual-for-Aquila16-FPV-Kit)  
-[Для дрона Aquila16](https://support.betafpv.com/hc/en-us/articles/24444068242329-Manual-for-Aquila16-Brushless-Quadcopter)
+[Для дрона Aquila16](https://support.betafpv.com/hc/en-us/articles/24444068242329-Manual-for-Aquila16-Brushless-Quadcopter)  
+
+[How to replace the VTX Module of Aquila 16](https://support.betafpv.com/hc/en-us/articles/29941006696729-How-to-replace-the-VTX-Module-of-Aquila-16)
+
+[Complete FPV Kit for Beginners - BetaFPV Aquila16. YouTube: Create and Kaptivate](https://www.youtube.com/watch?v=u33TzKPsosE)
 
 ## Bind
 Полетный контроллер имеет встроенный ELRS приемник подключен через `UART`.
 
 ### [Перевод дрона в режим Bind](./../../../60_Bind/40_Режим_Bind_дрона_с_UART.md)  
 
-[User Guide on Aquila16 FPV Kit - Including Binding and Battery Installation](https://www.youtube.com/watch?v=sVDAzZalURg)  
+[BETAFPV Aquila16 FPV Kit | User Tips. YouTube: BETAFPV Hobby](https://www.youtube.com/watch?v=sVDAzZalURg)  
 
 ### [Ввод Bind фразы на дроне](./../../../60_Bind/44_Bind_фраза_дрона_с_UART.md)
 
