@@ -81,6 +81,10 @@
 
 [GitHub репозиторий EdgeTX проекта](https://github.com/EdgeTX/edgetx)
 
+[GitHub репозиторий EdgeTX SD Card Contents](https://github.com/EdgeTX/edgetx-sdcard)
+
+[Прошивки (Firmware) для аппаратур RadioMaster](https://www.radiomasterrc.com/pages/firmware-updates)
+
 [How to Update EdgeTX in your Radio](https://oscarliang.com/flash-edgetx/)
 
 [User Manual for Monochrome Screen Radios with EdgeTX](https://github.com/EdgeTX/edgetx-user-manual/tree/2.7/b-and-w-radios)
