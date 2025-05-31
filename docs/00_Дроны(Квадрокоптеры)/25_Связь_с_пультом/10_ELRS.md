@@ -41,5 +41,6 @@ Betaflight 4.4.x идет с ELRS 3.x.x
 
 [ELRS dipole antenna orientation - horizontal or vertical](https://intofpv.com/t-elrs-dipole-antenna-orientation-horizontal-or-vertical)
 
+[Чому не працює ExpressLRS? 13 типових випадків #fpv #українською. YouTube: FPV питаннячка (укр.)](https://www.youtube.com/watch?v=ffJMgkCRWZk)
 
 
