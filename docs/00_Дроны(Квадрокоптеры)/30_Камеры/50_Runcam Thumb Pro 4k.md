@@ -18,7 +18,7 @@
 [RunCam 3D Mount for Thumb Pro 3 PCS на AliExpress.com](https://vi.aliexpress.com/item/1005004716364902.html)  
 ![](Thumb_3DMount.png)
 
-## Стабилизация в Giroflow
+## Стабилизация в Gyroflow
 [Gyroflow documentation](https://docs.gyroflow.xyz/app)  
 [Как работает Gyroflow - подробная инструкция. YouTube Petrokey](https://www.youtube.com/watch?v=0rqx8EiBAkw)  
 [Стабилизация RunCam Thumb в Gyroflow. YouTube 
