@@ -80,3 +80,5 @@ ZhukoRama FPVlog (ZRFPV)](https://www.youtube.com/watch?v=c6mdZVzCn58)
 [BETAFPV Meteor 65 Pro ELRS - How To Set Up and Bind (SPI Version). YouTube: Volaertus](https://www.youtube.com/watch?v=T3NA_eTy63k)
 
 [Подключить Betafpv LiteRadio3 к UART ExpressLRS (Meteor75). YouTube Petrokey](https://www.youtube.com/watch?v=r3wsgmIChx0)
+
+[Установка бинд фразы на дрон и аппаратуру при помощи смартфона. YouTube: Captain Tony fpv](https://www.youtube.com/watch?v=FPm8ubHe0XM)
