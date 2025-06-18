@@ -17,7 +17,7 @@ Racing Version props: [Gemfan 1219S 3-Blade Propellers (1.0mm Shaft)](https://be
 ![](Air65ch_VTX_Table.png)
 
 ## Bind
-Полетный контроллер имеет встроенный ELRS приемник подключен через `UART`.
+Полетный контроллер 5in1 имеет встроенный ELRS приемник, подключенный через `UART`.
 
 ### [Перевод дрона в режим Bind](./../../../60_Bind/40_Режим_Bind_дрона_с_UART.md)
 
