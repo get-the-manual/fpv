@@ -1,4 +1,4 @@
-# Camera: [Caddx C03 ](https://betafpv.com/products/c03-fpv-micro-camera)
+# Camera: [BETAFPV C03 ](https://betafpv.com/products/c03-fpv-micro-camera)
 ![](Camera_C03.png)
 
 Specification
