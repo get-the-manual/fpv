@@ -25,7 +25,7 @@
 [YouTube канал Chris Rosser](https://www.youtube.com/@ChrisRosser)  
 [Сайт где Chris Rosser тестирует и сравнивает разное железо](https://www.aos-rc.com/aos-labs)  
 
-[FPV Know-It-All - The Ultimate FPV Shopping List by Joshua Bardwell](https://www.fpvknowitall.com/ultimate-fpv-shopping-list/)
+[FPV Know-It-All (fpvknowitall) - The Ultimate FPV Shopping List by Joshua Bardwell](https://www.fpvknowitall.com/)
 
 https://t.me/FPVequipment  
 ⚒ Оборудование и все, что связано со строительством дронов
