@@ -22,6 +22,19 @@ Patrick Watkins](https://www.youtube.com/watch?v=vYaq1cCAjTs)
 - Superman Flip  
 - Khalifa Loop  
 
+[𝐋𝐄𝐀𝐑𝐍 𝐀 𝐌𝐎𝐕𝐄 - FPV tricks compilation ( 2022 - 2024 ). YouTube: AuxPlumes](https://www.youtube.com/watch?v=bkwwmS8Mc3o)  
+- The Vortex or Toilet Flush  
+- The Ellipse  
+- The Inward Flip  
+- The Bhop  
+- The 360 Flip  
+- Maverick to Matty  
+- Drunk Slalom  
+- Roll backwards  
+- Trippy Rewind  
+- Ladder Climb  
+- Coin Flip  
+- Backward Climb  
 
 ## [YouTube канал headmazta](https://www.youtube.com/@headmazta)   
 Большое количество коротких роликов с подробным пошаговым обучением различных трюков.  
