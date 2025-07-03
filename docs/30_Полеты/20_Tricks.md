@@ -118,5 +118,7 @@ Boomerang, Wide boomerang, Infinite Boomerang
 #### Reverse Wall Ride
 [FPV Trick Tutorial - REVERSE WALL RIDE. YouTube: Patrick Watkins](https://www.youtube.com/watch?v=RsqibmwzpqA)
 
+#### Inverse HalfCube
+[Apprends le Inverse HalfCube - Fpv Freestyle - Tuto Bard. YouTube: Bard Fpv](https://www.youtube.com/watch?v=Biedurj49EA)
 
 ### [20 routines to improve your looρ abilities. YouTube: AuxPlumes](https://www.youtube.com/watch?v=tA7XWwtBn0Q)
