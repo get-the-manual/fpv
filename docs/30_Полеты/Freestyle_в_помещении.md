@@ -5,30 +5,29 @@
 Начинать можно с карт где высокий спортзал. Такая карта есть в `Liftoff Microdrones` и `Velocidrone`.  
 Потом можно перейти на карты с невысоким потолком. Они есть в `Liftoff Microdrones`, `FPV Logic` и `Velocidrone`.  
 
-Почти все перечисленное взято из [FPV Freestyle Tricktionary](Freestyle_Tricktionary.md)  
-Множество трюков [описано здесь](20_Tricks.md) 
-
+Множество трюков [описано здесь](20_Обучение_трюкам.md) 
 
 ## Самое простое: Power Loop вокруг стула или стола
 
 ## В пустой комнате:  
 - Split-S.
-- Immelmann Turn. 
+- Half Matty (Reverse Split-S)
+- Juicy Flick  
+- Snapback (Look Back juicy) или Immelmann Turn
 
 ## Высокая палка  
 - Orbit  
 - Boomerang  
 - Trippy Spin (Inverted Orbit)  
 
-## Горизонтальная перекладина или высокие ворота.  
-- Dolphin Dive  
+## Горизонтальная перекладина, стул, стол, ворота.  
+- Maverick Loop
 - Power Loop  
-- Matty Flip  
-Упрощенный вариант: пролетаем над преградой, опускаемся вниз и задом пролетаем под преградой.
 - Barrel Roll (Side Loop)  
 Упрощенны вариант, облетаем боком преграду не делая Roll.  
 Усложненный вариант, взлетая над преградой делаем Roll 360 в противоположную от облета сторону.
 - Reverse Split-S (Half Matty). Его можно и в дверном проеме делать.  
+- Matty Flip  
 
 ## Возле стены
 - Подлет к стене и отскок. Дальнейшие варианты:  
