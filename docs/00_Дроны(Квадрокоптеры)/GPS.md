@@ -51,8 +51,8 @@ HGLRC Draknight 2-inch + FLYWOO GOKU GM10 Nano V3.1 GPS
 ### Отзыв №2
 
 Итог сие квеста:   
-1. Оживил софтсириал при помощи команд. А именно:  
-А) включил софт сириал в конфиге в бетафлае  
+1. Оживил SoftSerial при помощи команд. А именно:  
+А) включил SoftSerial в конфиге в Betaflight  
 Б) ввёл команды назначающие tx/rx софтсириала  
 2. в настройках порта поставил, что сенсор GPS  
 3. вывел инфу GPS на апgу (через телеметрию) и на OSD  
@@ -64,9 +64,9 @@ GPS modules can be used for two quite different purposes:
     to collect data such as latitude, longitude, altitude, speed etc, at low data rates, eg 1-2 Hz, to assist with finding the quad if it is lost, or to log flight paths.
     for GPS Rescue and position hold purposes, where data is typically received at 10Hz.
 ```
-Поэтому пересадил управление VTX на софтсириал, а GPS повесил на освободившейся от VTX порт UART.
+Поэтому пересадил управление VTX на SoftSerial, а GPS повесил на освободившейся от VTX порт UART.
 
-Про SoftSerial можно посмотреть тут: [Tutorial: Betaflight Softserial](https://www.youtube.com/watch?v=7b_ltNHvuvk)
+Про SoftSerial можно посмотреть [в этой статье](./22_Прошивка_полетника/30_Betaflight/SoftSerial.md)
 
 ## Position Hold, Altitude Hold
 [Утримання позиції на FPV дроні по GPS. Betaflight 4.6 Прошивка, налаштування і тести. YouTube: Є-Дрон (укр.)](https://www.youtube.com/watch?v=VrKpEzWQol0)
