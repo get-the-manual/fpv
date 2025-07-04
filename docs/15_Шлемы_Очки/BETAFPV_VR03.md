@@ -49,5 +49,12 @@ S - вход в пункт.
 ## Использование с очками
 ![](BETAFPV_VR03_glasses.jpg)
 
+[Lenses holder for BetaFPV VR03 FPV Goggles (3D print)](https://www.printables.com/model/699606-lenses-holder-for-betafpv-vr03-fpv-goggles)  
+![](BETAFPV_VR03_Lenses_holder.png)
+
+![](BETAFPV_VR03_pensne.png)
+
+
+
 ## Разборка шлема
 ![](BETAFPV_VR03_Inside.jpg)
