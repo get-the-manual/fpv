@@ -30,3 +30,8 @@ set beeper_inversion = OFF
 ```
 Подробности в видео [Лечение проблемы при подключении буззеров HE42B/ JHE42B _ s/JHE20B на дроны серии meteor 75 pro. YouTube: practic61](https://www.youtube.com/watch?v=kq6BvsVIpjo)
 
+## tBeacon buzzybo
+[tBeacon buzzybo](https://tbeacon.org/magazin/mayaki/tbeacon-buzzybo-ru)  
+![](buzzer_buzzybo.png)
+
+[Buzzybo- Продвинутая поисковая пищалка от tBeacon! YouTube: RCSchoolmodels](https://www.youtube.com/watch?v=jb2ZlR3dbec)
