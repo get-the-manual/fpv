@@ -39,3 +39,10 @@ set vcd_video_system = AUTO
 save
 ```
 Объяснение тут [FAQ / No OSD in Betaflight 4.5](https://hackmd.io/@nerdCopter/r1JbnG0Q0)  
+
+## Turtle mode settings
+``
+set crashflip_motor_percent = 0  
+set crashflip_expo = 35
+``
+Подробности в видео [My Whoop Won't Flip Over! Fixing Turtle Mode? - FPV Questions. YouTube: Joshua Bardwell Livestream Clips](https://www.youtube.com/watch?v=U4AvhJiqLPM)
