@@ -18,9 +18,14 @@
 - Активировать softserial на вкладке Конфигурации.  
 - Убедиться что softserial действительно заведен на эту площадку (вроде как да. см resource для полетника)  
 - во вкладке порты нужно на появившемся softserial выставить в последней колонке "VTX (TBS Smart Audio)"  
+## Ограничения
+- SoftSerial грузит CPU  
+- На нем нельзя вешать цифру или приемник  
+- Должен быть включен 4k pidloop  
+- GPS использовать с ограничениями  
+- baudrate - 19200
 
-**Предупреждение:** SoftSerial грузит CPU, если есть свободные порты, лучше их использовать
-
+[Softserial with GPS](https://betaflight.com/docs/wiki/guides/current/softserial#softserial-with-gps)
 
 ## SoftSerial грузит CPU
 Уменьшаем частоту Gyro и PID Loop с 8kHz на 4kHz на закладке Configuration.  

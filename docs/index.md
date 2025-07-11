@@ -27,37 +27,94 @@
 
 [FPV Know-It-All (fpvknowitall) - The Ultimate FPV Shopping List by Joshua Bardwell](https://www.fpvknowitall.com/)
 
-https://t.me/FPVequipment  
-⚒ Оборудование и все, что связано со строительством дронов
+### Telegram
 
-https://t.me/tinywhoop_fpv  
-Мелкие дроны, вроде тинивупов 
+[Петрокей FPV](https://t.me/petrokeyfpv)
 
-https://t.me/fpv_events  
-🎂 События, гонки, новости
+[DRS Оборудование FPV (дроны, квадрокоптеры, дрон-рейсинг, гонки дронов, гонки на дронах, FPV, спорт дроны, фпв дроны)](https://t.me/FPVequipment)  
 
-https://t.me/rcpilots   
-🚀 Самый крупный канал по дронам общей тематики
+[DRS Микродроны (дроны, квадрокоптеры, дрон-рейсинг, гонки дронов, FPV, спорт дроны, фпв дроны, тинивупы, вуп, tinywhoop, whoop)](https://t.me/tinywhoop_fpv)
 
-https://t.me/FpvCyberSport  
-🎮 Нужен совет по симулятору, хотите принять участие в онлайн-турнире? Вам сюда!
+[DRS События и гонки (дроны, квадрокоптеры, дрон-рейсинг, гонки дронов, FPV, спорт дроны, фпв дроны, фестивали)](https://t.me/fpv_events)
 
-https://t.me/fpvmarket  
-💰 Барахолка на тему FPV (строго соблюдаем правила группы!!)
+[DRS Фристайл и съемки (видео с дронов, freestyle, дроны, квадрокоптеры, дрон-рейсинг, гонки дронов, FPV, спорт дроны, фпв дрон)](https://t.me/fpv_freestyle)
 
-https://t.me/rdrleague  
-🏆 Канал RDR лиги, а так же новости на тему дронов и гонки
+[DRS Крылья (wing racing, FPV крылья, гоночные самолеты, гонки на крыльях)](https://t.me/FPVwing  )
 
-https://t.me/FPVwing  
-✈️ FPV крылья и все, что с ними связано
+[Гоночные дроны, летающие крылья, FPV, радиоуправляемые модели. Хобби, общение.](https://t.me/rcpilots)
 
-https://t.me/fpv_freestyle  
-🎬 Съемки с дронов, кино, фильмы, фристайл
+[FPV Guild](https://t.me/fpvguild)
 
-https://t.me/expresslrs_rus 
+[FPV симуляторы и киберспорт](https://t.me/FpvCyberSport)
 
-https://t.me/Cinewhoopers
+[FPV Барахолка | Вход](https://t.me/fpvmarket)
 
-https://t.me/djifpvrus
+[RDR.Инфо 🚀🚀🚀 Гонки дронов, FPV, drone racing, лига дронов, combat.](https://t.me/rdrleague)
 
-https://t.me/SharkByteFPVru
+[Свидетели ELRS 3.5.6](https://t.me/expresslrs_rus)
+
+[Cinewhoopers](https://t.me/Cinewhoopers)
+
+[HDZero FPV](https://t.me/SharkByteFPVru)
+
+[🏆 #VDT Whoop](https://t.me/velocidrone_whoop)
+
+[DRONOFLY](https://t.me/dronofly)
+
+[Є-Дрон | E-Drone](https://t.me/e_drones) (укр.)
+
+[recopter](https://t.me/recopter)
+
+[OnlyWhoops](https://t.me/OnlyWhoops)
+
+[LeshaRodin FPV](https://t.me/FPVSHIT)
+
+[FPV приколы](https://t.me/fpvfunrus)
+
+[TinyWhoop FPV](https://t.me/TinyWhoopFPVdrone)
+
+[Smakadron](https://t.me/SmakadronChannel) (укр.)
+
+[Drone Stories SSmig](https://t.me/dronestoriesssmig)
+
+### Подборка каналов от пользователя `Friday`
+```
+Группы:
+    Петрокей
+    Две барахолки
+    База Ворона
+    Спиннеры
+    Группа местных вуперов
+Каналы невероятно засраны:
+    Лавка у лиса
+    Onlywhoops
+    Fly hub
+    Recopter
+    Onegeologist fpv
+    Ну что, погнали?
+    NskFpv-pilot
+    LeshaRodin
+    StephanaoFpv
+    Фпв приколы
+    denstolFPV
+    Frozik's 
+    Argentum Aero
+    genzerfpv
+    RywbyFpv
+    От винта!!!
+    Vestor FPV
+    Sky Dance FPV
+Чаты тоже жесть
+    DRS микродроны и крылья
+    Voron 
+    Argentum Aero
+    ВУП-КЛУБ
+    NskFpv
+    LeshaRodin
+    Чат барахолки с длинным названием Гоночные дроны, летающие крылья...
+    StephanaoFpv
+    genzerfpv
+    FX707S
+    denstolFPV
+    Lentaser_FPV
+```
