@@ -31,15 +31,11 @@
 
 [Петрокей FPV](https://t.me/petrokeyfpv)
 
-[DRS Оборудование FPV (дроны, квадрокоптеры, дрон-рейсинг, гонки дронов, гонки на дронах, FPV, спорт дроны, фпв дроны)](https://t.me/FPVequipment)  
-
-[DRS Микродроны (дроны, квадрокоптеры, дрон-рейсинг, гонки дронов, FPV, спорт дроны, фпв дроны, тинивупы, вуп, tinywhoop, whoop)](https://t.me/tinywhoop_fpv)
-
-[DRS События и гонки (дроны, квадрокоптеры, дрон-рейсинг, гонки дронов, FPV, спорт дроны, фпв дроны, фестивали)](https://t.me/fpv_events)
-
-[DRS Фристайл и съемки (видео с дронов, freestyle, дроны, квадрокоптеры, дрон-рейсинг, гонки дронов, FPV, спорт дроны, фпв дрон)](https://t.me/fpv_freestyle)
-
-[DRS Крылья (wing racing, FPV крылья, гоночные самолеты, гонки на крыльях)](https://t.me/FPVwing  )
+[DRS Оборудование FPV)](https://t.me/FPVequipment)  
+[DRS Микродроны](https://t.me/tinywhoop_fpv)  
+[DRS События и гонки](https://t.me/fpv_events)  
+[DRS Фристайл и съемки)](https://t.me/fpv_freestyle)  
+[DRS Крылья (wing racing, FPV крылья, гоночные самолеты, гонки на крыльях)](https://t.me/FPVwing)
 
 [Гоночные дроны, летающие крылья, FPV, радиоуправляемые модели. Хобби, общение.](https://t.me/rcpilots)
 
@@ -59,62 +55,46 @@
 
 [🏆 #VDT Whoop](https://t.me/velocidrone_whoop)
 
-[DRONOFLY](https://t.me/dronofly)
-
-[Є-Дрон | E-Drone](https://t.me/e_drones) (укр.)
-
-[recopter](https://t.me/recopter)
-
 [OnlyWhoops](https://t.me/OnlyWhoops)
-
-[LeshaRodin FPV](https://t.me/FPVSHIT)
 
 [FPV приколы](https://t.me/fpvfunrus)
 
-[TinyWhoop FPV](https://t.me/TinyWhoopFPVdrone)
 
-[Smakadron](https://t.me/SmakadronChannel) (укр.)
+#### Блогеры и гонщики
 
-[Drone Stories SSmig](https://t.me/dronestoriesssmig)
+[DRONOFLY](https://t.me/dronofly)  
+[recopter](https://t.me/recopter)  
+[LeshaRodin FPV](https://t.me/FPVSHIT)  
+[TinyWhoop FPV](https://t.me/TinyWhoopFPVdrone)  
+[Drone Stories SSmig](https://t.me/dronestoriesssmig)  
+[Є-Дрон | E-Drone](https://t.me/e_drones) (укр.)  
+[Smakadron](https://t.me/SmakadronChannel) (укр.)  
 
 ### Подборка каналов от пользователя `Friday`
+Это подборка крупных и/или полезных и/или душевных групп и чатиков.
+
 ```
-Группы:
-    Петрокей
-    Две барахолки
-    База Ворона
-    Спиннеры
-    Группа местных вуперов
-Каналы невероятно засраны:
-    Лавка у лиса
-    Onlywhoops
-    Fly hub
-    Recopter
-    Onegeologist fpv
-    Ну что, погнали?
-    NskFpv-pilot
-    LeshaRodin
-    StephanaoFpv
-    Фпв приколы
-    denstolFPV
-    Frozik's 
-    Argentum Aero
-    genzerfpv
-    RywbyFpv
-    От винта!!!
-    Vestor FPV
-    Sky Dance FPV
-Чаты тоже жесть
-    DRS микродроны и крылья
-    Voron 
-    Argentum Aero
-    ВУП-КЛУБ
-    NskFpv
-    LeshaRodin
-    Чат барахолки с длинным названием Гоночные дроны, летающие крылья...
-    StephanaoFpv
-    genzerfpv
-    FX707S
-    denstolFPV
-    Lentaser_FPV
+Группы
+  Petrokey 
+  Fpv барахолка
+  Fpv барахолка FREE
+  Spinnerproduction
+  База - VORON FPV
+
+Каналы
+  Lavka u Lisa
+  Onlyhwhoops
+  Recopter
+  LeshaRodinFpv
+  NskFpv-pilot
+  StephanaoFpv
+
+Чаты
+  DRS Микродроны
+  DRS Крылья (самолётный)
+  LeshaRodin
+  NskFpv Live
+  StephanaoFpv чат
+  Гоночные дроны, летающие крылья, FPV...
+  FX707S (самолётный)
 ```
