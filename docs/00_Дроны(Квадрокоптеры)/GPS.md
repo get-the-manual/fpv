@@ -37,6 +37,9 @@
 
 [How to Install a GPS On your FPV Drone and activate POSITION HOLD! YouTube: Rimzler](https://www.youtube.com/watch?v=nWHjarJv7cU)
 
+[Softserial with GPS](https://betaflight.com/docs/wiki/guides/current/softserial#softserial-with-gps)
+
+
 ## Отзывы и комментарии от пользователей
 
 ### Отзыв №1
