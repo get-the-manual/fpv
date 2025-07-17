@@ -36,3 +36,30 @@ set beeper_inversion = OFF
 ![](buzzer_buzzybo.png)
 
 [Buzzybo- Продвинутая поисковая пищалка от tBeacon! YouTube: RCSchoolmodels](https://www.youtube.com/watch?v=jb2ZlR3dbec)
+
+## Active Buzzer 95.5mm TMB09A05
+![](Buzzer_TMB09A05.png)
+
+[10PCS 5V Active Buzzer 9*5.5mm TMB09A05 Mini Active Piezo Buzzer](https://vi.aliexpress.com/item/1005007267575526.html)
+
+Альтернатива:  
+[Electromagnetic Active Buzzer Alarm 12V 5V 3.3V TMB9650 9650 SOT](https://vi.aliexpress.com/item/4000159400448.html)
+
+### Подключение к BETAFPV Air65
+Просто напаиваем на контакты полетника BZ+ и BZ-. Сразу начинает работать.  
+![](Buzzer_TMB09A05_Air65.png)
+
+### Подключение к BETAFPV Meteor65 Pro
+На полетнике (кресте) нет выводов на бипер. Можно подключить на один из RX UART2 выходов, но через транзистор. Потом вывод будет переназначен на BEEPER ресурс:  
+```
+resource SERIAL_RX 2 none
+resource BEEPER 1 A03
+save
+```
+
+В качестве транзистора можно взять один из вариантов:  
+- Mosfet: BSS138 (SMD) / 2N7002 (SMD)  
+- Обычный корпус: BS170 / 2N7000  
+
+Подробности в видео [Pimp my Whoop: Meteor65 Pro buzzer and LEDs mods. YouTube: Mustikkakeitto](https://www.youtube.com/watch?v=Pm72lBBX2G0)
+

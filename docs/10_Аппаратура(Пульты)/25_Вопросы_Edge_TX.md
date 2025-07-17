@@ -65,6 +65,10 @@
 Выбираем `Calibration` и нажимаем на колесо  
 Следуем инструкции
 
+[RadioMaster Boxer How to calibrate the gimbals in EdgeTX. YouTube: Bill Clark](https://www.youtube.com/watch?v=MWF1pVhdQIs)
+
+[You're calibrating your gimbals wrong (solves Tango 2 THROTTLE warning). YouTube: Joshua Bardwell](https://www.youtube.com/watch?v=I6n_Ak860lA)
+
 [Як калібрувати стіки на пульті для FPV дрона(укр). YouTube: Є-Дрон](https://www.youtube.com/watch?v=RCaF2GHLe8g)
 
 [Як активувати тубмлери та кнопки на пульті (EdgeTX). YouTube: Жвавий Дрон](https://www.youtube.com/watch?v=LybG0QXf7pU)  
