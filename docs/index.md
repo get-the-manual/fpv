@@ -7,6 +7,9 @@
 ## [<font color="red">**Как зайти в FPV. Смотреть всем!!! :)**</font>](https://www.youtube.com/shorts/tBH15Pmxtq0)    
 
 ## Общие материалы
+
+[Первый FPV-дрон, очки, аппаратура - с чего НАЧАТЬ?! (Полный Гайд для Новичков. YouTube: DRONOFLY FPV)](https://www.youtube.com/watch?v=OKOhqE8bt3Q)
+
 [Как собрать FPV комплект - пошаговая инструкция. Сравнение с Cetus X kit. YouTube: Петрокей](https://www.youtube.com/watch?v=G06lMb3Cs3A)  
 
 [Базові поняття про FPV дрони та обладнання. Терміни + пояснення. (укр.). YouTube: Є-Дрон](https://www.youtube.com/watch?v=sfohRjv3Fyk)  
