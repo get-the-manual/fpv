@@ -97,15 +97,15 @@
 
 [Оновлення прошивки Edge TX Centurion 2.10.6 на Radiomaster Boxer. YouTube: Жвавий Дрон (укр.)](https://www.youtube.com/watch?v=tTAflDUA30M)
 
-## Поиск дрона по значению RSSШ
+## Поиск дрона по значению RSSI
 
 ### Телеметрия
 Если на аппаратуре [настроить телеметрию](40_Настройка_телеметрии.md) и вывести значение 1RSS, то можно искать дрон, ориентируясь по значению. Как в игре "холодно, горячо".  
 Подробнее можно узнать в видео [Never lose a model again with this ExpressLRS trick (so long as you're getting telemetry!)](https://www.youtube.com/watch?v=ARJ7Vomnczw) 
 
 ### Model Locator by RSSI
-Так же имеется LUA-скрипт `ModelLocator`, который можно закинуть на карту памяти пульта и запустить, нажав кнопку `SYS` и выбрав ModelLocator. Скрипт можно скачать из [официального GitHub репозитория с содержимым SD карт[(https://github.com/EdgeTX/edgetx-sdcard).  
-Например, для [RadioMaster Pocket отсюда](https://github.com/EdgeTX/edgetx-sdcard/tree/master/sdcard/bw128x64/SCRIPTS/TOOLS) нужно скачать файлы `ModelLocator.lua`, `modloc.wav` и положить по тому же пути на карту в пульте.
+Так же имеется LUA-скрипт `ModelLocator`, который можно закинуть на карту памяти пульта и запустить, нажав кнопку `SYS` и выбрав ModelLocator. Скрипт можно скачать из [официального GitHub репозитория с содержимым SD карт](https://github.com/EdgeTX/edgetx-sdcard).  
+Например, для пультов с ЧБ экраном типа RadioMaster Pocket[отсюда](https://github.com/EdgeTX/edgetx-sdcard/tree/master/sdcard/bw128x64/SCRIPTS/TOOLS) нужно скачать файлы `ModelLocator.lua`, `modloc.wav` и положить по тому же пути `SCRIPTS\TOOLS` на карту в пульте.
 
 Рекомендуется установить мощность передатчика на уровень 25mW.
 
