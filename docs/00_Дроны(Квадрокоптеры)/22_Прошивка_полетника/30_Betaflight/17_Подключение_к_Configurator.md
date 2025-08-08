@@ -14,7 +14,7 @@
 **Внимание!!!** Питания дрона от телефона может не хватить, поэтому лучше подключить к дрону батарею.  
 
 На телефон нужно установить одну из двух программ: 
-- Betaflight Configurator for Android. APK файл находится [на странице скачивания] (https://github.com/betaflight/betaflight-configurator/releases).  
+- Betaflight Configurator for Android. APK файл находится [на странице скачивания](https://github.com/betaflight/betaflight-configurator/releases).  
 ![](BetaflightAndroid1.jpg) ![](BetaflightAndroid2.jpg)  
 
 - [SpeedyBee приложение из Google Play](https://play.google.com/store/apps/details?id=com.runcam.android.runcambf)  
