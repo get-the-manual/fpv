@@ -84,6 +84,10 @@
 ### Рейты у фристайлера [Patrick Watkins](https://www.youtube.com/@fpvwithpatrick)
 ![](Betaflight_Rates_Betaflight_Patrick.png)
 
+### Рейты у гонщиков 
+[РЕЙТЫ / Настройка рейтов гонки дронов. YouTube: Вадим Дзёма](https://www.youtube.com/watch?v=YQs-abyeTz8)  
+![](Betaflight_Rates_Betaflight_Racing.png)
+
 ### Рейты от [Dinglez](https://www.youtube.com/@Dinglez44)
 I use betaflight rates.  
 For freestyle:  
