@@ -6,6 +6,7 @@ site_description: >-
 # Repository
 repo_name: get-the-manual/fpv
 repo_url: https://github.com/get-the-manual/fpv
+edit_uri: edit/main/docs/
 
 plugins:
   - gen_nav:
