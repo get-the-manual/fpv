@@ -29,6 +29,12 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+  features:
+    - content.action.view
+    - content.action.edit
+  icon:
+    edit: material/pencil 
+    view: material/eye
 
 extra:
   analytics:
@@ -38,8 +44,4 @@ extra:
     title: Cookie consent
     description: >-
       Мы используем куки для аналитики. Нажимая “Принять”, вы
-      помогаете нам улучшать документацию.        
-
-nav:
-  - Bind: 
-    - 'Проблемы2': 60_Bind/__Issues.md
+      помогаете нам улучшать документацию.
