@@ -5,7 +5,7 @@
 
 Tрассы DCL впечатляют своей сложностью и красотой, с элементами, которые требуют высокой скорости реакции и мастерства пилотирования.
 
-[Официальный сайт](dronechampionsleague.com)
+[Официальный сайт](https://dronechampionsleague.com/)
 
 ## Симулятор DCL - The Game
 [DCL - The Game](https://store.steampowered.com/app/964570/DCL__The_Game/) 
