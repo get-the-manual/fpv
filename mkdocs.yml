@@ -1,5 +1,12 @@
 site_name: База знаний по FPV
 site_url: https://get-the-manual.github.io/fpv/
+site_description: >-
+  Здесь хранится базовая информация и накопленный опыт сообщества увлекающегося сборкой и полетами на дронах (квадрокоптерах) в FPV  режиме. Все исключительно в целях хобби.
+
+# Repository
+repo_name: get-the-manual/fpv
+repo_url: https://github.com/get-the-manual/fpv
+
 plugins:
   - gen_nav:
       enabled: true
@@ -21,3 +28,13 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+
+extra:
+  analytics:
+      provider: google
+      property: G-1M1HCQQL63
+  consent:
+    title: Cookie consent
+    description: >-
+      Мы используем куки для аналитики. Нажимая “Принять”, вы
+      помогаете нам улучшать документацию.        
