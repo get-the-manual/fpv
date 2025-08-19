@@ -48,3 +48,5 @@ FF Stick response от 0.5 до 1 . По 0.1
 [Налаштування фільтрів FPV в Betaflight від #SocialDroneUA (укр.)](https://www.youtube.com/watch?v=Wlc4EoptGGk)
 
 [How does PID controller work? | Simple Explaination on Quadcopter. YouTube: Pratik Phadte](https://www.youtube.com/watch?v=dMRDzicSvXk)
+
+[Please PID Tune your FPV Drone (easy tutorial). YouTube: nils vo](https://www.youtube.com/watch?v=pgyTmRJ-hik)
