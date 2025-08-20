@@ -33,4 +33,16 @@
 
 3.  **Конфигурация**: Откройте Betaflight Configurator. В поле порта вместо `COM` выберите `tcp://10.0.0.1` и нажмите **Connect**.
 
-Так же можно увидеть как это выглядит в видео [How to connect to Betaflight wirelessly using ELRS and Android Devices! YouTube: WestFPV](https://www.youtube.com/watch?v=xd1u6SfyveI)
+Так же можно увидеть как это выглядит в видео  
+[How to connect to Betaflight wirelessly using ELRS and Android Devices! YouTube: WestFPV](https://www.youtube.com/watch?v=xd1u6SfyveI)  
+[Betaflight in your RC Transmitter & Mobile Wirelessly. Youtube: Yaros FPV](https://www.youtube.com/watch?v=LDVr50zbx0o)
+
+## Betaflight Configurator LUA script
+Есть LUA script для пульоов на прошивке Edge TX, которые позволяет управлять настройками дрона пряма с экрана пульта.
+
+Репозиторий с последней версией находится здесь [Owner avatar
+betaflight-tx-lua-scripts](https://github.com/betaflight/betaflight-tx-lua-scripts)
+
+Подробности в видео: 
+[Betaflight in your RC Transmitter & Mobile Wirelessly. Youtube: Yaros FPV](https://www.youtube.com/watch?v=LDVr50zbx0o)
+
