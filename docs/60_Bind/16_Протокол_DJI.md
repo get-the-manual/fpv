@@ -26,4 +26,5 @@
     * Проверьте работу стиков на вкладке "Receiver", чтобы убедиться, что все каналы (Roll, Pitch, Yaw, Throttle) работают корректно.  
 
 [DJI 04 Drone Binding Tutorial with DJI FPV Controller | Easy Stepsl](https://www.youtube.com/watch?v=3mKiWJHXhCw)  
-Это видео объясняет, как переключить протокол управления на DJI O4 и как связать его с пультом DJI.
+
+[Connecting the BetaFPV Meteor75 Pro O4 with the DJI FPV Remote Controller 3. YouTube: Vernel FPV](https://www.youtube.com/watch?v=lgCMDQJtX_0)
