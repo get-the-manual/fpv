@@ -132,5 +132,5 @@
 Заходим на сайт с нейронкой, например, [play.ht](https://play.ht/), выбираеv голос, пишешь фразу и сохраняешь, потом конвертируеv в 32 килогерца 16 бит, моно и сохраняем.  
 Имя файла нужно дать такое как и у того файла, озвучку которого заменяем.
 
-##№ [Українізація OpenTX - EDGE - FreedomTX 13:08](https://youtu.be/4y8Xvei-NMk?si=_DWQJWdCbDi6c_b2&t=788)
+### [Українізація OpenTX - EDGE - FreedomTX 13:08](https://youtu.be/4y8Xvei-NMk?si=_DWQJWdCbDi6c_b2&t=788)
 [Посилання на Google Disk](https://drive.google.com/drive/folders/1qzFfbYw4vBnAh9kmXtYUbzmgwg7lizD0)
