@@ -63,3 +63,5 @@ save
 
 Подробности в видео [Pimp my Whoop: Meteor65 Pro buzzer and LEDs mods. YouTube: Mustikkakeitto](https://www.youtube.com/watch?v=Pm72lBBX2G0)
 
+### Проблема с неверным напряжением на контактах
+[Все проблемы пищалки на 1s тайнивупах. Youube: Петрокей](https://www.youtube.com/watch?v=PY_xzGA5Gf0)
