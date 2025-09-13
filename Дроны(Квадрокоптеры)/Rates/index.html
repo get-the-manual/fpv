@@ -2882,6 +2882,21 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Настройка стика газа (Throttle)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#edgetx" class="md-nav__link">
+    <span class="md-ellipsis">
+      Изменение силы стика газа колесом на пульте с EdgeTX
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -6062,6 +6077,21 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Настройка стика газа (Throttle)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#edgetx" class="md-nav__link">
+    <span class="md-ellipsis">
+      Изменение силы стика газа колесом на пульте с EdgeTX
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -6241,6 +6271,27 @@
 <p><a href="https://www.youtube.com/watch?v=ujsEnSDha84">Настраиваем кривую газа для плавного полета. YouTube: Mustfly</a>  </p>
 <p><a href="https://www.youtube.com/watch?v=1UbJwlqjkX8">Настройка кривой газа 🛠, Зачем? Youtube: Кошерное Хобби</a></p>
 <p><a href="https://www.youtube.com/watch?v=Kv20TeLkt50">Настройка кривой газа в Betaflight: Сделай управление плавным и точным! YouTube: DRONOFLY FPV</a></p>
+<h3 id="edgetx">Изменение силы стика газа колесом на пульте с EdgeTX</h3>
+<p>Шаги ниже требуют проверки:</p>
+<ol>
+<li>
+<p>Меню MIXES → выбрать CH3 (Throttle).  </p>
+</li>
+<li>
+<p>Удалить все строки, если есть.  </p>
+</li>
+<li>
+<p>Добавить строку:<br />
+Src: Thr<br />
+Weight: 100  </p>
+</li>
+<li>
+<p>Добавить вторую строку:<br />
+Src: AUXx (канал от крутилки, определить движением)<br />
+Weight: 100<br />
+Multiplex: MULT  </p>
+</li>
+</ol>
 <h2 id="_3">Типичные настройки рейтов</h2>
 <p>Рейты у фристайлеров и гонщиков могут отличаться. Обычно у гонщиков рейты ниже.</p>
 <h3 id="_4">Стандартные рейты по умолчанию.</h3>
@@ -6298,7 +6349,7 @@ My race rates are the five33 rates which is .8 - .7 - 0 = 533 degrees/second</p>
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="August 15, 2025 15:08:05 UTC">August 15, 2025</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="September 13, 2025 19:36:46 UTC">September 13, 2025</span>
   </span>
 
     
