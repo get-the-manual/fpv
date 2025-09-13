@@ -134,3 +134,12 @@
 
 ### [Українізація OpenTX - EDGE - FreedomTX 13:08](https://youtu.be/4y8Xvei-NMk?si=_DWQJWdCbDi6c_b2&t=788)
 [Посилання на Google Disk](https://drive.google.com/drive/folders/1qzFfbYw4vBnAh9kmXtYUbzmgwg7lizD0)
+
+
+### Как посмотреть общее время пользования аппаратурой
+Находясь на главном экране просто долго жмем на колесико (Enter).  
+Появляется меню. Переходим в `Statistics`.  
+Количество часов будет в поле `TOT`.   
+![](EdgeTX_Statistics.png)
+
+Чтобы сбросить этот таймер надо на этом экране нажать и подержать колесико
