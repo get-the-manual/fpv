@@ -96,6 +96,8 @@ ELRS использует двунаправленный протокол на �
 ## Статьи и видео
 [ExpressLRS - взгляд изнутри. Принципы, алгоритмы, форматы... Youtube: Petrokey](https://www.youtube.com/watch?v=WoXPkvHTBi4)  
 
+[LoRa. Обьясняем "на пальцах". Модуляция, распространение, помехоустойчивость. Применение в FPV. YouTube: Хобби - летать.](https://www.youtube.com/watch?v=-piespM0M-k)
+
 [ELRS Complete Beginner Guide 2025. YouTube: Joshua Bardwell](https://www.youtube.com/watch?v=N0ajKoef3qs)
 
 [Всё про ELRS (dzen.ru)](https://dzen.ru/a/ZiC61ueuLzUoSm3_)  
