@@ -21,6 +21,8 @@
 [Плейлист Гоночный квадрокоптер от My Hobby Log](https://www.youtube.com/playlist?list=PLLTDWoZVS17qhvotH9cNn0L5P6NwZIFr1)  
 Этим видео уже 8 лет, но общие и базовые принципы устройства и настройки сохраняются.
 
+[Базовые знания по радио для FPV-шников простыми словами. YouTube: Хобби - летать.](https://www.youtube.com/watch?v=x9G1zFIQhZs)
+
 ## Другие ресурсы
 [Dron Docs. Cайт про FPV](https://propwashservice.ru/) 
  
