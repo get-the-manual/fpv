@@ -49,107 +49,107 @@ extra:
 nav:
   - Главная страница: index.md
   - Дроны:
-    - Общая информация: 00_Drony(Kvadrokoptery)/00_Obshhaya_informatsiya.md
+    - Общая информация: 00_Drones/00_Obshhaya_informatsiya.md
     - Модели:
       - Betafpv:
-        - Общая информация: 00_Drony(Kvadrokoptery)/01_Модели/Betafpv/00_Obshhaya_informatsiya.md
+        - Общая информация: 00_Drones/01_Модели/Betafpv/00_Obshhaya_informatsiya.md
         - Cetus X:
-          - Общее: 00_Drony(Kvadrokoptery)/01_Модели/Betafpv/10_Cetus_X/10_Общее.md
-          - Замена штатных антенн: 00_Drony(Kvadrokoptery)/01_Модели/Betafpv/10_Cetus_X/20_Замена_штатных_антенн.md
-          - Кабель переходник: 00_Drony(Kvadrokoptery)/01_Модели/Betafpv/10_Cetus_X/30_Кабель_переходник.md
-          - Замена рамы: 00_Drony(Kvadrokoptery)/01_Модели/Betafpv/10_Cetus_X/Замена_рамы.md
-          - Замена VTX C04: 00_Drony(Kvadrokoptery)/01_Модели/Betafpv/10_Cetus_X/Замена_VTX_C04.md
-          - Использование 2S баток: 00_Drony(Kvadrokoptery)/01_Модели/Betafpv/10_Cetus_X/Использование_2S_баток.md
+          - Общее: 00_Drones/01_Модели/Betafpv/10_Cetus_X/10_Общее.md
+          - Замена штатных антенн: 00_Drones/01_Модели/Betafpv/10_Cetus_X/20_Замена_штатных_антенн.md
+          - Кабель переходник: 00_Drones/01_Модели/Betafpv/10_Cetus_X/30_Кабель_переходник.md
+          - Замена рамы: 00_Drones/01_Модели/Betafpv/10_Cetus_X/Замена_рамы.md
+          - Замена VTX C04: 00_Drones/01_Модели/Betafpv/10_Cetus_X/Замена_VTX_C04.md
+          - Использование 2S баток: 00_Drones/01_Модели/Betafpv/10_Cetus_X/Использование_2S_баток.md
         - Компоненты:
-          - Camera C03: 00_Drony(Kvadrokoptery)/01_Модели/Betafpv/90_Компоненты/Camera_C03.md
-          - Camera VTX C04: 00_Drony(Kvadrokoptery)/01_Модели/Betafpv/90_Компоненты/Camera_VTX_C04.md
-          - VTX M03: 00_Drony(Kvadrokoptery)/01_Модели/Betafpv/90_Компоненты/VTX_M03.md
-        - Air65 Champion: 00_Drony(Kvadrokoptery)/01_Модели/Betafpv/Air65_Champion.md
-        - Air65: 00_Drony(Kvadrokoptery)/01_Модели/Betafpv/Air65.md
-        - Air75: 00_Drony(Kvadrokoptery)/01_Модели/Betafpv/Air75.md
-        - Aquila16: 00_Drony(Kvadrokoptery)/01_Модели/Betafpv/Aquila16.md
-        - Meteor65 Pro: 00_Drony(Kvadrokoptery)/01_Модели/Betafpv/Meteor65_Pro.md
-        - Meteor75 Pro: 00_Drony(Kvadrokoptery)/01_Модели/Betafpv/Meteor75_Pro.md
+          - Camera C03: 00_Drones/01_Модели/Betafpv/90_Компоненты/Camera_C03.md
+          - Camera VTX C04: 00_Drones/01_Модели/Betafpv/90_Компоненты/Camera_VTX_C04.md
+          - VTX M03: 00_Drones/01_Модели/Betafpv/90_Компоненты/VTX_M03.md
+        - Air65 Champion: 00_Drones/01_Модели/Betafpv/Air65_Champion.md
+        - Air65: 00_Drones/01_Модели/Betafpv/Air65.md
+        - Air75: 00_Drones/01_Модели/Betafpv/Air75.md
+        - Aquila16: 00_Drones/01_Модели/Betafpv/Aquila16.md
+        - Meteor65 Pro: 00_Drones/01_Модели/Betafpv/Meteor65_Pro.md
+        - Meteor75 Pro: 00_Drones/01_Модели/Betafpv/Meteor75_Pro.md
         - Meteor85:
-          - Общее: 00_Drony(Kvadrokoptery)/01_Модели/Betafpv/Meteor85/10_Общее.md
-          - Переделка под DJI O4: 00_Drony(Kvadrokoptery)/01_Модели/Betafpv/Meteor85/Переделка_под_DJI_O4.md
+          - Общее: 00_Drones/01_Модели/Betafpv/Meteor85/10_Общее.md
+          - Переделка под DJI O4: 00_Drones/01_Модели/Betafpv/Meteor85/Переделка_под_DJI_O4.md
       - DarwinFPV:
-        - BabyApe Pro V2: 00_Drony(Kvadrokoptery)/01_Модели/DarwinFPV/BabyApe_Pro_V2.md
+        - BabyApe Pro V2: 00_Drones/01_Модели/DarwinFPV/BabyApe_Pro_V2.md
       - DJI:
-        - DJI Neo: 00_Drony(Kvadrokoptery)/01_Модели/DJI/DJI_Neo.md
+        - DJI Neo: 00_Drones/01_Модели/DJI/DJI_Neo.md
       - Happymodel:
-        - Mobeetle6: 00_Drony(Kvadrokoptery)/01_Модели/Happymodel/Mobeetle6.md
-        - mobula6: 00_Drony(Kvadrokoptery)/01_Модели/Happymodel/mobula6.md
-        - mobula7: 00_Drony(Kvadrokoptery)/01_Модели/Happymodel/mobula7.md
+        - Mobeetle6: 00_Drones/01_Модели/Happymodel/Mobeetle6.md
+        - mobula6: 00_Drones/01_Модели/Happymodel/mobula6.md
+        - mobula7: 00_Drones/01_Модели/Happymodel/mobula7.md
       - HGLRC:
-        - Draknight 2-inch: 00_Drony(Kvadrokoptery)/01_Модели/HGLRC/Draknight_2-inch.md
+        - Draknight 2-inch: 00_Drones/01_Модели/HGLRC/Draknight_2-inch.md
     - Сборка и пайка:
-      - Общая информация: 00_Drony(Kvadrokoptery)/10_Сборка_и_пайка/10_Общая_информация.md
-      - Принадлежности: 00_Drony(Kvadrokoptery)/10_Сборка_и_пайка/15_Принадлежности.md
-      - Паяльники: 00_Drony(Kvadrokoptery)/10_Сборка_и_пайка/20_Паяльники.md
-      - Коннекторы: 00_Drony(Kvadrokoptery)/10_Сборка_и_пайка/30_Коннекторы.md
-      - Провода: 00_Drony(Kvadrokoptery)/10_Сборка_и_пайка/40_Провода.md
-    - Вопросы: 00_Drony(Kvadrokoptery)/20_Вопросы.md
+      - Общая информация: 00_Drones/10_Сборка_и_пайка/10_Общая_информация.md
+      - Принадлежности: 00_Drones/10_Сборка_и_пайка/15_Принадлежности.md
+      - Паяльники: 00_Drones/10_Сборка_и_пайка/20_Паяльники.md
+      - Коннекторы: 00_Drones/10_Сборка_и_пайка/30_Коннекторы.md
+      - Провода: 00_Drones/10_Сборка_и_пайка/40_Провода.md
+    - Вопросы: 00_Drones/20_Вопросы.md
     - VTX:
-      - Общая информация: 00_Drony(Kvadrokoptery)/20_VTX/00_Obshhaya_informatsiya.md
+      - Общая информация: 00_Drones/20_VTX/00_Obshhaya_informatsiya.md
       - Модели:
-        - RUSH TINY TANK Nano VTX: 00_Drony(Kvadrokoptery)/20_VTX/02_Модели/RUSH_TINY_TANK_Nano_VTX.md
-      - Частоты VTX: 00_Drony(Kvadrokoptery)/20_VTX/05_Частоты_VTX.md
-      - Кабель для проверки VTX и камеры: 00_Drony(Kvadrokoptery)/20_VTX/10_Кабель для проверки VTX и камеры.md
-      - Ремонт VTX: 00_Drony(Kvadrokoptery)/20_VTX/30_Ремонт_VTX.md
-      - Аналоговая VTX: 00_Drony(Kvadrokoptery)/20_VTX/Аналоговая_VTX.md
-      - Антенны на аналог: 00_Drony(Kvadrokoptery)/20_VTX/Антенны_на_аналог.md
-      - Мощность и PIT: 00_Drony(Kvadrokoptery)/20_VTX/Мощность_и_PIT.md
+        - RUSH TINY TANK Nano VTX: 00_Drones/20_VTX/02_Модели/RUSH_TINY_TANK_Nano_VTX.md
+      - Частоты VTX: 00_Drones/20_VTX/05_Частоты_VTX.md
+      - Кабель для проверки VTX и камеры: 00_Drones/20_VTX/10_Кабель для проверки VTX и камеры.md
+      - Ремонт VTX: 00_Drones/20_VTX/30_Ремонт_VTX.md
+      - Аналоговая VTX: 00_Drones/20_VTX/Аналоговая_VTX.md
+      - Антенны на аналог: 00_Drones/20_VTX/Антенны_на_аналог.md
+      - Мощность и PIT: 00_Drones/20_VTX/Мощность_и_PIT.md
       - DJI O4:
-        - Общее: 00_Drony(Kvadrokoptery)/20_VTX/DJI_O4/10_Общее.md
-        - Доработка: 00_Drony(Kvadrokoptery)/20_VTX/DJI_O4/Доработка.md
-      - OSD: 00_Drony(Kvadrokoptery)/20_VTX/OSD.md
+        - Общее: 00_Drones/20_VTX/DJI_O4/10_Общее.md
+        - Доработка: 00_Drones/20_VTX/DJI_O4/Доработка.md
+      - OSD: 00_Drones/20_VTX/OSD.md
     - Полетник (FC):
       - Модели:
-        - BETAFPV Air 5in1 4in1: 00_Drony(Kvadrokoptery)/22_Полетник_(FC)/Модели/BETAFPV_Air_5in1_4in1.md
-        - BETAFPV FC F4 1S 12A AIO: 00_Drony(Kvadrokoptery)/22_Полетник_(FC)/Модели/BETAFPV_FC_F4_1S_12A_AIO.md
-        - BETAFPV FC F4 1S 5A AIO: 00_Drony(Kvadrokoptery)/22_Полетник_(FC)/Модели/BETAFPV_FC_F4_1S_5A_AIO.md
-        - BETAFPV Matrix 1S 5in1: 00_Drony(Kvadrokoptery)/22_Полетник_(FC)/Модели/BETAFPV_Matrix_1S_5in1.md
-        - Happymodel CrazyG473 5in1: 00_Drony(Kvadrokoptery)/22_Полетник_(FC)/Модели/Happymodel_CrazyG473_5in1.md
-        - Happymodel ELRSF4 2G4: 00_Drony(Kvadrokoptery)/22_Полетник_(FC)/Модели/Happymodel_ELRSF4_2G4.md
-        - Happymodel SuperX 5in1: 00_Drony(Kvadrokoptery)/22_Полетник_(FC)/Модели/Happymodel_SuperX_5in1.md
-        - JHEMCU F435 NEO 1S AIO: 00_Drony(Kvadrokoptery)/22_Полетник_(FC)/Модели/JHEMCU_F435_NEO_1S_AIO.md
-        - WCRC F722 v3: 00_Drony(Kvadrokoptery)/22_Полетник_(FC)/Модели/WCRC_F722_v3.md
+        - BETAFPV Air 5in1 4in1: 00_Drones/22_Полетник_(FC)/Модели/BETAFPV_Air_5in1_4in1.md
+        - BETAFPV FC F4 1S 12A AIO: 00_Drones/22_Полетник_(FC)/Модели/BETAFPV_FC_F4_1S_12A_AIO.md
+        - BETAFPV FC F4 1S 5A AIO: 00_Drones/22_Полетник_(FC)/Модели/BETAFPV_FC_F4_1S_5A_AIO.md
+        - BETAFPV Matrix 1S 5in1: 00_Drones/22_Полетник_(FC)/Модели/BETAFPV_Matrix_1S_5in1.md
+        - Happymodel CrazyG473 5in1: 00_Drones/22_Полетник_(FC)/Модели/Happymodel_CrazyG473_5in1.md
+        - Happymodel ELRSF4 2G4: 00_Drones/22_Полетник_(FC)/Модели/Happymodel_ELRSF4_2G4.md
+        - Happymodel SuperX 5in1: 00_Drones/22_Полетник_(FC)/Модели/Happymodel_SuperX_5in1.md
+        - JHEMCU F435 NEO 1S AIO: 00_Drones/22_Полетник_(FC)/Модели/JHEMCU_F435_NEO_1S_AIO.md
+        - WCRC F722 v3: 00_Drones/22_Полетник_(FC)/Модели/WCRC_F722_v3.md
       - Прошивка:
-        - Общее: 00_Drony(Kvadrokoptery)/22_Полетник_(FC)/Прошивка/22_Общее.md
+        - Общее: 00_Drones/22_Полетник_(FC)/Прошивка/22_Общее.md
         - Betaflight:
-          - Общее: 00_Drony(Kvadrokoptery)/22_Полетник_(FC)/Прошивка/30_Betaflight/10_Общее.md
-          - Вопросы: 00_Drony(Kvadrokoptery)/22_Полетник_(FC)/Прошивка/30_Betaflight/15_Вопросы.md
-          - Подключение к Configurator: 00_Drony(Kvadrokoptery)/22_Полетник_(FC)/Прошивка/30_Betaflight/17_Подключение_к_Configurator.md
-          - Установка прошивки: 00_Drony(Kvadrokoptery)/22_Полетник_(FC)/Прошивка/30_Betaflight/20_Установка_прошивки.md
-          - Команды CLI: 00_Drony(Kvadrokoptery)/22_Полетник_(FC)/Прошивка/30_Betaflight/Команды_CLI.md
-          - Anti-Gravity: 00_Drony(Kvadrokoptery)/22_Полетник_(FC)/Прошивка/30_Betaflight/Anti-Gravity.md
-          - Resources: 00_Drony(Kvadrokoptery)/22_Полетник_(FC)/Прошивка/30_Betaflight/Resources.md
-          - SoftSerial: 00_Drony(Kvadrokoptery)/22_Полетник_(FC)/Прошивка/30_Betaflight/SoftSerial.md
-          - Trim: 00_Drony(Kvadrokoptery)/22_Полетник_(FC)/Прошивка/30_Betaflight/Trim.md
-    - Вопросы видео: 00_Drony(Kvadrokoptery)/23_Вопросы_видео.md
+          - Общее: 00_Drones/22_Полетник_(FC)/Прошивка/30_Betaflight/10_Общее.md
+          - Вопросы: 00_Drones/22_Полетник_(FC)/Прошивка/30_Betaflight/15_Вопросы.md
+          - Подключение к Configurator: 00_Drones/22_Полетник_(FC)/Прошивка/30_Betaflight/17_Подключение_к_Configurator.md
+          - Установка прошивки: 00_Drones/22_Полетник_(FC)/Прошивка/30_Betaflight/20_Установка_прошивки.md
+          - Команды CLI: 00_Drones/22_Полетник_(FC)/Прошивка/30_Betaflight/Команды_CLI.md
+          - Anti-Gravity: 00_Drones/22_Полетник_(FC)/Прошивка/30_Betaflight/Anti-Gravity.md
+          - Resources: 00_Drones/22_Полетник_(FC)/Прошивка/30_Betaflight/Resources.md
+          - SoftSerial: 00_Drones/22_Полетник_(FC)/Прошивка/30_Betaflight/SoftSerial.md
+          - Trim: 00_Drones/22_Полетник_(FC)/Прошивка/30_Betaflight/Trim.md
+    - Вопросы видео: 00_Drones/23_Вопросы_видео.md
     - Связь с пультом:
-      - Протоколы: 00_Drony(Kvadrokoptery)/25_Связь_с_пультом/05_Протоколы.md
-      - ELRS: 00_Drony(Kvadrokoptery)/25_Связь_с_пультом/10_ELRS.md
+      - Протоколы: 00_Drones/25_Связь_с_пультом/05_Протоколы.md
+      - ELRS: 00_Drones/25_Связь_с_пультом/10_ELRS.md
     - Камеры:
-      - Runcam Thumb Pro 4k: 00_Drony(Kvadrokoptery)/30_Камеры/50_Runcam Thumb Pro 4k.md
-      - Конвертер analog в USB: 00_Drony(Kvadrokoptery)/30_Камеры/Конвертер_analog_в_USB.md
-    - Buzzer (пищалка): 00_Drony(Kvadrokoptery)/30_Buzzer_(пищалка).md
+      - Runcam Thumb Pro 4k: 00_Drones/30_Камеры/50_Runcam Thumb Pro 4k.md
+      - Конвертер analog в USB: 00_Drones/30_Камеры/Конвертер_analog_в_USB.md
+    - Buzzer (пищалка): 00_Drones/30_Buzzer_(пищалка).md
     - Моторы:
-      - Общее: 00_Drony(Kvadrokoptery)/35_Моторы/Общее.md
-      - Сборка разборка: 00_Drony(Kvadrokoptery)/35_Моторы/Сборка_разборка.md
+      - Общее: 00_Drones/35_Моторы/Общее.md
+      - Сборка разборка: 00_Drones/35_Моторы/Сборка_разборка.md
     - Пропеллеры:
-      - Описание: 00_Drony(Kvadrokoptery)/40_Пропеллеры/10_Описание.md
-      - Снять надеть: 00_Drony(Kvadrokoptery)/40_Пропеллеры/20_Снять_надеть.md
-      - Сравнение: 00_Drony(Kvadrokoptery)/40_Пропеллеры/30_Сравнение.md
+      - Описание: 00_Drones/40_Пропеллеры/10_Описание.md
+      - Снять надеть: 00_Drones/40_Пропеллеры/20_Снять_надеть.md
+      - Сравнение: 00_Drones/40_Пропеллеры/30_Сравнение.md
     - Рамы:
-      - Рама для 1S 450: 00_Drony(Kvadrokoptery)/45_Рамы/Рама_для_1S_450.md
-    - Батареи: 00_Drony(Kvadrokoptery)/Батареи.md
-    - Защита от воды: 00_Drony(Kvadrokoptery)/Защита_от_воды.md
-    - Режимы полета: 00_Drony(Kvadrokoptery)/Режимы_полета.md
-    - GPS: 00_Drony(Kvadrokoptery)/GPS.md
-    - PID: 00_Drony(Kvadrokoptery)/PID.md
-    - Rates: 00_Drony(Kvadrokoptery)/Rates.md
+      - Рама для 1S 450: 00_Drones/45_Рамы/Рама_для_1S_450.md
+    - Батареи: 00_Drones/Батареи.md
+    - Защита от воды: 00_Drones/Защита_от_воды.md
+    - Режимы полета: 00_Drones/Режимы_полета.md
+    - GPS: 00_Drones/GPS.md
+    - PID: 00_Drones/PID.md
+    - Rates: 00_Drones/Rates.md
   - Аппаратура(Пульты):
     - Общая информация: 10_Аппаратура(Пульты)/01_Общая_информация.md
     - Модели:
