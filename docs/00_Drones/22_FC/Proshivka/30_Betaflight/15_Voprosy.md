@@ -13,7 +13,7 @@
 Скачать можно [здесь](https://impulserc.blob.core.windows.net/utilities/ImpulseRC_Driver_Fixer.exe). Видео с объяснением: [Impulse RC Driver Fixing Tool (for flight controller USB connection problems)](https://www.youtube.com/watch?v=9yQYVfHgmD8).
 
 **Еще варианты решения**
-[Прошивка Betaflight 4.5 - нет DFU? YouTube: Petrokey](https://www.youtube.com/watch?v=0ig1Vrjek1U)
+[Proshivka Betaflight 4.5 - нет DFU? YouTube: Petrokey](https://www.youtube.com/watch?v=0ig1Vrjek1U)
 
 ## Неверное отображение в OSD напряжения заряда батареи
 В осд не верно отображает уровень заряда батареи. Проверял на разных зарядках.  

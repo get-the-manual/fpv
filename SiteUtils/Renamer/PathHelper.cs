@@ -51,6 +51,41 @@ public static class PathHelper
         return renameMappings;
     }
 
+    public static Dictionary<string, string> GetFoldersForRenaming()
+    {
+        var repoRoot = FindRepositoryRoot();
+        var docsPath = Path.Combine(repoRoot, "docs");
+        var renameMappings = new Dictionary<string, string>();
+
+        if (!Directory.Exists(docsPath))
+        {
+            return renameMappings;
+        }
+
+        // Scan for folders with Cyrillic characters
+        var directories = Directory.GetDirectories(docsPath, "*", SearchOption.AllDirectories);
+
+        foreach (var directory in directories)
+        {
+            var folderName = Path.GetFileName(directory);
+
+            // Skip hidden folders
+            if (folderName.StartsWith("."))
+                continue;
+
+            // Check if folder name contains Cyrillic characters
+            if (ContainsCyrillic(folderName))
+            {
+                var relativePath = Path.GetRelativePath(repoRoot, directory);
+                var transliteratedName = CyrillicTransliterator.Transliterate(folderName);
+                renameMappings[relativePath] = transliteratedName;
+                return renameMappings;
+            }
+        }
+
+        return renameMappings;
+    }
+
     private static bool ContainsCyrillic(string text)
     {
         foreach (var c in text)

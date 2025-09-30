@@ -29,7 +29,7 @@
 Также можно косвенно понять что активный в данный момент передатчик на ELRS.  
 Нажимаем кнопку `SYS`. Попадаем на первый экран `TOOLS`. Есть есть строчка `ExpressLRS`, то в аппе присутствует LUA скрипт для настройки ELRS передатчика. Скорее всего в аппе и стоит ELRS передатчик. Можно нажать на `ExpressLRS`. Если скрипт загрузится и будет доступно меню настройки, то в самом низу можно посмотреть версию прошивки ELRS.
 
-## Прошивка ELRS передатчика
+## Proshivka ELRS передатчика
 [ExpressLRS.RU](https://expresslrs.ru/Manuals/Firmware/Transmitters/Flashing-internal-tx/)  
 [Updating Internal ExpressLRS Module](https://oscarliang.com/setup-radiomaster-pocket/#Updating-Internal-ExpressLRS-Module)
 
@@ -78,9 +78,9 @@
 
 [Озвучивание на пульте низкого заряда батареи на дроне](Ozvuchka_nizkogo_napryazheniya.md)  
 
-[Режим черепахи на кнопку SE](./10_Модели/10_Radiomaster/01_Pocket/05_Cherepaha_na_SE.md)  
+[Режим черепахи на кнопку SE](./10_Modeli/10_Radiomaster/01_Pocket/05_Cherepaha_na_SE.md)  
 
-## Прошивка для аппаратуры EdgeTX
+## Proshivka для аппаратуры EdgeTX
 [Официальный сайт](https://edgetx.org/)
 
 [GitHub репозиторий EdgeTX проекта](https://github.com/EdgeTX/edgetx)

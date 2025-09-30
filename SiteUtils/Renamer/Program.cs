@@ -1,7 +1,7 @@
 ﻿using Renamer;
 
 // Dictionary for rename mappings: key = old path/name, value = new name
-var renameMappings = PathHelper.GetFilesForRenaming();
+var renameMappings = PathHelper.GetFoldersForRenaming();
 //    new Dictionary<string, string>
 //{
 //     { @"docs\00_Drones\30_Камеры", "30_Camera" },
