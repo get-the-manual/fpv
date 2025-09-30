@@ -140,3 +140,61 @@ The tool uses ISO 9 transliteration standard:
 - If the name doesn't contain Cyrillic characters, no changes are made
 - All references in markdown files and `mkdocs.yml` are automatically updated
 - The tool automatically finds the repository root by looking for the `.git` folder
+
+## Renamer
+
+A .NET 9 console application that renames files and folders based on predefined mappings and updates all references in the repository.
+
+### Features
+
+- Accepts a path to a file or folder inside the `docs` directory
+- Renames files and folders based on a dictionary of mappings defined in `Program.cs`
+- Supports dry-run mode to preview changes without applying them
+- Updates references in:
+  - `mkdocs.yml` navigation section
+  - All `.md` files in the `docs` folder
+
+### Requirements
+
+- .NET 9.0 SDK
+
+### Usage
+
+From the repository root:
+
+```bash
+dotnet run --project SiteUtils/Renamer/Renamer.csproj -- <path> [--dry-run]
+```
+
+Where:
+- `<path>` is the path to a file or folder inside the `docs` directory
+- `--dry-run` (optional) previews changes without applying them
+
+### Configuration
+
+Edit the `renameMappings` dictionary in `Program.cs` to define your rename patterns:
+
+```csharp
+var renameMappings = new Dictionary<string, string>
+{
+    { "OldName.md", "NewName.md" },
+    { "OldFolder", "NewFolder" },
+};
+```
+
+### Example
+
+```bash
+# Preview rename
+dotnet run --project SiteUtils/Renamer/Renamer.csproj -- docs/00_Drones/OldName.md --dry-run
+
+# Apply rename
+dotnet run --project SiteUtils/Renamer/Renamer.csproj -- docs/00_Drones/OldName.md
+```
+
+### Notes
+
+- The tool validates that the path is inside the `docs` folder
+- If no mapping is found for the given name, the tool will exit with an error message
+- All references in markdown files and `mkdocs.yml` are automatically updated
+- The tool automatically finds the repository root by looking for the `.git` folder
