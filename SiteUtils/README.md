@@ -140,3 +140,61 @@ The tool uses ISO 9 transliteration standard:
 - If the name doesn't contain Cyrillic characters, no changes are made
 - All references in markdown files and `mkdocs.yml` are automatically updated
 - The tool automatically finds the repository root by looking for the `.git` folder
+
+## Renamer
+
+A .NET 9 console application that renames files and folders based on predefined mappings and updates all references in the repository.
+
+### Features
+
+- Iterates over all rename mappings defined in the dictionary in `Program.cs`
+- Renames files and folders in the `docs` directory
+- Supports dry-run mode to preview changes without applying them
+- Updates references in:
+  - `mkdocs.yml` navigation section
+  - All `.md` files in the `docs` folder
+
+### Requirements
+
+- .NET 9.0 SDK
+
+### Usage
+
+From the repository root:
+
+```bash
+dotnet run --project SiteUtils/Renamer/Renamer.csproj [--dry-run]
+```
+
+Where:
+- `--dry-run` (optional) previews changes without applying them
+
+### Configuration
+
+Edit the `renameMappings` dictionary in `Program.cs` to define your rename patterns. The key is the path to the file/folder (relative to repository root or absolute), and the value is the new name:
+
+```csharp
+var renameMappings = new Dictionary<string, string>
+{
+    { "docs/00_Drones/OldName.md", "NewName.md" },
+    { "docs/00_Drones/OldFolder", "NewFolder" },
+};
+```
+
+### Example
+
+```bash
+# Preview all renames defined in the dictionary
+dotnet run --project SiteUtils/Renamer/Renamer.csproj -- --dry-run
+
+# Apply all renames defined in the dictionary
+dotnet run --project SiteUtils/Renamer/Renamer.csproj
+```
+
+### Notes
+
+- The tool validates that each path is inside the `docs` folder
+- If a path doesn't exist or target already exists, the tool will skip that mapping with a warning
+- All references in markdown files and `mkdocs.yml` are automatically updated
+- The tool automatically finds the repository root by looking for the `.git` folder
+- The tool processes all mappings in the dictionary, not just a single file
