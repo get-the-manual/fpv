@@ -215,10 +215,20 @@ class Program
                 navEndIndex++;
             }
             lines.RemoveRange(navStartIndex, navEndIndex - navStartIndex);
+            
+            // Remove trailing empty lines before nav
+            while (navStartIndex > 0 && string.IsNullOrWhiteSpace(lines[navStartIndex - 1]))
+            {
+                lines.RemoveAt(navStartIndex - 1);
+                navStartIndex--;
+            }
         }
         
         // Add new nav section at the end
-        lines.Add("");
+        if (lines.Count > 0 && !string.IsNullOrWhiteSpace(lines[lines.Count - 1]))
+        {
+            lines.Add("");
+        }
         lines.AddRange(navYaml.TrimEnd().Split('\n'));
         
         File.WriteAllText(mkdocsPath, string.Join(Environment.NewLine, lines));
