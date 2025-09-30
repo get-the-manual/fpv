@@ -10,7 +10,7 @@ edit_uri: edit/main/docs/
 
 plugins:
   - gen_nav:
-      enabled: true
+      enabled: false
   - search
   - autorefs
   - git-revision-date-localized:
@@ -49,7 +49,8 @@ extra:
       помогаете нам улучшать документацию.
 
 nav:
-  - Дроны(Квадрокоптеры):
+  - База знаний по FPV: index.md
+  - Дроны:
     - Общая информация: 00_Дроны(Квадрокоптеры)/00_Общая_информация.md
     - Модели:
       - Betafpv:
@@ -257,5 +258,4 @@ nav:
   - Что купить или собрать: 70_Что_купить_или_собрать.md
   - Видеомонтаж: Видеомонтаж.md
   - Мэмы: Мэмы.md
-  - index: index.md
   - LQ RSSI: LQ_RSSI.md
