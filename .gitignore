@@ -1,3 +1,13 @@
 .idea/
 *.iml
 *.ipr
+
+# MkDocs
+site/
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
+/SiteUtils/.vs
