@@ -147,8 +147,8 @@ A .NET 9 console application that renames files and folders based on predefined 
 
 ### Features
 
-- Accepts a path to a file or folder inside the `docs` directory
-- Renames files and folders based on a dictionary of mappings defined in `Program.cs`
+- Iterates over all rename mappings defined in the dictionary in `Program.cs`
+- Renames files and folders in the `docs` directory
 - Supports dry-run mode to preview changes without applying them
 - Updates references in:
   - `mkdocs.yml` navigation section
@@ -163,38 +163,38 @@ A .NET 9 console application that renames files and folders based on predefined 
 From the repository root:
 
 ```bash
-dotnet run --project SiteUtils/Renamer/Renamer.csproj -- <path> [--dry-run]
+dotnet run --project SiteUtils/Renamer/Renamer.csproj [--dry-run]
 ```
 
 Where:
-- `<path>` is the path to a file or folder inside the `docs` directory
 - `--dry-run` (optional) previews changes without applying them
 
 ### Configuration
 
-Edit the `renameMappings` dictionary in `Program.cs` to define your rename patterns:
+Edit the `renameMappings` dictionary in `Program.cs` to define your rename patterns. The key is the path to the file/folder (relative to repository root or absolute), and the value is the new name:
 
 ```csharp
 var renameMappings = new Dictionary<string, string>
 {
-    { "OldName.md", "NewName.md" },
-    { "OldFolder", "NewFolder" },
+    { "docs/00_Drones/OldName.md", "NewName.md" },
+    { "docs/00_Drones/OldFolder", "NewFolder" },
 };
 ```
 
 ### Example
 
 ```bash
-# Preview rename
-dotnet run --project SiteUtils/Renamer/Renamer.csproj -- docs/00_Drones/OldName.md --dry-run
+# Preview all renames defined in the dictionary
+dotnet run --project SiteUtils/Renamer/Renamer.csproj -- --dry-run
 
-# Apply rename
-dotnet run --project SiteUtils/Renamer/Renamer.csproj -- docs/00_Drones/OldName.md
+# Apply all renames defined in the dictionary
+dotnet run --project SiteUtils/Renamer/Renamer.csproj
 ```
 
 ### Notes
 
-- The tool validates that the path is inside the `docs` folder
-- If no mapping is found for the given name, the tool will exit with an error message
+- The tool validates that each path is inside the `docs` folder
+- If a path doesn't exist or target already exists, the tool will skip that mapping with a warning
 - All references in markdown files and `mkdocs.yml` are automatically updated
 - The tool automatically finds the repository root by looking for the `.git` folder
+- The tool processes all mappings in the dictionary, not just a single file
