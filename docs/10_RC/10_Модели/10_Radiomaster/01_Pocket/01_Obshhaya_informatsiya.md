@@ -27,9 +27,9 @@
 [Огляд Radiomaster Pocket. Для кого він? + тестовий політ от Є-Дрон](https://www.youtube.com/watch?v=H7OgTsX0HKI) 
 
 ## Bind
-[Перевод пульта в режим Bind](./../../../../60_Bind/60_Режим_Bind_пульта_EdgeTX.md)
+[Перевод пульта в режим Bind](./../../../../60_Bind/60_Rezhim_Bind_pulta_EdgeTX.md)
 
-[Указание Bind фразы](./../../../../60_Bind/56_Bind_фраза_пульта_EdgeTX.md)
+[Указание Bind фразы](./../../../../60_Bind/56_Bind_fraza_pulta_EdgeTX.md)
 
 [Я забыл BIND-фразу ELRS ! Что делать ? YouTube: ZhukoRama FPVlog (ZRFPV)](https://www.youtube.com/watch?v=c6mdZVzCn58)  
 

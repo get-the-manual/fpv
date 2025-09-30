@@ -9,9 +9,9 @@
 ## Bind
 Полетный контроллер имеет встроенный ELRS приемник подключен через `UART`.
 
-### [Перевод дрона в режим Bind](./../../../60_Bind/40_Режим_Bind_дрона_с_UART.md)
+### [Перевод дрона в режим Bind](./../../../60_Bind/40_Rezhim_Bind_drona_s_UART.md)
 
-### [Ввод Bind фразы на дроне](./../../../60_Bind/44_Bind_фраза_дрона_с_UART.md)
+### [Ввод Bind фразы на дроне](./../../../60_Bind/44_Bind_fraza_drona_s_UART.md)
 
 ## Прошивка
 Есть две версии дрона: 2023 года с полетником [F4 1S 5A AIO](https://betafpv.com/collections/brushless-flight-controller/products/f4-1s-5a-aio-brushless-flight-controller-elrs-2-4g) и 2024 года с полетником [Matrix 1S](https://betafpv.com/products/matrix-1s-brushless-flight-controller).  

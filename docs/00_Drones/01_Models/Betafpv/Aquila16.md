@@ -21,11 +21,11 @@
 ## Bind
 Полетный контроллер имеет встроенный ELRS приемник подключен через `UART`.
 
-### [Перевод дрона в режим Bind](./../../../60_Bind/40_Режим_Bind_дрона_с_UART.md)  
+### [Перевод дрона в режим Bind](./../../../60_Bind/40_Rezhim_Bind_drona_s_UART.md)  
 
 [BETAFPV Aquila16 FPV Kit | User Tips. YouTube: BETAFPV Hobby](https://www.youtube.com/watch?v=sVDAzZalURg)  
 
-### [Ввод Bind фразы на дроне](./../../../60_Bind/44_Bind_фраза_дрона_с_UART.md)
+### [Ввод Bind фразы на дроне](./../../../60_Bind/44_Bind_fraza_drona_s_UART.md)
 
 [Aquila16 как подключить (забиндить) к другой аппаратуре и обратно. (бинд фраза)](https://www.youtube.com/watch?v=IUj-B8MIZGw)
 

@@ -2,7 +2,7 @@
   "profiles": {
     "Renamer": {
       "commandName": "Project",
-      "commandLineArgs": "--dry-run1"
+      "commandLineArgs": "--dry-run"
     }
   }
 }

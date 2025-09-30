@@ -54,12 +54,12 @@ nav:
       - Betafpv:
         - Общая информация: 00_Drones/01_Models/Betafpv/00_Obshhaya_informatsiya.md
         - Cetus X:
-          - Общее: 00_Drones/01_Models/Betafpv/10_Cetus_X/10_Общее.md
-          - Замена штатных антенн: 00_Drones/01_Models/Betafpv/10_Cetus_X/20_Замена_штатных_антенн.md
-          - Кабель переходник: 00_Drones/01_Models/Betafpv/10_Cetus_X/30_Кабель_переходник.md
-          - Замена рамы: 00_Drones/01_Models/Betafpv/10_Cetus_X/Замена_рамы.md
-          - Замена VTX C04: 00_Drones/01_Models/Betafpv/10_Cetus_X/Замена_VTX_C04.md
-          - Использование 2S баток: 00_Drones/01_Models/Betafpv/10_Cetus_X/Использование_2S_баток.md
+          - Общее: 00_Drones/01_Models/Betafpv/10_Cetus_X/10_Obshhee.md
+          - Замена штатных антенн: 00_Drones/01_Models/Betafpv/10_Cetus_X/20_Zamena_shtatnyh_antenn.md
+          - Кабель переходник: 00_Drones/01_Models/Betafpv/10_Cetus_X/30_Kabel_perehodnik.md
+          - Замена рамы: 00_Drones/01_Models/Betafpv/10_Cetus_X/Zamena_ramy.md
+          - Замена VTX C04: 00_Drones/01_Models/Betafpv/10_Cetus_X/Zamena_VTX_C04.md
+          - Использование 2S баток: 00_Drones/01_Models/Betafpv/10_Cetus_X/Ispolzovanie_2S_batok.md
         - Компоненты:
           - Camera C03: 00_Drones/01_Models/Betafpv/90_Компоненты/Camera_C03.md
           - Camera VTX C04: 00_Drones/01_Models/Betafpv/90_Компоненты/Camera_VTX_C04.md
@@ -71,8 +71,8 @@ nav:
         - Meteor65 Pro: 00_Drones/01_Models/Betafpv/Meteor65_Pro.md
         - Meteor75 Pro: 00_Drones/01_Models/Betafpv/Meteor75_Pro.md
         - Meteor85:
-          - Общее: 00_Drones/01_Models/Betafpv/Meteor85/10_Общее.md
-          - Переделка под DJI O4: 00_Drones/01_Models/Betafpv/Meteor85/Переделка_под_DJI_O4.md
+          - Общее: 00_Drones/01_Models/Betafpv/Meteor85/10_Obshhee.md
+          - Переделка под DJI O4: 00_Drones/01_Models/Betafpv/Meteor85/Peredelka_pod_DJI_O4.md
       - DarwinFPV:
         - BabyApe Pro V2: 00_Drones/01_Models/DarwinFPV/BabyApe_Pro_V2.md
       - DJI:
@@ -84,25 +84,25 @@ nav:
       - HGLRC:
         - Draknight 2-inch: 00_Drones/01_Models/HGLRC/Draknight_2-inch.md
     - Сборка и пайка:
-      - Общая информация: 00_Drones/10_Assemble_soldering/10_Общая_информация.md
-      - Принадлежности: 00_Drones/10_Assemble_soldering/15_Принадлежности.md
-      - Паяльники: 00_Drones/10_Assemble_soldering/20_Паяльники.md
-      - Коннекторы: 00_Drones/10_Assemble_soldering/30_Коннекторы.md
-      - Провода: 00_Drones/10_Assemble_soldering/40_Провода.md
-    - Вопросы: 00_Drones/20_Вопросы.md
+      - Общая информация: 00_Drones/10_Assemble_soldering/10_Obshhaya_informatsiya.md
+      - Принадлежности: 00_Drones/10_Assemble_soldering/15_Prinadlezhnosti.md
+      - Паяльники: 00_Drones/10_Assemble_soldering/20_Payalniki.md
+      - Коннекторы: 00_Drones/10_Assemble_soldering/30_Konnektory.md
+      - Провода: 00_Drones/10_Assemble_soldering/40_Provoda.md
+    - Вопросы: 00_Drones/20_Voprosy.md
     - VTX:
       - Общая информация: 00_Drones/20_VTX/00_Obshhaya_informatsiya.md
       - Модели:
         - RUSH TINY TANK Nano VTX: 00_Drones/20_VTX/02_Модели/RUSH_TINY_TANK_Nano_VTX.md
-      - Частоты VTX: 00_Drones/20_VTX/05_Частоты_VTX.md
-      - Кабель для проверки VTX и камеры: 00_Drones/20_VTX/10_Кабель для проверки VTX и камеры.md
-      - Ремонт VTX: 00_Drones/20_VTX/30_Ремонт_VTX.md
-      - Аналоговая VTX: 00_Drones/20_VTX/Аналоговая_VTX.md
-      - Антенны на аналог: 00_Drones/20_VTX/Антенны_на_аналог.md
-      - Мощность и PIT: 00_Drones/20_VTX/Мощность_и_PIT.md
+      - Частоты VTX: 00_Drones/20_VTX/05_Chastoty_VTX.md
+      - Кабель для проверки VTX и камеры: 00_Drones/20_VTX/10_Kabel dlya proverki VTX i kamery.md
+      - Ремонт VTX: 00_Drones/20_VTX/30_Remont_VTX.md
+      - Аналоговая VTX: 00_Drones/20_VTX/Analogovaya_VTX.md
+      - Антенны на аналог: 00_Drones/20_VTX/Antenny_na_analog.md
+      - Мощность и PIT: 00_Drones/20_VTX/Moshhnost_i_PIT.md
       - DJI O4:
-        - Общее: 00_Drones/20_VTX/DJI_O4/10_Общее.md
-        - Доработка: 00_Drones/20_VTX/DJI_O4/Доработка.md
+        - Общее: 00_Drones/20_VTX/DJI_O4/10_Obshhee.md
+        - Доработка: 00_Drones/20_VTX/DJI_O4/Dorabotka.md
       - OSD: 00_Drones/20_VTX/OSD.md
     - Полетник (FC):
       - Модели:
@@ -116,90 +116,90 @@ nav:
         - JHEMCU F435 NEO 1S AIO: 00_Drones/22_FC/Модели/JHEMCU_F435_NEO_1S_AIO.md
         - WCRC F722 v3: 00_Drones/22_FC/Модели/WCRC_F722_v3.md
       - Прошивка:
-        - Общее: 00_Drones/22_FC/Прошивка/22_Общее.md
+        - Общее: 00_Drones/22_FC/Прошивка/22_Obshhee.md
         - Betaflight:
-          - Общее: 00_Drones/22_FC/Прошивка/30_Betaflight/10_Общее.md
-          - Вопросы: 00_Drones/22_FC/Прошивка/30_Betaflight/15_Вопросы.md
-          - Подключение к Configurator: 00_Drones/22_FC/Прошивка/30_Betaflight/17_Подключение_к_Configurator.md
-          - Установка прошивки: 00_Drones/22_FC/Прошивка/30_Betaflight/20_Установка_прошивки.md
-          - Команды CLI: 00_Drones/22_FC/Прошивка/30_Betaflight/Команды_CLI.md
+          - Общее: 00_Drones/22_FC/Прошивка/30_Betaflight/10_Obshhee.md
+          - Вопросы: 00_Drones/22_FC/Прошивка/30_Betaflight/15_Voprosy.md
+          - Подключение к Configurator: 00_Drones/22_FC/Прошивка/30_Betaflight/17_Podklyuchenie_k_Configurator.md
+          - Установка прошивки: 00_Drones/22_FC/Прошивка/30_Betaflight/20_Ustanovka_proshivki.md
+          - Команды CLI: 00_Drones/22_FC/Прошивка/30_Betaflight/Komandy_CLI.md
           - Anti-Gravity: 00_Drones/22_FC/Прошивка/30_Betaflight/Anti-Gravity.md
           - Resources: 00_Drones/22_FC/Прошивка/30_Betaflight/Resources.md
           - SoftSerial: 00_Drones/22_FC/Прошивка/30_Betaflight/SoftSerial.md
           - Trim: 00_Drones/22_FC/Прошивка/30_Betaflight/Trim.md
-    - Вопросы видео: 00_Drones/23_Вопросы_видео.md
+    - Вопросы видео: 00_Drones/23_Voprosy_video.md
     - Связь с пультом:
-      - Протоколы: 00_Drones/25_RC_Connect/05_Протоколы.md
+      - Протоколы: 00_Drones/25_RC_Connect/05_Protokoly.md
       - ELRS: 00_Drones/25_RC_Connect/10_ELRS.md
       - LQ RSSI: 00_Drones/25_RC_Connect/LQ_RSSI.md
     - Камеры:
       - Runcam Thumb Pro 4k: 00_Drones/30_Camera/50_Runcam Thumb Pro 4k.md
-      - Конвертер analog в USB: 00_Drones/30_Camera/Конвертер_analog_в_USB.md
+      - Конвертер analog в USB: 00_Drones/30_Camera/Konverter_analog_v_USB.md
     - Buzzer (пищалка): 00_Drones/30_Buzzer.md
     - Моторы:
-      - Общее: 00_Drones/35_Motor/Общее.md
-      - Сборка разборка: 00_Drones/35_Motor/Сборка_разборка.md
+      - Общее: 00_Drones/35_Motor/Obshhee.md
+      - Сборка разборка: 00_Drones/35_Motor/Sborka_razborka.md
     - Пропеллеры:
-      - Описание: 00_Drones/40_Prop/10_Описание.md
-      - Снять надеть: 00_Drones/40_Prop/20_Снять_надеть.md
-      - Сравнение: 00_Drones/40_Prop/30_Сравнение.md
+      - Описание: 00_Drones/40_Prop/10_Opisanie.md
+      - Снять надеть: 00_Drones/40_Prop/20_Snyat_nadet.md
+      - Сравнение: 00_Drones/40_Prop/30_Sravnenie.md
     - Рамы:
-      - Рама для 1S 450: 00_Drones/45_Frame/Рама_для_1S_450.md
-    - Батареи: 00_Drones/Батареи.md
-    - Защита от воды: 00_Drones/Защита_от_воды.md
-    - Режимы полета: 00_Drones/Режимы_полета.md
+      - Рама для 1S 450: 00_Drones/45_Frame/Rama_dlya_1S_450.md
+    - Батареи: 00_Drones/Batarei.md
+    - Защита от воды: 00_Drones/Zashhita_ot_vody.md
+    - Режимы полета: 00_Drones/Rezhimy_poleta.md
     - GPS: 00_Drones/GPS.md
     - PID: 00_Drones/PID.md
     - Rates: 00_Drones/Rates.md
   - Аппаратура(Пульты):
-    - Общая информация: 10_RC/01_Общая_информация.md
+    - Общая информация: 10_RC/01_Obshhaya_informatsiya.md
     - Модели:
       - Radiomaster:
         - Pocket:
-          - Общая информация: 10_RC/10_Модели/10_Radiomaster/01_Pocket/01_Общая_информация.md
-          - переключение колесом мощности VTX: 10_RC/10_Модели/10_Radiomaster/01_Pocket/03_переключение_колесом_мощности_VTX.md
-          - Черепаха на SE: 10_RC/10_Модели/10_Radiomaster/01_Pocket/05_Черепаха_на_SE.md
-          - Bind с Meteor85: 10_RC/10_Модели/10_Radiomaster/01_Pocket/12_Bind_с_Meteor85.md
-          - Стики и удлинители: 10_RC/10_Модели/10_Radiomaster/01_Pocket/30_Стики_и_удлинители.md
-          - Регулировка пружин: 10_RC/10_Модели/10_Radiomaster/01_Pocket/Регулировка_пружин.md
+          - Общая информация: 10_RC/10_Модели/10_Radiomaster/01_Pocket/01_Obshhaya_informatsiya.md
+          - переключение колесом мощности VTX: 10_RC/10_Модели/10_Radiomaster/01_Pocket/03_pereklyuchenie_kolesom_moshhnosti_VTX.md
+          - Черепаха на SE: 10_RC/10_Модели/10_Radiomaster/01_Pocket/05_Cherepaha_na_SE.md
+          - Bind с Meteor85: 10_RC/10_Модели/10_Radiomaster/01_Pocket/12_Bind_s_Meteor85.md
+          - Стики и удлинители: 10_RC/10_Модели/10_Radiomaster/01_Pocket/30_Stiki_i_udliniteli.md
+          - Регулировка пружин: 10_RC/10_Модели/10_Radiomaster/01_Pocket/Regulirovka_pruzhin.md
         - Boxer:
-          - Общая информация: 10_RC/10_Модели/10_Radiomaster/20_Boxer/01_Общая_информация.md
+          - Общая информация: 10_RC/10_Модели/10_Radiomaster/20_Boxer/01_Obshhaya_informatsiya.md
         - Jumper T14:
-          - Общая информация: 10_RC/10_Модели/10_Radiomaster/Jumper_T14/01_Общая_информация.md
+          - Общая информация: 10_RC/10_Модели/10_Radiomaster/Jumper_T14/01_Obshhaya_informatsiya.md
       - Betafpv:
         - LiteRadio:
           - Literadio2 3: 10_RC/10_Модели/30_Betafpv/LiteRadio/01_Literadio2_3.md
-          - Ремонт стиков: 10_RC/10_Модели/30_Betafpv/LiteRadio/02_Ремонт_стиков.md
-          - Замена резисторов: 10_RC/10_Модели/30_Betafpv/LiteRadio/04_Замена_резисторов.md
-          - Стики на датчиках Холла: 10_RC/10_Модели/30_Betafpv/LiteRadio/10_Стики_на_датчиках_Холла.md
-          - Калибровка стиков: 10_RC/10_Модели/30_Betafpv/LiteRadio/15_Калибровка_стиков.md
+          - Ремонт стиков: 10_RC/10_Модели/30_Betafpv/LiteRadio/02_Remont_stikov.md
+          - Замена резисторов: 10_RC/10_Модели/30_Betafpv/LiteRadio/04_Zamena_rezistorov.md
+          - Стики на датчиках Холла: 10_RC/10_Модели/30_Betafpv/LiteRadio/10_Stiki_na_datchikah_Holla.md
+          - Калибровка стиков: 10_RC/10_Модели/30_Betafpv/LiteRadio/15_Kalibrovka_stikov.md
           - LiteRadio 2 SIM: 10_RC/10_Модели/30_Betafpv/LiteRadio/20_LiteRadio_2_SIM.md
-    - Вопросы: 10_RC/20_Вопросы.md
-    - Вопросы Edge TX: 10_RC/25_Вопросы_Edge_TX.md
-    - FCC и LBT: 10_RC/27_FCC_и_LBT.md
-    - Пульт зависает: 10_RC/29_Пульт_зависает.md
+    - Вопросы: 10_RC/20_Voprosy.md
+    - Вопросы Edge TX: 10_RC/25_Voprosy_Edge_TX.md
+    - FCC и LBT: 10_RC/27_FCC_i_LBT.md
+    - Пульт зависает: 10_RC/29_Pult_zavisaet.md
     - Edge TX Menu: 10_RC/30_Edge_TX_Menu.md
-    - Настройка телеметрии: 10_RC/40_Настройка_телеметрии.md
-    - Озвучка низкого напряжения: 10_RC/Озвучка_низкого_напряжения.md
+    - Настройка телеметрии: 10_RC/40_Nastrojka_telemetrii.md
+    - Озвучка низкого напряжения: 10_RC/Ozvuchka_nizkogo_napryazheniya.md
   - Шлемы Очки:
-    - Общее: 15_Goggles/10_Общее.md
-    - Антенны на аналог: 15_Goggles/20_Антенны_на_аналог.md
+    - Общее: 15_Goggles/10_Obshhee.md
+    - Антенны на аналог: 15_Goggles/20_Antenny_na_analog.md
     - BETAFPV VR03: 15_Goggles/BETAFPV_VR03.md
     - DJI:
-      - Общее: 15_Goggles/DJI/10_Общее.md
-      - Лучшие очки для О4: 15_Goggles/DJI/Лучшие_очки_для_О4.md
+      - Общее: 15_Goggles/DJI/10_Obshhee.md
+      - Лучшие очки для О4: 15_Goggles/DJI/Luchshie_ochki_dlya_O4.md
     - Eachine EV800D(M):
-      - Общая информация: 15_Goggles/Eachine_EV800D(M)/Общая информация.md
-      - Ремонт: 15_Goggles/Eachine_EV800D(M)/Ремонт.md
+      - Общая информация: 15_Goggles/Eachine_EV800D(M)/Obshhaya informatsiya.md
+      - Ремонт: 15_Goggles/Eachine_EV800D(M)/Remont.md
     - SKYZONE:
-      - Общее: 15_Goggles/SKYZONE/Общее.md
+      - Общее: 15_Goggles/SKYZONE/Obshhee.md
   - Симуляторы:
-    - Общие вопросы: 20_Симуляторы/03_Общие_вопросы.md
-    - Какой сим выбрать: 20_Симуляторы/05_Какой_сим_выбрать.md
-    - Сравнение: 20_Симуляторы/07_Сравнение.md
-    - Подключение аппаратуры к симулятору: 20_Симуляторы/20_Подключение_аппаратуры_к_симулятору.md
-    - Дрифт в симуляторе: 20_Симуляторы/50_Дрифт_в_симуляторе.md
-    - Сколько тренироваться: 20_Симуляторы/Сколько_тренироваться.md
+    - Общие вопросы: 20_Симуляторы/03_Obshhie_voprosy.md
+    - Какой сим выбрать: 20_Симуляторы/05_Kakoj_sim_vybrat.md
+    - Сравнение: 20_Симуляторы/07_Sravnenie.md
+    - Подключение аппаратуры к симулятору: 20_Симуляторы/20_Podklyuchenie_apparatury_k_simulyatoru.md
+    - Дрифт в симуляторе: 20_Симуляторы/50_Drift_v_simulyatore.md
+    - Сколько тренироваться: 20_Симуляторы/Skolko_trenirovatsya.md
     - DCL - The Game: 20_Симуляторы/DCL_-_The_Game.md
     - DRL: 20_Симуляторы/DRL.md
     - EreaDrone: 20_Симуляторы/EreaDrone.md
@@ -213,47 +213,47 @@ nav:
     - Uncrashed: 20_Симуляторы/Uncrashed.md
     - Velocidrone: 20_Симуляторы/Velocidrone.md
   - Полеты:
-    - Обучение полетам: 30_Полеты/10_Обучение_полетам.md
-    - Обучение трюкам: 30_Полеты/20_Обучение_трюкам.md
-    - Вопросы: 30_Полеты/24_Вопросы.md
-    - Каталог Трюков: 30_Полеты/26_Каталог_Трюков.md
+    - Обучение полетам: 30_Полеты/10_Obuchenie_poletam.md
+    - Обучение трюкам: 30_Полеты/20_Obuchenie_tryukam.md
+    - Вопросы: 30_Полеты/24_Voprosy.md
+    - Каталог Трюков: 30_Полеты/26_Katalog_Tryukov.md
     - Гонки или соревнования:
-      - Общее: 30_Полеты/30_Гонки_или_соревнования/10_Общее.md
+      - Общее: 30_Полеты/30_Гонки_или_соревнования/10_Obshhee.md
       - IGOW: 30_Полеты/30_Гонки_или_соревнования/IGOW.md
       - RaceGOW: 30_Полеты/30_Гонки_или_соревнования/RaceGOW.md
       - VDT: 30_Полеты/30_Гонки_или_соревнования/VDT.md
       - weBLEEDfpv: 30_Полеты/30_Гонки_или_соревнования/weBLEEDfpv.md
     - Изготовление трасс:
-      - Общее: 30_Полеты/Изготовление_трасс/01_Общее.md
-      - Для вупов: 30_Полеты/Изготовление_трасс/Для_вупов.md
+      - Общее: 30_Полеты/Изготовление_трасс/01_Obshhee.md
+      - Для вупов: 30_Полеты/Изготовление_трасс/Dlya_vupov.md
       - WhoopMANIA S1 Track1: 30_Полеты/Изготовление_трасс/WhoopMANIA_S1_Track1.md
-    - Серия трюков: 30_Полеты/Серия_трюков.md
-    - Стили Freestyle: 30_Полеты/Стили_Freestyle.md
-    - Freestyle в помещении: 30_Полеты/Freestyle_в_помещении.md
+    - Серия трюков: 30_Полеты/Seriya_tryukov.md
+    - Стили Freestyle: 30_Полеты/Stili_Freestyle.md
+    - Freestyle в помещении: 30_Полеты/Freestyle_v_pomeshhenii.md
   - Зарядные устройства:
-    - Общая информация: 50_Charger/05_Общая информация.md
-    - Зарядные устройства: 50_Charger/20_Зарядные_устройства.md
-    - Зарядка BetaFPV: 50_Charger/30_Зарядка_BetaFPV.md
+    - Общая информация: 50_Charger/05_Obshhaya informatsiya.md
+    - Зарядные устройства: 50_Charger/20_Zaryadnye_ustrojstva.md
+    - Зарядка BetaFPV: 50_Charger/30_Zaryadka_BetaFPV.md
   - Аксессуары:
-    - Сумки, футляры: 60_Аксессуары/10_Сумки,_футляры.md
-    - 3D модели: 60_Аксессуары/3D_модели.md
+    - Сумки, футляры: 60_Аксессуары/10_Sumki,_futlyary.md
+    - 3D модели: 60_Аксессуары/3D_modeli.md
   - Bind:
-    - Введение: 60_Bind/10_Введение.md
-    - Протокол FrSky: 60_Bind/15_Протокол_FrSky.md
-    - Протокол DJI: 60_Bind/16_Протокол_DJI.md
-    - Протокол ELRS: 60_Bind/17_Протокол_ELRS.md
-    - Подключение приемника: 60_Bind/18_Подключение_приемника.md
-    - Прошивка ELRS: 60_Bind/19_Прошивка_ELRS.md
-    - Версия ELRS: 60_Bind/20_Версия_ELRS.md
-    - Режим Bind дрона с UART: 60_Bind/40_Режим_Bind_дрона_с_UART.md
-    - Bind фраза дрона с UART: 60_Bind/44_Bind_фраза_дрона_с_UART.md
-    - Режим Bind дрона с SPI: 60_Bind/50_Режим_Bind_дрона_с_SPI.md
-    - Bind фраза дрона с SPI: 60_Bind/54_Bind_фраза_дрона_с_SPI.md
-    - Bind фраза пульта EdgeTX: 60_Bind/56_Bind_фраза_пульта_EdgeTX.md
-    - Bind фраза пульта LiteRadio: 60_Bind/58_Bind_фраза_пульта_LiteRadio.md
-    - Режим Bind пульта EdgeTX: 60_Bind/60_Режим_Bind_пульта_EdgeTX.md
-    - Режим Bind пульта Literadio3: 60_Bind/62_Режим_Bind_пульта_Literadio3.md
-    - Проблемы: 60_Bind/70_Проблемы.md
-  - Что купить или собрать: 70_Что_купить_или_собрать.md
-  - Видеомонтаж: Видеомонтаж.md
-  - Мэмы: Мэмы.md
+    - Введение: 60_Bind/10_Vvedenie.md
+    - Протокол FrSky: 60_Bind/15_Protokol_FrSky.md
+    - Протокол DJI: 60_Bind/16_Protokol_DJI.md
+    - Протокол ELRS: 60_Bind/17_Protokol_ELRS.md
+    - Подключение приемника: 60_Bind/18_Podklyuchenie_priemnika.md
+    - Прошивка ELRS: 60_Bind/19_Proshivka_ELRS.md
+    - Версия ELRS: 60_Bind/20_Versiya_ELRS.md
+    - Режим Bind дрона с UART: 60_Bind/40_Rezhim_Bind_drona_s_UART.md
+    - Bind фраза дрона с UART: 60_Bind/44_Bind_fraza_drona_s_UART.md
+    - Режим Bind дрона с SPI: 60_Bind/50_Rezhim_Bind_drona_s_SPI.md
+    - Bind фраза дрона с SPI: 60_Bind/54_Bind_fraza_drona_s_SPI.md
+    - Bind фраза пульта EdgeTX: 60_Bind/56_Bind_fraza_pulta_EdgeTX.md
+    - Bind фраза пульта LiteRadio: 60_Bind/58_Bind_fraza_pulta_LiteRadio.md
+    - Режим Bind пульта EdgeTX: 60_Bind/60_Rezhim_Bind_pulta_EdgeTX.md
+    - Режим Bind пульта Literadio3: 60_Bind/62_Rezhim_Bind_pulta_Literadio3.md
+    - Проблемы: 60_Bind/70_Problemy.md
+  - Что купить или собрать: 70_Chto_kupit_ili_sobrat.md
+  - Видеомонтаж: Videomontazh.md
+  - Мэмы: Memy.md
