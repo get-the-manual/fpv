@@ -7,9 +7,9 @@ class Program
 {
     static void Main(string[] args)
     {
-        string repoRoot = FindRepositoryRoot();
-        string docsPath = Path.Combine(repoRoot, "docs");
-        string mkdocsPath = Path.Combine(repoRoot, "mkdocs.yml");
+        var repoRoot = FindRepositoryRoot();
+        var docsPath = Path.Combine(repoRoot, "docs");
+        var mkdocsPath = Path.Combine(repoRoot, "mkdocs.yml");
 
         if (!Directory.Exists(docsPath))
         {
@@ -174,7 +174,7 @@ class Program
 
     static void AppendNavItem(StringBuilder sb, NavItem item, int level)
     {
-        string indent = new string(' ', level * 2);
+        var indent = new string(' ', level * 2);
         
         if (item.IsDirectory)
         {
@@ -195,8 +195,8 @@ class Program
         var lines = File.ReadAllLines(mkdocsPath).ToList();
         
         // Find if nav section already exists
-        int navStartIndex = -1;
-        for (int i = 0; i < lines.Count; i++)
+        var navStartIndex = -1;
+        for (var i = 0; i < lines.Count; i++)
         {
             if (lines[i].Trim().StartsWith("nav:"))
             {
@@ -208,7 +208,7 @@ class Program
         // Remove existing nav section if it exists
         if (navStartIndex >= 0)
         {
-            int navEndIndex = navStartIndex + 1;
+            var navEndIndex = navStartIndex + 1;
             while (navEndIndex < lines.Count && 
                    (lines[navEndIndex].StartsWith("  ") || lines[navEndIndex].StartsWith("\t") || string.IsNullOrWhiteSpace(lines[navEndIndex])))
             {
