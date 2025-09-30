@@ -76,9 +76,9 @@
 ## Использовние логических свичей (`Logical Switch`)
 [Логические свитчи или как настроить ARM на кнопку без фиксации (ARM on momentary switch). YouTube: ZhukoRama FPVlog (ZRFPV)](https://www.youtube.com/watch?v=y9OvhpLNMMs)
 
-[Озвучивание на пульте низкого заряда батареи на дроне](Озвучка_низкого_напряжения.md)  
+[Озвучивание на пульте низкого заряда батареи на дроне](Ozvuchka_nizkogo_napryazheniya.md)  
 
-[Режим черепахи на кнопку SE](./10_Модели/10_Radiomaster/01_Pocket/05_Черепаха_на_SE.md)  
+[Режим черепахи на кнопку SE](./10_Модели/10_Radiomaster/01_Pocket/05_Cherepaha_na_SE.md)  
 
 ## Прошивка для аппаратуры EdgeTX
 [Официальный сайт](https://edgetx.org/)
@@ -100,7 +100,7 @@
 ## Поиск дрона по значению RSSI
 
 ### Телеметрия
-Если на аппаратуре [настроить телеметрию](40_Настройка_телеметрии.md) и вывести значение 1RSS, то можно искать дрон, ориентируясь по значению. Как в игре "холодно, горячо".  
+Если на аппаратуре [настроить телеметрию](40_Nastrojka_telemetrii.md) и вывести значение 1RSS, то можно искать дрон, ориентируясь по значению. Как в игре "холодно, горячо".  
 Подробнее можно узнать в видео [Never lose a model again with this ExpressLRS trick (so long as you're getting telemetry!)](https://www.youtube.com/watch?v=ARJ7Vomnczw) 
 
 ### Model Locator by RSSI

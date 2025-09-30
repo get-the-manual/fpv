@@ -33,7 +33,7 @@ YouTube: IRONQUAD](https://www.youtube.com/watch?v=5UcZ9E8DDoE)
 Ссылки на прошивки в статье ниже в разделе Прошивка.  
 Подробнее о проблеме и перепрошивке рассказано в видео [Проблема с Betafpv Aquila. LiteRadio2se не работает с компом и симулятором](https://www.youtube.com/watch?v=1lq6xgl1Efk)
 
-Про более детальную диагностику проблемы можно прочитать [в этой статье](./../../../../20_Симуляторы/20_Подключение_аппаратуры_к_симулятору.md)
+Про более детальную диагностику проблемы можно прочитать [в этой статье](./../../../../20_Симуляторы/20_Podklyuchenie_apparatury_k_simulyatoru.md)
 
 ## Прошивка
 [Прошивки для Lite Radio 2 SE](https://support.betafpv.com/hc/en-us/articles/4414348908057-Lite-Radio-2-SE)  
@@ -60,20 +60,20 @@ YouTube: IRONQUAD](https://www.youtube.com/watch?v=5UcZ9E8DDoE)
  - Нажимаем кнопку **Connect RC** в правом верхнем углу. Если все хорошо, кнопка станет красной **Disconnect**, а экран отобразит настройки аппы. [Пример скриншота](RT_1_Setup.png)  
 
 ## Bind
-[Перевод пульта в режим Bind](./../../../../60_Bind/62_Режим_Bind_пульта_Literadio3.md)  
+[Перевод пульта в режим Bind](./../../../../60_Bind/62_Rezhim_Bind_pulta_Literadio3.md)  
 
-[Ввод Bind фразы ](./../../../../60_Bind/58_Bind_фраза_пульта_LiteRadio.md)  
+[Ввод Bind фразы ](./../../../../60_Bind/58_Bind_fraza_pulta_LiteRadio.md)  
 
 [Подключить Betafpv LiteRadio3 к UART ExpressLRS (Meteor75). YouTube Petrokey](https://www.youtube.com/watch?v=r3wsgmIChx0)
 
-## [Калибровка стиков](15_Калибровка_стиков.md)
+## [Калибровка стиков](15_Kalibrovka_stikov.md)
 
 ## Регулировка длины стиков
 Родные стики можно **регулировать по высоте**, ослабив верхнюю часть против часовой стрелки, и зафиксировав нижней «гайкой».  
 ![](LR3_Repl_10.jpg)  
 
 ## Проблемы со стиками
-[Проблема с дрожанием стиков на потенциометрах](02_Ремонт_стиков.md)  
+[Проблема с дрожанием стиков на потенциометрах](02_Remont_stikov.md)  
 
 [Ремонт BetaFPV LiteRadio 3 после падения](https://dzen.ru/a/Zaz-SmWVr2TlJhph)
 

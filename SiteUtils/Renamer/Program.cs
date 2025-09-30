@@ -1,16 +1,17 @@
 ﻿using Renamer;
 
 // Dictionary for rename mappings: key = old path/name, value = new name
-var renameMappings = new Dictionary<string, string>
-{
-     { @"docs\00_Drones\30_Камеры", "30_Camera" },
-     { @"docs\00_Drones\35_Моторы", "35_Motor" },
-     { @"docs\00_Drones\40_Пропеллеры", "40_Prop" },
-     { @"docs\00_Drones\45_Рамы", "45_Frame" },
-     { @"docs\00_Drones\30_Buzzer_(пищалка).md", "30_Buzzer.md" },
-};
+var renameMappings = PathHelper.GetFilesForRenaming();
+//    new Dictionary<string, string>
+//{
+//     { @"docs\00_Drones\30_Камеры", "30_Camera" },
+//     { @"docs\00_Drones\35_Моторы", "35_Motor" },
+//     { @"docs\00_Drones\40_Пропеллеры", "40_Prop" },
+//     { @"docs\00_Drones\45_Рамы", "45_Frame" },
+//     { @"docs\00_Drones\30_Buzzer_(пищалка).md", "30_Buzzer.md" },
+//};
 
-var dryRun = args.Length > 0 && args[0] == "--dry-run";
+var dryRun = args.Length > 0 && args[0] == "--dry-run1";
 var repoRoot = PathHelper.FindRepositoryRoot();
 var docsPath = Path.Combine(repoRoot, "docs");
 var mkdocsPath = Path.Combine(repoRoot, "mkdocs.yml");

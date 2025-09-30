@@ -17,9 +17,9 @@ Motor [0702 II|30000KV (dual ball bearings)](https://betafpv.com/collections/bru
 ## Bind
 Полетный контроллер имеет встроенный ELRS приемник подключен через `UART`.
 
-### [Перевод дрона в режим Bind](./../../../60_Bind/40_Режим_Bind_дрона_с_UART.md)
+### [Перевод дрона в режим Bind](./../../../60_Bind/40_Rezhim_Bind_drona_s_UART.md)
 
-### [Ввод Bind фразы на дроне](./../../../60_Bind/44_Bind_фраза_дрона_с_UART.md)
+### [Ввод Bind фразы на дроне](./../../../60_Bind/44_Bind_fraza_drona_s_UART.md)
 
 ## Светоиндикация на полетнике
 

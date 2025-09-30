@@ -1,10 +1,10 @@
 # Замена штатных антенн
 
 ## Антенны на шлем/очки 
-[На этой странице](./../../../../15_Goggles/20_Антенны_на_аналог.md)
+[На этой странице](./../../../../15_Goggles/20_Antenny_na_analog.md)
 
 ## Антенны на дрон
-[На этой странице](./../../../20_VTX/Антенны_на_аналог.md)
+[На этой странице](./../../../20_VTX/Antenny_na_analog.md)
 
 [Betafpv Cetus X - замена антенны. Lumenier Micro AXII 2 и Lollipop 4 на аналоговый FPV тайнивуп. YouTube: Петрокей](https://www.youtube.com/watch?v=G2w1dMCCnoc)
 

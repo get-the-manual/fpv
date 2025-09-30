@@ -12,13 +12,13 @@
 
 ### [Шлем BETAFPV VR03 FPV Goggles](BETAFPV_VR03.md)
 
-### [Шлем Eachine EV800D(M)](Eachine_EV800D(M)/Общая информация.md)
+### [Шлем Eachine EV800D(M)](Eachine_EV800D(M)/Obshhaya informatsiya.md)
 
 ### Очки Eachine EV100
 Плохие отзывы  
 [Бюджетные FPV очки Eachine EV100. YouTube: ZhukoRama FPVlog (ZRFPV)](https://www.youtube.com/watch?v=_EjZs71E1_E)  
 
-### [SKYZONE](./SKYZONE/Общее.md)  
+### [SKYZONE](./SKYZONE/Obshhee.md)  
 
 ## Цифровые шлемы  и очки
 
@@ -32,7 +32,7 @@ Walksnail Avatar HD Goggles L
 
 [Информационная база знаний от русскоязычного комьюнити про систему Walksnail Avatar](https://avatarfpv.ru/)
 
-### [DJI](./DJI/10_Общее.md)
+### [DJI](./DJI/10_Obshhee.md)
 
 ### Caddx
 

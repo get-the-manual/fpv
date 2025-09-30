@@ -126,7 +126,7 @@ ELRS 2.4 - это популярный и распространенный фо�
   
 [Cetus X FPV Kit](https://betafpv.com/collections/all-drone/products/cetus-x-fpv-kit)    
 ![](./00_Drones/01_Models/Betafpv/10_Cetus_X/CetusXFpvKit.png)   
-Почитать [можно здесь](./00_Drones/01_Models/Betafpv/10_Cetus_X/10_Общее.md)
+Почитать [можно здесь](./00_Drones/01_Models/Betafpv/10_Cetus_X/10_Obshhee.md)
 
 [GEPRC TinyGO 4K FPV Whoop RTF](https://geprc.com/product/geprc-tinygo-4k-fpv-whoop-rtf/)  
 ![](GEPRC_TinyGO_4K_RTF.png)  
@@ -145,7 +145,7 @@ ELRS 2.4 - это популярный и распространенный фо�
 [Happymodel Mobeetle6](./00_Drones/01_Models/Happymodel/Mobeetle6.md)  
 
 ### Для улицы
-[BETAFPV Meteor85 (2022) (с дактами)](./00_Drones/01_Models/Betafpv/Meteor85/10_Общее.md)  
+[BETAFPV Meteor85 (2022) (с дактами)](./00_Drones/01_Models/Betafpv/Meteor85/10_Obshhee.md)  
 [HGLRC Draknight 2-inch toothpick (без дактов)](./00_Drones/01_Models/HGLRC/Draknight_2-inch.md)  
 [Darwin Baby Ape Pro V2 FPV Drone 3-inch (без дактов)](./00_Drones/01_Models/DarwinFPV/BabyApe_Pro_V2.md)
 
