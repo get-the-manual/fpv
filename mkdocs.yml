@@ -47,7 +47,7 @@ extra:
       помогаете нам улучшать документацию.
 
 nav:
-  - База знаний по FPV: index.md
+  - Главная страница: index.md
   - Дроны:
     - Общая информация: 00_Drony(Kvadrokoptery)/00_Obshhaya_informatsiya.md
     - Модели:
