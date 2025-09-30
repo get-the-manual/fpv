@@ -39,5 +39,5 @@ static string FindRepositoryRoot()
         currentDir = Directory.GetParent(currentDir)?.FullName;
     }
 
-    throw new("Could not find repository root (no .git folder found)");
+    throw new("Could not find repository root (no .git folder found). Please run this tool from within a Git repository.");
 }
