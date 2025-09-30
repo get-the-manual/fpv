@@ -1,4 +1,4 @@
-name: Build SiteUtils
+name: build-projects
 
 on:
   push:
@@ -24,8 +24,11 @@ jobs:
     - name: Restore dependencies
       run: dotnet restore SiteUtils/SiteUtils.sln
       
-    - name: Build
+    - name: Build all projects
       run: dotnet build SiteUtils/SiteUtils.sln --configuration Release --no-restore
       
-    - name: Test run
+    - name: Test run BuildNavigation
       run: dotnet run --project SiteUtils/BuildNavigation/BuildNavigation.csproj --configuration Release --no-build
+      
+    - name: Test run NameTransformer (help)
+      run: dotnet run --project SiteUtils/NameTransformer/NameTransformer.csproj --configuration Release --no-build || true
