@@ -3,9 +3,11 @@
 // Dictionary for rename mappings: key = old path/name, value = new name
 var renameMappings = new Dictionary<string, string>
 {
-    // Example mappings - add your rename patterns here
-    // { "docs/00_Drones/OldName.md", "NewName.md" },
-    // { "docs/00_Drones/OldFolder", "NewFolder" },
+     { @"docs\00_Drones\30_Камеры", "30_Camera" },
+     { @"docs\00_Drones\35_Моторы", "35_Motor" },
+     { @"docs\00_Drones\40_Пропеллеры", "40_Prop" },
+     { @"docs\00_Drones\45_Рамы", "45_Frame" },
+     { @"docs\00_Drones\30_Buzzer_(пищалка).md", "30_Buzzer.md" },
 };
 
 var dryRun = args.Length > 0 && args[0] == "--dry-run";
