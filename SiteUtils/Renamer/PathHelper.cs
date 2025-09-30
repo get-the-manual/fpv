@@ -28,40 +28,27 @@ public static class PathHelper
             return renameMappings;
         }
 
-        // Scan for files and directories with Cyrillic characters
-        ScanDirectory(docsPath, repoRoot, renameMappings);
+        // Scan for markdown files with Cyrillic characters
+        var mdFiles = Directory.GetFiles(docsPath, "*.md", SearchOption.AllDirectories);
 
-        return renameMappings;
-    }
-
-    private static void ScanDirectory(string path, string repoRoot, Dictionary<string, string> mappings)
-    {
-        // Get all files and directories in the current path
-        var entries = Directory.GetFileSystemEntries(path);
-
-        foreach (var entry in entries)
+        foreach (var file in mdFiles)
         {
-            var name = Path.GetFileName(entry);
+            var fileName = Path.GetFileName(file);
 
-            // Skip hidden files/folders
-            if (name.StartsWith("."))
+            // Skip hidden files
+            if (fileName.StartsWith("."))
                 continue;
 
-            // Check if name contains Cyrillic characters
-            if (ContainsCyrillic(name))
+            // Check if filename contains Cyrillic characters
+            if (ContainsCyrillic(fileName))
             {
-                var relativePath = Path.GetRelativePath(repoRoot, entry);
-                // The value would be the transliterated name, but for now we'll leave it empty
-                // as the actual transliteration logic would be in a separate method
-                mappings[relativePath] = string.Empty;
-            }
-
-            // Recursively scan subdirectories
-            if (Directory.Exists(entry))
-            {
-                ScanDirectory(entry, repoRoot, mappings);
+                var relativePath = Path.GetRelativePath(repoRoot, file);
+                var transliteratedName = CyrillicTransliterator.Transliterate(fileName);
+                renameMappings[relativePath] = transliteratedName;
             }
         }
+
+        return renameMappings;
     }
 
     private static bool ContainsCyrillic(string text)
