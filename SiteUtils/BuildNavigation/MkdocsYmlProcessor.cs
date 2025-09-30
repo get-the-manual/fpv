@@ -37,7 +37,7 @@ public class MkdocsYmlProcessor
         // Add new nav section at the end
         if (lines.Count > 0 && !string.IsNullOrWhiteSpace(lines[^1]))
             lines.Add("");
-        lines.AddRange(navYaml.TrimEnd().Split("\r\n"));
+        lines.AddRange(navYaml.TrimEnd().Split(Environment.NewLine));
 
         File.WriteAllText(mkdocsPath, string.Join(Environment.NewLine, lines));
     }
