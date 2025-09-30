@@ -10,3 +10,4 @@ bin/
 obj/
 *.user
 *.suo
+/SiteUtils/.vs
