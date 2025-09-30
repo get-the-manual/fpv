@@ -1,16 +1,12 @@
-using System.Text;
-using System.Text.RegularExpressions;
-
 namespace NameTransformer;
 
-public static partial class ReferenceUpdater
+public static class ReferenceUpdater
 {
     public static void UpdateMkdocsYml(string mkdocsPath, string oldName, string newName)
     {
         var content = File.ReadAllText(mkdocsPath);
         
         // Replace references in the nav section
-        // This will replace the name in paths like: "00_Дроны(Квадрокоптеры)/file.md"
         var updated = content.Replace(oldName, newName);
         
         if (updated != content)
