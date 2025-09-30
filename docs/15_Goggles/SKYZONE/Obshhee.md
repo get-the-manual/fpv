@@ -2,7 +2,7 @@
 
 [Сайт производителя](https://www.skyzonefpv.com/collections/goggles)  
 
-## Модели
+## Modeli
 **Шлемы**  
 `SKYZONE Cobra SD` - дешево, годно, сердито.  
 `SKYZONE Cobra X` - средне, оч годно и оч сердито, картинка огонь.  

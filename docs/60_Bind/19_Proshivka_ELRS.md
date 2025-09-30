@@ -1,17 +1,17 @@
-# Прошивка ELRS приемника/передатчика
+# Proshivka ELRS приемника/передатчика
 
 ## [ExpressLRS Web Flasher](https://expresslrs.github.io/web-flasher/)
 
 [Полный гайд: 4 способа прошивки ELRS приемника. YouTube: DRONOFLY FPV](https://www.youtube.com/watch?v=meUq4ThdNGc)
 
-## Прошивка внутренних передатчиков
+## Proshivka внутренних передатчиков
 [expresslrs.ru](https://expresslrs.ru/Manuals/Firmware/Transmitters/Flashing-internal-tx/)    
 [Easiest Way To Flash and Bind ExpressLRS. YouTube: Joshua Bardwell](https://www.youtube.com/watch?v=MFFUsN9ZHSU)  
 
-## Прошивка внешних передатчиков
+## Proshivka внешних передатчиков
 [expresslrs.ru](https://expresslrs.ru/Manuals/Firmware/Transmitters/Flashing-external-tx/)   
  
-## Прошивка ELRS в полетнике
+## Proshivka ELRS в полетнике
 Если приемник подключен через `SPI`, то нужно прошивать Betaflight:  
 [How to Flash and Update Betaflight Firmware on Flight Controller(oscarliang.com)](https://oscarliang.com/flash-update-betaflight/)  
 

@@ -50,7 +50,7 @@ nav:
   - Главная страница: index.md
   - Дроны:
     - Общая информация: 00_Drones/00_Obshhaya_informatsiya.md
-    - Модели:
+    - Modeli:
       - Betafpv:
         - Общая информация: 00_Drones/01_Models/Betafpv/00_Obshhaya_informatsiya.md
         - Cetus X:
@@ -61,9 +61,9 @@ nav:
           - Замена VTX C04: 00_Drones/01_Models/Betafpv/10_Cetus_X/Zamena_VTX_C04.md
           - Использование 2S баток: 00_Drones/01_Models/Betafpv/10_Cetus_X/Ispolzovanie_2S_batok.md
         - Компоненты:
-          - Camera C03: 00_Drones/01_Models/Betafpv/90_Компоненты/Camera_C03.md
-          - Camera VTX C04: 00_Drones/01_Models/Betafpv/90_Компоненты/Camera_VTX_C04.md
-          - VTX M03: 00_Drones/01_Models/Betafpv/90_Компоненты/VTX_M03.md
+          - Camera C03: 00_Drones/01_Models/Betafpv/90_Komponenty/Camera_C03.md
+          - Camera VTX C04: 00_Drones/01_Models/Betafpv/90_Komponenty/Camera_VTX_C04.md
+          - VTX M03: 00_Drones/01_Models/Betafpv/90_Komponenty/VTX_M03.md
         - Air65 Champion: 00_Drones/01_Models/Betafpv/Air65_Champion.md
         - Air65: 00_Drones/01_Models/Betafpv/Air65.md
         - Air75: 00_Drones/01_Models/Betafpv/Air75.md
@@ -92,8 +92,8 @@ nav:
     - Вопросы: 00_Drones/20_Voprosy.md
     - VTX:
       - Общая информация: 00_Drones/20_VTX/00_Obshhaya_informatsiya.md
-      - Модели:
-        - RUSH TINY TANK Nano VTX: 00_Drones/20_VTX/02_Модели/RUSH_TINY_TANK_Nano_VTX.md
+      - Modeli:
+        - RUSH TINY TANK Nano VTX: 00_Drones/20_VTX/02_Modeli/RUSH_TINY_TANK_Nano_VTX.md
       - Частоты VTX: 00_Drones/20_VTX/05_Chastoty_VTX.md
       - Кабель для проверки VTX и камеры: 00_Drones/20_VTX/10_Kabel dlya proverki VTX i kamery.md
       - Ремонт VTX: 00_Drones/20_VTX/30_Remont_VTX.md
@@ -105,28 +105,28 @@ nav:
         - Доработка: 00_Drones/20_VTX/DJI_O4/Dorabotka.md
       - OSD: 00_Drones/20_VTX/OSD.md
     - Полетник (FC):
-      - Модели:
-        - BETAFPV Air 5in1 4in1: 00_Drones/22_FC/Модели/BETAFPV_Air_5in1_4in1.md
-        - BETAFPV FC F4 1S 12A AIO: 00_Drones/22_FC/Модели/BETAFPV_FC_F4_1S_12A_AIO.md
-        - BETAFPV FC F4 1S 5A AIO: 00_Drones/22_FC/Модели/BETAFPV_FC_F4_1S_5A_AIO.md
-        - BETAFPV Matrix 1S 5in1: 00_Drones/22_FC/Модели/BETAFPV_Matrix_1S_5in1.md
-        - Happymodel CrazyG473 5in1: 00_Drones/22_FC/Модели/Happymodel_CrazyG473_5in1.md
-        - Happymodel ELRSF4 2G4: 00_Drones/22_FC/Модели/Happymodel_ELRSF4_2G4.md
-        - Happymodel SuperX 5in1: 00_Drones/22_FC/Модели/Happymodel_SuperX_5in1.md
-        - JHEMCU F435 NEO 1S AIO: 00_Drones/22_FC/Модели/JHEMCU_F435_NEO_1S_AIO.md
-        - WCRC F722 v3: 00_Drones/22_FC/Модели/WCRC_F722_v3.md
-      - Прошивка:
-        - Общее: 00_Drones/22_FC/Прошивка/22_Obshhee.md
+      - Modeli:
+        - BETAFPV Air 5in1 4in1: 00_Drones/22_FC/Modeli/BETAFPV_Air_5in1_4in1.md
+        - BETAFPV FC F4 1S 12A AIO: 00_Drones/22_FC/Modeli/BETAFPV_FC_F4_1S_12A_AIO.md
+        - BETAFPV FC F4 1S 5A AIO: 00_Drones/22_FC/Modeli/BETAFPV_FC_F4_1S_5A_AIO.md
+        - BETAFPV Matrix 1S 5in1: 00_Drones/22_FC/Modeli/BETAFPV_Matrix_1S_5in1.md
+        - Happymodel CrazyG473 5in1: 00_Drones/22_FC/Modeli/Happymodel_CrazyG473_5in1.md
+        - Happymodel ELRSF4 2G4: 00_Drones/22_FC/Modeli/Happymodel_ELRSF4_2G4.md
+        - Happymodel SuperX 5in1: 00_Drones/22_FC/Modeli/Happymodel_SuperX_5in1.md
+        - JHEMCU F435 NEO 1S AIO: 00_Drones/22_FC/Modeli/JHEMCU_F435_NEO_1S_AIO.md
+        - WCRC F722 v3: 00_Drones/22_FC/Modeli/WCRC_F722_v3.md
+      - Proshivka:
+        - Общее: 00_Drones/22_FC/Proshivka/22_Obshhee.md
         - Betaflight:
-          - Общее: 00_Drones/22_FC/Прошивка/30_Betaflight/10_Obshhee.md
-          - Вопросы: 00_Drones/22_FC/Прошивка/30_Betaflight/15_Voprosy.md
-          - Подключение к Configurator: 00_Drones/22_FC/Прошивка/30_Betaflight/17_Podklyuchenie_k_Configurator.md
-          - Установка прошивки: 00_Drones/22_FC/Прошивка/30_Betaflight/20_Ustanovka_proshivki.md
-          - Команды CLI: 00_Drones/22_FC/Прошивка/30_Betaflight/Komandy_CLI.md
-          - Anti-Gravity: 00_Drones/22_FC/Прошивка/30_Betaflight/Anti-Gravity.md
-          - Resources: 00_Drones/22_FC/Прошивка/30_Betaflight/Resources.md
-          - SoftSerial: 00_Drones/22_FC/Прошивка/30_Betaflight/SoftSerial.md
-          - Trim: 00_Drones/22_FC/Прошивка/30_Betaflight/Trim.md
+          - Общее: 00_Drones/22_FC/Proshivka/30_Betaflight/10_Obshhee.md
+          - Вопросы: 00_Drones/22_FC/Proshivka/30_Betaflight/15_Voprosy.md
+          - Подключение к Configurator: 00_Drones/22_FC/Proshivka/30_Betaflight/17_Podklyuchenie_k_Configurator.md
+          - Установка прошивки: 00_Drones/22_FC/Proshivka/30_Betaflight/20_Ustanovka_proshivki.md
+          - Команды CLI: 00_Drones/22_FC/Proshivka/30_Betaflight/Komandy_CLI.md
+          - Anti-Gravity: 00_Drones/22_FC/Proshivka/30_Betaflight/Anti-Gravity.md
+          - Resources: 00_Drones/22_FC/Proshivka/30_Betaflight/Resources.md
+          - SoftSerial: 00_Drones/22_FC/Proshivka/30_Betaflight/SoftSerial.md
+          - Trim: 00_Drones/22_FC/Proshivka/30_Betaflight/Trim.md
     - Вопросы видео: 00_Drones/23_Voprosy_video.md
     - Связь с пультом:
       - Протоколы: 00_Drones/25_RC_Connect/05_Protokoly.md
@@ -153,27 +153,27 @@ nav:
     - Rates: 00_Drones/Rates.md
   - Аппаратура(Пульты):
     - Общая информация: 10_RC/01_Obshhaya_informatsiya.md
-    - Модели:
+    - Modeli:
       - Radiomaster:
         - Pocket:
-          - Общая информация: 10_RC/10_Модели/10_Radiomaster/01_Pocket/01_Obshhaya_informatsiya.md
-          - переключение колесом мощности VTX: 10_RC/10_Модели/10_Radiomaster/01_Pocket/03_pereklyuchenie_kolesom_moshhnosti_VTX.md
-          - Черепаха на SE: 10_RC/10_Модели/10_Radiomaster/01_Pocket/05_Cherepaha_na_SE.md
-          - Bind с Meteor85: 10_RC/10_Модели/10_Radiomaster/01_Pocket/12_Bind_s_Meteor85.md
-          - Стики и удлинители: 10_RC/10_Модели/10_Radiomaster/01_Pocket/30_Stiki_i_udliniteli.md
-          - Регулировка пружин: 10_RC/10_Модели/10_Radiomaster/01_Pocket/Regulirovka_pruzhin.md
+          - Общая информация: 10_RC/10_Modeli/10_Radiomaster/01_Pocket/01_Obshhaya_informatsiya.md
+          - переключение колесом мощности VTX: 10_RC/10_Modeli/10_Radiomaster/01_Pocket/03_pereklyuchenie_kolesom_moshhnosti_VTX.md
+          - Черепаха на SE: 10_RC/10_Modeli/10_Radiomaster/01_Pocket/05_Cherepaha_na_SE.md
+          - Bind с Meteor85: 10_RC/10_Modeli/10_Radiomaster/01_Pocket/12_Bind_s_Meteor85.md
+          - Стики и удлинители: 10_RC/10_Modeli/10_Radiomaster/01_Pocket/30_Stiki_i_udliniteli.md
+          - Регулировка пружин: 10_RC/10_Modeli/10_Radiomaster/01_Pocket/Regulirovka_pruzhin.md
         - Boxer:
-          - Общая информация: 10_RC/10_Модели/10_Radiomaster/20_Boxer/01_Obshhaya_informatsiya.md
+          - Общая информация: 10_RC/10_Modeli/10_Radiomaster/20_Boxer/01_Obshhaya_informatsiya.md
         - Jumper T14:
-          - Общая информация: 10_RC/10_Модели/10_Radiomaster/Jumper_T14/01_Obshhaya_informatsiya.md
+          - Общая информация: 10_RC/10_Modeli/10_Radiomaster/Jumper_T14/01_Obshhaya_informatsiya.md
       - Betafpv:
         - LiteRadio:
-          - Literadio2 3: 10_RC/10_Модели/30_Betafpv/LiteRadio/01_Literadio2_3.md
-          - Ремонт стиков: 10_RC/10_Модели/30_Betafpv/LiteRadio/02_Remont_stikov.md
-          - Замена резисторов: 10_RC/10_Модели/30_Betafpv/LiteRadio/04_Zamena_rezistorov.md
-          - Стики на датчиках Холла: 10_RC/10_Модели/30_Betafpv/LiteRadio/10_Stiki_na_datchikah_Holla.md
-          - Калибровка стиков: 10_RC/10_Модели/30_Betafpv/LiteRadio/15_Kalibrovka_stikov.md
-          - LiteRadio 2 SIM: 10_RC/10_Модели/30_Betafpv/LiteRadio/20_LiteRadio_2_SIM.md
+          - Literadio2 3: 10_RC/10_Modeli/30_Betafpv/LiteRadio/01_Literadio2_3.md
+          - Ремонт стиков: 10_RC/10_Modeli/30_Betafpv/LiteRadio/02_Remont_stikov.md
+          - Замена резисторов: 10_RC/10_Modeli/30_Betafpv/LiteRadio/04_Zamena_rezistorov.md
+          - Стики на датчиках Холла: 10_RC/10_Modeli/30_Betafpv/LiteRadio/10_Stiki_na_datchikah_Holla.md
+          - Калибровка стиков: 10_RC/10_Modeli/30_Betafpv/LiteRadio/15_Kalibrovka_stikov.md
+          - LiteRadio 2 SIM: 10_RC/10_Modeli/30_Betafpv/LiteRadio/20_LiteRadio_2_SIM.md
     - Вопросы: 10_RC/20_Voprosy.md
     - Вопросы Edge TX: 10_RC/25_Voprosy_Edge_TX.md
     - FCC и LBT: 10_RC/27_FCC_i_LBT.md
@@ -194,56 +194,56 @@ nav:
     - SKYZONE:
       - Общее: 15_Goggles/SKYZONE/Obshhee.md
   - Симуляторы:
-    - Общие вопросы: 20_Симуляторы/03_Obshhie_voprosy.md
-    - Какой сим выбрать: 20_Симуляторы/05_Kakoj_sim_vybrat.md
-    - Сравнение: 20_Симуляторы/07_Sravnenie.md
-    - Подключение аппаратуры к симулятору: 20_Симуляторы/20_Podklyuchenie_apparatury_k_simulyatoru.md
-    - Дрифт в симуляторе: 20_Симуляторы/50_Drift_v_simulyatore.md
-    - Сколько тренироваться: 20_Симуляторы/Skolko_trenirovatsya.md
-    - DCL - The Game: 20_Симуляторы/DCL_-_The_Game.md
-    - DRL: 20_Симуляторы/DRL.md
-    - EreaDrone: 20_Симуляторы/EreaDrone.md
-    - FPV Freerider: 20_Симуляторы/FPV_Freerider.md
-    - FPV LOGIC: 20_Симуляторы/FPV_LOGIC.md
-    - FPV SkyDive: 20_Симуляторы/FPV_SkyDive.md
-    - Liftoff Microdrones: 20_Симуляторы/Liftoff_Microdrones.md
-    - Liftoff: 20_Симуляторы/Liftoff.md
-    - Real Drone Simulator: 20_Симуляторы/Real_Drone_Simulator.md
-    - TRYP FPV: 20_Симуляторы/TRYP_FPV.md
-    - Uncrashed: 20_Симуляторы/Uncrashed.md
-    - Velocidrone: 20_Симуляторы/Velocidrone.md
+    - Общие вопросы: 20_Simulyatory/03_Obshhie_voprosy.md
+    - Какой сим выбрать: 20_Simulyatory/05_Kakoj_sim_vybrat.md
+    - Сравнение: 20_Simulyatory/07_Sravnenie.md
+    - Подключение аппаратуры к симулятору: 20_Simulyatory/20_Podklyuchenie_apparatury_k_simulyatoru.md
+    - Дрифт в симуляторе: 20_Simulyatory/50_Drift_v_simulyatore.md
+    - Сколько тренироваться: 20_Simulyatory/Skolko_trenirovatsya.md
+    - DCL - The Game: 20_Simulyatory/DCL_-_The_Game.md
+    - DRL: 20_Simulyatory/DRL.md
+    - EreaDrone: 20_Simulyatory/EreaDrone.md
+    - FPV Freerider: 20_Simulyatory/FPV_Freerider.md
+    - FPV LOGIC: 20_Simulyatory/FPV_LOGIC.md
+    - FPV SkyDive: 20_Simulyatory/FPV_SkyDive.md
+    - Liftoff Microdrones: 20_Simulyatory/Liftoff_Microdrones.md
+    - Liftoff: 20_Simulyatory/Liftoff.md
+    - Real Drone Simulator: 20_Simulyatory/Real_Drone_Simulator.md
+    - TRYP FPV: 20_Simulyatory/TRYP_FPV.md
+    - Uncrashed: 20_Simulyatory/Uncrashed.md
+    - Velocidrone: 20_Simulyatory/Velocidrone.md
   - Полеты:
-    - Обучение полетам: 30_Полеты/10_Obuchenie_poletam.md
-    - Обучение трюкам: 30_Полеты/20_Obuchenie_tryukam.md
-    - Вопросы: 30_Полеты/24_Voprosy.md
-    - Каталог Трюков: 30_Полеты/26_Katalog_Tryukov.md
+    - Обучение полетам: 30_Polety/10_Obuchenie_poletam.md
+    - Обучение трюкам: 30_Polety/20_Obuchenie_tryukam.md
+    - Вопросы: 30_Polety/24_Voprosy.md
+    - Каталог Трюков: 30_Polety/26_Katalog_Tryukov.md
     - Гонки или соревнования:
-      - Общее: 30_Полеты/30_Гонки_или_соревнования/10_Obshhee.md
-      - IGOW: 30_Полеты/30_Гонки_или_соревнования/IGOW.md
-      - RaceGOW: 30_Полеты/30_Гонки_или_соревнования/RaceGOW.md
-      - VDT: 30_Полеты/30_Гонки_или_соревнования/VDT.md
-      - weBLEEDfpv: 30_Полеты/30_Гонки_или_соревнования/weBLEEDfpv.md
+      - Общее: 30_Polety/30_Gonki_ili_sorevnovaniya/10_Obshhee.md
+      - IGOW: 30_Polety/30_Gonki_ili_sorevnovaniya/IGOW.md
+      - RaceGOW: 30_Polety/30_Gonki_ili_sorevnovaniya/RaceGOW.md
+      - VDT: 30_Polety/30_Gonki_ili_sorevnovaniya/VDT.md
+      - weBLEEDfpv: 30_Polety/30_Gonki_ili_sorevnovaniya/weBLEEDfpv.md
     - Изготовление трасс:
-      - Общее: 30_Полеты/Изготовление_трасс/01_Obshhee.md
-      - Для вупов: 30_Полеты/Изготовление_трасс/Dlya_vupov.md
-      - WhoopMANIA S1 Track1: 30_Полеты/Изготовление_трасс/WhoopMANIA_S1_Track1.md
-    - Серия трюков: 30_Полеты/Seriya_tryukov.md
-    - Стили Freestyle: 30_Полеты/Stili_Freestyle.md
-    - Freestyle в помещении: 30_Полеты/Freestyle_v_pomeshhenii.md
+      - Общее: 30_Polety/Izgotovlenie_trass/01_Obshhee.md
+      - Для вупов: 30_Polety/Izgotovlenie_trass/Dlya_vupov.md
+      - WhoopMANIA S1 Track1: 30_Polety/Izgotovlenie_trass/WhoopMANIA_S1_Track1.md
+    - Серия трюков: 30_Polety/Seriya_tryukov.md
+    - Стили Freestyle: 30_Polety/Stili_Freestyle.md
+    - Freestyle в помещении: 30_Polety/Freestyle_v_pomeshhenii.md
   - Зарядные устройства:
     - Общая информация: 50_Charger/05_Obshhaya informatsiya.md
     - Зарядные устройства: 50_Charger/20_Zaryadnye_ustrojstva.md
     - Зарядка BetaFPV: 50_Charger/30_Zaryadka_BetaFPV.md
   - Аксессуары:
-    - Сумки, футляры: 60_Аксессуары/10_Sumki,_futlyary.md
-    - 3D модели: 60_Аксессуары/3D_modeli.md
+    - Сумки, футляры: 60_Aksessuary/10_Sumki,_futlyary.md
+    - 3D модели: 60_Aksessuary/3D_modeli.md
   - Bind:
     - Введение: 60_Bind/10_Vvedenie.md
     - Протокол FrSky: 60_Bind/15_Protokol_FrSky.md
     - Протокол DJI: 60_Bind/16_Protokol_DJI.md
     - Протокол ELRS: 60_Bind/17_Protokol_ELRS.md
     - Подключение приемника: 60_Bind/18_Podklyuchenie_priemnika.md
-    - Прошивка ELRS: 60_Bind/19_Proshivka_ELRS.md
+    - Proshivka ELRS: 60_Bind/19_Proshivka_ELRS.md
     - Версия ELRS: 60_Bind/20_Versiya_ELRS.md
     - Режим Bind дрона с UART: 60_Bind/40_Rezhim_Bind_drona_s_UART.md
     - Bind фраза дрона с UART: 60_Bind/44_Bind_fraza_drona_s_UART.md
