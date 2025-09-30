@@ -9,8 +9,6 @@ repo_url: https://github.com/get-the-manual/fpv
 edit_uri: edit/main/docs/
 
 plugins:
-  - gen_nav:
-      enabled: false
   - search
   - autorefs
   - git-revision-date-localized:
