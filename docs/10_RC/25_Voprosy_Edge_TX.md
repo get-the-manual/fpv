@@ -29,7 +29,7 @@
 Также можно косвенно понять что активный в данный момент передатчик на ELRS.  
 Нажимаем кнопку `SYS`. Попадаем на первый экран `TOOLS`. Есть есть строчка `ExpressLRS`, то в аппе присутствует LUA скрипт для настройки ELRS передатчика. Скорее всего в аппе и стоит ELRS передатчик. Можно нажать на `ExpressLRS`. Если скрипт загрузится и будет доступно меню настройки, то в самом низу можно посмотреть версию прошивки ELRS.
 
-## Proshivka ELRS передатчика
+## Прошивка ELRS передатчика
 [ExpressLRS.RU](https://expresslrs.ru/Manuals/Firmware/Transmitters/Flashing-internal-tx/)  
 [Updating Internal ExpressLRS Module](https://oscarliang.com/setup-radiomaster-pocket/#Updating-Internal-ExpressLRS-Module)
 
@@ -80,14 +80,14 @@
 
 [Режим черепахи на кнопку SE](./10_Modeli/10_Radiomaster/01_Pocket/05_Cherepaha_na_SE.md)  
 
-## Proshivka для аппаратуры EdgeTX
+## Прошивка для аппаратуры EdgeTX
 [Официальный сайт](https://edgetx.org/)
 
 [GitHub репозиторий EdgeTX проекта](https://github.com/EdgeTX/edgetx)
 
-[GitHub репозиторий EdgeTX SD Card Contents](https://github.com/EdgeTX/edgetx-sdcard)
+[GitHub репозиторий EdgeTX SD Card Contents. Содержимое SD карты](https://github.com/EdgeTX/edgetx-sdcard)
 
-[Прошивки (Firmware) для аппаратур RadioMaster](https://www.radiomasterrc.com/pages/firmware-updates)
+[Прошивки (Firmware) и содержимое SD карты для аппаратур RadioMaster](https://www.radiomasterrc.com/pages/firmware-updates)
 
 [How to Update EdgeTX in your Radio](https://oscarliang.com/flash-edgetx/)
 

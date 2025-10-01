@@ -50,7 +50,7 @@ nav:
   - Главная страница: index.md
   - Дроны:
     - Общая информация: 00_Drones/00_Obshhaya_informatsiya.md
-    - Modeli:
+    - Модели:
       - Betafpv:
         - Общая информация: 00_Drones/01_Models/Betafpv/00_Obshhaya_informatsiya.md
         - Cetus X:
@@ -92,7 +92,7 @@ nav:
     - Вопросы: 00_Drones/20_Voprosy.md
     - VTX:
       - Общая информация: 00_Drones/20_VTX/00_Obshhaya_informatsiya.md
-      - Modeli:
+      - Модели:
         - RUSH TINY TANK Nano VTX: 00_Drones/20_VTX/02_Modeli/RUSH_TINY_TANK_Nano_VTX.md
       - Частоты VTX: 00_Drones/20_VTX/05_Chastoty_VTX.md
       - Кабель для проверки VTX и камеры: 00_Drones/20_VTX/10_Kabel dlya proverki VTX i kamery.md
@@ -105,7 +105,7 @@ nav:
         - Доработка: 00_Drones/20_VTX/DJI_O4/Dorabotka.md
       - OSD: 00_Drones/20_VTX/OSD.md
     - Полетник (FC):
-      - Modeli:
+      - Модели:
         - BETAFPV Air 5in1 4in1: 00_Drones/22_FC/Modeli/BETAFPV_Air_5in1_4in1.md
         - BETAFPV FC F4 1S 12A AIO: 00_Drones/22_FC/Modeli/BETAFPV_FC_F4_1S_12A_AIO.md
         - BETAFPV FC F4 1S 5A AIO: 00_Drones/22_FC/Modeli/BETAFPV_FC_F4_1S_5A_AIO.md
@@ -115,7 +115,7 @@ nav:
         - Happymodel SuperX 5in1: 00_Drones/22_FC/Modeli/Happymodel_SuperX_5in1.md
         - JHEMCU F435 NEO 1S AIO: 00_Drones/22_FC/Modeli/JHEMCU_F435_NEO_1S_AIO.md
         - WCRC F722 v3: 00_Drones/22_FC/Modeli/WCRC_F722_v3.md
-      - Proshivka:
+      - Прошивка:
         - Общее: 00_Drones/22_FC/Proshivka/22_Obshhee.md
         - Betaflight:
           - Общее: 00_Drones/22_FC/Proshivka/30_Betaflight/10_Obshhee.md
@@ -157,7 +157,7 @@ nav:
       - Radiomaster:
         - Pocket:
           - Общая информация: 10_RC/10_Modeli/10_Radiomaster/01_Pocket/01_Obshhaya_informatsiya.md
-          - переключение колесом мощности VTX: 10_RC/10_Modeli/10_Radiomaster/01_Pocket/03_pereklyuchenie_kolesom_moshhnosti_VTX.md
+          - Переключение колесом мощности VTX: 10_RC/10_Modeli/10_Radiomaster/01_Pocket/03_pereklyuchenie_kolesom_moshhnosti_VTX.md
           - Черепаха на SE: 10_RC/10_Modeli/10_Radiomaster/01_Pocket/05_Cherepaha_na_SE.md
           - Bind с Meteor85: 10_RC/10_Modeli/10_Radiomaster/01_Pocket/12_Bind_s_Meteor85.md
           - Стики и удлинители: 10_RC/10_Modeli/10_Radiomaster/01_Pocket/30_Stiki_i_udliniteli.md
