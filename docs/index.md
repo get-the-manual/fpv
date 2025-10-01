@@ -71,7 +71,8 @@
 [Дроны, вупы, FPV...🐬](https://t.me/whoop_chat)  
 В чате присутствует `Лось` (нейронка). Иногда отвечает невпопад. 
 
-[StephanaoFpv Chat 2.0](https://t.me/whoopfanchat1)
+
+[Чат Спільноти FPVUA(укр.)](https://t.me/+luyjjHjDLmk2ZTZi)
 
 #### Блогеры и гонщики
 
@@ -88,26 +89,20 @@
 
 ```
 Группы
-  Petrokey 
-  Fpv барахолка
-  Fpv барахолка FREE
-  Spinnerproduction
-  База - VORON FPV
+  Fpv барахолка  
+  Fpv барахолка FREE  
+  Spinnerproduction  
+  База - VORON FPV  
 
-Каналы
-  Lavka u Lisa
-  Onlyhwhoops
-  Recopter
-  LeshaRodinFpv
-  NskFpv-pilot
-  StephanaoFpv
+Каналы  
+  Lavka u Lisa  
+  Onlyhwhoops  
+  Recopter  
+  LeshaRodinFpv  
+  NskFpv-pilot  
+  [StephanaoFpv Chat 2.0](https://t.me/whoopfanchat1)
 
 Чаты
-  DRS Микродроны
-  DRS Крылья (самолётный)
-  LeshaRodin
-  NskFpv Live
-  StephanaoFpv чат
-  Гоночные дроны, летающие крылья, FPV...
+  NskFpv Live  
   FX707S (самолётный)
 ```
