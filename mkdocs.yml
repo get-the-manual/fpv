@@ -243,16 +243,18 @@ nav:
     - Протокол DJI: 60_Bind/16_Protokol_DJI.md
     - Протокол ELRS: 60_Bind/17_Protokol_ELRS.md
     - Подключение приемника: 60_Bind/18_Podklyuchenie_priemnika.md
-    - Proshivka ELRS: 60_Bind/19_Proshivka_ELRS.md
+    - Прошивка ELRS: 60_Bind/19_Proshivka_ELRS.md
     - Версия ELRS: 60_Bind/20_Versiya_ELRS.md
-    - Режим Bind дрона с UART: 60_Bind/40_Rezhim_Bind_drona_s_UART.md
-    - Bind фраза дрона с UART: 60_Bind/44_Bind_fraza_drona_s_UART.md
-    - Режим Bind дрона с SPI: 60_Bind/50_Rezhim_Bind_drona_s_SPI.md
-    - Bind фраза дрона с SPI: 60_Bind/54_Bind_fraza_drona_s_SPI.md
-    - Bind фраза пульта EdgeTX: 60_Bind/56_Bind_fraza_pulta_EdgeTX.md
-    - Bind фраза пульта LiteRadio: 60_Bind/58_Bind_fraza_pulta_LiteRadio.md
-    - Режим Bind пульта EdgeTX: 60_Bind/60_Rezhim_Bind_pulta_EdgeTX.md
-    - Режим Bind пульта Literadio3: 60_Bind/62_Rezhim_Bind_pulta_Literadio3.md
+    - Режим Bind:
+      - Дрона с UART: 60_Bind/40_Rezhim_Bind_drona_s_UART.md
+      - Дрона с SPI: 60_Bind/50_Rezhim_Bind_drona_s_SPI.md
+      - Пульта EdgeTX: 60_Bind/60_Rezhim_Bind_pulta_EdgeTX.md
+      - Пульта Literadio3: 60_Bind/62_Rezhim_Bind_pulta_Literadio3.md
+    - Bind фраза:
+      - Дрона с UART: 60_Bind/44_Bind_fraza_drona_s_UART.md
+      - Дрона с SPI: 60_Bind/54_Bind_fraza_drona_s_SPI.md
+      - Пульта EdgeTX: 60_Bind/56_Bind_fraza_pulta_EdgeTX.md
+      - Пульта LiteRadio: 60_Bind/58_Bind_fraza_pulta_LiteRadio.md
     - Проблемы: 60_Bind/70_Problemy.md
   - Что купить или собрать: 70_Chto_kupit_ili_sobrat.md
   - Видеомонтаж: Videomontazh.md
