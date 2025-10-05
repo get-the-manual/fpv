@@ -145,6 +145,8 @@ nav:
       - Сравнение: 00_Drones/40_Prop/30_Sravnenie.md
     - Рамы:
       - Рама для 1S 450: 00_Drones/45_Frame/Rama_dlya_1S_450.md
+    - ESC:
+      - Общая информация: 00_Drones/50_ESC/General.md
     - Батареи: 00_Drones/Batarei.md
     - Защита от воды: 00_Drones/Zashhita_ot_vody.md
     - Режимы полета: 00_Drones/Rezhimy_poleta.md
