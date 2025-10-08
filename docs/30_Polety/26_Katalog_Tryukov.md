@@ -271,13 +271,30 @@ Pitch на себя на 180 (смотрим назад), Roll 360+180
 Взлетаем к потолку, передним Roll 180 или Pitch 180, контакт об потолок.   
 Далее можно Pitch назад/вперед и дайв
 
-## Колодец
+## Колодец, куб
 Залёт в колодец и вылет вправо, влево, назад.  
+
+### Cube Ejects
+![](Trick_CubeEject1.gif)  
+
+![](Trick_CubeEject2.gif)  
+
+![](Trick_CubeEject3.gif)  
+
+![](Trick_CubeEject4.gif)  
+
+![](Trick_CubeEject5.gif)  
 
 ### Backwards Dive
 Подлетаем к колодцу, Pitch на себя и падаем спиной.
 
 ## Другое
+
+### Frogi Flip from `Frogi@`
+![](Trick_FroggyFlip.gif)
+
+### Hallway Turn from [Dinglez](https://www.youtube.com/@Dinglez44)
+![](Trick_HallwayTurn_Dinglez.gif)
 
 ### Knife Edge
 Пролетаем в узкий вертикальный пролет, перед ним roll 90, чтобы пройти через него  
