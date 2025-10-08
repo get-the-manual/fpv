@@ -12,3 +12,10 @@
 ## [Рюкзак Torvol Quad Pitstop Backpack V2](https://torvol.com/product/quad-pitstop-backpack-v2)
 ![](TorvolBackpack1.png)  
 ![](TorvolBackpack2.jpg)  
+
+## Кейс (сумка, чехол) для очков
+[Кейс для DJI Goggles G3 на ozon](https://www.ozon.ru/product/keys-sumka-chehol-dlya-ochkov-maski-zhestkiy-1082697074/)  
+![](Case_G3_1.jpg)  
+![](Case_G3_2.jpg)  
+
+Отзыв: Подтверждаю.  googles 3 в этот чехол влезают, плотненько и хорошо.
