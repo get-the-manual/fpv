@@ -251,6 +251,9 @@ Pitch на себя на 180 (смотрим назад), Roll 360+180
 - Yaw 180 и дайв вниз  
 - Powerloop  
 
+От `dronarchy.fpv`  
+![](Trick_dronarchy_fpv_Stall.gif)
+
 ### Wall Tap (Wall bonk)
 Подлетаем к стене, контакт, выравниваемся  
 ![](https://prowhooper.com/wp-content/uploads/2023/12/1000036169.gif)
@@ -274,15 +277,20 @@ Pitch на себя на 180 (смотрим назад), Roll 360+180
 ## Колодец, куб
 Залёт в колодец и вылет вправо, влево, назад.  
 
-### Cube Ejects
+### Cube Ejects from [FPVSkittles](https://www.youtube.com/@FPVSkittles)
+Standard Cube Eject  
 ![](Trick_CubeEject1.gif)  
 
+Backflip Cube Eject  
 ![](Trick_CubeEject2.gif)  
 
+Roll Cube Eject  
 ![](Trick_CubeEject3.gif)  
 
+Backflip+Roll Cube Eject  
 ![](Trick_CubeEject4.gif)  
 
+Ceiling Tap Cube Eject  
 ![](Trick_CubeEject5.gif)  
 
 ### Backwards Dive
@@ -295,6 +303,9 @@ Pitch на себя на 180 (смотрим назад), Roll 360+180
 
 ### Hallway Turn from [Dinglez](https://www.youtube.com/@Dinglez44)
 ![](Trick_HallwayTurn_Dinglez.gif)
+
+### Спираль вверх/вниз от `dronarchy.fpv`
+![](Trick_dronarchy_fpv_MindBender.gif)
 
 ### Knife Edge
 Пролетаем в узкий вертикальный пролет, перед ним roll 90, чтобы пройти через него  
