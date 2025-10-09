@@ -1,4 +1,4 @@
-# Proshivka Betaflight
+# Прошивка Betaflight
 ![](BetaflightLogo.png)
 
 Betaflight - это открытое программное обеспечение (встроенное ПО) контроллера полета, используемое для настройки и полетов на различных аппаратах, (квадрокоптерах, гексакоптеров, октокоптеров) под управлением полетных контроллеров, работающих под прошивкой Betaflight.
@@ -13,8 +13,11 @@ sudo apt install betaflight-configurator
 sudo pacman -S betaflight-configurator
 ```
 
-## Видео по настройке дрона в Betaflight
+## Настройка дрона в Betaflight
 [Настройка FPV дрона в Betaflight для новичков + прошивка ESC BiHeli_S, BlueJay. YouTube: Recopter](https://www.youtube.com/watch?v=yJxMRLE3dVI)  
+
+[КАК СОБРАТЬ ДРОН С FPV КАМЕРОЙ ЗА $89!. YouTube: recopter](https://www.youtube.com/watch?v=t7Dv1oOI_Qk)  
+В видео есть пошаговая настройка дрона в Betaflight
 
 [Типичная настройка дрона после сборки на примере 5" фристайлового квадрокоптера. YouTube: PropWash Service](https://www.youtube.com/watch?v=gLDMeevq410)
 
