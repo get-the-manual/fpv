@@ -10,6 +10,7 @@
 
 
 ## Установка
+
 ```
 pip install mkdocs
 pip install mkdocs-material
@@ -18,6 +19,7 @@ pip install mkdocs-autorefs
 ```
 
 ## Локальный запуск
+
 ```
 mkdocs serve
 ```
