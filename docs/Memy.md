@@ -5,4 +5,3 @@
 ![](DJI_pilot.jpg)
 
 ![](Mozgi.jpg)
-

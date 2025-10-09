@@ -51,7 +51,7 @@ nav:
   - Дроны:
     - Общая информация: 00_Drones/00_Obshhaya_informatsiya.md
     - Модели:
-      - Betafpv:
+      - BETAFPV:
         - Общая информация: 00_Drones/01_Models/Betafpv/00_Obshhaya_informatsiya.md
         - Cetus X:
           - Общее: 00_Drones/01_Models/Betafpv/10_Cetus_X/10_Obshhee.md
@@ -144,7 +144,7 @@ nav:
       - Снять надеть: 00_Drones/40_Prop/20_Snyat_nadet.md
       - Сравнение: 00_Drones/40_Prop/30_Sravnenie.md
     - Рамы:
-      - Рама для 1S 450: 00_Drones/45_Frame/Rama_dlya_1S_450.md
+      - Для 1S: 00_Drones/45_Frame/1S.md
     - ESC:
       - Общая информация: 00_Drones/50_ESC/General.md
     - Батареи: 00_Drones/Batarei.md
@@ -153,6 +153,7 @@ nav:
     - GPS: 00_Drones/GPS.md
     - PID: 00_Drones/PID.md
     - Rates: 00_Drones/Rates.md
+    - LED: 00_Drones/LED.md
   - Аппаратура(Пульты):
     - Общая информация: 10_RC/01_Obshhaya_informatsiya.md
     - Модели:

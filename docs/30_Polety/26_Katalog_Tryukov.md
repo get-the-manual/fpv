@@ -307,7 +307,10 @@ Ceiling Tap Cube Eject
 
 ## Другое
 
-### Frogi Flip from `Frogi@`
+### Matty Stall Rewind
+![](https://prowhooper.com/wp-content/uploads/2024/02/1000039660.gif)
+
+На этот трик похож изобретенный `Frogi@` трик с Matty Flip перед стеной `Frogi Flip`  
 ![](Trick_FroggyFlip.gif)
 
 ### Hallway Turn from [Dinglez](https://www.youtube.com/@Dinglez44)

@@ -9,3 +9,8 @@
 [Bluejay - GitHub repository](https://github.com/bird-sanctuary/bluejay)  
 
 [How to Flash, Update and Configure AM32 ESC (Backup & Restore Settings) - Oscar Liang](https://oscarliang.com/flash-update-am32-esc/)
+
+## Проблемы
+
+После перепрошивки на разные версии Betaflight перестают крутиться те или иные моторы.  
+Решение: иногда помогает перепрошивка ESC на разные версии: 2.16, 2.18

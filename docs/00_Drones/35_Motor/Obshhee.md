@@ -8,6 +8,11 @@
 
 [FPV motors and what you need to know!. YouTube: Illuminate Drones Light Shows](https://www.youtube.com/watch?v=17eIl9JDoXI)
 
+## Направление вращения
+
+От камеры  
+![](Motor_RotateDirection.jpg)
+
 ## Прошивка ESC на вупе
 Идём на сайт [https://esc-configurator.com/](https://esc-configurator.com/).  
 Втыкаем батарейку в вуп, прошиваем все регули на последнюю версию `BlueJay` 48/96khz.  
