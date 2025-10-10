@@ -1,5 +1,7 @@
 # LED, светодиодная подсветка
 
+[How to Add RGB LEDs to Your FPV Drone & Setup in Betaflight (Step-by-Step Tutorial) - Oscar Liang](https://oscarliang.com/setup-led-betaflight/)
+
 [533 Tiny Trainer LED setup - change LED color with aux channel! YouTube: Joshua Bardwell](https://www.youtube.com/watch?v=WIotROCU2VY)  
 Настройка цветов
 

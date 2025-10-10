@@ -37,6 +37,8 @@
 
 [FPV Know-It-All (fpvknowitall) - The Ultimate FPV Shopping List by Joshua Bardwell](https://www.fpvknowitall.com/)
 
+[DoggyDog.blog — Блог о FPV полетах](https://doggydog.blog/)
+
 ### Telegram
 
 [Петрокей FPV](https://t.me/petrokeyfpv)
@@ -110,4 +112,5 @@ spinnerproduction.ru
 [Є-Дрон | E-Drone](https://t.me/e_drones) (укр.)  
 [Smakadron](https://t.me/SmakadronChannel) (укр.)  
 [NskFpv-pilot](https://t.me/nskfpvpilot)  
-[StephanaoFpv Chat 2.0](https://t.me/whoopfanchat1)
+[StephanaoFpv Chat 2.0](https://t.me/whoopfanchat1)  
+[DoggyDog.blog](https://t.me/doggydb)
