@@ -82,6 +82,9 @@ spinnerproduction.ru
 [FPV Новосибирск (@nskfpv)](https://t.me/nskfpv)  
 Чатик для квадрокоптеристов, самолетчиков и прочих радио моделистов.
 
+[FPV Tricks](https://t.me/fpv_tricks)  
+Подборка анимационных видео с различными триками
+
 #### Барахолки
 
 [Петрокей FPV](https://t.me/petrokeyfpv)  
