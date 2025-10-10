@@ -11,7 +11,20 @@
 			"BETAFPV",
 			"Frogi",
 			"Matty",
+			"дроне",
+			"заармлен",
 			"трик"
+		],
+		"cSpell.ignorePaths": [
+			"mkdocs.yml",
+			"fpv.code-workspace",
+			"package-lock.json",
+			"node_modules",
+			"vscode-extension",
+			".git/{info,lfs,logs,refs,objects}/**",
+			".git/{index,*refs,*HEAD}",
+			".vscode",
+			".vscode-insiders"
 		]
 	}
 }

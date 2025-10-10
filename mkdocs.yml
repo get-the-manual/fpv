@@ -177,13 +177,15 @@ nav:
           - Стики на датчиках Холла: 10_RC/10_Modeli/30_Betafpv/LiteRadio/10_Stiki_na_datchikah_Holla.md
           - Калибровка стиков: 10_RC/10_Modeli/30_Betafpv/LiteRadio/15_Kalibrovka_stikov.md
           - LiteRadio 2 SIM: 10_RC/10_Modeli/30_Betafpv/LiteRadio/20_LiteRadio_2_SIM.md
-    - Вопросы: 10_RC/20_Voprosy.md
-    - Вопросы Edge TX: 10_RC/25_Voprosy_Edge_TX.md
+    - Общие вопросы: 10_RC/20_Voprosy.md
+    - Edge TX:
+      - Общие вопросы: 10_RC/25_Voprosy_Edge_TX.md
+      - Edge TX Menu: 10_RC/30_Edge_TX_Menu.md
+      - Пульт зависает: 10_RC/29_Pult_zavisaet.md
+      - Настройка телеметрии: 10_RC/40_Nastrojka_telemetrii.md
+      - Озвучка низкого напряжения: 10_RC/Ozvuchka_nizkogo_napryazheniya.md
+      - Таймер использования: 10_RC/EdgeTX_ArmTimer.md
     - FCC и LBT: 10_RC/27_FCC_i_LBT.md
-    - Пульт зависает: 10_RC/29_Pult_zavisaet.md
-    - Edge TX Menu: 10_RC/30_Edge_TX_Menu.md
-    - Настройка телеметрии: 10_RC/40_Nastrojka_telemetrii.md
-    - Озвучка низкого напряжения: 10_RC/Ozvuchka_nizkogo_napryazheniya.md
   - Шлемы Очки:
     - Общее: 15_Goggles/10_Obshhee.md
     - Антенны на аналог: 15_Goggles/20_Antenny_na_analog.md
