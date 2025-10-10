@@ -103,6 +103,7 @@ nav:
       - DJI O4:
         - Общее: 00_Drones/20_VTX/DJI_O4/10_Obshhee.md
         - Доработка: 00_Drones/20_VTX/DJI_O4/Dorabotka.md
+        - Защита от воды: 00_Drones/20_VTX/DJI_O4/WaterProtect.md
       - OSD: 00_Drones/20_VTX/OSD.md
     - Полетник (FC):
       - Модели:

@@ -27,7 +27,7 @@ Patrick Watkins](https://www.youtube.com/watch?v=vYaq1cCAjTs)
 - The Ellipse  
 - The Inward Flip  
 - The Bhop  
-- The 360 Flip  
+- The 360 Flip  м
 - Maverick to Matty  
 - Drunk Slalom  
 - Roll backwards  
@@ -47,7 +47,9 @@ Patrick Watkins](https://www.youtube.com/watch?v=vYaq1cCAjTs)
 Подборка видео с канала в одном листе:  
 [A master list of FPV tricks and manuevers and how to do them](https://wrekd.com/pages/a-master-list-of-fpv-tricks-and-manuevers-and-how-to-do-them)
 
-## [Telegram channel 'FPV Tricks'](https://t.me/fpv_tricks)
+## [FPV Tricks](https://t.me/fpv_tricks)  
+
+Подборка анимационных видео с различными триками
 
 ## Отдельные трюки
 
