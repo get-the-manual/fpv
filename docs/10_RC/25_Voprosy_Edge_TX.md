@@ -105,7 +105,7 @@
 
 ### Model Locator by RSSI
 Так же имеется LUA-скрипт `ModelLocator`, который можно закинуть на карту памяти пульта и запустить, нажав кнопку `SYS` и выбрав ModelLocator. Скрипт можно скачать из [официального GitHub репозитория с содержимым SD карт](https://github.com/EdgeTX/edgetx-sdcard).  
-Например, для пультов с ЧБ экраном типа RadioMaster Pocket[отсюда](https://github.com/EdgeTX/edgetx-sdcard/tree/master/sdcard/bw128x64/SCRIPTS/TOOLS) нужно скачать файлы `ModelLocator.lua`, `modloc.wav` и положить по тому же пути `SCRIPTS\TOOLS` на карту в пульте.
+Например, для пультов с ЧБ экраном типа RadioMaster Pocket [отсюда](https://github.com/EdgeTX/edgetx-sdcard/tree/master/sdcard/bw128x64/SCRIPTS/TOOLS) нужно скачать файлы `ModelLocator.lua`, `modloc.wav` и положить по тому же пути `SCRIPTS\TOOLS` на карту в пульте.
 
 Рекомендуется установить мощность передатчика на уровень 25mW.
 
