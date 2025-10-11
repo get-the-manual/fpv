@@ -8,6 +8,8 @@
 
 [FPV motors and what you need to know!. YouTube: Illuminate Drones Light Shows](https://www.youtube.com/watch?v=17eIl9JDoXI)
 
+[БАЗА про МОТОРИ | Як підібрати мотори для FPV? YouTube: Phoenix drones (укр.)](https://www.youtube.com/watch?v=bSuh5TiQWGw)
+
 ## Направление вращения
 
 От камеры  
