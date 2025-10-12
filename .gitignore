@@ -11,3 +11,4 @@ obj/
 *.user
 *.suo
 /SiteUtils/.vs
+/docs/.obsidian
