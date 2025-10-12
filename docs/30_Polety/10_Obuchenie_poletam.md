@@ -1,5 +1,6 @@
 # Обучение полетам на FPV дроне
-[Как начать летать в ACRO на FPV коптере. YouTube: Alex All](https://www.youtube.com/watch?v=t9Nb8-qjZ3A)
+[Как начать летать в ACRO на FPV коптере. YouTube: Alex All](https://www.youtube.com/watch?v=t9Nb8-qjZ3A)  
+<iframe src="https://www.youtube.com/embed/t9Nb8-qjZ3A"></iframe>
 
 [Как быстро и безопасно научиться летать на FPV дроне. Симуляторы. YouTube: SetUp](https://www.youtube.com/watch?v=WUCFuBNKXnM)
 
