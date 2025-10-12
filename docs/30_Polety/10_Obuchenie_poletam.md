@@ -2,7 +2,8 @@
 [Как начать летать в ACRO на FPV коптере. YouTube: Alex All](https://www.youtube.com/watch?v=t9Nb8-qjZ3A)  
 <iframe src="https://www.youtube.com/embed/t9Nb8-qjZ3A"></iframe>
 
-[Как быстро и безопасно научиться летать на FPV дроне. Симуляторы. YouTube: SetUp](https://www.youtube.com/watch?v=WUCFuBNKXnM)
+[Как быстро и безопасно научиться летать на FPV дроне. Симуляторы. YouTube: SetUp](https://www.youtube.com/watch?v=WUCFuBNKXnM)  
+<iframe src="https://www.youtube.com/embed/WUCFuBNKXnM"></iframe>
 
 [Учимся летать на FPV. С чего начать. YouTube: Horizon](https://www.youtube.com/watch?v=fgZnj6Oskxk)
 
@@ -10,6 +11,7 @@
 
 [FPV Freestyle - 5 Mistakes To Avoid. YouTube: Patrick Watkins](https://www.youtube.com/watch?v=GZ-5h-h3zCs)  
 Кратко основное:  
+
 1. Практикуйтесь полетами в симуляторе. Хотя бы пару раз в неделю  
 2. Если есть несколько дронов, лучше пусть они будут с одинаковыми характеристиками   
 3. Используйте одинаковые рейты на всех своих дронах  
