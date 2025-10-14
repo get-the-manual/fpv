@@ -184,6 +184,7 @@ nav:
       - Edge TX Menu: 10_RC/30_Edge_TX_Menu.md
       - Пульт зависает: 10_RC/29_Pult_zavisaet.md
       - Настройка телеметрии: 10_RC/40_Nastrojka_telemetrii.md
+      - Поиск дрона по RSSI: 10_RC/EdgeTX_DroneFinder.md
       - Озвучка низкого напряжения: 10_RC/Ozvuchka_nizkogo_napryazheniya.md
       - Таймер использования: 10_RC/EdgeTX_ArmTimer.md
     - FCC и LBT: 10_RC/27_FCC_i_LBT.md
