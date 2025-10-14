@@ -10,28 +10,28 @@
       
       
       
-        <link rel="canonical" href="https://get-the-manual.github.io/fpv/00_Drones/01_Models/Betafpv/10_Cetus_X/30_Kabel_perehodnik/">
+        <link rel="canonical" href="https://get-the-manual.github.io/fpv/10_RC/EdgeTX_DroneFinder/">
       
       
-        <link rel="prev" href="../20_Zamena_shtatnyh_antenn/">
+        <link rel="prev" href="../40_Nastrojka_telemetrii/">
       
       
-        <link rel="next" href="../Zamena_ramy/">
+        <link rel="next" href="../Ozvuchka_nizkogo_napryazheniya/">
       
       
-      <link rel="icon" href="../../../../../assets/images/favicon.png">
+      <link rel="icon" href="../../assets/images/favicon.png">
       <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.21">
     
     
       
-        <title>Кабель переходник - База знаний по FPV</title>
+        <title>Поиск дрона по RSSI - База знаний по FPV</title>
       
     
     
-      <link rel="stylesheet" href="../../../../../assets/stylesheets/main.2a3383ac.min.css">
+      <link rel="stylesheet" href="../../assets/stylesheets/main.2a3383ac.min.css">
       
         
-        <link rel="stylesheet" href="../../../../../assets/stylesheets/palette.06af60db.min.css">
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
       
       
 
@@ -50,7 +50,7 @@
       
     
     
-    <script>__md_scope=new URL("../../../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
   
@@ -86,7 +86,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#_1" class="md-skip">
+        <a href="#rssi" class="md-skip">
           Skip to content
         </a>
       
@@ -102,7 +102,7 @@
 
 <header class="md-header md-header--shadow" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="Header">
-    <a href="../../../../.." title="База знаний по FPV" class="md-header__button md-logo" aria-label="База знаний по FPV" data-md-component="logo">
+    <a href="../.." title="База знаний по FPV" class="md-header__button md-logo" aria-label="База знаний по FPV" data-md-component="logo">
       
   
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
@@ -122,7 +122,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Кабель переходник
+              Поиск дрона по RSSI
             
           </span>
         </div>
@@ -238,7 +238,7 @@
 
 <nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
-    <a href="../../../../.." title="База знаний по FPV" class="md-nav__button md-logo" aria-label="База знаний по FPV" data-md-component="logo">
+    <a href="../.." title="База знаний по FPV" class="md-nav__button md-logo" aria-label="База знаний по FPV" data-md-component="logo">
       
   
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
@@ -268,7 +268,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../.." class="md-nav__link">
+      <a href="../.." class="md-nav__link">
         
   
   
@@ -287,20 +287,18 @@
       
   
   
-    
   
   
-  
     
     
     
     
     
-    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
         
           
           <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
@@ -316,7 +314,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_2">
             <span class="md-nav__icon md-icon"></span>
             Дроны
@@ -330,7 +328,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../00_Obshhaya_informatsiya/" class="md-nav__link">
+      <a href="../../00_Drones/00_Obshhaya_informatsiya/" class="md-nav__link">
         
   
   
@@ -350,20 +348,18 @@
                 
   
   
-    
   
   
-  
     
     
     
     
     
-    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2" checked>
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2" >
         
           
           <label class="md-nav__link" for="__nav_2_2" id="__nav_2_2_label" tabindex="0">
@@ -379,7 +375,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_2_label" aria-expanded="true">
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_2_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_2_2">
             <span class="md-nav__icon md-icon"></span>
             Модели
@@ -390,20 +386,18 @@
                 
   
   
-    
   
   
-  
     
     
     
     
     
-    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2_1" checked>
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2_1" >
         
           
           <label class="md-nav__link" for="__nav_2_2_1" id="__nav_2_2_1_label" tabindex="0">
@@ -419,7 +413,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_2_1_label" aria-expanded="true">
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_2_1_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_2_2_1">
             <span class="md-nav__icon md-icon"></span>
             BETAFPV
@@ -433,7 +427,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../00_Obshhaya_informatsiya/" class="md-nav__link">
+      <a href="../../00_Drones/01_Models/Betafpv/00_Obshhaya_informatsiya/" class="md-nav__link">
         
   
   
@@ -453,20 +447,18 @@
                 
   
   
-    
   
   
-  
     
     
     
     
     
-    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2_1_2" checked>
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2_1_2" >
         
           
           <label class="md-nav__link" for="__nav_2_2_1_2" id="__nav_2_2_1_2_label" tabindex="0">
@@ -482,7 +474,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_2_2_1_2_label" aria-expanded="true">
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_2_2_1_2_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_2_2_1_2">
             <span class="md-nav__icon md-icon"></span>
             Cetus X
@@ -496,7 +488,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../10_Obshhee/" class="md-nav__link">
+      <a href="../../00_Drones/01_Models/Betafpv/10_Cetus_X/10_Obshhee/" class="md-nav__link">
         
   
   
@@ -519,7 +511,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../20_Zamena_shtatnyh_antenn/" class="md-nav__link">
+      <a href="../../00_Drones/01_Models/Betafpv/10_Cetus_X/20_Zamena_shtatnyh_antenn/" class="md-nav__link">
         
   
   
@@ -539,19 +531,10 @@
                 
   
   
-    
   
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
-      
-      
-        
-      
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../../00_Drones/01_Models/Betafpv/10_Cetus_X/30_Kabel_perehodnik/" class="md-nav__link">
         
   
   
@@ -562,7 +545,6 @@
   
 
       </a>
-      
     </li>
   
 
@@ -575,7 +557,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../Zamena_ramy/" class="md-nav__link">
+      <a href="../../00_Drones/01_Models/Betafpv/10_Cetus_X/Zamena_ramy/" class="md-nav__link">
         
   
   
@@ -598,7 +580,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../Zamena_VTX_C04/" class="md-nav__link">
+      <a href="../../00_Drones/01_Models/Betafpv/10_Cetus_X/Zamena_VTX_C04/" class="md-nav__link">
         
   
   
@@ -621,7 +603,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../Ispolzovanie_2S_batok/" class="md-nav__link">
+      <a href="../../00_Drones/01_Models/Betafpv/10_Cetus_X/Ispolzovanie_2S_batok/" class="md-nav__link">
         
   
   
@@ -690,7 +672,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../90_Komponenty/Camera_C03/" class="md-nav__link">
+      <a href="../../00_Drones/01_Models/Betafpv/90_Komponenty/Camera_C03/" class="md-nav__link">
         
   
   
@@ -713,7 +695,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../90_Komponenty/Camera_VTX_C04/" class="md-nav__link">
+      <a href="../../00_Drones/01_Models/Betafpv/90_Komponenty/Camera_VTX_C04/" class="md-nav__link">
         
   
   
@@ -736,7 +718,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../90_Komponenty/VTX_M03/" class="md-nav__link">
+      <a href="../../00_Drones/01_Models/Betafpv/90_Komponenty/VTX_M03/" class="md-nav__link">
         
   
   
@@ -767,7 +749,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../Air65_Champion/" class="md-nav__link">
+      <a href="../../00_Drones/01_Models/Betafpv/Air65_Champion/" class="md-nav__link">
         
   
   
@@ -790,7 +772,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../Air65/" class="md-nav__link">
+      <a href="../../00_Drones/01_Models/Betafpv/Air65/" class="md-nav__link">
         
   
   
@@ -813,7 +795,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../Air75/" class="md-nav__link">
+      <a href="../../00_Drones/01_Models/Betafpv/Air75/" class="md-nav__link">
         
   
   
@@ -836,7 +818,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../Aquila16/" class="md-nav__link">
+      <a href="../../00_Drones/01_Models/Betafpv/Aquila16/" class="md-nav__link">
         
   
   
@@ -859,7 +841,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../Meteor65_Pro/" class="md-nav__link">
+      <a href="../../00_Drones/01_Models/Betafpv/Meteor65_Pro/" class="md-nav__link">
         
   
   
@@ -882,7 +864,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../Meteor75_Pro/" class="md-nav__link">
+      <a href="../../00_Drones/01_Models/Betafpv/Meteor75_Pro/" class="md-nav__link">
         
   
   
@@ -943,7 +925,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../Meteor85/10_Obshhee/" class="md-nav__link">
+      <a href="../../00_Drones/01_Models/Betafpv/Meteor85/10_Obshhee/" class="md-nav__link">
         
   
   
@@ -966,7 +948,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../Meteor85/Peredelka_pod_DJI_O4/" class="md-nav__link">
+      <a href="../../00_Drones/01_Models/Betafpv/Meteor85/Peredelka_pod_DJI_O4/" class="md-nav__link">
         
   
   
@@ -1043,7 +1025,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../DarwinFPV/BabyApe_Pro_V2/" class="md-nav__link">
+      <a href="../../00_Drones/01_Models/DarwinFPV/BabyApe_Pro_V2/" class="md-nav__link">
         
   
   
@@ -1112,7 +1094,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../DJI/DJI_Neo/" class="md-nav__link">
+      <a href="../../00_Drones/01_Models/DJI/DJI_Neo/" class="md-nav__link">
         
   
   
@@ -1181,7 +1163,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../Happymodel/Mobeetle6/" class="md-nav__link">
+      <a href="../../00_Drones/01_Models/Happymodel/Mobeetle6/" class="md-nav__link">
         
   
   
@@ -1204,7 +1186,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../Happymodel/mobula6/" class="md-nav__link">
+      <a href="../../00_Drones/01_Models/Happymodel/mobula6/" class="md-nav__link">
         
   
   
@@ -1227,7 +1209,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../Happymodel/mobula7/" class="md-nav__link">
+      <a href="../../00_Drones/01_Models/Happymodel/mobula7/" class="md-nav__link">
         
   
   
@@ -1296,7 +1278,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../HGLRC/Draknight_2-inch/" class="md-nav__link">
+      <a href="../../00_Drones/01_Models/HGLRC/Draknight_2-inch/" class="md-nav__link">
         
   
   
@@ -1373,7 +1355,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../10_Assemble_soldering/10_Obshhaya_informatsiya/" class="md-nav__link">
+      <a href="../../00_Drones/10_Assemble_soldering/10_Obshhaya_informatsiya/" class="md-nav__link">
         
   
   
@@ -1396,7 +1378,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../10_Assemble_soldering/15_Prinadlezhnosti/" class="md-nav__link">
+      <a href="../../00_Drones/10_Assemble_soldering/15_Prinadlezhnosti/" class="md-nav__link">
         
   
   
@@ -1419,7 +1401,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../10_Assemble_soldering/20_Payalniki/" class="md-nav__link">
+      <a href="../../00_Drones/10_Assemble_soldering/20_Payalniki/" class="md-nav__link">
         
   
   
@@ -1442,7 +1424,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../10_Assemble_soldering/30_Konnektory/" class="md-nav__link">
+      <a href="../../00_Drones/10_Assemble_soldering/30_Konnektory/" class="md-nav__link">
         
   
   
@@ -1465,7 +1447,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../10_Assemble_soldering/40_Provoda/" class="md-nav__link">
+      <a href="../../00_Drones/10_Assemble_soldering/40_Provoda/" class="md-nav__link">
         
   
   
@@ -1496,7 +1478,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../20_Voprosy/" class="md-nav__link">
+      <a href="../../00_Drones/20_Voprosy/" class="md-nav__link">
         
   
   
@@ -1557,7 +1539,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../20_VTX/00_Obshhaya_informatsiya/" class="md-nav__link">
+      <a href="../../00_Drones/20_VTX/00_Obshhaya_informatsiya/" class="md-nav__link">
         
   
   
@@ -1618,7 +1600,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../20_VTX/02_Modeli/RUSH_TINY_TANK_Nano_VTX/" class="md-nav__link">
+      <a href="../../00_Drones/20_VTX/02_Modeli/RUSH_TINY_TANK_Nano_VTX/" class="md-nav__link">
         
   
   
@@ -1649,7 +1631,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../20_VTX/05_Chastoty_VTX/" class="md-nav__link">
+      <a href="../../00_Drones/20_VTX/05_Chastoty_VTX/" class="md-nav__link">
         
   
   
@@ -1672,7 +1654,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../20_VTX/10_Kabel%20dlya%20proverki%20VTX%20i%20kamery/" class="md-nav__link">
+      <a href="../../00_Drones/20_VTX/10_Kabel%20dlya%20proverki%20VTX%20i%20kamery/" class="md-nav__link">
         
   
   
@@ -1695,7 +1677,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../20_VTX/30_Remont_VTX/" class="md-nav__link">
+      <a href="../../00_Drones/20_VTX/30_Remont_VTX/" class="md-nav__link">
         
   
   
@@ -1718,7 +1700,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../20_VTX/Analogovaya_VTX/" class="md-nav__link">
+      <a href="../../00_Drones/20_VTX/Analogovaya_VTX/" class="md-nav__link">
         
   
   
@@ -1741,7 +1723,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../20_VTX/Antenny_na_analog/" class="md-nav__link">
+      <a href="../../00_Drones/20_VTX/Antenny_na_analog/" class="md-nav__link">
         
   
   
@@ -1764,7 +1746,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../20_VTX/Moshhnost_i_PIT/" class="md-nav__link">
+      <a href="../../00_Drones/20_VTX/Moshhnost_i_PIT/" class="md-nav__link">
         
   
   
@@ -1825,7 +1807,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../20_VTX/DJI_O4/10_Obshhee/" class="md-nav__link">
+      <a href="../../00_Drones/20_VTX/DJI_O4/10_Obshhee/" class="md-nav__link">
         
   
   
@@ -1848,7 +1830,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../20_VTX/DJI_O4/Dorabotka/" class="md-nav__link">
+      <a href="../../00_Drones/20_VTX/DJI_O4/Dorabotka/" class="md-nav__link">
         
   
   
@@ -1871,7 +1853,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../20_VTX/DJI_O4/WaterProtect/" class="md-nav__link">
+      <a href="../../00_Drones/20_VTX/DJI_O4/WaterProtect/" class="md-nav__link">
         
   
   
@@ -1902,7 +1884,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../20_VTX/OSD/" class="md-nav__link">
+      <a href="../../00_Drones/20_VTX/OSD/" class="md-nav__link">
         
   
   
@@ -2009,7 +1991,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../22_FC/Modeli/BETAFPV_Air_5in1_4in1/" class="md-nav__link">
+      <a href="../../00_Drones/22_FC/Modeli/BETAFPV_Air_5in1_4in1/" class="md-nav__link">
         
   
   
@@ -2032,7 +2014,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../22_FC/Modeli/BETAFPV_FC_F4_1S_12A_AIO/" class="md-nav__link">
+      <a href="../../00_Drones/22_FC/Modeli/BETAFPV_FC_F4_1S_12A_AIO/" class="md-nav__link">
         
   
   
@@ -2055,7 +2037,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../22_FC/Modeli/BETAFPV_FC_F4_1S_5A_AIO/" class="md-nav__link">
+      <a href="../../00_Drones/22_FC/Modeli/BETAFPV_FC_F4_1S_5A_AIO/" class="md-nav__link">
         
   
   
@@ -2078,7 +2060,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../22_FC/Modeli/BETAFPV_Matrix_1S_5in1/" class="md-nav__link">
+      <a href="../../00_Drones/22_FC/Modeli/BETAFPV_Matrix_1S_5in1/" class="md-nav__link">
         
   
   
@@ -2101,7 +2083,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../22_FC/Modeli/Happymodel_CrazyG473_5in1/" class="md-nav__link">
+      <a href="../../00_Drones/22_FC/Modeli/Happymodel_CrazyG473_5in1/" class="md-nav__link">
         
   
   
@@ -2124,7 +2106,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../22_FC/Modeli/Happymodel_ELRSF4_2G4/" class="md-nav__link">
+      <a href="../../00_Drones/22_FC/Modeli/Happymodel_ELRSF4_2G4/" class="md-nav__link">
         
   
   
@@ -2147,7 +2129,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../22_FC/Modeli/Happymodel_SuperX_5in1/" class="md-nav__link">
+      <a href="../../00_Drones/22_FC/Modeli/Happymodel_SuperX_5in1/" class="md-nav__link">
         
   
   
@@ -2170,7 +2152,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../22_FC/Modeli/JHEMCU_F435_NEO_1S_AIO/" class="md-nav__link">
+      <a href="../../00_Drones/22_FC/Modeli/JHEMCU_F435_NEO_1S_AIO/" class="md-nav__link">
         
   
   
@@ -2193,7 +2175,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../22_FC/Modeli/WCRC_F722_v3/" class="md-nav__link">
+      <a href="../../00_Drones/22_FC/Modeli/WCRC_F722_v3/" class="md-nav__link">
         
   
   
@@ -2262,7 +2244,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../22_FC/Proshivka/22_Obshhee/" class="md-nav__link">
+      <a href="../../00_Drones/22_FC/Proshivka/22_Obshhee/" class="md-nav__link">
         
   
   
@@ -2323,7 +2305,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../22_FC/Proshivka/30_Betaflight/10_Obshhee/" class="md-nav__link">
+      <a href="../../00_Drones/22_FC/Proshivka/30_Betaflight/10_Obshhee/" class="md-nav__link">
         
   
   
@@ -2346,7 +2328,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../22_FC/Proshivka/30_Betaflight/15_Voprosy/" class="md-nav__link">
+      <a href="../../00_Drones/22_FC/Proshivka/30_Betaflight/15_Voprosy/" class="md-nav__link">
         
   
   
@@ -2369,7 +2351,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../22_FC/Proshivka/30_Betaflight/17_Podklyuchenie_k_Configurator/" class="md-nav__link">
+      <a href="../../00_Drones/22_FC/Proshivka/30_Betaflight/17_Podklyuchenie_k_Configurator/" class="md-nav__link">
         
   
   
@@ -2392,7 +2374,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../22_FC/Proshivka/30_Betaflight/20_Ustanovka_proshivki/" class="md-nav__link">
+      <a href="../../00_Drones/22_FC/Proshivka/30_Betaflight/20_Ustanovka_proshivki/" class="md-nav__link">
         
   
   
@@ -2415,7 +2397,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../22_FC/Proshivka/30_Betaflight/Komandy_CLI/" class="md-nav__link">
+      <a href="../../00_Drones/22_FC/Proshivka/30_Betaflight/Komandy_CLI/" class="md-nav__link">
         
   
   
@@ -2438,7 +2420,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../22_FC/Proshivka/30_Betaflight/Anti-Gravity/" class="md-nav__link">
+      <a href="../../00_Drones/22_FC/Proshivka/30_Betaflight/Anti-Gravity/" class="md-nav__link">
         
   
   
@@ -2461,7 +2443,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../22_FC/Proshivka/30_Betaflight/Resources/" class="md-nav__link">
+      <a href="../../00_Drones/22_FC/Proshivka/30_Betaflight/Resources/" class="md-nav__link">
         
   
   
@@ -2484,7 +2466,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../22_FC/Proshivka/30_Betaflight/SoftSerial/" class="md-nav__link">
+      <a href="../../00_Drones/22_FC/Proshivka/30_Betaflight/SoftSerial/" class="md-nav__link">
         
   
   
@@ -2507,7 +2489,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../22_FC/Proshivka/30_Betaflight/Trim/" class="md-nav__link">
+      <a href="../../00_Drones/22_FC/Proshivka/30_Betaflight/Trim/" class="md-nav__link">
         
   
   
@@ -2554,7 +2536,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../23_Voprosy_video/" class="md-nav__link">
+      <a href="../../00_Drones/23_Voprosy_video/" class="md-nav__link">
         
   
   
@@ -2615,7 +2597,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../25_RC_Connect/05_Protokoly/" class="md-nav__link">
+      <a href="../../00_Drones/25_RC_Connect/05_Protokoly/" class="md-nav__link">
         
   
   
@@ -2638,7 +2620,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../25_RC_Connect/10_ELRS/" class="md-nav__link">
+      <a href="../../00_Drones/25_RC_Connect/10_ELRS/" class="md-nav__link">
         
   
   
@@ -2661,7 +2643,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../25_RC_Connect/LQ_RSSI/" class="md-nav__link">
+      <a href="../../00_Drones/25_RC_Connect/LQ_RSSI/" class="md-nav__link">
         
   
   
@@ -2730,7 +2712,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../30_Camera/50_Runcam%20Thumb%20Pro%204k/" class="md-nav__link">
+      <a href="../../00_Drones/30_Camera/50_Runcam%20Thumb%20Pro%204k/" class="md-nav__link">
         
   
   
@@ -2753,7 +2735,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../30_Camera/Konverter_analog_v_USB/" class="md-nav__link">
+      <a href="../../00_Drones/30_Camera/Konverter_analog_v_USB/" class="md-nav__link">
         
   
   
@@ -2784,7 +2766,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../30_Buzzer/" class="md-nav__link">
+      <a href="../../00_Drones/30_Buzzer/" class="md-nav__link">
         
   
   
@@ -2845,7 +2827,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../35_Motor/Obshhee/" class="md-nav__link">
+      <a href="../../00_Drones/35_Motor/Obshhee/" class="md-nav__link">
         
   
   
@@ -2868,7 +2850,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../35_Motor/Sborka_razborka/" class="md-nav__link">
+      <a href="../../00_Drones/35_Motor/Sborka_razborka/" class="md-nav__link">
         
   
   
@@ -2937,7 +2919,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../40_Prop/10_Opisanie/" class="md-nav__link">
+      <a href="../../00_Drones/40_Prop/10_Opisanie/" class="md-nav__link">
         
   
   
@@ -2960,7 +2942,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../40_Prop/20_Snyat_nadet/" class="md-nav__link">
+      <a href="../../00_Drones/40_Prop/20_Snyat_nadet/" class="md-nav__link">
         
   
   
@@ -2983,7 +2965,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../40_Prop/30_Sravnenie/" class="md-nav__link">
+      <a href="../../00_Drones/40_Prop/30_Sravnenie/" class="md-nav__link">
         
   
   
@@ -3052,7 +3034,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../45_Frame/1S/" class="md-nav__link">
+      <a href="../../00_Drones/45_Frame/1S/" class="md-nav__link">
         
   
   
@@ -3121,7 +3103,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../50_ESC/General/" class="md-nav__link">
+      <a href="../../00_Drones/50_ESC/General/" class="md-nav__link">
         
   
   
@@ -3152,7 +3134,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../Batarei/" class="md-nav__link">
+      <a href="../../00_Drones/Batarei/" class="md-nav__link">
         
   
   
@@ -3175,7 +3157,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../Zashhita_ot_vody/" class="md-nav__link">
+      <a href="../../00_Drones/Zashhita_ot_vody/" class="md-nav__link">
         
   
   
@@ -3198,7 +3180,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../Rezhimy_poleta/" class="md-nav__link">
+      <a href="../../00_Drones/Rezhimy_poleta/" class="md-nav__link">
         
   
   
@@ -3221,7 +3203,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../GPS/" class="md-nav__link">
+      <a href="../../00_Drones/GPS/" class="md-nav__link">
         
   
   
@@ -3244,7 +3226,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../PID/" class="md-nav__link">
+      <a href="../../00_Drones/PID/" class="md-nav__link">
         
   
   
@@ -3267,7 +3249,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../Rates/" class="md-nav__link">
+      <a href="../../00_Drones/Rates/" class="md-nav__link">
         
   
   
@@ -3290,7 +3272,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../LED/" class="md-nav__link">
+      <a href="../../00_Drones/LED/" class="md-nav__link">
         
   
   
@@ -3317,18 +3299,20 @@
       
   
   
+    
   
   
+  
     
     
     
     
     
-    <li class="md-nav__item md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
         
           
           <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
@@ -3344,7 +3328,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_3">
             <span class="md-nav__icon md-icon"></span>
             Аппаратура(Пульты)
@@ -3358,7 +3342,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../10_RC/01_Obshhaya_informatsiya/" class="md-nav__link">
+      <a href="../01_Obshhaya_informatsiya/" class="md-nav__link">
         
   
   
@@ -3495,7 +3479,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../10_RC/10_Modeli/10_Radiomaster/01_Pocket/01_Obshhaya_informatsiya/" class="md-nav__link">
+      <a href="../10_Modeli/10_Radiomaster/01_Pocket/01_Obshhaya_informatsiya/" class="md-nav__link">
         
   
   
@@ -3518,7 +3502,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../10_RC/10_Modeli/10_Radiomaster/01_Pocket/03_pereklyuchenie_kolesom_moshhnosti_VTX/" class="md-nav__link">
+      <a href="../10_Modeli/10_Radiomaster/01_Pocket/03_pereklyuchenie_kolesom_moshhnosti_VTX/" class="md-nav__link">
         
   
   
@@ -3541,7 +3525,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../10_RC/10_Modeli/10_Radiomaster/01_Pocket/05_Cherepaha_na_SE/" class="md-nav__link">
+      <a href="../10_Modeli/10_Radiomaster/01_Pocket/05_Cherepaha_na_SE/" class="md-nav__link">
         
   
   
@@ -3564,7 +3548,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../10_RC/10_Modeli/10_Radiomaster/01_Pocket/12_Bind_s_Meteor85/" class="md-nav__link">
+      <a href="../10_Modeli/10_Radiomaster/01_Pocket/12_Bind_s_Meteor85/" class="md-nav__link">
         
   
   
@@ -3587,7 +3571,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../10_RC/10_Modeli/10_Radiomaster/01_Pocket/30_Stiki_i_udliniteli/" class="md-nav__link">
+      <a href="../10_Modeli/10_Radiomaster/01_Pocket/30_Stiki_i_udliniteli/" class="md-nav__link">
         
   
   
@@ -3610,7 +3594,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../10_RC/10_Modeli/10_Radiomaster/01_Pocket/Regulirovka_pruzhin/" class="md-nav__link">
+      <a href="../10_Modeli/10_Radiomaster/01_Pocket/Regulirovka_pruzhin/" class="md-nav__link">
         
   
   
@@ -3679,7 +3663,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../10_RC/10_Modeli/10_Radiomaster/20_Boxer/01_Obshhaya_informatsiya/" class="md-nav__link">
+      <a href="../10_Modeli/10_Radiomaster/20_Boxer/01_Obshhaya_informatsiya/" class="md-nav__link">
         
   
   
@@ -3748,7 +3732,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../10_RC/10_Modeli/10_Radiomaster/Jumper_T14/01_Obshhaya_informatsiya/" class="md-nav__link">
+      <a href="../10_Modeli/10_Radiomaster/Jumper_T14/01_Obshhaya_informatsiya/" class="md-nav__link">
         
   
   
@@ -3863,7 +3847,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../10_RC/10_Modeli/30_Betafpv/LiteRadio/01_Literadio2_3/" class="md-nav__link">
+      <a href="../10_Modeli/30_Betafpv/LiteRadio/01_Literadio2_3/" class="md-nav__link">
         
   
   
@@ -3886,7 +3870,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../10_RC/10_Modeli/30_Betafpv/LiteRadio/02_Remont_stikov/" class="md-nav__link">
+      <a href="../10_Modeli/30_Betafpv/LiteRadio/02_Remont_stikov/" class="md-nav__link">
         
   
   
@@ -3909,7 +3893,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../10_RC/10_Modeli/30_Betafpv/LiteRadio/04_Zamena_rezistorov/" class="md-nav__link">
+      <a href="../10_Modeli/30_Betafpv/LiteRadio/04_Zamena_rezistorov/" class="md-nav__link">
         
   
   
@@ -3932,7 +3916,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../10_RC/10_Modeli/30_Betafpv/LiteRadio/10_Stiki_na_datchikah_Holla/" class="md-nav__link">
+      <a href="../10_Modeli/30_Betafpv/LiteRadio/10_Stiki_na_datchikah_Holla/" class="md-nav__link">
         
   
   
@@ -3955,7 +3939,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../10_RC/10_Modeli/30_Betafpv/LiteRadio/15_Kalibrovka_stikov/" class="md-nav__link">
+      <a href="../10_Modeli/30_Betafpv/LiteRadio/15_Kalibrovka_stikov/" class="md-nav__link">
         
   
   
@@ -3978,7 +3962,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../10_RC/10_Modeli/30_Betafpv/LiteRadio/20_LiteRadio_2_SIM/" class="md-nav__link">
+      <a href="../10_Modeli/30_Betafpv/LiteRadio/20_LiteRadio_2_SIM/" class="md-nav__link">
         
   
   
@@ -4025,7 +4009,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../10_RC/20_Voprosy/" class="md-nav__link">
+      <a href="../20_Voprosy/" class="md-nav__link">
         
   
   
@@ -4045,18 +4029,20 @@
                 
   
   
+    
   
   
+  
     
     
     
     
     
-    <li class="md-nav__item md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_4" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_4" checked>
         
           
           <label class="md-nav__link" for="__nav_3_4" id="__nav_3_4_label" tabindex="0">
@@ -4072,7 +4058,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_4_label" aria-expanded="false">
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_4_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_3_4">
             <span class="md-nav__icon md-icon"></span>
             Edge TX
@@ -4086,7 +4072,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../10_RC/25_Voprosy_Edge_TX/" class="md-nav__link">
+      <a href="../25_Voprosy_Edge_TX/" class="md-nav__link">
         
   
   
@@ -4109,7 +4095,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../10_RC/30_Edge_TX_Menu/" class="md-nav__link">
+      <a href="../30_Edge_TX_Menu/" class="md-nav__link">
         
   
   
@@ -4132,7 +4118,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../10_RC/29_Pult_zavisaet/" class="md-nav__link">
+      <a href="../29_Pult_zavisaet/" class="md-nav__link">
         
   
   
@@ -4155,7 +4141,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../10_RC/40_Nastrojka_telemetrii/" class="md-nav__link">
+      <a href="../40_Nastrojka_telemetrii/" class="md-nav__link">
         
   
   
@@ -4175,10 +4161,32 @@
                 
   
   
+    
   
   
-    <li class="md-nav__item">
-      <a href="../../../../../10_RC/EdgeTX_DroneFinder/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    Поиск дрона по RSSI
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         
   
   
@@ -4189,6 +4197,53 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Телеметрия
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#model-locator-by-rssi" class="md-nav__link">
+    <span class="md-ellipsis">
+      Model Locator by RSSI
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#elrs-finder" class="md-nav__link">
+    <span class="md-ellipsis">
+      ELRS Finder
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
     </li>
   
 
@@ -4201,7 +4256,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../10_RC/Ozvuchka_nizkogo_napryazheniya/" class="md-nav__link">
+      <a href="../Ozvuchka_nizkogo_napryazheniya/" class="md-nav__link">
         
   
   
@@ -4224,7 +4279,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../10_RC/EdgeTX_ArmTimer/" class="md-nav__link">
+      <a href="../EdgeTX_ArmTimer/" class="md-nav__link">
         
   
   
@@ -4255,7 +4310,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../10_RC/27_FCC_i_LBT/" class="md-nav__link">
+      <a href="../27_FCC_i_LBT/" class="md-nav__link">
         
   
   
@@ -4323,7 +4378,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../15_Goggles/10_Obshhee/" class="md-nav__link">
+      <a href="../../15_Goggles/10_Obshhee/" class="md-nav__link">
         
   
   
@@ -4346,7 +4401,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../15_Goggles/20_Antenny_na_analog/" class="md-nav__link">
+      <a href="../../15_Goggles/20_Antenny_na_analog/" class="md-nav__link">
         
   
   
@@ -4369,7 +4424,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../15_Goggles/BETAFPV_VR03/" class="md-nav__link">
+      <a href="../../15_Goggles/BETAFPV_VR03/" class="md-nav__link">
         
   
   
@@ -4430,7 +4485,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../15_Goggles/DJI/10_Obshhee/" class="md-nav__link">
+      <a href="../../15_Goggles/DJI/10_Obshhee/" class="md-nav__link">
         
   
   
@@ -4453,7 +4508,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../15_Goggles/DJI/Luchshie_ochki_dlya_O4/" class="md-nav__link">
+      <a href="../../15_Goggles/DJI/Luchshie_ochki_dlya_O4/" class="md-nav__link">
         
   
   
@@ -4522,7 +4577,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../15_Goggles/Eachine_EV800D%28M%29/Obshhaya%20informatsiya/" class="md-nav__link">
+      <a href="../../15_Goggles/Eachine_EV800D%28M%29/Obshhaya%20informatsiya/" class="md-nav__link">
         
   
   
@@ -4545,7 +4600,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../15_Goggles/Eachine_EV800D%28M%29/Remont/" class="md-nav__link">
+      <a href="../../15_Goggles/Eachine_EV800D%28M%29/Remont/" class="md-nav__link">
         
   
   
@@ -4614,7 +4669,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../15_Goggles/SKYZONE/Obshhee/" class="md-nav__link">
+      <a href="../../15_Goggles/SKYZONE/Obshhee/" class="md-nav__link">
         
   
   
@@ -4690,7 +4745,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../20_Simulyatory/03_Obshhie_voprosy/" class="md-nav__link">
+      <a href="../../20_Simulyatory/03_Obshhie_voprosy/" class="md-nav__link">
         
   
   
@@ -4713,7 +4768,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../20_Simulyatory/05_Kakoj_sim_vybrat/" class="md-nav__link">
+      <a href="../../20_Simulyatory/05_Kakoj_sim_vybrat/" class="md-nav__link">
         
   
   
@@ -4736,7 +4791,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../20_Simulyatory/07_Sravnenie/" class="md-nav__link">
+      <a href="../../20_Simulyatory/07_Sravnenie/" class="md-nav__link">
         
   
   
@@ -4759,7 +4814,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../20_Simulyatory/20_Podklyuchenie_apparatury_k_simulyatoru/" class="md-nav__link">
+      <a href="../../20_Simulyatory/20_Podklyuchenie_apparatury_k_simulyatoru/" class="md-nav__link">
         
   
   
@@ -4782,7 +4837,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../20_Simulyatory/50_Drift_v_simulyatore/" class="md-nav__link">
+      <a href="../../20_Simulyatory/50_Drift_v_simulyatore/" class="md-nav__link">
         
   
   
@@ -4805,7 +4860,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../20_Simulyatory/Skolko_trenirovatsya/" class="md-nav__link">
+      <a href="../../20_Simulyatory/Skolko_trenirovatsya/" class="md-nav__link">
         
   
   
@@ -4828,7 +4883,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../20_Simulyatory/DCL_-_The_Game/" class="md-nav__link">
+      <a href="../../20_Simulyatory/DCL_-_The_Game/" class="md-nav__link">
         
   
   
@@ -4851,7 +4906,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../20_Simulyatory/DRL/" class="md-nav__link">
+      <a href="../../20_Simulyatory/DRL/" class="md-nav__link">
         
   
   
@@ -4874,7 +4929,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../20_Simulyatory/EreaDrone/" class="md-nav__link">
+      <a href="../../20_Simulyatory/EreaDrone/" class="md-nav__link">
         
   
   
@@ -4897,7 +4952,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../20_Simulyatory/FPV_Freerider/" class="md-nav__link">
+      <a href="../../20_Simulyatory/FPV_Freerider/" class="md-nav__link">
         
   
   
@@ -4920,7 +4975,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../20_Simulyatory/FPV_LOGIC/" class="md-nav__link">
+      <a href="../../20_Simulyatory/FPV_LOGIC/" class="md-nav__link">
         
   
   
@@ -4943,7 +4998,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../20_Simulyatory/FPV_SkyDive/" class="md-nav__link">
+      <a href="../../20_Simulyatory/FPV_SkyDive/" class="md-nav__link">
         
   
   
@@ -4966,7 +5021,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../20_Simulyatory/Liftoff_Microdrones/" class="md-nav__link">
+      <a href="../../20_Simulyatory/Liftoff_Microdrones/" class="md-nav__link">
         
   
   
@@ -4989,7 +5044,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../20_Simulyatory/Liftoff/" class="md-nav__link">
+      <a href="../../20_Simulyatory/Liftoff/" class="md-nav__link">
         
   
   
@@ -5012,7 +5067,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../20_Simulyatory/Real_Drone_Simulator/" class="md-nav__link">
+      <a href="../../20_Simulyatory/Real_Drone_Simulator/" class="md-nav__link">
         
   
   
@@ -5035,7 +5090,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../20_Simulyatory/TRYP_FPV/" class="md-nav__link">
+      <a href="../../20_Simulyatory/TRYP_FPV/" class="md-nav__link">
         
   
   
@@ -5058,7 +5113,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../20_Simulyatory/Uncrashed/" class="md-nav__link">
+      <a href="../../20_Simulyatory/Uncrashed/" class="md-nav__link">
         
   
   
@@ -5081,7 +5136,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../20_Simulyatory/Velocidrone/" class="md-nav__link">
+      <a href="../../20_Simulyatory/Velocidrone/" class="md-nav__link">
         
   
   
@@ -5149,7 +5204,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../30_Polety/10_Obuchenie_poletam/" class="md-nav__link">
+      <a href="../../30_Polety/10_Obuchenie_poletam/" class="md-nav__link">
         
   
   
@@ -5172,7 +5227,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../30_Polety/20_Obuchenie_tryukam/" class="md-nav__link">
+      <a href="../../30_Polety/20_Obuchenie_tryukam/" class="md-nav__link">
         
   
   
@@ -5195,7 +5250,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../30_Polety/24_Voprosy/" class="md-nav__link">
+      <a href="../../30_Polety/24_Voprosy/" class="md-nav__link">
         
   
   
@@ -5218,7 +5273,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../30_Polety/26_Katalog_Tryukov/" class="md-nav__link">
+      <a href="../../30_Polety/26_Katalog_Tryukov/" class="md-nav__link">
         
   
   
@@ -5279,7 +5334,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../30_Polety/30_Gonki_ili_sorevnovaniya/10_Obshhee/" class="md-nav__link">
+      <a href="../../30_Polety/30_Gonki_ili_sorevnovaniya/10_Obshhee/" class="md-nav__link">
         
   
   
@@ -5302,7 +5357,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../30_Polety/30_Gonki_ili_sorevnovaniya/IGOW/" class="md-nav__link">
+      <a href="../../30_Polety/30_Gonki_ili_sorevnovaniya/IGOW/" class="md-nav__link">
         
   
   
@@ -5325,7 +5380,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../30_Polety/30_Gonki_ili_sorevnovaniya/RaceGOW/" class="md-nav__link">
+      <a href="../../30_Polety/30_Gonki_ili_sorevnovaniya/RaceGOW/" class="md-nav__link">
         
   
   
@@ -5348,7 +5403,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../30_Polety/30_Gonki_ili_sorevnovaniya/VDT/" class="md-nav__link">
+      <a href="../../30_Polety/30_Gonki_ili_sorevnovaniya/VDT/" class="md-nav__link">
         
   
   
@@ -5371,7 +5426,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../30_Polety/30_Gonki_ili_sorevnovaniya/weBLEEDfpv/" class="md-nav__link">
+      <a href="../../30_Polety/30_Gonki_ili_sorevnovaniya/weBLEEDfpv/" class="md-nav__link">
         
   
   
@@ -5440,7 +5495,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../30_Polety/Izgotovlenie_trass/01_Obshhee/" class="md-nav__link">
+      <a href="../../30_Polety/Izgotovlenie_trass/01_Obshhee/" class="md-nav__link">
         
   
   
@@ -5463,7 +5518,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../30_Polety/Izgotovlenie_trass/Dlya_vupov/" class="md-nav__link">
+      <a href="../../30_Polety/Izgotovlenie_trass/Dlya_vupov/" class="md-nav__link">
         
   
   
@@ -5486,7 +5541,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../30_Polety/Izgotovlenie_trass/WhoopMANIA_S1_Track1/" class="md-nav__link">
+      <a href="../../30_Polety/Izgotovlenie_trass/WhoopMANIA_S1_Track1/" class="md-nav__link">
         
   
   
@@ -5517,7 +5572,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../30_Polety/Seriya_tryukov/" class="md-nav__link">
+      <a href="../../30_Polety/Seriya_tryukov/" class="md-nav__link">
         
   
   
@@ -5540,7 +5595,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../30_Polety/Stili_Freestyle/" class="md-nav__link">
+      <a href="../../30_Polety/Stili_Freestyle/" class="md-nav__link">
         
   
   
@@ -5563,7 +5618,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../30_Polety/Freestyle_v_pomeshhenii/" class="md-nav__link">
+      <a href="../../30_Polety/Freestyle_v_pomeshhenii/" class="md-nav__link">
         
   
   
@@ -5631,7 +5686,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../50_Charger/05_Obshhaya%20informatsiya/" class="md-nav__link">
+      <a href="../../50_Charger/05_Obshhaya%20informatsiya/" class="md-nav__link">
         
   
   
@@ -5654,7 +5709,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../50_Charger/20_Zaryadnye_ustrojstva/" class="md-nav__link">
+      <a href="../../50_Charger/20_Zaryadnye_ustrojstva/" class="md-nav__link">
         
   
   
@@ -5677,7 +5732,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../50_Charger/30_Zaryadka_BetaFPV/" class="md-nav__link">
+      <a href="../../50_Charger/30_Zaryadka_BetaFPV/" class="md-nav__link">
         
   
   
@@ -5745,7 +5800,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../60_Aksessuary/10_Sumki_futlyary/" class="md-nav__link">
+      <a href="../../60_Aksessuary/10_Sumki_futlyary/" class="md-nav__link">
         
   
   
@@ -5768,7 +5823,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../60_Aksessuary/3D_modeli/" class="md-nav__link">
+      <a href="../../60_Aksessuary/3D_modeli/" class="md-nav__link">
         
   
   
@@ -5836,7 +5891,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../60_Bind/10_Vvedenie/" class="md-nav__link">
+      <a href="../../60_Bind/10_Vvedenie/" class="md-nav__link">
         
   
   
@@ -5859,7 +5914,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../60_Bind/15_Protokol_FrSky/" class="md-nav__link">
+      <a href="../../60_Bind/15_Protokol_FrSky/" class="md-nav__link">
         
   
   
@@ -5882,7 +5937,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../60_Bind/16_Protokol_DJI/" class="md-nav__link">
+      <a href="../../60_Bind/16_Protokol_DJI/" class="md-nav__link">
         
   
   
@@ -5905,7 +5960,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../60_Bind/17_Protokol_ELRS/" class="md-nav__link">
+      <a href="../../60_Bind/17_Protokol_ELRS/" class="md-nav__link">
         
   
   
@@ -5928,7 +5983,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../60_Bind/18_Podklyuchenie_priemnika/" class="md-nav__link">
+      <a href="../../60_Bind/18_Podklyuchenie_priemnika/" class="md-nav__link">
         
   
   
@@ -5951,7 +6006,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../60_Bind/19_Proshivka_ELRS/" class="md-nav__link">
+      <a href="../../60_Bind/19_Proshivka_ELRS/" class="md-nav__link">
         
   
   
@@ -5974,7 +6029,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../60_Bind/20_Versiya_ELRS/" class="md-nav__link">
+      <a href="../../60_Bind/20_Versiya_ELRS/" class="md-nav__link">
         
   
   
@@ -6035,7 +6090,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../60_Bind/40_Rezhim_Bind_drona_s_UART/" class="md-nav__link">
+      <a href="../../60_Bind/40_Rezhim_Bind_drona_s_UART/" class="md-nav__link">
         
   
   
@@ -6058,7 +6113,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../60_Bind/50_Rezhim_Bind_drona_s_SPI/" class="md-nav__link">
+      <a href="../../60_Bind/50_Rezhim_Bind_drona_s_SPI/" class="md-nav__link">
         
   
   
@@ -6081,7 +6136,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../60_Bind/60_Rezhim_Bind_pulta_EdgeTX/" class="md-nav__link">
+      <a href="../../60_Bind/60_Rezhim_Bind_pulta_EdgeTX/" class="md-nav__link">
         
   
   
@@ -6104,7 +6159,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../60_Bind/62_Rezhim_Bind_pulta_Literadio3/" class="md-nav__link">
+      <a href="../../60_Bind/62_Rezhim_Bind_pulta_Literadio3/" class="md-nav__link">
         
   
   
@@ -6173,7 +6228,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../60_Bind/44_Bind_fraza_drona_s_UART/" class="md-nav__link">
+      <a href="../../60_Bind/44_Bind_fraza_drona_s_UART/" class="md-nav__link">
         
   
   
@@ -6196,7 +6251,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../60_Bind/54_Bind_fraza_drona_s_SPI/" class="md-nav__link">
+      <a href="../../60_Bind/54_Bind_fraza_drona_s_SPI/" class="md-nav__link">
         
   
   
@@ -6219,7 +6274,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../60_Bind/56_Bind_fraza_pulta_EdgeTX/" class="md-nav__link">
+      <a href="../../60_Bind/56_Bind_fraza_pulta_EdgeTX/" class="md-nav__link">
         
   
   
@@ -6242,7 +6297,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../60_Bind/58_Bind_fraza_pulta_LiteRadio/" class="md-nav__link">
+      <a href="../../60_Bind/58_Bind_fraza_pulta_LiteRadio/" class="md-nav__link">
         
   
   
@@ -6273,7 +6328,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../60_Bind/70_Problemy/" class="md-nav__link">
+      <a href="../../60_Bind/70_Problemy/" class="md-nav__link">
         
   
   
@@ -6303,7 +6358,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../70_Chto_kupit_ili_sobrat/" class="md-nav__link">
+      <a href="../../70_Chto_kupit_ili_sobrat/" class="md-nav__link">
         
   
   
@@ -6325,7 +6380,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../Videomontazh/" class="md-nav__link">
+      <a href="../../Videomontazh/" class="md-nav__link">
         
   
   
@@ -6347,7 +6402,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../../Memy/" class="md-nav__link">
+      <a href="../../Memy/" class="md-nav__link">
         
   
   
@@ -6382,6 +6437,41 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Телеметрия
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#model-locator-by-rssi" class="md-nav__link">
+    <span class="md-ellipsis">
+      Model Locator by RSSI
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#elrs-finder" class="md-nav__link">
+    <span class="md-ellipsis">
+      ELRS Finder
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -6396,7 +6486,7 @@
 
 
   
-    <a href="https://github.com/get-the-manual/fpv/edit/main/docs/00_Drones/01_Models/Betafpv/10_Cetus_X/30_Kabel_perehodnik.md" title="Edit this page" class="md-content__button md-icon" rel="edit">
+    <a href="https://github.com/get-the-manual/fpv/edit/main/docs/10_RC/EdgeTX_DroneFinder.md" title="Edit this page" class="md-content__button md-icon" rel="edit">
       
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75z"/></svg>
     </a>
@@ -6405,18 +6495,37 @@
     
       
     
-    <a href="https://github.com/get-the-manual/fpv/raw/main/docs/00_Drones/01_Models/Betafpv/10_Cetus_X/30_Kabel_perehodnik.md" title="View source of this page" class="md-content__button md-icon">
+    <a href="https://github.com/get-the-manual/fpv/raw/main/docs/10_RC/EdgeTX_DroneFinder.md" title="View source of this page" class="md-content__button md-icon">
       
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0 8a5 5 0 0 1-5-5 5 5 0 0 1 5-5 5 5 0 0 1 5 5 5 5 0 0 1-5 5m0-12.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5"/></svg>
     </a>
   
 
 
-<h1 id="_1">Кабель с переходником для подключения дрона к компьютеру</h1>
-<p><a href="https://www.ozon.ru/product/betafpv-cetus-pro-x-aquila-razem-dlya-podklyucheniya-k-kompyuteru-provod-plata-type-c-1627549951/">BetaFPV Cetus Pro X Aquila разъем для подключения к компьютеру провод плата Type-C на OZON.ru</a></p>
-<p><img alt="" src="../Cable1.jpg" />
-<img alt="" src="../Cable2.jpg" />
-<img alt="" src="../Cable3.jpg" /></p>
+<h1 id="rssi">Поиск дрона по значению RSSI</h1>
+<h2 id="_1">Телеметрия</h2>
+<p>Если на аппаратуре <a href="../40_Nastrojka_telemetrii/">настроить телеметрию</a> и вывести значение 1RSS, то можно искать дрон, ориентируясь по значению. Как в игре "холодно, горячо".<br />
+Подробнее можно узнать в видео <a href="https://www.youtube.com/watch?v=ARJ7Vomnczw">Never lose a model again with this ExpressLRS trick (so long as you're getting telemetry!)</a> </p>
+<h2 id="model-locator-by-rssi">Model Locator by RSSI</h2>
+<p>Официальный LUA-скрипт <code>ModelLocator</code>. Позволяющее делать поиск дрона по значению RSSI.  </p>
+<p>Скрипт можно скачать из <a href="https://github.com/EdgeTX/edgetx-sdcard">официального GitHub репозитория с содержимым SD карт</a>.<br />
+Например, для пультов с ЧБ экраном типа RadioMaster Pocket <a href="https://github.com/EdgeTX/edgetx-sdcard/tree/master/sdcard/bw128x64/SCRIPTS/TOOLS">отсюда</a> нужно скачать файлы <code>ModelLocator.lua</code>, <code>modloc.wav</code> и положить по тому же пути <code>SCRIPTS\TOOLS</code> на карту в пульте.</p>
+<p>Для запуска нужно нажать кнопку <code>SYS</code> и выбрать <code>ModelLocator</code>. </p>
+<p>Рекомендуется установить мощность передатчика на уровень 25mW.</p>
+<p>Есть два способа использовать скрипт:<br />
+1. Простой способ:<br />
+- идите разные стороны, по мере приближения к дрону, сигналы будут становиться чаще и с более высоким тоном (и появится визуальный индикатор в виде гистограммы)</p>
+<ol>
+<li>Более точный способ:  </li>
+<li>покрутитесь вокруг себя, пока не найдете направление с самый низким значением RSSI. Это обозначает самый сильный сигнал. Заметьте направление.  </li>
+<li>теперь идите в сторону (не к модели), снова найдите самое низкое значение — это тоже направление на модель.  </li>
+<li>постройте две линии и определите точку пересечения — там и будет ваша модель 🙂</li>
+</ol>
+<h2 id="elrs-finder">ELRS Finder</h2>
+<p>Еще одно решение в виде LUA скрипта, позволяющее делать поиск дрона по значению RSSI.<br />
+<img alt="" src="../ELRS_Finder.jpg" /></p>
+<p>Скрипт можно скачать с репозитория <a href="https://github.com/iamsunilchahal/edgetx-lua-scripts-bw"># EdgeTX Lua Scripts (B/W Screen Optimized)</a> </p>
+<p>Установка и использование такое же как и в предыдущем решении</p>
 
 
 
@@ -6439,7 +6548,7 @@
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="September 30, 2025 19:33:34 UTC">September 30, 2025</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="October 14, 2025 15:47:40 UTC">October 14, 2025</span>
   </span>
 
     
@@ -6449,7 +6558,7 @@
     <span class="md-icon" title="Created">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14.47 15.08 11 13V7h1.5v5.25l3.08 1.83c-.41.28-.79.62-1.11 1m-1.39 4.84c-.36.05-.71.08-1.08.08-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8c0 .37-.03.72-.08 1.08.69.1 1.33.32 1.92.64.1-.56.16-1.13.16-1.72 0-5.5-4.5-10-10-10S2 6.5 2 12s4.47 10 10 10c.59 0 1.16-.06 1.72-.16-.32-.59-.54-1.23-.64-1.92M18 15v3h-3v2h3v3h2v-3h3v-2h-3v-3z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="November 26, 2024 12:14:47 UTC">November 26, 2024</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="October 14, 2025 15:47:40 UTC">October 14, 2025</span>
   </span>
 
     
@@ -6574,10 +6683,10 @@
     
     
       
-      <script id="__config" type="application/json">{"base": "../../../../..", "features": ["content.action.view", "content.action.edit"], "search": "../../../../../assets/javascripts/workers/search.973d3a69.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+      <script id="__config" type="application/json">{"base": "../..", "features": ["content.action.view", "content.action.edit"], "search": "../../assets/javascripts/workers/search.973d3a69.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
     
     
-      <script src="../../../../../assets/javascripts/bundle.f55a23d4.min.js"></script>
+      <script src="../../assets/javascripts/bundle.f55a23d4.min.js"></script>
       
     
   </body>
