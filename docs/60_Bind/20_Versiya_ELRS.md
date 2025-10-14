@@ -21,7 +21,7 @@
 об этом можно прочитать в статье [Ввод Bind фразы на дроне с приемником на UART](44_Bind_fraza_drona_s_UART.md)  
 
 ### Подключен по SPI
-Proshivka ELSR в таких полетниках является частью прошивки полетника Betaflight.  
+Прошивка ELSR в таких полетниках является частью прошивки полетника Betaflight.  
 Betaflight `4.3.x` идет с ELRS `2.x.x`  
 Betaflight `4.4.x` идет с ELRS `3.x.x`  
 Версию прошивки Betaflight можно узнать, подключив дрон к программе Betaflight Configurator.  
