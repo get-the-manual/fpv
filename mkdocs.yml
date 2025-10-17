@@ -134,6 +134,7 @@ nav:
       - ELRS: 00_Drones/25_RC_Connect/10_ELRS.md
       - LQ RSSI: 00_Drones/25_RC_Connect/LQ_RSSI.md
     - Камеры:
+      - Общие вопросы: 00_Drones/30_Camera/General.md
       - Runcam Thumb Pro 4k: 00_Drones/30_Camera/50_Runcam Thumb Pro 4k.md
       - Конвертер analog в USB: 00_Drones/30_Camera/Konverter_analog_v_USB.md
     - Buzzer (пищалка): 00_Drones/30_Buzzer.md
