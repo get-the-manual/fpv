@@ -3,6 +3,8 @@
 ## Обзоры
 [ULTIMATE DJI 04 1s Whoop Build Guide (65mm, 75mm, and Meteor 75 Pro). YouTube: MoeFPV](https://www.youtube.com/watch?v=y0nmZ0B53to)
 
+[DJI O4 Air Unit - обзор основных функций и проверяем стабилизацию. Установлен на Pavo 20. YouTube: Sem Semius](https://www.youtube.com/watch?v=cXm6UtZvOVQ)
+
 Краткое содержание:
 
 * **Введение в 1s Whoop'ы:** Автор делится опытом тестирования DJI O4 1s whoop'ов и подтверждает, что они пригодны для полетов, несмотря на первоначальные опасения по поводу их веса.
