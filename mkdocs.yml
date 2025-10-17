@@ -243,7 +243,6 @@ nav:
     - Зарядка BetaFPV: 50_Charger/30_Zaryadka_BetaFPV.md
   - Аксессуары:
     - Сумки, футляры: 60_Aksessuary/10_Sumki_futlyary.md
-    - 3D модели: 60_Aksessuary/3D_modeli.md
   - Bind:
     - Введение: 60_Bind/10_Vvedenie.md
     - Протокол FrSky: 60_Bind/15_Protokol_FrSky.md
@@ -264,5 +263,8 @@ nav:
       - Пульта LiteRadio: 60_Bind/58_Bind_fraza_pulta_LiteRadio.md
     - Проблемы: 60_Bind/70_Problemy.md
   - Что купить или собрать: 70_Chto_kupit_ili_sobrat.md
+  - 3D модели:
+    - Общее: General.md
+    - Коробки для аккумуляторов: Battery_box.md
   - Видеомонтаж: Videomontazh.md
   - Мэмы: Memy.md
