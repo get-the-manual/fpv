@@ -265,7 +265,7 @@ nav:
     - Проблемы: 60_Bind/70_Problemy.md
   - Что купить или собрать: 70_Chto_kupit_ili_sobrat.md
   - 3D модели:
-    - Общее: General.md
-    - Коробки для аккумуляторов: Battery_box.md
+    - Общее: 3D_models/General.md
+    - Коробки для аккумуляторов: 3D_models/Battery_box.md
   - Видеомонтаж: Videomontazh.md
   - Мэмы: Memy.md
