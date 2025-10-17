@@ -57,3 +57,4 @@
 ![](Lipo_Safety_Bag.png) 
 ![](Lipo_Safety_Bag2.png) 
 
+## [Коробка для 15шт 1S 300mah  баток (3D-печать)](../3D_models/Battery_box.md)
