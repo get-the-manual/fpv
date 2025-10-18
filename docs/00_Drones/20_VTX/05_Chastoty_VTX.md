@@ -13,6 +13,9 @@
 Согласно диаграмме частот из статьи ниже, диапазон частот у 5.8GHz WiFi роутеров находятся в диапазоне 5660-5870. Поэтому дома лучше выбирать каналы с частотами выше 5870: E5-8, F8, R7-8
 
 ## Переключение каналов с пульта (VTX Admin)
+
+[Обуздай свой VTX: 3 способа управления мощностью и каналами. YouTube: DRONOFLY FPV](https://www.youtube.com/watch?v=6d8xpEA26Lc)
+
 [setup vtx admin on ELRS protocol transmitter. YouTube: WestFPV](https://www.youtube.com/watch?v=32r2fWFrgr4)
 
 [expresslrs.org: VTX Administrator](https://www.expresslrs.org/quick-start/transmitters/lua-howto/#vtx-administrator)
