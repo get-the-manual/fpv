@@ -72,7 +72,7 @@ GPS modules can be used for two quite different purposes:
 Про SoftSerial можно посмотреть [в этой статье](./22_FC/Proshivka/30_Betaflight/SoftSerial.md)
 
 ## Position Hold, Altitude Hold
-[Утримання позиції на FPV дроні по GPS. Betaflight 4.6 Proshivka, налаштування і тести. YouTube: Є-Дрон (укр.)](https://www.youtube.com/watch?v=VrKpEzWQol0)
+[Утримання позиції на FPV дроні по GPS. Betaflight 4.6 Прошивка, налаштування і тести. YouTube: Є-Дрон (укр.)](https://www.youtube.com/watch?v=VrKpEzWQol0)
 
 ## Проблема: GPS долго ловит спутники
 1. Первый раз подключение (или подключение в новой локации) к спутникам может быть 10-20 минут, в GPS модуле есть своя маленькая батарейка, которая запоминает координаты и в следующий раз подключается быстрее. Если каждый раз подключается долго, то возможно села эта маленькая батарейка.  
