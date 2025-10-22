@@ -13,7 +13,7 @@
 
 ### [Ввод Bind фразы на дроне](./../../../60_Bind/44_Bind_fraza_drona_s_UART.md)
 
-## Proshivka
+## Прошивка
 Есть две версии дрона: 2023 года с полетником [F4 1S 5A AIO](https://betafpv.com/collections/brushless-flight-controller/products/f4-1s-5a-aio-brushless-flight-controller-elrs-2-4g) и 2024 года с полетником [Matrix 1S](https://betafpv.com/products/matrix-1s-brushless-flight-controller).  
 Прошивки можно [качать тут](https://support.betafpv.com/hc/en-us/articles/16846305078297-CLI-for-Meteor75-Pro-2024)/  
 Если у тебя новая версия, то надо качать: `BF473 4.5.0_M75_PRO_A_Matrix.txt`.  
