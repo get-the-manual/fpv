@@ -1,9 +1,9 @@
 [](){#vtx_by_wheel}
 # Переключение мощности видеопередатчика колесиком
 
+[FPV как переключать канал или мощность vtx с пульта. Youtube: Петрокей](https://www.youtube.com/watch?v=ElDQzcKTmy0)  
 
-
-[Видео с объяснением от Петрокей](https://www.youtube.com/watch?v=ElDQzcKTmy0)
+[Betaflight для новачків. Перемекання потужності аналогового відеопередавача VTX прямо в польоті. YouTube: Wiki-FPV (укр.)](https://www.youtube.com/watch?v=0HxmC_FVxcc)
 
 Посмотреть текущие правила:  
 `vtx`
