@@ -78,7 +78,7 @@
 
 [Озвучивание на пульте низкого заряда батареи на дроне](Ozvuchka_nizkogo_napryazheniya.md)  
 
-[Режим черепахи на кнопку SE](./10_Modeli/10_Radiomaster/01_Pocket/05_Cherepaha_na_SE.md)  
+## [Режим черепахи на кнопку без фиксации](./10_Modeli/10_Radiomaster/01_Pocket/05_Cherepaha_na_SE.md)  
 
 ## Прошивка для аппаратуры EdgeTX
 [Официальный сайт](https://edgetx.org/)
