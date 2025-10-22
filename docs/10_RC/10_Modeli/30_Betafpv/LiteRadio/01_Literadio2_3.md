@@ -1,4 +1,4 @@
-		# BETAFPV LiteRadio 2, 2SE, 3
+# BETAFPV LiteRadio 2, 2SE, 3
 
 [LiteRadio 2 SE. Страница на сайте производителя](https://betafpv.com/collections/tx/products/literadio-2-se-radio-transmitter)  
 [LiteRadio 3. Страница на сайте производителя](https://betafpv.com/collections/tx/products/literadio-3-radio-transmitter)  
