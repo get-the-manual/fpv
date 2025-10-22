@@ -62,4 +62,6 @@
 
 [I Found The ULTIMATE FPV Drone Simulator In 2025. YouTube: Brodie Reed](https://www.youtube.com/watch?v=QwtvvKNzR4Y)
 
+[Лучшие мобильные FPV симуляторы 2025 — iOS и Android [Mobile FPV Sims]. YouTube: Anik FPV](https://www.youtube.com/watch?v=RVA7-tPs5rY)
+
 [FPV у твоєму смартфоні | Як підключитись до апаратури та який сим обрати? YouTube: Phoenix drones (укр.)](https://www.youtube.com/watch?v=o6ETQt9F9jI)
