@@ -73,7 +73,7 @@
 
 [Як активувати тубмлери та кнопки на пульті (EdgeTX). YouTube: Жвавий Дрон](https://www.youtube.com/watch?v=LybG0QXf7pU)  
  
-## Использовние логических свичей (`Logical Switch`)
+## Использование логических свичей (`Logical Switch`)
 [Логические свитчи или как настроить ARM на кнопку без фиксации (ARM on momentary switch). YouTube: ZhukoRama FPVlog (ZRFPV)](https://www.youtube.com/watch?v=y9OvhpLNMMs)
 
 [Озвучивание на пульте низкого заряда батареи на дроне](Ozvuchka_nizkogo_napryazheniya.md)  
