@@ -72,6 +72,9 @@ GPS modules can be used for two quite different purposes:
 Про SoftSerial можно посмотреть [в этой статье](./22_FC/Proshivka/30_Betaflight/SoftSerial.md)
 
 ## Position Hold, Altitude Hold
+
+[НОВЫЕ ФУНКЦИИ Betaflight 4.6: Altitude Hold и Position Hold!. YouTube: DRONOFLY FPV](https://www.youtube.com/watch?v=Ort2NU0ol4Q)
+
 [Утримання позиції на FPV дроні по GPS. Betaflight 4.6 Прошивка, налаштування і тести. YouTube: Є-Дрон (укр.)](https://www.youtube.com/watch?v=VrKpEzWQol0)
 
 ## Проблема: GPS долго ловит спутники
