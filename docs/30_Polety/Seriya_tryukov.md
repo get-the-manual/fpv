@@ -13,6 +13,41 @@ Juicy Flick + Power Loop
 Yaw 180, pitch от себя 180, Yaw 180, pitch на себя 180, продолжаем лететь дальше  
 ![](Series_1.gif)
 
+
+## Flat yaw
+
+[This One Trick Will Improve Your FPV Freestyle. YouTube: Patrick Watkins](https://www.youtube.com/watch?v=puQ7CyYnFNk)
+
+Half Matty (Reverse Split-S)  
+Flat Yaw   
+Flip forward
+
+Вариация:  
+Roll 360  
+Half Matty (Reverse Split-S)  
+Flat Yaw  
+Flip forward
+
+Split-S  
+Flat Yaw   
+Split-S
+
+Flip от себя 180  
+Yaw  180  
+Flip на себя 180
+
+Split-S над мостом  
+Flat Yaw  
+Прыжок над мостом с Pitch от себя  
+Опять заходим под мост  
+Flat Yaw 
+
+Пролетаем преграду  
+Под ней Flat Yaw  
+Roll 360  
+Flat Yaw  
+
+
 ## Входы и выход из Matty Flip
 [Matty Flips Ruining Your Flow? Top 5 Exits & Entries to Fix Your Flow. YouTube: Patrick Watkins](https://www.youtube.com/watch?v=sQ9Ye0KOJuc)
 

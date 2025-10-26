@@ -133,4 +133,7 @@ Boomerang, Wide boomerang, Infinite Boomerang
 #### Inverted Yaw Track
 [Apprends le Inverted Yaw Track - Fpv Freestyle - Tuto Bard. YouTube: Bard Fpv](https://www.youtube.com/watch?v=8cmTLSOagVQ)
 
+#### Flat Yaw
+[This One Trick Will Improve Your FPV Freestyle. YouTube: Patrick Watkins](https://www.youtube.com/watch?v=puQ7CyYnFNk)
+
 ### [20 routines to improve your looρ abilities. YouTube: AuxPlumes](https://www.youtube.com/watch?v=tA7XWwtBn0Q)
