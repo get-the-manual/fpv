@@ -83,6 +83,8 @@
 ## Прошивка для аппаратуры EdgeTX
 [Официальный сайт](https://edgetx.org/)
 
+[Сайт для прошивки онлайн](https://buddy.edgetx.org/)
+
 [GitHub репозиторий EdgeTX проекта](https://github.com/EdgeTX/edgetx)
 
 [GitHub репозиторий EdgeTX SD Card Contents. Содержимое SD карты](https://github.com/EdgeTX/edgetx-sdcard)
