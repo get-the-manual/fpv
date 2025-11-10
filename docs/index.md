@@ -102,6 +102,8 @@ spinnerproduction.ru
 Все сделки в этой барахолке на Ваш страх и риск!  
 Правила, идеология и дисклеймер тут: <https://t.me/fpv_free/10>
 
+[Барахолка дронов](https://t.me/sale_fpv)
+
 #### Блогеры и гонщики
 
 [DRONOFLY](https://t.me/dronofly)  
