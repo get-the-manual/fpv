@@ -153,7 +153,7 @@ nav:
     - Защита от воды: 00_Drones/Zashhita_ot_vody.md
     - Режимы полета: 00_Drones/Rezhimy_poleta.md
     - GPS: 00_Drones/GPS.md
-    - PID: 00_Drones/PID.md
+    - PID и фильтры: 00_Drones/PID.md
     - Rates: 00_Drones/Rates.md
     - LED: 00_Drones/LED.md
   - Аппаратура(Пульты):
