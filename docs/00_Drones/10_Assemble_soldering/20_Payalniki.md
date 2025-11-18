@@ -1,4 +1,7 @@
 # Паяльники и паяльные станции
+
+[Самые технологичные паяльники 2025. YouTube: AlexGyver](https://www.youtube.com/watch?v=fKYVZ8fmlXY)  
+
 [Самые технологичные паяльники 2024. YouTube: AlexGyver](https://www.youtube.com/watch?v=BaF2fTm9Yzw)  
 
 ## Паяльник TS101 
