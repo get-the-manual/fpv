@@ -35,5 +35,7 @@
 
 ## Полезные ссылки
 
+[Betaflight FPV Drone Tuning In 10 Simple Steps - Oscar Liang](https://oscarliang.com/fpv-drone-tuning/)
+
 [Сравнительный тест моторов, батарей, пропеллеров от AOS RC](https://www.aos-rc.com/aos-labs)  
 
