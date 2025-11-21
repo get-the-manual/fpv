@@ -46,3 +46,11 @@ dBm – это единица измерения мощности сигнала
 [LQ and RSSI Explained for ExpressLRS and Crossfire Radio Links (oscarliang.com)](https://oscarliang.com/lq-rssi/)
 
 [Signal Health (expresslrs.org)](https://www.expresslrs.org/info/signal-health/)
+
+## Проверяем сигнал до полетов
+1. Выставить минимальную мощность на передатчике
+2. Отнести модель на 1м от аппаратуры, убедится что антенны параллельны друг другу
+3. Проверить rssi dbm, либо в OSD, либо сенсор 1RSS на аппаратуре
+
+Для 900мгц показатель должен быть около -20  
+Для 2.4ггц показатель должен быть до от -25 до -40
