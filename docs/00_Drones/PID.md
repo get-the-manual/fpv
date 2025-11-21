@@ -27,6 +27,8 @@ FF Stick response от 0.5 до 1 . По 0.1
 
 [How to Tune FPV Drone Filters & PID with Blackbox (PIDToolBox & Blackbox Explorer Guide) - oscarliang.com](https://oscarliang.com/pid-filter-tuning-blackbox/)
 
+[Betaflight FPV Drone Tuning In 10 Simple Steps - Oscar Liang](https://oscarliang.com/fpv-drone-tuning/)
+
 ## PID для чайников от Mustfly
 [О настройке PID простыми словами. Часть 1](https://www.youtube.com/watch?v=aLAsaDUWzuc)  
 [Часть 2. Дружище, ты в порядке?](https://www.youtube.com/watch?v=YZBem_4jWSQ)  
