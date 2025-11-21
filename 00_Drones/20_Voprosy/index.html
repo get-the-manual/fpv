@@ -1848,6 +1848,23 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Почему дрон не армится">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#rpmfilter-arming-status-flag" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RPMFILTER arming status flag
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -7962,6 +7979,23 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Почему дрон не армится">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#rpmfilter-arming-status-flag" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RPMFILTER arming status flag
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -8068,6 +8102,18 @@
 <p>Если на дроне установлен бипер (buzzer), то он издает длинные и короткие писки указывающие на причину проблемы.<br />
 Один длинный равен числу 5. Короткий - 1. Сложив, мы получим число, которое означает значение в таблице флагов.<br />
 Например: 3 длинных, 2 коротких. 3*5 + 2 = 17. Что означает MSP connection is active</p>
+<h3 id="rpmfilter-arming-status-flag">RPMFILTER arming status flag</h3>
+<p><a href="https://www.youtube.com/watch?v=TiptP3KAFQ0">BETAFLIGHT WON'T ARM RPMFILTER arming status flag. YouTube: Joshua Bardwell</a></p>
+<p>Перевод от Gemini:</p>
+<p>Сводка: Betaflight не активируется из-за флага RPMFILTER<br />
+Понимание флагов блокировки активации: Betaflight блокирует активацию квадрокоптера и показывает "arming disable flags" (например, RPMFILTER) на вкладке Setup, чтобы сообщить точную причину, по которой полет небезопасен.</p>
+<p>Что такое двунаправленный D-shot: Эта функция позволяет регулятору скорости (ESC) отвечать контроллеру полета (FC) информацией о фактическом числе оборотов двигателя в минуту (RPM), подобно тахометру в автомобиле.</p>
+<p>Зачем нужны данные RPM: Данные об оборотах двигателя необходимы для "Gyro RPM Filter" (фильтра RPM гироскопа) во вкладке PID tuning, что является настоятельно рекомендуемой функцией для улучшения летных характеристик.</p>
+<p>Значение флага RPMFILTER: Этот флаг появляется, когда фильтр RPM включен, но FC не получает необходимых данных RPM от ESC, что, в свою очередь, блокирует активацию.</p>
+<p>Основная причина: Устаревшая прошивка: Самая частая причина – прошивка ESC не поддерживает двунаправленный D-shot. Поддерживаемые варианты включают BLHeli32 v32.7 или новее, либо BLHeli_S с прошивкой JESC.</p>
+<p>Главные решения: Либо перепрошейте ESC на поддерживаемую версию прошивки, либо перейдите на вкладку Configuration и отключите функцию двунаправленного D-shot.</p>
+<p>Второе решение: Подайте питание на ESC: Если вы подключены только через USB, ESC может быть не запитан. Подключение основного полетного аккумулятора обеспечит питание ESC и обычно устранит этот флаг.</p>
+<p>Другие возможные проблемы: К менее распространенным причинам относятся физические повреждения моторных проводов или самого ESC. Иногда простое перезапуск (power cycling) квадрокоптера может устранить случайный сбой связи.</p>
 <h2 id="propwash">Propwash (пропвош)</h2>
 <p><a href="https://profpv.ru/turbulentnost-propwash-u-kvadrokoptera-ka/">Турбулентность (Propwash) у квадрокоптера, как исправить</a><br />
 <a href="https://www.youtube.com/watch?v=KgLhCgSpCrY">Что такое пропвош. Почему появляется и как с ним бороться. YouTube: Записки FPV пилота</a><br />
@@ -8128,7 +8174,7 @@ set dshot_bitbang = ON
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="November 21, 2025 16:57:56 UTC">November 21, 2025</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="November 21, 2025 21:05:51 UTC">November 21, 2025</span>
   </span>
 
     
