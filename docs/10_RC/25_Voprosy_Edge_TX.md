@@ -124,3 +124,9 @@
 ![](EdgeTX_Statistics.png)
 
 Чтобы сбросить этот таймер надо на этом экране нажать и подержать колесико
+
+
+## Полезные скрипты
+
+### [EdgeTX Quad telemetry dashboard](https://github.com/mvaldesshc/advanced-edgetx-dashboard)
+![](EdgeTX_Quad_telemetry_dashboard.png)
