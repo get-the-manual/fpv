@@ -53,8 +53,13 @@
 
 ## Огнеупорная сумка
 
+### Lipo Guard Safety Bag
 [Lipo Guard Safety Bag Fireproof Explosion-Proof Portable Lipo Safety Bag 215*115*155mm for RC FPV Racing Drone Car Battery Safe](https://vi.aliexpress.com/item/1005004478094343.html)  
 ![](Lipo_Safety_Bag.png) 
 ![](Lipo_Safety_Bag2.png) 
+
+### [Torvol LiPo Safe Bag](https://torvol.com/product/lipo-safe-bag/)  
+![](Torvol_LiPo_Safe_Bag.png)  
+[Torvol LiPo Safe Bag - Fire Test](https://www.youtube.com/watch?v=kdv4naeFL7g)
 
 ## [Коробка для 15шт 1S 300mah  баток (3D-печать)](../3D_models/Battery_box.md)

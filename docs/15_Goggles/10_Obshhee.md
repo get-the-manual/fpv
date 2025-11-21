@@ -86,6 +86,9 @@ Walksnail Avatar HD Goggles L
 ### Еще вариант: 
 ![](AnalogVideoScreen.jpg)
 
+[9IMOD LCD5802D FPV Monitor with DVR 5.8G 40CH 7 Inch LCD Screen Monitor 800x480 Dual Diversity Receiver for FPV Drone](https://www.aliexpress.com/item/1005006845323335.html)  
+![](AnalogMonitor.png)
+
 ## Вывод картинки с компьютера на очки ev800dm
 Чтобы вывести картинку с компа на очки ev800dm нужен [конвертер с HDMI выхода на на аналоговый тюльпан 3RCA](https://ozon.ru/t/WPXWpAw)
  
