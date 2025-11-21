@@ -34,3 +34,7 @@
 ### [FPV Scores](https://fpvscores.com/)
 
 ### [Tiny View Plus](https://github.com/t-asano/tinyviewplus)
+
+### [TinyFpvTimer for Android](https://play.google.com/store/apps/details?id=com.zinkner.TinyFpvTimer)
+
+### [StarForge - ESP32 Drone Race Timing System](https://github.com/RaceFPV/StarForgeOS)
