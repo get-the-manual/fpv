@@ -56,4 +56,12 @@
 
 [Zeenko TinySA ULTRA Plus ZS-405/406/407 Handheld Tiny Spectrum Analyzer TinySA](https://www.aliexpress.com/item/1005008563113683.html)
 
+## Сайт [VTX утиліти (укр.)](https://vtx.in.ua/)
+[Конвертор логотипа для OSD](https://vtx.in.ua/logo/)  
+[Редактор шрифтів OSD](https://vtx.in.ua/max7456/)
 
+## OSD шрифт черный с белой обводкой
+![](OSD_font_impact.png)  
+[impact.mcm](impact.mcm)
+
+Заходим в Betaflight - OSD - изменить шрифт - файл загрузить и нажать кнопку снизу загрузить шрифт

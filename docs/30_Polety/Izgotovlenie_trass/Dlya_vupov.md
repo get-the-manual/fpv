@@ -44,5 +44,8 @@
 
 [Посмотреть модельки онлайн можно здесь](https://www.viewstl.com/)
 
+[Фиттинги ПВХ для сборки световых ворот на https://www.wildberries.ru/](https://www.wildberries.ru/)  
+![](Fitting.jpg)
+
 
 

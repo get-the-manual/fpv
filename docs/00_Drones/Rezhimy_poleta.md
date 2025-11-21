@@ -81,6 +81,8 @@
 
 [AIR MODE | Что за полетный режим? | Как оно работает. YouTube: SetUP](https://www.youtube.com/watch?v=GGumeuEE0ps)  
 
+[Betaflight | Что такое Air Mode? (technobee.ru/)](https://technobee.ru/index.php/soft/betaflight/item/betaflight-chto-takoe-air-mode)
+
 [Betafpv Cetus X - угомонись! Дрон прыгает, дрейфует и прилипает к стенам. Настройка FPV для квартиры. YouTube: Petrokey](https://www.youtube.com/watch?v=kPr2hmY9g5g)  
 
 [как тримировать FPV дрон, трим горизонта. YouTube: Петрокей](https://www.youtube.com/watch?v=dqHI1HcI4w0)

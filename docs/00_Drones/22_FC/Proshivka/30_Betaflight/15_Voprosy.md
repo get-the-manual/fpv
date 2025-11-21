@@ -25,7 +25,14 @@
 От этого значения BF считает кол-во банок. Грубо говоря, ты подключает АКБ HV 4s. Betaflight считает, что для 4s общее напряжение высокое и поэтому "переключается" на 5s
 
 ## Что такое crash_recovery mode
-Он запомнит положение дрона перед столкновением и попробует в заданных перделах вернуться к нему же. Когда выйдет в то же положение или поймёт что не может - вернёт управление пилоту.  
+Он запомнит положение дрона перед столкновением и попробует в заданных пределах вернуться к нему же. Когда выйдет в то же положение или поймёт что не может - вернёт управление пилоту.  
+
+Открываем командную строку и прописываем( ну и сохраняем):  
+```
+set crash_recovery=ON (жмем Enter)
+save (жмем Enter)
+```
+
 Подробное видео: [Winning Whoop racers use Betaflight crash_recovery. Should you?](https://www.youtube.com/watch?v=5YyxIft9wKM)  
 
 [Enable Crash Recovery in Betaflight](https://oscarliang.com/best-tinywhoop-settings/#Enable-Crash-Recovery-in-Betaflight)

@@ -39,3 +39,8 @@ Motor [0702 II|30000KV (dual ball bearings)](https://betafpv.com/collections/bru
 
 ## Обзоры
 [BetaFpv air65 Champion - в чем фишка лимитки. YouTube: Петрокей](https://www.youtube.com/watch?v=KkHr0nEDnQI)
+
+
+## Как уменьшить угол камеры
+Оборачиваем стяжкой  
+![](Camera_Angle_lifehack.jpg)

@@ -43,3 +43,7 @@ JST 1.0, он же SH 1.0mm
 [New BetaFPV Air65 + Tinywhoop 300mah UPDATES +(Giveaway). YouTube: Infinity Loops](https://www.youtube.com/watch?v=PJTh98q0fgg)
 
 [Review: BetaFPV Air65 1S 65mm Tiny Whoop – Raising the Bar High](https://oscarliang.com/betafpv-air65/)
+
+## Как уменьшить угол камеры
+Оборачиваем стяжкой  
+![](Camera_Angle_lifehack.jpg)
