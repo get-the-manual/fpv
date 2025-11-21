@@ -28,3 +28,7 @@
 [DJI 04 Drone Binding Tutorial with DJI FPV Controller | Easy Stepsl](https://www.youtube.com/watch?v=3mKiWJHXhCw)  
 
 [Connecting the BetaFPV Meteor75 Pro O4 with the DJI FPV Remote Controller 3. YouTube: Vernel FPV](https://www.youtube.com/watch?v=lgCMDQJtX_0)
+
+[How to bind DJI RC Controller to Betaflight. YouTube: Joshua Bardwell](https://www.youtube.com/watch?v=GSMLCWwMLjI)
+
+[How to Setup DJI FPV System (Air Unit, Goggles, Remote and Betaflight) - Oscar Liang](https://oscarliang.com/dji-fpv-system-setup/)
