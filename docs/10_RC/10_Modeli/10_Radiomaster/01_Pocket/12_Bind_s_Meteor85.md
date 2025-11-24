@@ -23,7 +23,7 @@ Bind фразу вбил в BetaFlight configurator. Ту же самую. По 
 
 На [странице производителя](https://support.betafpv.com/hc/en-us/articles/4403742839705-How-to-Bind-with-F4-Betaflight-FC-SPI-ExpressLRS-Receiver) указано  
 `250Hz = 1`  
-Захожу в настройки модели на покете. Там зафиксирована частота 1000hz
+Захожу в настройки модели на покете. Там зафиксирована частота 1000hz  
 Запускаю lua script ExpressLRS.  
 Там Packet Rate стоит `F1000`, что соответствует 1000Hz.  
 ![alt text](1_Before_(F1000).jpg)
