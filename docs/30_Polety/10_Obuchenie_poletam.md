@@ -7,6 +7,8 @@
 
 [Учимся летать на FPV. С чего начать. YouTube: Horizon](https://www.youtube.com/watch?v=fgZnj6Oskxk)
 
+[Учимся ФПВ - как разложить трюк на движения, и как наклон камеры влияет на управление. YouTube: Петрокей](https://www.youtube.com/watch?v=1llGhdrByi0)
+
 [Вводный курс про БПЛА. YouTube: UAVProf](https://www.youtube.com/playlist?list=PL6YxO2VuFvNk9bkHpJ4YfjtvJd1rxacu0)
 
 [FPV Freestyle - 5 Mistakes To Avoid. YouTube: Patrick Watkins](https://www.youtube.com/watch?v=GZ-5h-h3zCs)  
