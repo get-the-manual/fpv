@@ -85,12 +85,13 @@ Patrick Watkins](https://www.youtube.com/watch?v=vYaq1cCAjTs)
 [FPV Trick Tutorial | INVERTED YAW SPIN. YouTube: Patrick Watkins](https://www.youtube.com/watch?v=02x7HyC2U1E)
 
 #### Trippy Spin (Inverted Orbit):
-[Trippy spin или обратная орбита. Научиться за один вечер?](https://www.youtube.com/watch?v=Lk9EkWkudN0)  
-[FPV freestyle уроки. Trippy spin или обратная орбита. (2)](https://www.youtube.com/watch?v=knTYPUcpjL8)  
-[I Can't Trippy Spin! or Inverted Orbit? 🤔 FPV Freestyle Tutorial](https://www.youtube.com/watch?v=M5YY4iC5z1o)  
-[How to Inverted Orbit (Trippy Spin) | FPV Trick Tutorial](https://www.youtube.com/watch?v=HbUVa1IUfFs)  
-[Trippy Spin Tutorial (Inverted Orbit) - Understand The Trippy](https://www.youtube.com/watch?v=-TxgEsk8T5I)  
-[I learned to trippy spin, and so can you.](https://www.youtube.com/watch?v=2cInhs27EXs)  
+[Trippy spin или обратная орбита. Научиться за один вечер? YouTube: Олег Стельмах](https://www.youtube.com/watch?v=Lk9EkWkudN0)  
+[FPV freestyle уроки. Trippy spin или обратная орбита. YouTube: ARAMEROS](https://www.youtube.com/watch?v=knTYPUcpjL8)  
+[I Can't Trippy Spin! or Inverted Orbit? 🤔 FPV Freestyle Tutorial. YouTube: KMart FPV](https://www.youtube.com/watch?v=M5YY4iC5z1o)  
+[How to Inverted Orbit (Trippy Spin) | FPV Trick Tutorial. YouTube: 
+headmazta](https://www.youtube.com/watch?v=HbUVa1IUfFs)  
+[Trippy Spin Tutorial (Inverted Orbit) - Understand The Trippy. YouTube: Grau](https://www.youtube.com/watch?v=-TxgEsk8T5I)  
+[I learned to trippy spin, and so can you. YouTube: AlexGHobby](https://www.youtube.com/watch?v=2cInhs27EXs)  
 [Actually understanding the Trippy Spin. YouTube: nils vo](https://www.youtube.com/watch?v=9jWCZihJgEg)  
 
 #### Juicy Flick
