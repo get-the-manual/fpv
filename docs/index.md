@@ -19,6 +19,8 @@
 
 [Заход в FPV в 2025 для новичка (2 года опыта)| Flywoo Flytimes 85 2S O4Pro. YouTube: Alexander Goncharov](https://www.youtube.com/watch?v=-tH1bS7eAF4)
 
+[НАЙКРАЩИЙ TINYWHOOP для новачка: ПОРІВНЯННЯ МОДЕЛЕЙ. YouTube: FPVUA (укр.)](https://www.youtube.com/watch?v=0QAAYDu5DIk)  
+
 [Плейлист Гоночный квадрокоптер от My Hobby Log](https://www.youtube.com/playlist?list=PLLTDWoZVS17qhvotH9cNn0L5P6NwZIFr1)  
 Этим видео уже 8 лет, но общие и базовые принципы устройства и настройки сохраняются.
 
