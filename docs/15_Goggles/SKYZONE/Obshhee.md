@@ -9,7 +9,7 @@
 
 **Очки** (отдельный экран для каждого глаза)    
 [SKYZONE SKY04O PRO](https://www.skyzonefpv.com/products/skyzone-sky04o-pro-oled-screen-fpv-goggle-with-1280-720-resolution-and-5-8g-receiver) - стартовые очки  
-[SKYZONE Sky04x](https://www.skyzonefpv.com/products/sky04x-pro) - топовые очки за топовые деньги.  
+[SKYZONE SkY04X PRO](https://www.skyzonefpv.com/products/sky04x-pro) - топовые очки за топовые деньги.  
 
 ## Как поймать канал на очках Skyzone.
 1. Зажимаем правое колёсика долго пока не высветится что то по типу диаграммы.
