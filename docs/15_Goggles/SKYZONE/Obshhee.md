@@ -4,12 +4,12 @@
 
 ## Модели
 **Шлемы**  
-`SKYZONE Cobra SD` - дешево, годно, сердито.  
-`SKYZONE Cobra X` - средне, оч годно и оч сердито, картинка огонь.  
+[SKYZONE Cobra SD](https://www.skyzonefpv.com/products/skyzone-lcd-screen-cobra-sd-fpv-goggle-with-diversity-receiver) - дешево, годно, сердито.  
+[SKYZONE Cobra X V4](https://www.skyzonefpv.com/products/skyzone-cobra-x-v2-5-8ghz-48ch-steadyview-receiver-fpv-goggles-with-dvr) - средне, оч годно и оч сердито, картинка огонь.  
 
 **Очки** (отдельный экран для каждого глаза)    
-`SKYZONE SKY04O PRO` - стартовые очки  
-`SKYZONE Sky04x` - топовые очки за топовые деньги.  
+[SKYZONE SKY04O PRO](https://www.skyzonefpv.com/products/skyzone-sky04o-pro-oled-screen-fpv-goggle-with-1280-720-resolution-and-5-8g-receiver) - стартовые очки  
+[SKYZONE Sky04x](https://www.skyzonefpv.com/products/sky04x-pro) - топовые очки за топовые деньги.  
 
 ## Как поймать канал на очках Skyzone.
 1. Зажимаем правое колёсика долго пока не высветится что то по типу диаграммы.
