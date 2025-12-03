@@ -30,4 +30,4 @@
 Нашлепку революционную даже они придумали на новые приемники... но она не со всеми камерами помогает(( 
 
 ## Полезное
-{Очки для управления дроном SKYZONE 02O OLED. Устранение неисправности. YouTube: Dimasho}(https://www.youtube.com/watch?v=TAQ1dP09_aM)
+[Очки для управления дроном SKYZONE 02O OLED. Устранение неисправности. YouTube: Dimasho](https://www.youtube.com/watch?v=TAQ1dP09_aM)
