@@ -21,6 +21,8 @@
 
 [Перевод на украинский язык: Збірка фрістайл FPV дрона для початківців](https://www.youtube.com/playlist?list=PLxSCIbfP-lXYZJrznBnJxkbkGQw095rrh)
 
+[FPV Дрон своїми руками. 1 Частина. Збираємо і паяємо. YouTube: Є-Дрон (укр.)](https://youtu.be/75SbiwqW7DM?si=sM68bahxVpSBEkkN)
+
 ## Другие видео
 
 [ВСЁ о МИКРО FPV ДРОНАХ - ГАЙД на TINYWHOOP с ЛЁШЕЙ РОДИНЫМ. YouTube: recopter](https://www.youtube.com/watch?v=6Ad-D2mod9s)  
