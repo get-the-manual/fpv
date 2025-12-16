@@ -93,6 +93,8 @@ nav:
       - Коннекторы: 00_Drones/10_Assemble_soldering/30_Konnektory.md
       - Провода: 00_Drones/10_Assemble_soldering/40_Provoda.md
     - Вопросы: 00_Drones/20_Voprosy.md
+    - Вопросы видео: 00_Drones/23_Voprosy_video.md
+    - Дрон кувыркается: 00_Drones/Drone_flips.md
     - VTX:
       - Общая информация: 00_Drones/20_VTX/00_Obshhaya_informatsiya.md
       - Модели:
@@ -131,7 +133,6 @@ nav:
           - Resources: 00_Drones/22_FC/Proshivka/30_Betaflight/Resources.md
           - SoftSerial: 00_Drones/22_FC/Proshivka/30_Betaflight/SoftSerial.md
           - Trim: 00_Drones/22_FC/Proshivka/30_Betaflight/Trim.md
-    - Вопросы видео: 00_Drones/23_Voprosy_video.md
     - Связь с пультом:
       - Протоколы: 00_Drones/25_RC_Connect/05_Protokoly.md
       - ELRS: 00_Drones/25_RC_Connect/10_ELRS.md
