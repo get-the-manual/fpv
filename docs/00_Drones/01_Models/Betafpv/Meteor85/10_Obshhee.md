@@ -28,7 +28,7 @@
 
 ## Печатная канопа с креплением Runcam Thumb от V8787
 
-![[Meteor85_canopa4.png]]
+![](Meteor85_canopa4.png)
 [Файл для 3D печати](Meteor_85_canopa.stl)  
 
 Внешний вид:  
