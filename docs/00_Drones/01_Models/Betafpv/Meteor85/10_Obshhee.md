@@ -23,7 +23,7 @@
 
 ### [Ввод Bind фразы на дроне](./../../../../60_Bind/54_Bind_fraza_drona_s_SPI.md)
 
-[Аппаратура не биндится с Meteor85](/fpv/10_RC/10_Modeli/10_Radiomaster/01_Pocket/12_Bind_s_Meteor85.md)
+[Аппаратура не биндится с Meteor85](./../../../../10_RC/10_Modeli/10_Radiomaster/01_Pocket/12_Bind_s_Meteor85.md)
 
 ## Крепление антенны от Eugenius Makhorin
 ![](Meteor85_Antenna_mount.jpg)
