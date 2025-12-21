@@ -18,11 +18,11 @@ Bind фразу вбил в BetaFlight configurator.
 
 Смотрел [видео от Петра](https://www.youtube.com/watch?v=CByA9YKPEJI).  
 В нем показано, как через CLI посмотреть на частоту приемника в дроне  
-`get expresslrs`
+`get expresslrs_rate_index`
 Мое значение  
 `expresslrs_rate_index = 1`
 
-На [странице производителя](https://support.betafpv.com/hc/en-us/articles/4403742839705-How-to-Bind-with-F4-Betaflight-FC-SPI-ExpressLRS-Receiver) указано  
+На странице [How to Bind with F4 Betaflight FC (SPI ExpressLRS Receiver)](https://support.betafpv.com/hc/en-us/articles/4403742839705-How-to-Bind-with-F4-Betaflight-FC-SPI-ExpressLRS-Receiver) сайта BETAFPV указано  
 `250Hz = 1`  
 Захожу в настройки модели на покете. Там зафиксирована частота 1000hz  
 Запускаю lua script ExpressLRS.  

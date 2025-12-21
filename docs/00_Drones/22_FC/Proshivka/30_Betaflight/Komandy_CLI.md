@@ -40,6 +40,40 @@ save
 ```
 Объяснение тут [FAQ / No OSD in Betaflight 4.5](https://hackmd.io/@nerdCopter/r1JbnG0Q0)  
 
+## ELRS приемник по SPI протоколу
+Если ELRS приемник подключен к полетнику , он не имеет собственного WiFi сайта. Все настройки осуществляются через CLI в Betaflight Configurator.
+
+### номер модели для Model Match
+
+```get expresslrs_model_id```
+Значение от 0-255. 255 означает Model Match отключен.
+
+```set expresslrs_model_id = N```
+
+### Packet Rate
+``` get expresslrs_rate_index```
+
+На странице [How to Bind with F4 Betaflight FC (SPI ExpressLRS Receiver)](https://support.betafpv.com/hc/en-us/articles/4403742839705-How-to-Bind-with-F4-Betaflight-FC-SPI-ExpressLRS-Receiver) сайта BETAFPV указано:  
+- 500Hz = 0  
+- 250Hz = 1  
+- 150Hz = 2  
+- 50Hz = 3
+
+Ставить значение обычно не нужно. Оно устанавливается автоматически при успешном бинде.
+
+### Установка Bind фразы
+Устаревший способ. Обычно уже есть поле ввода.
+
+
+```set expresslrs_uid = [ Your UID bytes ]```
+где UID - это хеш  
+Сначала нужно превратить Bind фразу в коды и потом ввести ее.
+Для этого идем на страницу [UID Byte Generator сайта https://www.expresslrs.org.](https://www.expresslrs.org/hardware/spi-receivers/?h=uid#uid-byte-generator).  
+Там в поле Binding Phrase вводим свое слово. Ниже появятся нужные коды и команда, которую надо ввести в CLI.
+
+
+
+
 ## Turtle mode settings
 ``
 set crashflip_motor_percent = 0  

@@ -112,6 +112,7 @@ nav:
       - OSD: 00_Drones/20_VTX/OSD.md
     - Полетник (FC):
       - Модели:
+        - BETAFPV 1S модели (кратко): 00_Drones/22_FC/Modeli/BETAFPV_1S.md 
         - BETAFPV Air 5in1 4in1: 00_Drones/22_FC/Modeli/BETAFPV_Air_5in1_4in1.md
         - BETAFPV FC F4 1S 12A AIO: 00_Drones/22_FC/Modeli/BETAFPV_FC_F4_1S_12A_AIO.md
         - BETAFPV FC F4 1S 5A AIO: 00_Drones/22_FC/Modeli/BETAFPV_FC_F4_1S_5A_AIO.md
