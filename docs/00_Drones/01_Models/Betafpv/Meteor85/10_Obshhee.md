@@ -28,7 +28,7 @@
 
 ## Печатная канопа с креплением Runcam Thumb от V8787
 
-![](Meteor85_canopa4.png)
+![](Meteor85_canopa4.png)  
 [Файл для 3D печати](Meteor_85_canopa.stl)  
 
 Внешний вид:  
@@ -38,6 +38,6 @@
 
 ## 3D модель крепления антенны, пищалки или конденсатора
 
-![](Meteor85_buzzer_mount2.png)
+![](Meteor85_buzzer_mount2.png)  
 [Betafpv meteor85 active buzzer or capacitor mount](https://www.thingiverse.com/thing:6186817)  
-![](Meteor85_buzzer_mount.png)
+![](Meteor85_buzzer_mount.png)  
