@@ -38,6 +38,6 @@
 
 ## 3D модель крепления антенны, пищалки или конденсатора
 
-![[Meteor85_buzzer_mount2.png]]
+![](Meteor85_buzzer_mount2.png)
 [Betafpv meteor85 active buzzer or capacitor mount](https://www.thingiverse.com/thing:6186817)  
 ![](Meteor85_buzzer_mount.png)
