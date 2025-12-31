@@ -5,7 +5,7 @@
 
 [CETUS X от BETAFPV. Нужен ли он тебе? YouTube: Обо всём по чуть чуть](https://www.youtube.com/watch?v=KwPMTkQE93g)
 
-Дрон идет в комплекте  комплекте [Cetus X FPV Kit](https://betafpv.com/collections/all-drone/products/cetus-x-fpv-kit)  
+Дрон идет в комплекте [Cetus X FPV Kit](https://betafpv.com/collections/all-drone/products/cetus-x-fpv-kit)  
 ![](CetusXFpvKit.png)  
 
 В него входят:  
