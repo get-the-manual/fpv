@@ -12,6 +12,6 @@
 [CapCut - Video Editor for Android](https://play.google.com/store/apps/details?id=com.lemon.lvoverseas&hl=ru)
 
 ## Видео по монтажу
-[How to make analog DVR look good | Davinci Resolve | FPV. YouTube: 
-[master motion blur | clean up analog video | resolve. YouTube: 
-prottentogo](https://www.youtube.com/watch?v=c5r4rcQ72sY)  
+[How to make analog DVR look good | Davinci Resolve | FPV. YouTube: prottentogo](https://www.youtube.com/watch?v=N0b-hKTruZ0)
+
+[master motion blur | clean up analog video | resolve. YouTube: prottentogo](https://www.youtube.com/watch?v=c5r4rcQ72sY)  
