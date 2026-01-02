@@ -3078,6 +3078,62 @@
                 
   
   
+  
+  
+    <li class="md-nav__item">
+      <a href="/00_Drones/22_FC/Proshivka/30_Betaflight/Backup.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Резервное копирование настроек
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/00_Drones/22_FC/Proshivka/30_Betaflight/CLI.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    CLI (Command Line Interface)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
     
   
   
@@ -3209,6 +3265,89 @@
       
     </span>
   </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Список команд для проверки состояния дрона
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Список команд для проверки состояния дрона">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-status" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1. Команда status
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-tasks" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2. Команда tasks
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-get-motor_protocol" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3. Команда get motor_protocol
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-resource-show-all" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        4. Команда resource show all
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#5-diff-all" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        5. Команда diff all (просто посмотреть)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#gps" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Данные GPS
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -8265,6 +8404,89 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Список команд для проверки состояния дрона
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Список команд для проверки состояния дрона">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-status" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1. Команда status
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-tasks" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2. Команда tasks
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-get-motor_protocol" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3. Команда get motor_protocol
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-resource-show-all" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        4. Команда resource show all
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#5-diff-all" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        5. Команда diff all (просто посмотреть)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#gps" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Данные GPS
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -8299,12 +8521,52 @@
 
 
 <h1 id="betaflight-cli">Полезные команды Betaflight CLI</h1>
-<p><code>diff</code> - получить текущие настройки, не включая те что по умолчанию<br />
-<code>dump all</code> - получить <strong>полные</strong> текущие настройки включая те что по умолчанию<br />
-<code>bl</code> - перейти в режим <code>Boot Loader / DFU</code><br />
-<code>status</code> - статус устройств и состояние полетника</p>
-<p><code>resource</code> - получить список ресурсов, то есть назначение функций на выводы микросхемы<br />
-<code>resource show</code> - получить список всех площадок и их использование. См. видео <a href="https://www.youtube.com/watch?v=Yx27d-7zNJY">Setting Up Softserial In Betaflight! New Command In 4.5! - FPV Questions</a>  </p>
+<table>
+<thead>
+<tr>
+<th>Команда</th>
+<th>Что делает?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>status</code></td>
+<td>Показывает версию прошивки, нагрузку на процессор и причины, по которым дрон не встает в Arm (запрет запуска).</td>
+</tr>
+<tr>
+<td><code>diff all</code></td>
+<td>Выводит список всех ваших личных настроек (удобно для бэкапа).</td>
+</tr>
+<tr>
+<td><code>resource</code></td>
+<td>Показывает, какой контакт на процессоре управляет каким мотором/периферией. Позволяет «переназначить» сгоревший выход мотора на другой свободный контакт.</td>
+</tr>
+<tr>
+<td><code>resource show</code></td>
+<td>получить список всех площадок и их использование. См. видео <a href="https://www.youtube.com/watch?v=Yx27d-7zNJY">Setting Up Softserial In Betaflight! New Command In 4.5! - FPV Questions</a>.</td>
+</tr>
+<tr>
+<td><code>set [параметр]</code></td>
+<td>Изменяет конкретную настройку.</td>
+</tr>
+<tr>
+<td><code>get [слово]</code></td>
+<td>Ищет все параметры, содержащие это слово (например, <code>get gyro</code>).</td>
+</tr>
+<tr>
+<td><code>defaults</code></td>
+<td>Сбрасывает полетный контроллер к заводским настройкам.</td>
+</tr>
+<tr>
+<td><code>save</code></td>
+<td>Сохраняет всё и перезагружает контроллер.</td>
+</tr>
+<tr>
+<td><code>bl</code></td>
+<td>Перейти в режим <code>Boot Loader / DFU</code></td>
+</tr>
+</tbody>
+</table>
 <h2 id="osd">Устройство для передачи OSD</h2>
 <p>Команда <code>osd_displayport_device</code> в Betaflight используется для настройки устройства, через которое передаются данные OSD (On-Screen Display) по DisplayPort. 
 Считать значение можно запустив команду:<br />
@@ -8357,6 +8619,40 @@ save
 <p><code>set crashflip_motor_percent = 0  
 set crashflip_expo = 35</code>
 Подробности в видео <a href="https://www.youtube.com/watch?v=U4AvhJiqLPM">My Whoop Won't Flip Over! Fixing Turtle Mode? - FPV Questions. YouTube: Joshua Bardwell Livestream Clips</a></p>
+<h2 id="_1">Список команд для проверки состояния дрона</h2>
+<p>Эта последовательность команд — «чек-ап» профессионального инженера. Она поможет вам понять, всё ли в порядке с электроникой и почему дрон может капризничать.</p>
+<p>Введите эти команды по очереди в строку ввода CLI:</p>
+<hr />
+<h3 id="1-status">1. Команда <code>status</code></h3>
+<p>Это самая важная команда. Она показывает «здоровье» системы.</p>
+<ul>
+<li><strong>На что смотреть:</strong> * <code>MCU Load</code>: Нагрузка на процессор. В идеале должна быть <strong>ниже 50%</strong>. Если выше 75% — дрон может зависнуть в полете.</li>
+<li><code>Arming flags</code>: Если там есть слова (например, <code>CALIB</code>, <code>CLI</code>, <code>MSP</code>), значит, дрон <strong>не заармится</strong>. Это подскажет вам, почему моторы не крутятся.</li>
+<li><code>Voltage</code>: Видит ли плата напряжение аккумулятора.</li>
+</ul>
+<h3 id="2-tasks">2. Команда <code>tasks</code></h3>
+<p>Позволяет увидеть частоту работы гироскопа и PID-петли.</p>
+<ul>
+<li><strong>На что смотреть:</strong> В строке <code>Gyro/PID</code> частота должна быть стабильной (например, 8000Hz или 3200Hz) с минимальными отклонениями (Rate/hz). Если цифры сильно «прыгают», значит, процессор не справляется.</li>
+</ul>
+<h3 id="3-get-motor_protocol">3. Команда <code>get motor_protocol</code></h3>
+<p>Проверяет, какой протокол общения с регуляторами (ESC) выбран.</p>
+<ul>
+<li><strong>На что смотреть:</strong> Если у вас современные регуляторы, там должно быть написано <code>DSHOT600</code> или <code>DSHOT300</code>. Если там <code>ONESHOT</code>, а у вас современный дрон — вы теряете в плавности полета.</li>
+</ul>
+<h3 id="4-resource-show-all">4. Команда <code>resource show all</code></h3>
+<p>Показывает распределение «пинов» процессора.</p>
+<ul>
+<li><strong>На что смотреть:</strong> Здесь можно проверить, не конфликтуют ли устройства. Например, если один и тот же контакт назначен и на мотор, и на светодиоды, система будет работать со сбоями.</li>
+</ul>
+<h3 id="5-diff-all">5. Команда <code>diff all</code> (просто посмотреть)</h3>
+<p>Выведет все ваши личные настройки.</p>
+<ul>
+<li><strong>Совет:</strong> Просто пролистайте текст вверх. Вы увидите свои настройки портов (<code>serial</code>), настройки приемника и рейты. Это лучший способ убедиться, что конфигуратор «помнит» всё, что вы настраивали на других вкладках.</li>
+</ul>
+<hr />
+<h3 id="gps">Данные GPS</h3>
+<p>Если вы подключили GPS, введите <code>gpspassthrough</code>. Это позволит вам увидеть сырые данные, которые приходят со спутников (требует перезагрузки ПК для выхода).</p>
 
 
 
@@ -8379,7 +8675,7 @@ set crashflip_expo = 35</code>
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="December 21, 2025 20:37:56 UTC">December 21, 2025</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="January 2, 2026 16:08:32 UTC">January 2, 2026</span>
   </span>
 
     
