@@ -123,6 +123,12 @@ My race rates are the five33 rates which is .8 - .7 - 0 = 533 degrees/second
 Для этого нужно:  
 - включить `Expert Mode`. Появиться вкладка `Adjustments`  
 - выставить как на скриншоте ниже, выбрав свой канал с кнопкой.  
+`If enabled (Если включено)`: включить  
+`when channel (Когда канал)`: указать нужный канал  
+`is in range (в диапазоне)`: Растянуть на весь диапазон  
+`then apply (то применить)`: `Выбор rate-профиля (Rate Profile Selection)`  
+`via channel (через канал)`: указать тот же канал  
+
 ![](Switch_Rate_Profile_Adjustments.jpg)
 
 ## Статьи и видео
