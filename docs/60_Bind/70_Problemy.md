@@ -68,6 +68,8 @@
 ## Видео
 [Чому не працює ExpressLRS? 13 типових випадків #fpv #українською. YouTube: FPV питаннячка (укр.)](https://www.youtube.com/watch?v=ffJMgkCRWZk)
 
+[Packet rate. Чому дрон не відповідає на команди пульта? YouTube: Phoenix drones (укр.)](https://www.youtube.com/watch?v=ENQZWxOtz9U)
+
 
 
 
