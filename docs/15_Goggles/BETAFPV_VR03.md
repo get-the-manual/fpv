@@ -54,7 +54,7 @@ S - вход в пункт.
 
 ![](BETAFPV_VR03_pensne.png)
 
-
-
 ## Разборка шлема
 ![](BETAFPV_VR03_Inside.jpg)
+
+[Розбірка та чистка FPV шолома BetaFPV VR-O3. YouTube: Повітряні пригоди (укр.)](https://www.youtube.com/watch?v=3QnGNiWsDJo)
