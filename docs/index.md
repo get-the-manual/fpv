@@ -7,6 +7,8 @@
 
 ## [<font color="red">**Как зайти в FPV. Смотреть всем!!! :)**</font>](https://www.youtube.com/shorts/tBH15Pmxtq0)  
 
+[С чего начать fpv. YouTube: k_reel_t](https://www.youtube.com/shorts/sqpbRFGo5-8)  
+
 ## Общие материалы
 
 [Первый FPV-дрон, очки, аппаратура - с чего НАЧАТЬ?! (Полный Гайд для Новичков. YouTube: DRONOFLY FPV)](https://www.youtube.com/watch?v=OKOhqE8bt3Q)
