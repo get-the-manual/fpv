@@ -62,7 +62,7 @@ sudo pacman -S betaflight-configurator
 [Продвинутый Betaflight - что такое ПИД регулятор](https://www.youtube.com/watch?v=m6YgSluarmA)  
 [Продвинутый Betaflight - ГАЙД по настройке ПИД регулятора (ПИДов)](https://www.youtube.com/watch?v=OuZSiozHMt4)
 
-## Dидео по прошивке 2025.12
+## Видео по прошивке 2025.12
 [НОВЫЕ ФУНКЦИИ BETAFLIGHT 2025.12.1. YouTube: recopter](https://www.youtube.com/watch?v=xA2UxVpMBd4)
 
 [Betaflight 2025.12.1 Tutorial: Getting Position Hold Working. YouTube: Pineapple 22](https://www.youtube.com/watch?v=Wk2uNRD8kNc)
