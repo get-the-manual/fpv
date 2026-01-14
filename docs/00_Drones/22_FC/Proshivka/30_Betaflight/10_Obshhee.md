@@ -60,4 +60,11 @@ sudo pacman -S betaflight-configurator
 [Продвинутый Betaflight - Акро (Acro) и Рейты (Rates)](https://www.youtube.com/watch?v=xnpsr-AiDBo)  
 [Продвинутый Betaflight - вибрации и фильтры (Notch, LPF)](https://www.youtube.com/watch?v=L7qY19ynXFk)  
 [Продвинутый Betaflight - что такое ПИД регулятор](https://www.youtube.com/watch?v=m6YgSluarmA)  
-[Продвинутый Betaflight - ГАЙД по настройке ПИД регулятора (ПИДов)](https://www.youtube.com/watch?v=OuZSiozHMt4)  
+[Продвинутый Betaflight - ГАЙД по настройке ПИД регулятора (ПИДов)](https://www.youtube.com/watch?v=OuZSiozHMt4)
+
+## Dидео по прошивке 2025.12
+[НОВЫЕ ФУНКЦИИ BETAFLIGHT 2025.12.1. YouTube: recopter](https://www.youtube.com/watch?v=xA2UxVpMBd4)
+
+[Betaflight 2025.12.1 Tutorial: Getting Position Hold Working. YouTube: Pineapple 22](https://www.youtube.com/watch?v=Wk2uNRD8kNc)
+
+[The Secret to Perfect Alt Hold & GPS Rescue: It’s Not What You Think! | Betaflight 2025.12. YouTube: Pineapple 22](https://www.youtube.com/watch?v=vw1KBUagZHk)
