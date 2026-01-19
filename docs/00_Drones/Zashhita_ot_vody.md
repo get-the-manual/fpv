@@ -2,6 +2,8 @@
 
 [Готовим ФПВ дрон под воду и от дождя! Гайд для новичков. YouTube: Anik FPV](https://www.youtube.com/watch?v=CsVZRnY7M3M)
 
+[Waterproofing your FPV drone is easier than you think. YouTube: It's Nick Random](https://www.youtube.com/watch?v=I4_Bsznt1IU)
+
 ## Рекомендации
 
 ### 1
