@@ -68,3 +68,5 @@ sudo pacman -S betaflight-configurator
 [Betaflight 2025.12.1 Tutorial: Getting Position Hold Working. YouTube: Pineapple 22](https://www.youtube.com/watch?v=Wk2uNRD8kNc)
 
 [The Secret to Perfect Alt Hold & GPS Rescue: It’s Not What You Think! | Betaflight 2025.12. YouTube: Pineapple 22](https://www.youtube.com/watch?v=vw1KBUagZHk)
+
+[New Assisted Flip Crash Mode in Betaflight 2025.12.1 | Complete Setup. YouTube: Pineapple 22](https://www.youtube.com/watch?v=1OOqIkibCcQ)
