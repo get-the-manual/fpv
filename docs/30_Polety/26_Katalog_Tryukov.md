@@ -55,6 +55,9 @@ Pitch на себя 180, Roll 180
 Stall, в верхней точке Pitch от себя 180, и дайвим  
 ![](Trick_DolphinDive.gif)
 
+### Dolphin 360
+![](Dolphin360.gif)
+
 ### Inverted Yaw Spin
 Half flip или roll, 360 Yaw, Half flip или roll в ту же сторону  
 ![](https://prowhooper.com/wp-content/uploads/2023/12/1000036107-1.gif)  
