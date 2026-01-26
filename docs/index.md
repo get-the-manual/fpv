@@ -8,7 +8,8 @@
 ## [<font color="red">**Как зайти в FPV. Смотреть всем!!! :)**</font>](https://www.youtube.com/shorts/tBH15Pmxtq0)  
 
 [С чего начать fpv. YouTube: k_reel_t](https://www.youtube.com/shorts/sqpbRFGo5-8)  
-[научиться летать на FPV и не разбить дронv. YouTube: k_reel_t](https://www.youtube.com/shorts/Vdr0CUVFkhY)
+[С какого дрона начать FPV. YouTube: k_reel_t](https://www.youtube.com/shorts/zS5T5iKmh4A)  
+[Научиться летать на FPV и не разбить дрон. YouTube: k_reel_t](https://www.youtube.com/shorts/Vdr0CUVFkhY)  
 
 ## Общие материалы
 
