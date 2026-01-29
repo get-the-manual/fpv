@@ -1,5 +1,7 @@
 # LED, светодиодная подсветка
 
+[LED STRIP. Подключаем светодиодную ленту к полетному контроллеру. YouTube: ZhukoRama FPVlog (ZRFPV)](https://youtu.be/gSGcsJsEFt0?si=aP4Re-3db3uFC3Rx)
+
 [How to Add RGB LEDs to Your FPV Drone & Setup in Betaflight (Step-by-Step Tutorial) - Oscar Liang](https://oscarliang.com/setup-led-betaflight/)
 
 [533 Tiny Trainer LED setup - change LED color with aux channel! YouTube: Joshua Bardwell](https://www.youtube.com/watch?v=WIotROCU2VY)  
