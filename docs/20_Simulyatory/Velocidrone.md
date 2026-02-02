@@ -1,6 +1,7 @@
 # Velocidrone FPV Simulator
 
-## MultiGP
+## [MultiGP FPV Drone Racing League](https://www.multigp.com/)
+
 Это одна из крупнейших организаций, занимающихся проведением FPV-дрон-гонок по всему миру. Она объединяет пилотов и клубы, обеспечивая стандарты и правила для соревнований.  
 MultiGP делит пилотов на уровни (например, Beginner, Intermediate, Advanced, Pro) и ведёт рейтинги для каждого уровня.
 Клубы MultiGP организуют регулярные местные гонки, а также крупные чемпионаты, такие как MultiGP International Open.  
