@@ -36,6 +36,11 @@ Roll 180, Pitch от себя
 Pitch от себя 180, Roll 180  
 ![](https://prowhooper.com/wp-content/uploads/2023/12/1000036113.gif)  
   
+### Juicy Flick + Yaw 180
+
+![](Trick_JuicyFlick-Yaw180.gif)
+
+  
 ### Snapback (Look Back juicy или Immelmann Turn)
 
 Pitch на себя 180, Roll 180  
