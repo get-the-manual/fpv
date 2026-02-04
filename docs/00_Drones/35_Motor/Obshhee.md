@@ -10,6 +10,8 @@
 
 [БАЗА про МОТОРИ | Як підібрати мотори для FPV? YouTube: Phoenix drones (укр.)](https://www.youtube.com/watch?v=bSuh5TiQWGw)
 
+[МОТОРИ FPV: що ВАЖЛИВО насправді для НОВАЧКА: які брати, щоб НЕ ПЕРЕПЛАТИТИ. YouTube: FPVUA (укр.)](https://youtu.be/EfAATJoQDIo?si=lLdjD6uezuiFX6d-)
+
 ## Направление вращения
 
 От камеры  
