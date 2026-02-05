@@ -10,7 +10,9 @@
 
 **Решение**
 Запустить `Impulse RC Driver Fixing Tool`.  
-Скачать можно [здесь](https://impulserc.blob.core.windows.net/utilities/ImpulseRC_Driver_Fixer.exe). Видео с объяснением: [Impulse RC Driver Fixing Tool (for flight controller USB connection problems)](https://www.youtube.com/watch?v=9yQYVfHgmD8).
+Скачать можно [здесь](https://impulserc.blob.core.windows.net/utilities/ImpulseRC_Driver_Fixer.exe).  
+Видео с объяснением: [Impulse RC Driver Fixing Tool (for flight controller USB connection problems)](https://www.youtube.com/watch?v=9yQYVfHgmD8).  
+Статья: [How to Fix Flight Controller Driver Issues — Can’t Connect to Betaflight or Flash Firmware (VCP & DFU) - Oscar Liang](https://oscarliang.com/fc-driver-issues-flash-firmware/)
 
 **Еще варианты решения**
 [Прошивка Betaflight 4.5 - нет DFU? YouTube: Petrokey](https://www.youtube.com/watch?v=0ig1Vrjek1U)
