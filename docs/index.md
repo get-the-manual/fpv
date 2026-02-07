@@ -45,6 +45,8 @@
 
 [DoggyDog.blog — Блог о FPV полетах](https://doggydog.blog/)
 
+[Mads Tech FPV & Drone Wiki](https://fpvwiki.co.uk/)
+
 ### Telegram
 
 [Петрокей FPV](https://t.me/petrokeyfpv)
