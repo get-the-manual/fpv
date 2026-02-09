@@ -40,9 +40,9 @@
 ## Betaflight Configurator LUA script
 Есть LUA script для аппаратур на прошивке Edge TX, которые позволяет управлять настройками дрона прямо с экрана пульта.
 
-Репозиторий с последней версией находится здесь [Иetaflight TX LUA Scripts](https://github.com/betaflight/betaflight-tx-lua-scripts)
+Репозиторий с последней версией находится здесь [Betaflight TX LUA Scripts](https://github.com/betaflight/betaflight-tx-lua-scripts)
 
-Подробности в видео: 
+Подробности в видео:  
 [Betaflight in your RC Transmitter & Mobile Wirelessly. Youtube: Yaros FPV](https://www.youtube.com/watch?v=LDVr50zbx0o)  
 [Betaflight LUA скрипти: секретна зброя для професійного тюнінгу FPV дрона. YouTube: Nazar Kovalenko (укр.)](https://www.youtube.com/watch?v=xui0ZV3mDZk)
 
