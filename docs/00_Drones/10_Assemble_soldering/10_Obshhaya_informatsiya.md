@@ -1,8 +1,24 @@
 # Сборка и пайка
 
+## Обзоры и статьи
+[Как паять в FPV - замена силового провода betafpv CetusX. Оборудование и подручные средства. YouTube: Петрокей](https://www.youtube.com/watch?v=hoLExyj6YCo)  
+
+[Как паять? Большой урок по пайке электроники. YouTube: AlexGyver](https://www.youtube.com/watch?v=h9RTe8-vmxo)  
+
+[Most FPV pilots need to watch this soldering tutorial. YouTube: Joshua Bardwell](https://www.youtube.com/watch?v=GoPT69y98pY)  
+[Это же видео с русской озвучкой](https://www.youtube.com/watch?v=p2hnrnJQqUU)  
+
+[A Beginner’s Guide to Soldering for FPV Drones (https://oscarliang.com/)](https://oscarliang.com/soldering-guide/)
+
+[Всё для пайки с Aliexpress](https://alexgyver.ru/all-for-soldering/)
+
+[Как подключать и паять почти всё к полетнику](https://dzen.ru/a/ZjsxtoQT520u_RUV)  
+
+[Учимся паять. Урок по пайке. Как выпаять микросхему. YouTube: HamRadio Tag](https://www.youtube.com/watch?v=dnnaHS9W5i8)
+
 [Как правильно паять дрон: инструкция без "воды". YouTube: melitzev_fpv](https://youtu.be/NhrfzkTLl1s?si=pj-ESVd2ZqiZBnQ9)
 
-## От пользователя `Тимур`
+## Рекомендации от пользователя `Тимур`
 Инструкция по пайке с нормальным паяльником типа fnirsi hs01-hs02, pinio, чего-то там 100-101 и иже с ними выглядит примерно так:  
 Паяльник на 260 градусов для мелких проводов, на 320 для жирных силовых(выше 270 градусов паяльник не советую долго держать нагретым-окислится).  
 Мажем все, что хотим спаять флюсом, на паяльник набираем припой и мажем этим припоем все, что хотим спаять по отдельности.  
@@ -14,7 +30,7 @@
 Еще из необходимого: плетенка медная(или медная лента)!!! Для очистки площадок.  
 Еще можно (дополнительно к плетенке!!!) взять вакуумный экстрактор - это если с силовых надо лишний припой убрать или еще где капля здоровая.
 
-## От пользователя @friday444
+## Рекомендации от пользователя @friday444
 Паять обязательно с хоть каким-то количеством припоя на жале! Лучше, чтобы была небольшая капелька. 
 
 Зачищать провод в размер площадки, на маленькую площадку - маленький отрезок голого провода. На площадки полётников пары миллиметров оголённого провода достаточно, на силовые и ХТ60 - миллиметра четыре, на площадки регов - не больше трёх, и так далее. 
@@ -51,22 +67,6 @@ Rx - прием сигнала
 И так же в обратную сторону, Rx приемника - принимает телеметрию с полетника, а Tx пин полетника эту самую телеметрию отдает приемнику.
 
 Таким образом. подсоединять нужно Тх на Rx, а Rx на Тх.
-
-## Обзоры и статьи
-[Как паять в FPV - замена силового провода betafpv CetusX. Оборудование и подручные средства. YouTube: Петрокей](https://www.youtube.com/watch?v=hoLExyj6YCo)  
-
-[Как паять? Большой урок по пайке электроники. YouTube: AlexGyver](https://www.youtube.com/watch?v=h9RTe8-vmxo)  
-
-[Most FPV pilots need to watch this soldering tutorial. YouTube: Joshua Bardwell](https://www.youtube.com/watch?v=GoPT69y98pY)  
-[Это же видео с русской озвучкой](https://www.youtube.com/watch?v=p2hnrnJQqUU)  
-
-[A Beginner’s Guide to Soldering for FPV Drones (https://oscarliang.com/)](https://oscarliang.com/soldering-guide/)
-
-[Всё для пайки с Aliexpress](https://alexgyver.ru/all-for-soldering/)
-
-[Как подключать и паять почти всё к полетнику](https://dzen.ru/a/ZjsxtoQT520u_RUV)  
-
-[Учимся паять. Урок по пайке. Как выпаять микросхему. YouTube: HamRadio Tag](https://www.youtube.com/watch?v=dnnaHS9W5i8)
 
 
 
