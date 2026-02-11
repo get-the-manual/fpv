@@ -1,5 +1,14 @@
 # Провода
 
+## Какие провода использовать
+- 1S вупы 30AWG. В том числе и моторы.  
+- 2S вупы 28AWG. В том числе и моторы.    
+- что то больше 2 дюймов 28-26AWG.  
+- Батки хт30 - 16AWG, хт60 -14AWG.
+
+## Диаметр проводов
+![](UL3239_Flexible_silicone_wire_Specification.jpg)
+
 ## Статьи и обзоры
 [Сечение провода, AWG, необходимый диаметр провода для питания мини коптера](https://rcdetails.info/sechenie-provoda-awg-neobhodimyj-diametr-provoda-dlya-pitaniya-mini-koptera/)  
 
@@ -10,13 +19,6 @@
 [Everything You Need to Know About Electrical Wires and Connectors in FPV Drones](https://oscarliang.com/wires-connectors/)  
 
 [What AWG Wires To Use](https://intofpv.com/t-what-awg-wires-to-use)  
-
-## Какие провода использовать
-![](UL3239_Flexible_silicone_wire_Specification.jpg)
-
-- Вупы паять 28-30awg  
-- что то больше 2 дюймов 28-26awg  
-- Батки хт30 - 16awg, хт60 -14awg.  
 
 ## Ссылки на провода
 
