@@ -55,7 +55,10 @@ Suitable for Mobula7 Mobula8 1S Lipo Indoor Racing Drones
 Air65. Веса прибавилось на 2 грамма, а качество и дальность видео в разы лучше👍  
 ![](Antenna_Lollipop3_Air65.jpg)  
 
+### Happymodel 5.8G Crown LDS Antenna RHCP/LHCP for Micro FPV Whoops
+![](Antenna_Happymodel_Crown.png)
 
-
-
+[На AliExpress.com 1](https://www.aliexpress.com/item/1005010222363799.html)  
+[На AliExpress.com 2](https://www.aliexpress.com/item/1005010226970004.html)  
+[На AliExpress.ru](https://aliexpress.ru/item/1005010032535019.html)
 
