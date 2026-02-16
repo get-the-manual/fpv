@@ -1,4 +1,4 @@
-# DJI O4 unit
+# Доработка DJI O4 unit
 
 ## Flywoo DJI O4 Wide-Angle Lens
 [Новая линза меняет всё! DJI O4 - летабельно ✓ [Flywoo DJI O4 Wide-Angle Lens / Firefly18 1S]. YouTube: Anik FPV]()
