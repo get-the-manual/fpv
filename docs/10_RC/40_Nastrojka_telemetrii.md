@@ -27,9 +27,11 @@
 `1RSS = -72`  
 ![](Telemetry_DroneFar.jpg)  
 
-
 ## Сенсоры со знаками + и -
 Когда смотришь сенсоры телеметрии, многие из них идут в  виде трех похожих сенсоров.  
 Например: `RxBt`, `RxBt+`, `RxBt-`
 
 Объяснение: Каждый сенсор имеет два автосгенерированных сенсора для хранения максимального и минимального значений в течении **данного полета**.
+
+## [EdgeTX Quad telemetry dashboard](https://github.com/alexey-gamov/opentx-quad-telemetry)
+![](EdgeTX_Quad_telemetry_dashboard.png)
