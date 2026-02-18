@@ -127,6 +127,3 @@
 
 
 ## Полезные скрипты
-
-### [EdgeTX Quad telemetry dashboard](https://github.com/mvaldesshc/advanced-edgetx-dashboard)
-![](EdgeTX_Quad_telemetry_dashboard.png)
