@@ -1,5 +1,8 @@
 # Доработка DJI O4 unit
 
+## Укрепление камеры и модуля
+[Перед полетом на Dji о4 fpv сделай это: Youtube: VSEVOLOD TEN](https://www.youtube.com/shorts/_QmyuX7LrLM)
+
 ## Flywoo DJI O4 Wide-Angle Lens
 [Новая линза меняет всё! DJI O4 - летабельно ✓ [Flywoo DJI O4 Wide-Angle Lens / Firefly18 1S]. YouTube: Anik FPV]()
 
