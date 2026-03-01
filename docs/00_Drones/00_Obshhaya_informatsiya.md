@@ -38,6 +38,8 @@
 
 [Устройство FPV-дрона для начинающих. YouTube: Хобби - летать](https://www.youtube.com/watch?v=vSOLk_Q0JaQ)
 
+[FPV 5" за 150 евро - чего не хватает? Как выбрать 5" PNP дрон, что докупить и как это все собрать. YouTube: Петрокей](https://www.youtube.com/watch?v=04N8NNYRHQ0)
+
 [КАК СОБРАТЬ ДРОН С FPV КАМЕРОЙ ЗА $89!. YouTube: recopter](https://www.youtube.com/watch?v=t7Dv1oOI_Qk)  
 В видео есть пошаговая настройка дрона в Betaflight
 
