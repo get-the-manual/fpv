@@ -1,0 +1,55 @@
+<html>
+<body>
+	<div onclick="toggleFlashing()" id="main">
+		<p style="color: red; font-size: 72; font-weight: bold;">
+			Click anywhere to start or stop
+		</p>
+	</div>
+</body>
+
+<script>
+
+let isVertical = true;
+let isEnabled = false;
+
+setInterval(() => {
+	if (!isEnabled) return
+
+	const main = document.getElementById("main");
+
+	if (isVertical) {
+		// Horizontal bars
+		main.style.backgroundImage =
+			"repeating-linear-gradient(to bottom, #000 0px, #000 100px, #000 100px, #000 200px)";
+	} else {
+		// Vertical bars
+		main.style.backgroundImage =
+			"repeating-linear-gradient(to right, #000 0px, #000 100px, #fff 100px, #fff 200px)";
+	}
+
+	isVertical = !isVertical;
+}, 123);
+
+function toggleFlashing() {
+	isEnabled = !isEnabled
+}
+
+</script>
+
+<style>
+	#main {
+		display: flex;
+		flex-direction: row;
+		justify-content: center;
+		width: 100vw;
+		height: 100vh;
+		background-image: repeating-linear-gradient(
+			to right,
+			#000 0px,
+			#000 100px,
+			#fff 100px,
+			#fff 200px
+		);
+	}
+</style>
+</html>
