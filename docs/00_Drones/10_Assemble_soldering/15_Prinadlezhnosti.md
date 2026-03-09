@@ -25,10 +25,16 @@
 ![](ПрипойKaina.jpg)  
 
 ## Флюс, канифоль
+
 ### Паяльная паста Cynel-1
 ![](Cynel-1.png)  
 [Паяльная паста Cynel-1. YouTube: Роман Гребеников](https://www.youtube.com/watch?v=_FO-WMO29II)  
 [Польская паяльная паста Cynel-1, канифоль Cynel и китайская паяльная паста Sparta. YouTube: MrDemalit](https://www.youtube.com/watch?v=ZJiSA_qnDjM)
+
+### Гель 
+[NC-559-ASM BGA PCB No-Clean Solder Paste Welding Advanced Oil Flux Grease 10cc Soldering Repair Paste](https://www.aliexpress.com/item/1005006908661179.html)  
+![](Pasta_NC-559-ASM.png)
+
 
 ### Активный и пассивный флюс
 - **Активный флюс** разъедает оксидную пленку на металле сразу. **Пассивный** начинает работать только в определенном температурном диапазоне.  
