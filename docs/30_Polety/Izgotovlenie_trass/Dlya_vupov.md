@@ -47,5 +47,18 @@
 [Фиттинги ПВХ для сборки световых ворот на https://www.wildberries.ru/](https://www.wildberries.ru/)  
 ![](Fitting.jpg)
 
+### Еще фиттинги. 21.5mm Pipe Connectors
+![](21_5mmPipeConnectors.png)  
+[21.5mm Pipe Connectors - Free 3D Print Model - MakerWorld](https://makerworld.com/en/models/1891860-21-5mm-pipe-connectors)
+
+Рекомендации:  
+%2 процента заполнение  
+размер в слайсере меняйте на 48.4  
+
+[ссылка на архив в с моделью](21_5mm_pipe_connectors_stls.zip)
+
+
+
+
 
 
