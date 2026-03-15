@@ -165,6 +165,7 @@ nav:
       - Anti Gravity: 00_Drones/PID_Anti-Gravity.md
     - Rates: 00_Drones/Rates.md
     - LED: 00_Drones/LED.md
+    - Охлаждение, обдув дрона: 00_Drones/Cooling.md
   - Аппаратура(Пульты):
     - Общая информация: 10_RC/01_Obshhaya_informatsiya.md
     - Модели:
