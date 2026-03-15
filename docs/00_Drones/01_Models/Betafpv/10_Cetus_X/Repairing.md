@@ -1,7 +1,8 @@
 # Ремонт дрона
 
 ## Мосфет
-[10PCS 100%New Original WSD3810DN 3810 DFN-8(3x3) MOSFET](https://www.aliexpress.com/item/1005005286869527.html)
+[10PCS 100%New Original WSD3810DN 3810 DFN-8(3x3) MOSFET](https://www.aliexpress.com/item/1005005286869527.html)  
+[5PCS MOS WSD3810DN 3810DN MOSFET WSD3810 DFN3x3-8](https://aliexpress.ru/item/1_286155021.html?sku_id=5000001539377086)
 
 ![](Mosfet.jpg)  
 ![](Mosfet2.png)
