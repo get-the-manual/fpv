@@ -158,6 +158,7 @@ nav:
     - ESC:
       - Общая информация: 00_Drones/50_ESC/General.md
     - Батареи: 00_Drones/Batarei.md
+    - Конденсатор: 00_Drones/Capacitor.md
     - Защита от воды: 00_Drones/Zashhita_ot_vody.md
     - Режимы полета: 00_Drones/Rezhimy_poleta.md
     - GPS: 00_Drones/GPS.md
