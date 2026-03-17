@@ -208,7 +208,9 @@ nav:
     - Антенны на аналог: 15_Goggles/20_Antenny_na_analog.md
     - Задержки в очках/шлеме: 15_Goggles/Latency.md
     - Модели:
-      - BETAFPV VR03: 15_Goggles/BETAFPV_VR03.md
+      - BETAFPV VR03:
+        - Общее: 15_Goggles/BETAFPV_VR03.md
+        - Разборка и ремонт: 15_Goggles/BETAFPV_VR03_Repair.md
       - DJI:
         - Общее: 15_Goggles/DJI/10_Obshhee.md
         - DJI Goggles 3: 15_Goggles/DJI/Goggles_3.md
