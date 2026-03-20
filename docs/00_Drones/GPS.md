@@ -73,6 +73,9 @@ GPS modules can be used for two quite different purposes:
 
 ## Position Hold, Altitude Hold
 
+[Position Hold в Betaflight 2025.12.1 — как работает и как настроить. YouTube: Sem Semius](https://www.youtube.com/watch?v=nJDkmmwLlwk)  
+[Компас для Position Hold: как правильно настроить и как он работает. YouTube: Sem Semius](https://youtu.be/IKg57uovPnY?si=qzJqv3BRZZVI_sr8)
+
 [НОВЫЕ ФУНКЦИИ Betaflight 4.6: Altitude Hold и Position Hold!. YouTube: DRONOFLY FPV](https://www.youtube.com/watch?v=Ort2NU0ol4Q)
 
 [Утримання позиції на FPV дроні по GPS. Betaflight 4.6 Прошивка, налаштування і тести. YouTube: Є-Дрон (укр.)](https://www.youtube.com/watch?v=VrKpEzWQol0)
