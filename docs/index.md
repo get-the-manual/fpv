@@ -85,7 +85,7 @@
 Spinner Production - команда единомышленников. Мы 8 лет занимаемся разработкой и производством рам и комплектующих для гоночных квадрокоптеров.  
 spinnerproduction.ru  
 
-[Чат Спільноти FPVUA(укр.)](https://t.me/+luyjjHjDLmk2ZTZi)
+[Чат Спільноти FPVUA(укр.)](https://t.me/+4NAIFLp2Q8szYzgy)
 
 [Канал Lavka u Lisa](https://t.me/lavkaulisa) и его [группа](https://t.me/fpversus)  
 
