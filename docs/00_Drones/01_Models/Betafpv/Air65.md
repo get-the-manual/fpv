@@ -44,6 +44,27 @@ JST 1.0, он же SH 1.0mm
 
 [Review: BetaFPV Air65 1S 65mm Tiny Whoop – Raising the Bar High](https://oscarliang.com/betafpv-air65/)
 
+
+[Дрон Air 65 Как усмирить бешенную муху. YouTube: Russian CraZy Pilot](https://www.youtube.com/watch?v=Uz6Cb_xHeUs)  
+
+Рекомендации из видео:  
+
+PID:  
+- Приподнят I, чтобы дрон лучше держал угол в поворотах и не проседал.  
+- D опущен, чтобы убрать дребезг на мелких качаниях стиков.  
+[Скриншот с настройками PID из видео](Air65_PID_Changes.jpg)
+
+Filters:  
+[Скриншот с настройками Filters из видео](Air65_Filter_Changes.jpg)
+
+
 ## Как уменьшить угол камеры
+
+### Вариант 1
+
 Оборачиваем стяжкой  
 ![](Camera_Angle_lifehack.jpg)
+
+### Вариант 2
+Удлинить задний хвост термоусадкой как в видео [Дрон Air 65 Как усмирить бешенную муху. YouTube: Russian CraZy Pilot](https://www.youtube.com/watch?v=Uz6Cb_xHeUs)  
+![](Camera_Angle_lifehack2.png) 
