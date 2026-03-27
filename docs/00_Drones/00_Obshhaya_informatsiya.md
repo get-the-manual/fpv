@@ -65,6 +65,8 @@
 
 [FPV ДРОНЫ для ДАЛЬНИХ ПОЛЁТОВ - ГАЙД на CINEMATIC LONG RANGE. YouTube: recopter](https://www.youtube.com/watch?v=AiSC8XVX-48)
 
+3D Mode: [ВЗЛОМ ГРАВИТАЦИИ! Полный гайд по 3D режиму. YouTube: SpiNiks FPV](https://www.youtube.com/watch?v=OY231ty5tdQ)
+
 [Как работают средства РЭБ против БПЛА. Объясняем "на пальцах". YouTube: Хобби - летать](https://www.youtube.com/watch?v=dHxw66hVpHo)
 
 [Lookup Table: Motor & Prop Sizes, KV, Battery Cell Count, and Weight for FPV Drone Builds](https://oscarliang.com/table-prop-motor-lipo-weight/)  
