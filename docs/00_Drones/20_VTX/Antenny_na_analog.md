@@ -62,3 +62,4 @@ Air65. Веса прибавилось на 2 грамма, а качество 
 [На AliExpress.com 2](https://www.aliexpress.com/item/1005010226970004.html)  
 [На AliExpress.ru](https://aliexpress.ru/item/1005010032535019.html)
 
+![](Antenna_Happymodel_Crown2.jpg)
