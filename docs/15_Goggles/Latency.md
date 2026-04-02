@@ -21,6 +21,10 @@
 Пример изображения доступен на сайте [latency-tester.thezonefpv.com](https://latency-tester.thezonefpv.com/)  
 [Локальная версия страницы](latency-tester.thezonefpv.com.html)
 
+[Skyzone 04o Pro & 04x Pro review. YouTube: nils vo](https://www.youtube.com/watch?v=jweDmVZhFh8)
+
+[FPV Goggle latency test. YouTube: nils vo](https://youtu.be/mJZcBEc3q8I?si=ANqeMrWPTVvymKws)
+
 ## Обзор от [Half Chrome](https://www.youtube.com/@HalfChrome)
 
 [DJI O4 vs HDZero vs Analog vs BetaFPV Artlynk vs Walksnail — Which FPV System Should You Choose? YouTube: Half Chrome](https://www.youtube.com/watch?v=V4eeAn-F91I)
