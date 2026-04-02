@@ -1,8 +1,8 @@
 # Задержки (Latency) в очках/шлеме 
 
-## Обзор от [Nils Vo](https://www.youtube.com/@nils_vo/) 
+## Обзоры от [Nils Vo](https://www.youtube.com/@nils_vo/) 
 
-[Why Analog FPV is evolving backwards (Fatshark HDO+ review). YouTube: nils vo](https://youtu.be/vAcksueVb34?si=4bPgM5TIIPw7IBsS)
+### [Why Analog FPV is evolving backwards (Fatshark HDO+ review). YouTube: nils vo](https://youtu.be/vAcksueVb34?si=4bPgM5TIIPw7IBsS)
 
 Получились такие диаграммы:
 
@@ -12,6 +12,10 @@
 
 Источник картинок [пост в Facebook](https://www.facebook.com/groups/hdzero/posts/1279600130734612/)
 
+### [Skyzone 04o Pro & 04x Pro review. YouTube: nils vo](https://www.youtube.com/watch?v=jweDmVZhFh8)
+
+### [FPV Goggle latency test. YouTube: nils vo](https://youtu.be/mJZcBEc3q8I?si=ANqeMrWPTVvymKws)
+
 ### Тестирование 
 Запускаем на компьютере какое-нибудь часто меняющееся изображение. Направляем камеру дрона на изображение.  
 Видим в очках/шлеме изображение, но уже с задержкой.  
@@ -20,10 +24,6 @@
 
 Пример изображения доступен на сайте [latency-tester.thezonefpv.com](https://latency-tester.thezonefpv.com/)  
 [Локальная версия страницы](latency-tester.thezonefpv.com.html)
-
-[Skyzone 04o Pro & 04x Pro review. YouTube: nils vo](https://www.youtube.com/watch?v=jweDmVZhFh8)
-
-[FPV Goggle latency test. YouTube: nils vo](https://youtu.be/mJZcBEc3q8I?si=ANqeMrWPTVvymKws)
 
 ## Обзор от [Half Chrome](https://www.youtube.com/@HalfChrome)
 
