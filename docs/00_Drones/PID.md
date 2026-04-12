@@ -41,7 +41,7 @@ FF Stick response от 0.5 до 1 . По 0.1
 [Практичні поради з налаштування PID регулятора Betaflight для FPV дронів. YouTube: Aves Lab](https://www.youtube.com/watch?v=76FeOTWqC_Y)
 
 ## Другие видео
-[Betaflight - теория PID и Фильтров. Youube: fpv_am](https://www.youtube.com/watch?v=YjYo7p7Nu9o)
+[Betaflight - теория PID и Фильтров. YouTube: fpv_am](https://www.youtube.com/watch?v=YjYo7p7Nu9o)
 
 [О том что такое PID и рейты, как настроить ПИДы? YouTube: WARPfly](https://www.youtube.com/watch?v=Rnytz89bVss)
 
