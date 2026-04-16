@@ -130,6 +130,7 @@ nav:
           - Вопросы: 00_Drones/22_FC/Proshivka/30_Betaflight/15_Voprosy.md
           - Подключение к Configurator: 00_Drones/22_FC/Proshivka/30_Betaflight/17_Podklyuchenie_k_Configurator.md
           - Установка прошивки: 00_Drones/22_FC/Proshivka/30_Betaflight/20_Ustanovka_proshivki.md
+          - Настройка: 00_Drones/22_FC/Proshivka/30_Betaflight/Configuration.md
           - Резервное копирование настроек: 00_Drones/22_FC/Proshivka/30_Betaflight/Backup.md
           - CLI (Command Line Interface): 00_Drones/22_FC/Proshivka/30_Betaflight/CLI.md
           - Команды CLI: 00_Drones/22_FC/Proshivka/30_Betaflight/Komandy_CLI.md

@@ -13,34 +13,6 @@ sudo apt install betaflight-configurator
 sudo pacman -S betaflight-configurator
 ```
 
-## Настройка дрона в Betaflight
-
-**Кратко**:  
-
-Заходишь в [веб конфигуратор](https://app.betaflight.com/).  
-Далее все настраиваешь:    
-- положение полетника  
-- юарты где у тебя RX, где VTX  
-- порядок моторы, направление вращения  
-- пиды лучше по началу не трогать, но можно и попробовать накатить через пресеты для тинивупов (karate, justice)  
-- рейты свои ставишь  
-- биндишь дрон с аппой и проверяешь что во вкладке приемника правильно выставлен протокол приемника и полоски двигаются в зависимости от того чем ты на аппе двигаешь  
-- настраиваешь aux(тумблеры свои) на нужные действия (арм, черепаха...)   
-- залетаешь нужную таблицу для видеопередатчика (скорее всего есть на сайте производителя)    
-- настраиваешь OSD  
-
-
-[Настройка FPV дрона в Betaflight для новичков + прошивка ESC BiHeli_S, BlueJay. YouTube: Recopter](https://www.youtube.com/watch?v=yJxMRLE3dVI)  
-
-[КАК СОБРАТЬ ДРОН С FPV КАМЕРОЙ ЗА $89!. YouTube: recopter](https://www.youtube.com/watch?v=t7Dv1oOI_Qk)  
-В видео есть пошаговая настройка дрона в Betaflight
-
-[Типичная настройка дрона после сборки на примере 5" фристайлового квадрокоптера. YouTube: PropWash Service](https://www.youtube.com/watch?v=gLDMeevq410)
-
-[Собрал и Полетел! Как настроить FPV дрон за минуты (на примере SpeedyBee Bee35). YouTube: DRONOFLY FPV](https://www.youtube.com/watch?v=-c042AORi24) 
-
-[Налаштування квадрокоптера в бетафлай за 15хв (укр.) YouTube: Nazar Kovalenko](https://www.youtube.com/watch?v=JR5qjRWxhkQ)  
-
 ## Рекомендованные пресеты от Lesha Rodin
 Начни например с `Justice`, главное галочки протыкай нормально, не ставь `spicy tune` поставь в `normal` билд и `normal tune`.   
 Если плохо полетит попробуй `karate2024`  
@@ -60,7 +32,7 @@ sudo pacman -S betaflight-configurator
 [Продвинутый Betaflight - что такое ПИД регулятор](https://www.youtube.com/watch?v=m6YgSluarmA)  
 [Продвинутый Betaflight - ГАЙД по настройке ПИД регулятора (ПИДов)](https://www.youtube.com/watch?v=OuZSiozHMt4)
 
-## Видео по прошивке 2025.12
+## Видео по возможностям прошивок 2025.12+
 [НОВЫЕ ФУНКЦИИ BETAFLIGHT 2025.12.1. YouTube: recopter](https://www.youtube.com/watch?v=xA2UxVpMBd4)
 
 [Betaflight 2025.12.1 Tutorial: Getting Position Hold Working. YouTube: Pineapple 22](https://www.youtube.com/watch?v=Wk2uNRD8kNc)
