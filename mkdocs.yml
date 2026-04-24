@@ -167,6 +167,7 @@ nav:
       - Общее: 00_Drones/PID.md
       - Anti Gravity: 00_Drones/PID_Anti-Gravity.md
     - Rates: 00_Drones/Rates.md
+    - Настройка рейтов по научному: 00_Drones/PerfectRates.md
     - LED: 00_Drones/LED.md
     - Охлаждение, обдув дрона: 00_Drones/Cooling.md
   - Аппаратура(Пульты):
