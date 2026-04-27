@@ -3,6 +3,9 @@
 [Сайт производителя](https://www.skyzonefpv.com/collections/goggles)  
 
 ## Модели
+
+[What's the difference between SKYZONE FPV Goggles](https://www.skyzonefpv.com/pages/whats-the-difference-between-skyzone-fpv-goggles)
+
 **Шлемы**  
 [SKYZONE Cobra SD](https://www.skyzonefpv.com/products/skyzone-lcd-screen-cobra-sd-fpv-goggle-with-diversity-receiver) - дешево, годно, сердито.  
 [SKYZONE Cobra X V4](https://www.skyzonefpv.com/products/skyzone-cobra-x-v2-5-8ghz-48ch-steadyview-receiver-fpv-goggles-with-dvr) - средне, оч годно и оч сердито, картинка огонь.  
