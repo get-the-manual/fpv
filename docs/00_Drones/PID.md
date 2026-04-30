@@ -53,6 +53,8 @@ FF Stick response от 0.5 до 1 . По 0.1
 
 [Please PID Tune your FPV Drone (easy tutorial). YouTube: nils vo](https://www.youtube.com/watch?v=pgyTmRJ-hik)
 
+[This app TEACHES YOU how a PID controller works. YouTube: Joshua Bardwell](https://www.youtube.com/watch?v=q5VtSrJ3oVQ)  
+[PID Controller Simulator - FPV Know-It-All - Joshua Bardwell](https://www.fpvknowitall.com/pid-controller-simulator/)
 
 
 ---------------
