@@ -50,6 +50,8 @@
 
 [YouTube канал Patrick Watkins](https://www.youtube.com/@fpvwithpatrick)  
 
+[YouTube канал Anik FPV](https://www.youtube.com/@AnikFPV)  
+
 [FPV Know-It-All (fpvknowitall) - The Ultimate FPV Shopping List by Joshua Bardwell](https://www.fpvknowitall.com/)
 
 [DoggyDog.blog — Блог о FPV полетах](https://doggydog.blog/)
