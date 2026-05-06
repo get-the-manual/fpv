@@ -42,6 +42,8 @@
 
 [YouTube канал Recopter](https://www.youtube.com/@recopter)  
 
+[YouTube канал nils vo](https://www.youtube.com/@nils_vo)  
+
 [YouTube канал Chris Rosser](https://www.youtube.com/@ChrisRosser)  
 [Сайт где Chris Rosser тестирует и сравнивает разное железо](https://www.aos-rc.com/aos-labs)  
 
