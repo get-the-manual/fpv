@@ -36,8 +36,6 @@
 
 ## Другие ресурсы
 
-[Dron Docs. Cайт про FPV](https://propwashservice.ru/)
-
 [YouTube канал Petrokey](https://www.youtube.com/@petrokey)
 
 [YouTube канал Recopter](https://www.youtube.com/@recopter)  
@@ -45,7 +43,12 @@
 [YouTube канал nils vo](https://www.youtube.com/@nils_vo)  
 
 [YouTube канал Chris Rosser](https://www.youtube.com/@ChrisRosser)  
-[Сайт где Chris Rosser тестирует и сравнивает разное железо](https://www.aos-rc.com/aos-labs)  
+[Сайт где Chris Rosser тестирует и сравнивает разное железо](https://www.aos-rc.com/aos-labs)   
+
+[YouTube канал Joshua Bardwell](https://www.youtube.com/@JoshuaBardwell)    
+[YouTube канал Joshua Bardwell Livestream Clips](https://www.youtube.com/@oshuaBardwellLivestreamClips)    
+
+[YouTube канал Patrick Watkins](https://www.youtube.com/@fpvwithpatrick)  
 
 [FPV Know-It-All (fpvknowitall) - The Ultimate FPV Shopping List by Joshua Bardwell](https://www.fpvknowitall.com/)
 
