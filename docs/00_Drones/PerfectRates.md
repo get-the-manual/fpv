@@ -1,8 +1,31 @@
 # Настройка рейтов по научному
 
+Материал ниже основан на видео [Perfect FPV Rates with Science? YouTube: nils vo](https://www.youtube.com/watch?v=ssBoPK95vus)
+
+По схожему принципу создан проект `RateFinder`, суть которого заключается в анализе стиля полета в симуляторе и расчете оптимальных рейтов.
+
+## RateFinder
+
+RateFinder — это бесплатная программа для Windows, которая:  
+- Подключается к вашей аппаратуре через USB.  
+- Записывает ваши действия стиками с частотой около 1 кГц во время выполнения калибровочных полетов в VelociDrone.  
+- Измеряет три показателя на основе ваших данных: радиус точности центра (CPR), максимальную скорость срабатывания (CMV) и распределение в среднем диапазоне (MDI).  
+- Рекомендует персонализированные Actual/Betaflight рейты, основанные на вашем стиле.
+
+Главный сайт проекта: [RateFinder — Wildtype Drones](https://www.wildtypedrones.com/ratefinder)
+
+Репозиторий с описанием и дистрибутивом программы [jaydeelocs_WTRateFinder](https://github.com/jaydeelocs/WTRateFinder)
+
+Видеоинструкция: [RateFinder v1.0 — The First FPV Rate Tuning Tool That Watches How You Fly. YouTube: Joshua Locsin](https://www.youtube.com/watch?v=rF5qzlTjtDE)
+
+
+[Статья на www.reddit.com](https://www.reddit.com/r/fpv/comments/1s80osr/i_built_a_free_tool_that_analyzes_your_stick/)
+
+## Видео от `nils vo`
+
 [Perfect FPV Rates with Science? YouTube: nils vo](https://www.youtube.com/watch?v=ssBoPK95vus)
 
-## Перевод
+**Перевод**
 
 **(00:00–00:35)** Рейты (rates) выглядят похоже, но дают разное поведение. Неправильные рейты ограничивают прогресс — они должны соответствовать стилю полёта, а не просто «нравиться».
 
