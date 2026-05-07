@@ -1,4 +1,4 @@
-# Freestyle в помещении
+﻿# Freestyle в помещении
 
 ## Общие рекомендации
 Все ниже описанные трюки сначала имеет смысл потренировать в симуляторах.  
@@ -10,8 +10,8 @@
 ## Самое простое: Power Loop вокруг стула или стола
 
 ## В пустой комнате:  
-- Split-S.
-- Half Matty (Reverse Split-S)
+- Split-S.  
+- Half Matty (Reverse Split-S)  
 - Juicy Flick  
 - Snapback (Look Back juicy) или Immelmann Turn
 
@@ -21,11 +21,11 @@
 - Trippy Spin (Inverted Orbit)  
 
 ## Горизонтальная перекладина, стул, стол, ворота.  
-- Maverick Loop
+- Maverick Loop  
 - Power Loop  
 - Barrel Roll (Side Loop)  
 Упрощенны вариант, облетаем боком преграду не делая Roll.  
-Усложненный вариант, взлетая над преградой делаем Roll 360 в противоположную от облета сторону.
+Усложненный вариант, взлетая над преградой делаем Roll 360 в противоположную от облета сторону.  
 - Reverse Split-S (Half Matty). Его можно и в дверном проеме делать.  
 - Matty Flip  
 

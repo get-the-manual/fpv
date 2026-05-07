@@ -1,9 +1,9 @@
-# Velocidrone FPV Simulator
+﻿# Velocidrone FPV Simulator
 
 ## [MultiGP FPV Drone Racing League](https://www.multigp.com/)
 
 Это одна из крупнейших организаций, занимающихся проведением FPV-дрон-гонок по всему миру. Она объединяет пилотов и клубы, обеспечивая стандарты и правила для соревнований.  
-MultiGP делит пилотов на уровни (например, Beginner, Intermediate, Advanced, Pro) и ведёт рейтинги для каждого уровня.
+MultiGP делит пилотов на уровни (например, Beginner, Intermediate, Advanced, Pro) и ведёт рейтинги для каждого уровня.  
 Клубы MultiGP организуют регулярные местные гонки, а также крупные чемпионаты, такие как MultiGP International Open.  
 MultiGP предоставляет стандартизированные схемы трасс, что позволяет пилотам тренироваться в одинаковых условиях, где бы они ни находились.  
 
@@ -28,8 +28,8 @@ Velocidrone является рекомендованным симуляторо
 `BeeHolder Train Corkscrew`
 
 ### Fraggle Whoop Training
-[Отсюда](https://www.facebook.com/share/p/1BwKXsFCx4/)
-Отличные треки есть ворота, бабочки,  вертикальные ворота. 
+[Отсюда](https://www.facebook.com/share/p/1BwKXsFCx4/)  
+Отличные треки есть ворота, бабочки,  вертикальные ворота.  
 Нужно зайти в `Track manager` и найти по имени `Fraggle Whoop Training`
 
 ### Train Insane

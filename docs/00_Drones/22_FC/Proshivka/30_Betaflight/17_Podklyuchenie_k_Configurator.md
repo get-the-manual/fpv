@@ -1,4 +1,4 @@
-# Подключение дрона к Betaflight Configurator 
+﻿# Подключение дрона к Betaflight Configurator 
 
 ## На Windows
 К конфигуратору можно подключать **только дроны на прошивке Betaflight**.
@@ -13,7 +13,7 @@
 Дрон можно подключить кабелем к телефону на Android через OTG переходник (с одной стороны USB-A, с другой USB-С).   
 **Внимание!!!** Питания дрона от телефона может не хватить, поэтому лучше подключить к дрону батарею.  
 
-На телефон нужно установить одну из двух программ: 
+На телефон нужно установить одну из двух программ:  
 - Betaflight Configurator for Android. APK файл находится [на странице скачивания](https://github.com/betaflight/betaflight-configurator/releases).  
 ![](BetaflightAndroid1.jpg) ![](BetaflightAndroid2.jpg)  
 

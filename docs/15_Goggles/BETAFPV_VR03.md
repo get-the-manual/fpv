@@ -1,4 +1,4 @@
-# Шлем BETAFPV VR03 FPV Goggles
+﻿# Шлем BETAFPV VR03 FPV Goggles
 
 [На сайте производителя](https://betafpv.com/collections/goggle-antennas/products/vr03-fpv-goggles)
 
@@ -49,8 +49,8 @@ S - воспроизведение.
 S - вход в пункт.  
 
 Красная кнопка - переключение между закладками.  
-![](BETAFPV_VR03_DVR_menu_Play.jpg)
-![](BETAFPV_VR03_DVR_menu_Setup.jpg)
+![](BETAFPV_VR03_DVR_menu_Play.jpg)  
+![](BETAFPV_VR03_DVR_menu_Setup.jpg)  
 В меню Setup можно отформатировать флешку
 
 ## Использование с очками

@@ -1,4 +1,4 @@
-# Полезные команды Betaflight CLI
+﻿# Полезные команды Betaflight CLI
 
 | Команда | Что делает? |
 | --- | --- |
@@ -15,13 +15,13 @@
 
 ## Устройство для передачи OSD
 
-Команда `osd_displayport_device` в Betaflight используется для настройки устройства, через которое передаются данные OSD (On-Screen Display) по DisplayPort. 
+Команда `osd_displayport_device` в Betaflight используется для настройки устройства, через которое передаются данные OSD (On-Screen Display) по DisplayPort.  
 Считать значение можно запустив команду:  
 `get osd_displayport_device`  
 Ответ из полетника на аналоговом VTX:  
 ```
 # get osd_displayport_device
-osd_displayport_device = AUTO
+osd_displayport_device = AUTO  
 Allowed values: NONE, AUTO, MAX7456, MSP, FRSKYOSD
 ```
 
@@ -41,8 +41,8 @@ Allowed values: NONE, AUTO, MAX7456, MSP, FRSKYOSD
 Прошивая полетник с аналоговым VTX на Betaflight 4.5.x можно случайно указать в опциях оба вида OSD: `OSD (Analog)` и `OSD (HD)`. И тогда на экране не будет OSD, потому что по умолчанию будет направляться в HD.  
 Чтобы вернуть на аналог надо запустить следующие команды:
 ```
-set osd_displayport_device = MAX7456
-set vcd_video_system = AUTO
+set osd_displayport_device = MAX7456  
+set vcd_video_system = AUTO  
 save
 ```
 Объяснение тут [FAQ / No OSD in Betaflight 4.5](https://hackmd.io/@nerdCopter/r1JbnG0Q0)  
@@ -52,7 +52,7 @@ save
 
 ### номер модели для Model Match
 
-```get expresslrs_model_id```
+```get expresslrs_model_id```  
 Значение от 0-255. 255 означает Model Match отключен.
 
 ```set expresslrs_model_id = N```
@@ -72,18 +72,18 @@ save
 Устаревший способ. Обычно уже есть поле ввода.
 
 
-```set expresslrs_uid = [ Your UID bytes ]```
+```set expresslrs_uid = [ Your UID bytes ]```  
 где UID - это хеш  
-Сначала нужно превратить Bind фразу в коды и потом ввести ее.
+Сначала нужно превратить Bind фразу в коды и потом ввести ее.  
 Для этого идем на страницу [UID Byte Generator сайта https://www.expresslrs.org.](https://www.expresslrs.org/hardware/spi-receivers/?h=uid#uid-byte-generator).  
 Там в поле Binding Phrase вводим свое слово. Ниже появятся нужные коды и команда, которую надо ввести в CLI.
 
 
 ## Turtle mode settings
-``
+``  
 set crashflip_motor_percent = 0  
-set crashflip_expo = 35
-``
+set crashflip_expo = 35  
+``  
 Подробности в видео [My Whoop Won't Flip Over! Fixing Turtle Mode? - FPV Questions. YouTube: Joshua Bardwell Livestream Clips](https://www.youtube.com/watch?v=U4AvhJiqLPM)
 
 
@@ -99,8 +99,8 @@ set crashflip_expo = 35
 
 Это самая важная команда. Она показывает «здоровье» системы.
 
-* **На что смотреть:** * `MCU Load`: Нагрузка на процессор. В идеале должна быть **ниже 50%**. Если выше 75% — дрон может зависнуть в полете.
-* `Arming flags`: Если там есть слова (например, `CALIB`, `CLI`, `MSP`), значит, дрон **не заармится**. Это подскажет вам, почему моторы не крутятся.
+* **На что смотреть:** * `MCU Load`: Нагрузка на процессор. В идеале должна быть **ниже 50%**. Если выше 75% — дрон может зависнуть в полете.  
+* `Arming flags`: Если там есть слова (например, `CALIB`, `CLI`, `MSP`), значит, дрон **не заармится**. Это подскажет вам, почему моторы не крутятся.  
 * `Voltage`: Видит ли плата напряжение аккумулятора.
 
 ### 2. Команда `tasks`

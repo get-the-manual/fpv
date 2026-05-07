@@ -1,19 +1,19 @@
-# BETAFPV LiteRadio 2, 2SE, 3
+﻿# BETAFPV LiteRadio 2, 2SE, 3
 
 [LiteRadio 2 SE. Страница на сайте производителя](https://betafpv.com/collections/tx/products/literadio-2-se-radio-transmitter)  
 [LiteRadio 3. Страница на сайте производителя](https://betafpv.com/collections/tx/products/literadio-3-radio-transmitter)  
 
 [User Manual for LiteRadio 3](LiteRadio_3-User_Manual.pdf)  
 
-[BETAFPV Literadio 2 SE Joystick Calibration. YouTube: 
+[BETAFPV Literadio 2 SE Joystick Calibration. YouTube:  
 BETAFPV Hobby](https://www.youtube.com/watch?v=mkDREF-_yOk)  
 
-[LiteRadio ELRS does not work??? Flashing Firmware. 
+[LiteRadio ELRS does not work??? Flashing Firmware.  
 YouTube: IRONQUAD](https://www.youtube.com/watch?v=5UcZ9E8DDoE)
 
 ## Особенности
 
-- На стиках стоят потенциометры (резисторы). Из за этого достаточно быстро появляется дребезг в стиках. У кого-то буквально после недели активного пользования. Приходится или смазывать, или менять на купленные отдельно стики с датчиками Холла. 
+- На стиках стоят потенциометры (резисторы). Из за этого достаточно быстро появляется дребезг в стиках. У кого-то буквально после недели активного пользования. Приходится или смазывать, или менять на купленные отдельно стики с датчиками Холла.  
 - Проприетарная прошивка от производителя. Конфигурирование возможно через программу BETAFPV Configurator. Возможности по настройке значительно уступают аппаратурам на прошивках типа OpenTX или EdgeTX.  
 - Минимальное, по сравнению с другими пультами, количество кнопок и переключателей. Два двух-позиционных и два трех-позиционных. Хотя кому-то этого может быть достаточно.  
 - Отсутствие экрана, на котором можно было бы видеть дополнительную или диагностическую информацию
@@ -22,7 +22,7 @@ YouTube: IRONQUAD](https://www.youtube.com/watch?v=5UcZ9E8DDoE)
 
 ## Какая версия передатчика: ELRS или FrSky
 На задней стороне снимаем крышку. Там будет наклейка.  
-Так выглядит наклейка передатчика с FrSky `CC2500`:
+Так выглядит наклейка передатчика с FrSky `CC2500`:  
 ![](LiteRadio3_TX_version.jpg)  
 
 ## Подключение аппаратуры к компьютеру
@@ -30,7 +30,7 @@ YouTube: IRONQUAD](https://www.youtube.com/watch?v=5UcZ9E8DDoE)
 
 ### Аппа не определяется компьютером или телефоном
 
-1. Попробуйте поменять кабель. Бывает такое что с одним кабелем работает, а с другим нет.
+1. Попробуйте поменять кабель. Бывает такое что с одним кабелем работает, а с другим нет.  
 2. Бывают проблемы с подключением аппы с ELRS 3 к компьютеру на процессоре AMD. Проблему можно устранить, если перепрошить аппу на последнюю версию прошивки от ноября/декабря 2024 или на прошивку с предыдущей версию ELRS 2.  
 Ссылки на прошивки в статье ниже в разделе Прошивка.  
 Подробнее о проблеме и перепрошивке рассказано в видео [Проблема с Betafpv Aquila. LiteRadio2se не работает с компом и симулятором](https://www.youtube.com/watch?v=1lq6xgl1Efk)
@@ -42,7 +42,7 @@ YouTube: IRONQUAD](https://www.youtube.com/watch?v=5UcZ9E8DDoE)
 ## Прошивка
 [Прошивки для Lite Radio 2 SE](https://support.betafpv.com/hc/en-us/articles/4414348908057-Lite-Radio-2-SE)  
 [Прошивки для Lite Radio 3](https://support.betafpv.com/hc/en-us/articles/4414348993177-Lite-Radio-3)
- 
+  
 Подключаем аппу, переключив её в режим прошивки (зажав кнопку сетап и включение). Она в диспетчере устройств определяется COM портом.  
 Запускаем BETAFPV Configurator и заливаем прошивку. 
 

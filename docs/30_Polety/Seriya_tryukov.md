@@ -1,4 +1,4 @@
-# Последовательности и комбинация трюков (Trick series)
+﻿# Последовательности и комбинация трюков (Trick series)
 
 [Linking Tricks FEAT. PDEVX - Trick Series. YouTube: Rotor Riot](https://www.youtube.com/watch?v=7ZXll22kJxk)  
 
@@ -60,12 +60,12 @@ Flat Yaw
 
 
 ### Выходы
-- 1:12 Взлетаем опустив нос вниз и глядя на ворота.  Через Roll уходим в сторону.
+- 1:12 Взлетаем опустив нос вниз и глядя на ворота.  Через Roll уходим в сторону.  
 - 1:55 Rewind it.  
 - 3:01 Juicy Flick.  
 - 3:49 Flip to inverted yaw spin. Exit with roll/flip 180.  
 - 4:36 Power Loop.  
-- Reverse Split-S под ворота, опять Reverse Split-S под ворота.
+- Reverse Split-S под ворота, опять Reverse Split-S под ворота.  
 - Взлетаем опустив нос вниз, Roll 180, пауза, Roll -180
 
 
@@ -78,12 +78,12 @@ Flat Yaw
 
 ### Влетели, вылетели
 1. Залетая под балку Snapback,  
-продолжаем крутить ролл, под балку с Reverse Split-S
-можно продолжить, сделав задом Snapback
-можно продолжить Yaw 180
+продолжаем крутить ролл, под балку с Reverse Split-S  
+можно продолжить, сделав задом Snapback  
+можно продолжить Yaw 180  
 0:06 
 
-2. Juicy Flick над балкой, 
+2. Juicy Flick над балкой,  
 продолжаем крутить ролл, под балку с Reverse Split-S
 
 ### Split-S с продолжением
@@ -102,8 +102,8 @@ Flat Yaw
 Pitch от себя 180, заходим Matty Flip  
 2:45
 
-2. PowerLoop, 
-но заканчивается НАД балкой носом вниз 
+2. PowerLoop,  
+но заканчивается НАД балкой носом вниз  
 Yaw 180  
 Pitch от себя 180, заходим под балку Matty Flip  
 2:28
@@ -163,7 +163,7 @@ Snapback задом
 Immelmann Turn  
 
 ### 2:28
-PowerLoop, но заканчивается НАД балкой носом вниз 
+PowerLoop, но заканчивается НАД балкой носом вниз  
 Yaw 180  и заходим под балку Matty Flip  
 
 ### 2:45
@@ -179,8 +179,8 @@ Split-S, но заканчиваем НАД балкой,
 ### 3:10
 Boomerang
 
-###
-Snapback и продолжая крутить ролл в ту же сторону переходим в Reverse Split-S возвращаясь
+###  
+Snapback и продолжая крутить ролл в ту же сторону переходим в Reverse Split-S возвращаясь  
 Можно продолжать крутить roll в туже сторону или менять на противоположную
 
 ## [Out in the Field // FPV Freestyle. YouTube: Thomas More](https://www.youtube.com/watch?v=nYmZmsKHTjg)

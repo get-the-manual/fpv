@@ -1,4 +1,4 @@
-# Шлем Eachine EV800D(M)
+﻿# Шлем Eachine EV800D(M)
 
 [Обзор Eachine ev800dm - аналоговый FPV шлем. Разбор и тест. YouTube: Петрокей](https://www.youtube.com/watch?v=fZJstIVF4nI)
 
@@ -39,7 +39,7 @@
 Все выше сказанное актуально для шлема EV800D, потому что в EV800DM уже используется однобаночный аккумулятор 2000mah 3,7v, соответственно если вы хотите заменить его то вам надо будет покупать именно такой аккум, весь остальной алгоритм же остается неизменным.
 
 ### ВИДЕО:
-[FPV ШОЛОМ Eachine EV800D | Заміна батареї | РЕМОНТ НЕ ПИШЕ ВІДЕО ФПВ. YouTube: 
+[FPV ШОЛОМ Eachine EV800D | Заміна батареї | РЕМОНТ НЕ ПИШЕ ВІДЕО ФПВ. YouTube:  
 DRONTOM (укр.)](https://www.youtube.com/watch?v=yacO0YyAjao)  
 
 [Разборка видеошлема Eachine EV800Dю YouTube: Деревенский Киберпанк](https://www.youtube.com/watch?v=-R8S4xmMZ9A)  

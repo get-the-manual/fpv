@@ -1,4 +1,4 @@
-# FPV Freestyle трюки
+﻿# FPV Freestyle трюки
 [**Энциклопедия трюков** с поиском и анимированными GIF](https://prowhooper.com/all-tricks/)  
 
 [216 TRICKS! ULTIMATE FPV Tricktionary 2025. YouTube: Phantom ](https://www.youtube.com/watch?v=NpLIhHIBO24)  
@@ -15,7 +15,7 @@
 
 [FPV Freestyle Tricks - 3 Levels of Rewinds. YouTube: FlowPV](https://www.youtube.com/watch?v=GHwKQtJ5w5E)
 
-[I Asked ChatGPT for the 10 Most Difficult FPV Drone Tricks, YouTube: 
+[I Asked ChatGPT for the 10 Most Difficult FPV Drone Tricks, YouTube:  
 Patrick Watkins](https://www.youtube.com/watch?v=vYaq1cCAjTs)  
 - Corkscrew  
 - Death Spiral  
@@ -27,7 +27,7 @@ Patrick Watkins](https://www.youtube.com/watch?v=vYaq1cCAjTs)
 - The Ellipse  
 - The Inward Flip  
 - The Bhop  
-- The 360 Flip  м
+- The 360 Flip  м  
 - Maverick to Matty  
 - Drunk Slalom  
 - Roll backwards  
@@ -89,7 +89,7 @@ Patrick Watkins](https://www.youtube.com/watch?v=vYaq1cCAjTs)
 [Trippy spin или обратная орбита. Научиться за один вечер? YouTube: Олег Стельмах](https://www.youtube.com/watch?v=Lk9EkWkudN0)  
 [FPV freestyle уроки. Trippy spin или обратная орбита. YouTube: ARAMEROS](https://www.youtube.com/watch?v=knTYPUcpjL8)  
 [I Can't Trippy Spin! or Inverted Orbit? 🤔 FPV Freestyle Tutorial. YouTube: KMart FPV](https://www.youtube.com/watch?v=M5YY4iC5z1o)  
-[How to Inverted Orbit (Trippy Spin) | FPV Trick Tutorial. YouTube: 
+[How to Inverted Orbit (Trippy Spin) | FPV Trick Tutorial. YouTube:  
 headmazta](https://www.youtube.com/watch?v=HbUVa1IUfFs)  
 [Trippy Spin Tutorial (Inverted Orbit) - Understand The Trippy. YouTube: Grau](https://www.youtube.com/watch?v=-TxgEsk8T5I)  
 [I learned to trippy spin, and so can you. YouTube: AlexGHobby](https://www.youtube.com/watch?v=2cInhs27EXs)  

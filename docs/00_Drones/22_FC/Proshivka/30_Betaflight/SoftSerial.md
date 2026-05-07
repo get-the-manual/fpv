@@ -1,4 +1,4 @@
-# SoftSerial
+﻿# SoftSerial
 
 **Главная рекомендация**: It is always better to use a hardware UART if one is available.
 
@@ -46,6 +46,6 @@ SOFTSERIAL_RX 2
 
 посмотреть можно командой 
 ```
-resource 
+resource  
 resource show
 ```

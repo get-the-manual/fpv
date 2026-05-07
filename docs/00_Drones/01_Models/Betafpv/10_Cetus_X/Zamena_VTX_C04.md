@@ -1,4 +1,4 @@
-# Замена модуля С04 (VTX + камера) на BETAFPV Cetus X
+﻿# Замена модуля С04 (VTX + камера) на BETAFPV Cetus X
 На Cetus X стоит так называемый "бутерброд" из спаянных вместе камеры `Caddx ant 4:3` и VTX.  
 [Подробности здесь](./../90_Komponenty/Camera_VTX_C04.md)  
 
@@ -28,7 +28,7 @@
 
 ## Крепление камеры и VTX под канопой
 
-От [Lex RES](https://t.me/meganoobe)
+От [Lex RES](https://t.me/meganoobe)  
 ![](Cetus_VTX_set1.jpg)
 
 От `Timofey`  

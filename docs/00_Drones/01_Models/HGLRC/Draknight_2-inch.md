@@ -1,4 +1,4 @@
-# HGLRC Draknight 2-inch toothpick Fpv drone
+﻿# HGLRC Draknight 2-inch toothpick Fpv drone
 [На сайте производителя](https://www.hglrc.com/products/hglrc-draknight-2-inch-toothpick-fpv-drone)  
 ![](Draknight2inch.png)
 
@@ -7,10 +7,10 @@
 Master control: STM32F411  
 Firmware: BF HGLR-HGLRCF411SX1280_15A  
 
-При автоматическом поиске прошивки В Betaflight на странице Firmware Flasher выводится `HGLRCF411SX1280_15A`.
+При автоматическом поиске прошивки В Betaflight на странице Firmware Flasher выводится `HGLRCF411SX1280_15A`.  
 Но при нажатии кнопки `Load Firmware [Online]` вываливается ошибка  
 ```
-make: *** No rule to make target 'HGLRCF411SX1280_15A'.  Stop.
+make: *** No rule to make target 'HGLRCF411SX1280_15A'.  Stop.  
 make failed with 2
 ``` 
 Была создана [issue на сайте Betaflight](https://github.com/betaflight/config/issues/601)  

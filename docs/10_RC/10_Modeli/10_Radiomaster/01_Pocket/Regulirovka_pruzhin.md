@@ -1,4 +1,4 @@
-# Регулировка и замена пружин на стиках
+﻿# Регулировка и замена пружин на стиках
 
 ## Регулировка пружин
 Используется шестигранник на 1.6мм 
@@ -18,5 +18,5 @@
 ![](PocketSticksAdjust.jpg)
 
 ## Разборка, регулировка пружин
-[Radiomaster Pocket - How To - Change Gimbal Tension Springs. YouTube: 
+[Radiomaster Pocket - How To - Change Gimbal Tension Springs. YouTube:  
 gliZzy FPV](https://www.youtube.com/watch?v=F338i3RLih4)

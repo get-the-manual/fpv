@@ -1,8 +1,8 @@
-# Кратко об 1S моделях BETAFPV полетников 
+﻿# Кратко об 1S моделях BETAFPV полетников 
 
 ## [Matrix 1S Brushless Flight Controller (3IN1)](https://betafpv.com/collections/brushless-flight-controller/products/matrix-1s-brushless-flight-controller-hd)  
 Крест без VTX и OSD.  
-ELRS приемник на борту.
+ELRS приемник на борту.  
 Используется под цифровые видеосистемы
 
 ## [Matrix 1S Brushless Flight Controller (4IN1)](https://betafpv.com/collections/brushless-flight-controller/products/matrix-1s-brushless-flight-controller-hd)  

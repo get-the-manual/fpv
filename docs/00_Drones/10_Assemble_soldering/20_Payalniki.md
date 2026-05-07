@@ -1,4 +1,4 @@
-# Паяльники и паяльные станции
+﻿# Паяльники и паяльные станции
 
 [Самые технологичные паяльники 2025. YouTube: AlexGyver](https://www.youtube.com/watch?v=fKYVZ8fmlXY)  
 
@@ -22,14 +22,14 @@
 
 
 ## Паяльник FNIRSI HS-02 Smart Electric Soldering Iron
-![](FNIRSI_HS-02.png)
+![](FNIRSI_HS-02.png)  
 [AliExpress.ru](https://aliexpress.ru/item/1005006735514954.html?sku_id=12000038129710249)  
 [AliExpress.com](https://aliexpress.com/item/1005006735514954.html)  
 [AliExpress.com](https://vi.aliexpress.com/item/1005006655028971.html)  
 
 ## Наконечники для паяльника типа HS-02
-[AliExpress.ru](https://aliexpress.ru/item/1005006850977906.html?sku_id=12000038514168689)
-[AliExpress.com](https://vi.aliexpress.com/item/1005006850977906.html)
+[AliExpress.ru](https://aliexpress.ru/item/1005006850977906.html?sku_id=12000038514168689)  
+[AliExpress.com](https://vi.aliexpress.com/item/1005006850977906.html)  
 ![](SolderinIronTipsHS-02.png)
 
 

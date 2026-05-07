@@ -1,4 +1,4 @@
-# Трассы для вупов
+﻿# Трассы для вупов
 
 [Как строить треки для вупов | Трек дизайн. YouTube: Lesha Rodin](https://www.youtube.com/watch?v=_VQrCARckbo)
 
@@ -18,14 +18,14 @@
 [Aliexpress.com](https://vi.aliexpress.com/item/1005004895883005.html)  
 [Aliexpress.ru](https://aliexpress.ru/item/1005004895883005.html)  
 
- 
+  
 3. Утеплитель чтобы сделать ворота цветными и более мягкими брать тут 18мм синий и красный, типа такого:  
 ![](Soft_Isolation.png)
 
 ### Модели фиттингов для 3Д принтера
 Фиттинги для соединения для 20мм полипропиленовые труб: 
- 
-![](fit_1-way1.png)
+  
+![](fit_1-way1.png)  
 ![](fit_1-way2.png)  
 [1-ways](1-ways_fitting.stl)  
 

@@ -1,4 +1,4 @@
-# Air65 Champion Edition
+﻿# Air65 Champion Edition
 [Страница на сайте производителя](https://betafpv.com/collections/meteor-series/products/air65-brushless-whoop-quadcopter)  
 ![](Air65Champion.jpg)
 
@@ -33,7 +33,7 @@ Motor [0702 II|30000KV (dual ball bearings)](https://betafpv.com/collections/bru
 Три светодиода:  
 Левый моргает красным с частотой 1 секунда.  
 Средний все время горит синим.  
-Правый красный:
+Правый красный:  
 - Мелко моргает красным - PIT Mode  
 - Моргает с интервалом от 1 до 4 вспышек - режимы мощности от 25 до 400 мВт.
 

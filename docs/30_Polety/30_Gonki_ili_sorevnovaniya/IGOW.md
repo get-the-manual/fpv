@@ -1,4 +1,4 @@
-# IGOW (International Game of WHOOP)  
+﻿# IGOW (International Game of WHOOP)  
 
 **IGOW** — это онлайн-лига для FPV-дронов, где пилоты соревнуются в выполнении трюков.  
 
@@ -19,7 +19,7 @@
 - **Призы**: Компоненты для дронов, мерч и спонсорская поддержка.  
 
 ## 🔗 Полезные ссылки  
-- [Официальный сайт](https://www.internationalgameofwhoop.com/)
+- [Официальный сайт](https://www.internationalgameofwhoop.com/)  
 - [YouTube канал IGOW: International Game of WHOOP](https://www.youtube.com/@FPVSkittles/)
 
 ## IGOW5
