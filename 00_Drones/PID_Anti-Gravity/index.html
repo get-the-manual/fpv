@@ -8909,31 +8909,31 @@
 <p><strong>Anti Gravity</strong> — это настройка в PID-профиле, которая <strong>временно усиливает интегральную составляющую (I), а в новых версиях Betaflight — ещё и пропорциональную (P)</strong> во время быстрых изменений газа. Она служит для <strong>устранения рыскания/наклонов коптера на резкие “прыжки” газа</strong> (throttle punches) и поддержания устойчивости положения во время этих манёвров. (<a class="autorefs autorefs-internal" title="Краткая инструкция 1" href="../PID/#1">betaflight.com</a>)</p>
 <p>📌 Реальная механика:</p>
 <ul>
-<li>Когда ты резко меняешь газ (вверх/вниз), стандартный I-терм может реагировать слишком медленно. Anti Gravity даёт <em>временный “буст”</em> этому I-терму, чтобы быстрее удерживать угол/позицию коптера при таких изменениях. (<a class="autorefs autorefs-internal" title="Краткая инструкция 1" href="../PID/#1">betaflight.com</a>)</li>
+<li>Когда ты резко меняешь газ (вверх/вниз), стандартный I-терм может реагировать слишком медленно. Anti Gravity даёт <em>временный “буст”</em> этому I-терму, чтобы быстрее удерживать угол/позицию коптера при таких изменениях. (<a class="autorefs autorefs-internal" title="Краткая инструкция 1" href="../PID/#1">betaflight.com</a>)  </li>
 <li>В Betaflight <strong>4.2+ эффект стал независим от базового I</strong>, то есть anti gravity gain сам определяет силу этого буста. (<a class="autorefs autorefs-internal" title="Краткая инструкция 2" href="../PID/#2">betaflight.com</a>)</li>
 </ul>
 <hr />
 <h2 id="_1">Где находится и как это настраивается</h2>
-<p>В Betaflight Configurator / Betaflight App:
+<p>В Betaflight Configurator / Betaflight App:<br />
 <strong>PID Tuning → PID Profile Settings → PID Controller Settings → Anti Gravity</strong>. </p>
 <p>Настройки:</p>
 <ul>
-<li><strong>anti_gravity_gain (Anti Gravity Gain)</strong> — сила усиления I/P во время резких изменений газа.
-  Чем выше значение → тем сильнее усиливается удержание положения при throttle punches.</li>
+<li><strong>anti_gravity_gain (Anti Gravity Gain)</strong> — сила усиления I/P во время резких изменений газа.<br />
+  Чем выше значение → тем сильнее усиливается удержание положения при throttle punches.  </li>
 <li>В новых версиях также есть <strong>anti_gravity_mode</strong> (обычно SMOOTH) для более плавного эффекта. </li>
 </ul>
 <p>Типовые диапазоны:</p>
 <ul>
-<li>3–5 (для классического 5″ фристайла) — мягко помогает.</li>
+<li>3–5 (для классического 5″ фристайла) — мягко помогает.  </li>
 <li>Большее значение = более жёсткая реакция на газ и стабилизация.</li>
 </ul>
 <hr />
 <h2 id="_2">Практика настройки</h2>
 <ol>
-<li><strong>Начни с низкого значения</strong> (например 0–3).</li>
-<li>Лети, делай быстрые “throttle punches” (газ в пол вверх/вниз).</li>
-<li>Если коптер <strong>наклоняется носом вверх/вниз на резких изменениях газа</strong> — увеличь Anti Gravity.</li>
-<li>Следи за поведением при обычном газе — слишком высокий Anti Gravity может дать “тяжёлую” реакцию.</li>
+<li><strong>Начни с низкого значения</strong> (например 0–3).  </li>
+<li>Лети, делай быстрые “throttle punches” (газ в пол вверх/вниз).  </li>
+<li>Если коптер <strong>наклоняется носом вверх/вниз на резких изменениях газа</strong> — увеличь Anti Gravity.  </li>
+<li>Следи за поведением при обычном газе — слишком высокий Anti Gravity может дать “тяжёлую” реакцию.  </li>
 <li>Сохраняй и тестируй в воздухе короткими пробами. </li>
 </ol>
 <hr />
@@ -8964,7 +8964,7 @@
 <p><strong>Если появляются признаки перекомпенсации:</strong></p>
 <ul>
 <li>дёрганье по pitch при газе  </li>
-<li>“липкий” отклик
+<li>“липкий” отклик<br />
   → снижай до <strong>0.5–1.0</strong> или <strong>выключай (0)</strong></li>
 </ul>
 <hr />
@@ -8985,27 +8985,27 @@
 <hr />
 <h3 id="1s">Важные замечания именно для 1S</h3>
 <ul>
-<li>Anti Gravity <strong>не лечит плохой I-term</strong></li>
-<li>Если whoop “плавает” → сначала <strong>I gain</strong>, потом Anti Gravity</li>
-<li>На 1S <strong>лучше недокрутить</strong>, чем перекрутить</li>
+<li>Anti Gravity <strong>не лечит плохой I-term</strong>  </li>
+<li>Если whoop “плавает” → сначала <strong>I gain</strong>, потом Anti Gravity  </li>
+<li>На 1S <strong>лучше недокрутить</strong>, чем перекрутить  </li>
 <li>Высокий Anti Gravity = больше шума в PID loop</li>
 </ul>
 <hr />
 <h3 id="cli">CLI (пример)</h3>
-<pre><code class="language-bash">set anti_gravity_gain = 1.5
-set anti_gravity_mode = SMOOTH
+<pre><code class="language-bash">set anti_gravity_gain = 1.5  
+set anti_gravity_mode = SMOOTH  
 save
 </code></pre>
 <hr />
 <h2 id="_6">Практический тест</h2>
 <ol>
-<li>Висение</li>
-<li>Резко газ в пол → резко убрать</li>
+<li>Висение  </li>
+<li>Резко газ в пол → резко убрать  </li>
 <li>
 <p>Смотри:</p>
 </li>
 <li>
-<p>клюёт → ↑ Anti Gravity</p>
+<p>клюёт → ↑ Anti Gravity  </p>
 </li>
 <li>дёргается → ↓ Anti Gravity</li>
 </ol>
@@ -9034,7 +9034,7 @@ save
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="February 12, 2026 20:20:44 UTC">February 12, 2026</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="May 7, 2026 14:59:53 UTC">May 7, 2026</span>
   </span>
 
     
