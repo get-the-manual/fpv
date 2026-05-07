@@ -1,4 +1,4 @@
-# Установка и настройка GPS модуля
+﻿# Установка и настройка GPS модуля
 
 ## Проверенные модели
 
@@ -44,7 +44,7 @@
 
 ### Отзыв №1
 HGLRC Draknight 2-inch + FLYWOO GOKU GM10 Nano V3.1 GPS   
-Я сейчас пришел по теме GPS к практическому выхлопу. Раньше все это было далеко, теоретически, заковыристо, и непонятно. Теперь устаканилось. Может кому пригодится.
+Я сейчас пришел по теме GPS к практическому выхлопу. Раньше все это было далеко, теоретически, заковыристо, и непонятно. Теперь устаканилось. Может кому пригодится.  
 Итак.  
 1. Датчик работает, на открытом месте ловит отлично... но (???) на очки координаты не выводит. Ну и ладно.  
 2. Зато он дает координаты на пульт.  
@@ -63,8 +63,8 @@ HGLRC Draknight 2-inch + FLYWOO GOKU GM10 Nano V3.1 GPS
 
 Всё бы ничего и всё хорошо работает, но опрос GPS один раз в секунду и такой частоты недостаточно для успешного "возврата домой". Об этом пишут в глубинах китайских форумов и на сайте бетафлай. А именно:
 ```
-GPS modules can be used for two quite different purposes:
-    to collect data such as latitude, longitude, altitude, speed etc, at low data rates, eg 1-2 Hz, to assist with finding the quad if it is lost, or to log flight paths.
+GPS modules can be used for two quite different purposes:  
+    to collect data such as latitude, longitude, altitude, speed etc, at low data rates, eg 1-2 Hz, to assist with finding the quad if it is lost, or to log flight paths.  
     for GPS Rescue and position hold purposes, where data is typically received at 10Hz.
 ```
 Поэтому пересадил управление VTX на SoftSerial, а GPS повесил на освободившейся от VTX порт UART.

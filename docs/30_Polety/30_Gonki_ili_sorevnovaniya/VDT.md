@@ -1,4 +1,4 @@
-# Velocidrone daily track (VDT)
+﻿# Velocidrone daily track (VDT)
 
 VDT это `Velocidrone daily track`, что означает - ежедневная трасса в симуляторе [Velocidrone](https://www.velocidrone.com/).
 
@@ -13,7 +13,7 @@ VDT это `Velocidrone daily track`, что означает - ежедневн
 Таблицы лидеров можно посмотреть по ссылкам:  
 [Большие дроны](https://vdt.tg/)  
 [Вупы](https://vdt.tg/whoop/)  
- 
+  
 Существует правило первого места. Пилот занявший первую позицию в результатах на момент окончания текущего VDT, публикует в чате видео своего быстрого вылета.
 
 Больше подробностей можно прочитать на [основном сайте VDT.tg](https://vdt.tg/?help)

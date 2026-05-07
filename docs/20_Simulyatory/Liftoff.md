@@ -1,12 +1,12 @@
-# Liftoff FPV Simulator
+﻿# Liftoff FPV Simulator
 
 [Страница в Steam](https://store.steampowered.com/app/410340/Liftoff_FPV_Drone_Racing/)
 
-[LiteRadio 3/2 SE | How to Calibrate Them on Simulator. YouTube: 
+[LiteRadio 3/2 SE | How to Calibrate Them on Simulator. YouTube:  
 BETAFPV Hobby](https://www.youtube.com/watch?v=J2UxT85Hepw)  
 
 ## Мнение
-По совету из одной из обучалок я начинал летать на дроне `Armattan Gecko 3`. Он один из самых легких.
+По совету из одной из обучалок я начинал летать на дроне `Armattan Gecko 3`. Он один из самых легких.  
 Легче него только `АЕ Gremlin Boar`, но он мне не зашел.  
 
 Если симулятор официально куплен в стиме, можешь загружать и кастомные дроны. Я нашел и `Cetus X`. И даже в описании указано, мол все характеристики согласованы с производителем BETAFPV.  

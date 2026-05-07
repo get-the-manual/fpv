@@ -1,4 +1,4 @@
-# Разборка и ремонт шлема BETAFPV VR03
+﻿# Разборка и ремонт шлема BETAFPV VR03
 
 ## Разборка шлема
 
@@ -61,7 +61,7 @@
 На Aliexpress нашел тут:  
 [5-10PCS CN3058E CN3162 CN3163 CN3304 CN3768 CN5711 SMD SOP8 Battery Charge Management Chip](https://www.aliexpress.com/item/1005007924717398.htm)  
 
-![](CN3162_2.jpg)
+![](CN3162_2.jpg)  
 ![](CN3162_3.jpg)  
 
 Модель: `CN3162`

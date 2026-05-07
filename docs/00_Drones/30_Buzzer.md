@@ -1,12 +1,12 @@
-# Внешний бузер (buzzer, бипер, пищалка)
+﻿# Внешний бузер (buzzer, бипер, пищалка)
 
 ## VIFLY Beacon Wireless Drone Buzzer
 [На Aliexpress.com](https://aliexpress.com/item/4000645203533.html)  
 ![](Buzzer_ViflyBeacon.png)  
 [Как не потерять дрон, или установка и тест Vifly beacon пищалки на Betafpv Cetus X FPV. YouTube: Petrokey](https://www.youtube.com/watch?v=jTDNMKAEFCI)  
 
-Работой бузера доволен. 
-Я прикрепил на боковой луч Cetus X. На балансировку не повлияло. Правда при падении вверх ногами погнул зарядный разъем на бузере. Поэтому стал вешать снизу. Там он более защищенный...  м
+Работой бузера доволен.  
+Я прикрепил на боковой луч Cetus X. На балансировку не повлияло. Правда при падении вверх ногами погнул зарядный разъем на бузере. Поэтому стал вешать снизу. Там он более защищенный...  м  
 На Meteor85 тоже повесил под боковым лучом.
 
 ## JHE20B Mini Finder 5V 
@@ -52,8 +52,8 @@ set beeper_inversion = OFF
 ### Подключение к BETAFPV Meteor65 Pro
 На полетнике (кресте) нет выводов на бипер. Можно подключить на один из RX UART2 выходов, но через транзистор. Потом вывод будет переназначен на BEEPER ресурс:  
 ```
-resource SERIAL_RX 2 none
-resource BEEPER 1 A03
+resource SERIAL_RX 2 none  
+resource BEEPER 1 A03  
 save
 ```
 
