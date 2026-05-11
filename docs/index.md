@@ -58,6 +58,8 @@
 
 [Mads Tech FPV & Drone Wiki](https://fpvwiki.co.uk/)
 
+[HDZero Documents](https://docs.hd-zero.com/)
+
 ### Telegram
 
 [Петрокей FPV](https://t.me/petrokeyfpv)
