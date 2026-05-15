@@ -79,7 +79,7 @@
 
 [RDR.Инфо 🚀🚀🚀 Гонки дронов, FPV, drone racing, лига дронов, combat.](https://t.me/rdrleague)
 
-[Свидетели ELRS 3.5.6](https://t.me/expresslrs_rus)
+[Свидетели ELRS](https://t.me/expresslrs_rus)
 
 [Cinewhoopers](https://t.me/Cinewhoopers)
 
