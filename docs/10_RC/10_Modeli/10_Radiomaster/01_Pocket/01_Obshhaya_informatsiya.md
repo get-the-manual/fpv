@@ -61,3 +61,6 @@ Aux6 SI (колесо) - PIT и разная мощность VTX
 
 ## Как разобрать аппаратуру
 Видео по разборке: [Апгрейд Radiomaster Pocket: ставим AG01 Nano CNC стики. YouTube: DRONOFLY FPV]()
+
+## Замена кнопок на переключатели
+[Radiomaster Pocket - Toggle Switch Mod - YouTube](https://youtu.be/F5A1zEVDFRo)
