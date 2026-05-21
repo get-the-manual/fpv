@@ -60,6 +60,8 @@
 
 [HDZero Documents](https://docs.hd-zero.com/)
 
+[FPV Links](https://fpvlinks.com/)
+
 ### Telegram
 
 [Петрокей FPV](https://t.me/petrokeyfpv)
