@@ -92,7 +92,7 @@
 [Урок 5. Секрети успішного зависання дроном на місці та польотів в приміщенні.](https://www.youtube.com/watch?v=7-YgtMsbIL0)  
 [Урок 6. Іспит на симуляторі перед справжнім fpv дроном.](https://www.youtube.com/watch?v=_pGjSxhaIS4)  
 
-## [ШКОЛА FPV. YouTube: Free Sky Ukraine (укр.)](https://www.youtube.com/watch?v=Fl40JKRf43w&list=PLOjSjoU1lXsRRHmxJxVd-2SvF0Ym_eyoY&index=1)
+## [ШКОЛА FPV. YouTube: Free Sky Ukraine (укр.)](https://www.youtube.com/playlist?list=PLOjSjoU1lXsRRHmxJxVd-2SvF0Ym_eyoY)
 
 
 ## [FPV 101: Drone School. YouTube: Drone Racing League](https://www.youtube.com/watch?v=NkyrESchTpA&list=PLj8kmZ6kpXqhaqvZMsj2_ibIkjMfACu7d)
