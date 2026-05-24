@@ -62,6 +62,8 @@
 
 [FPV Links](https://fpvlinks.com/)
 
+[Блог по FPV от непрофессионала](https://snmplz.github.io/)
+
 ### Telegram
 
 [Петрокей FPV](https://t.me/petrokeyfpv)
