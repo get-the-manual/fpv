@@ -80,6 +80,10 @@
 
 [FeelFPV FPV Drone Simulator](https://apps.apple.com/us/app/feelfpv/id6474666661)
 
+## Сравнение симуляторов 2026
+
+[ТОП-4 FPV СИМУЛЯТОРА_ Какой реально учит летать, а какой — пустая трата денег. YouTube: Mr SSmig_FPV](https://youtu.be/FbcjagR_4w0)
+
 ## Сравнение симуляторов 2025
 
 [I Found The ULTIMATE FPV Drone Simulator In 2025. YouTube: Brodie Reed](https://www.youtube.com/watch?v=QwtvvKNzR4Y)
