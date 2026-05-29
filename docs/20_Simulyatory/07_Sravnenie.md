@@ -14,3 +14,4 @@
 |![](Uncrashed_icon.png)| [Uncrashed  FPV Drone Simulator](Uncrashed.md) |     XXXX      |workshop|  XXXX  |    XXXX   |            |
 |![](Velocidrone_icon.png)| [Velocidrone](Velocidrone.md)                  |     XXXX      | аддон  |  XXXX  |    аддон  |  [Android](https://play.google.com/store/apps/details?id=com.velocidrone.velocidrone) / [iOS](https://apps.apple.com/us/app/velocidrone/id1612444734)   |
 |![](EreaDrone_icon.png)| [EreaDrone](EreaDrone.md)                  |     XX      | 2S (плохой)  |  X  | одна карта  |     |
+|![](FeelFPV.png) | FeelFPV Drone FPV Simulator  |           |   |    |      |  [Android](https://play.google.com/store/apps/details?id=com.FullFocusStudio.FeelFPV) |
