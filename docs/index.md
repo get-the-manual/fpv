@@ -149,3 +149,4 @@ spinnerproduction.ru
 [NskFpv-pilot](https://t.me/nskfpvpilot)  
 [StephanaoFpv Chat 2.0](https://t.me/whoopfanchat1)  
 [DoggyDog.blog](https://t.me/doggydb)
+[SpiNiks FPV](https://www.youtube.com/@SpiNiksFPV)
