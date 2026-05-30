@@ -3,10 +3,23 @@
 ## Укрепление камеры и модуля
 [Перед полетом на Dji о4 fpv сделай это: Youtube: VSEVOLOD TEN](https://www.youtube.com/shorts/_QmyuX7LrLM)
 
-## Flywoo DJI O4 Wide-Angle Lens
+## [Flywoo O4 Wide Lens Set](https://flywoo.net/products/flywoo-o4-wide-lens-set)
+
+![](FlyWooLens_Photo.jpg)
+
 [Новая линза меняет всё! DJI O4 - летабельно ✓ [Flywoo DJI O4 Wide-Angle Lens / Firefly18 1S]. YouTube: Anik FPV]()
 
 [DJI O4 PRO БОЛЬШЕ НЕ НУЖНА? YouTube: recopter](https://www.youtube.com/watch?v=2TSoLzJ7INM)
+
+### Проблема
+Ребят поясните в чем дело, поставил линзу Флайву на о4, закручиваю до конца а такое ощущение что резкости не хватает, дальше закручивать некуда, при откручивании картинка плывет. Поставил правильно, там иначе не станет, платка села на свое место.
+
+### Ответ
+Кратко - линза с али имеет бортик. Им упирается и не попадает в фокус. Не знаю, на сколько резонно за базовую плоскость измерений выбирать начало резьбы, но разница оригинала и али - 3 десятки.
+
+![](FlyWooLens1.jpg)  
+![](FlyWooLens2.jpg)  
+![](FlyWooLens3.jpg)  
 
 ## O4 лайт - O3 лензмод
 Автор поста `@agrifg0r`.

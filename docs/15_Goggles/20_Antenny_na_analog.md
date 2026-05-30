@@ -1,5 +1,7 @@
 ﻿# Антенны на шлем/очки с аналоговым видео
 
+[Линейная поляризация и круговая, какая антенна лучше для квадрокоптера - Все о квадрокоптерах _ PROFPV.RU](https://profpv.ru/polyarizaciya-linejnaya-i-krugovaya/)
+
 ## Виды коннекторов
 ![](Antenna_Connectors.png)  
 ![](Antenna_Connectors2.jpg)  
