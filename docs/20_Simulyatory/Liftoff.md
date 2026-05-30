@@ -5,6 +5,9 @@
 [LiteRadio 3/2 SE | How to Calibrate Them on Simulator. YouTube:  
 BETAFPV Hobby](https://www.youtube.com/watch?v=J2UxT85Hepw)  
 
+[Налаштування графіки в Liftoff - причина втоми (укр.). YouTube: 
+FPV питаннячка](https://youtu.be/Aa3Ap678SYk)
+
 ## Мнение
 По совету из одной из обучалок я начинал летать на дроне `Armattan Gecko 3`. Он один из самых легких.  
 Легче него только `АЕ Gremlin Boar`, но он мне не зашел.  
