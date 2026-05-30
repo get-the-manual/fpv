@@ -60,11 +60,11 @@ Filters:
 
 ## Как уменьшить угол камеры
 
-### Вариант 1
+### Вариант 1 {: #ugol-kameri-1 }
 
 Оборачиваем стяжкой  
 ![](Camera_Angle_lifehack.jpg)
 
-### Вариант 2
+### Вариант 2 {: #ugol-kameri-2 }
 Удлинить задний хвост термоусадкой как в видео [Дрон Air 65 Как усмирить бешенную муху. YouTube: Russian CraZy Pilot](https://www.youtube.com/watch?v=Uz6Cb_xHeUs)  
 ![](Camera_Angle_lifehack2.png) 
