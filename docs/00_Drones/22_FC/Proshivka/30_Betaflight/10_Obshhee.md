@@ -4,7 +4,16 @@
 Betaflight - это открытое программное обеспечение (встроенное ПО) контроллера полета, используемое для настройки и полетов на различных аппаратах, (квадрокоптерах, гексакоптеров, октокоптеров) под управлением полетных контроллеров, работающих под прошивкой Betaflight.
 
 [Официальный сайт](https://betaflight.com/)  
-[Страница закачки Betaflight Configurator (на все ОС, включая Android)](https://github.com/betaflight/betaflight-configurator/releases/)  
+
+## Betaflight Configurator
+
+По состоянию на середину 2026 года Betaflight конфигуратор представлен в виде онлайн приложения.  
+Старые версии конфигуратора еще доступны на сайте, но они не поддерживают последние версии прошивки.
+
+[Онлайн приложение Betaflight Configurator](https://app.betaflight.com/)  
+
+[Страница закачки старых версий Betaflight Configurator (на все ОС, включая Android)](https://github.com/betaflight/betaflight-configurator/releases/) 
+ 
 [SpeedyBee - альтернатива Betaflight Configurator для Android](https://play.google.com/store/apps/details?id=com.runcam.android.runcambf&hl=ru&gl=US)
 
 ## Установка на Linux

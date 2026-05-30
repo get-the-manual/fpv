@@ -2,6 +2,7 @@
 
 Антенны на шлем/очки можно посмотреть на [этой странице](./../../15_Goggles/20_Antenny_na_analog.md)
 
+[Линейная поляризация и круговая, какая антенна лучше для квадрокоптера - Все о квадрокоптерах _ PROFPV.RU](https://profpv.ru/polyarizaciya-linejnaya-i-krugovaya/)
 
 ## Диполь
 [5.8G 3DB UFL IPEX Omni Directional 70mm Brass Soft FPV Antenna for RC FPV](https://vi.aliexpress.com/item/1005005819625884.html)  

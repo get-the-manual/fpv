@@ -106,10 +106,6 @@ nav:
       - Аналоговая VTX: 00_Drones/20_VTX/Analogovaya_VTX.md
       - Антенны на аналог: 00_Drones/20_VTX/Antenny_na_analog.md
       - Мощность и PIT: 00_Drones/20_VTX/Moshhnost_i_PIT.md
-      - DJI O4:
-        - Общее: 00_Drones/20_VTX/DJI_O4/10_Obshhee.md
-        - Доработка: 00_Drones/20_VTX/DJI_O4/Dorabotka.md
-        - Защита от воды: 00_Drones/20_VTX/DJI_O4/WaterProtect.md
       - OSD: 00_Drones/20_VTX/OSD.md
     - Полетник (FC):
       - Модели:
@@ -146,7 +142,10 @@ nav:
       - Общие вопросы: 00_Drones/30_Camera/General.md
       - Runcam Thumb Pro 4k: 00_Drones/30_Camera/50_Runcam_Thumb_Pro_4k.md
       - Конвертер analog в USB: 00_Drones/30_Camera/Konverter_analog_v_USB.md
-      - DJI O4: 00_Drones/30_Camera/DJI-O4.md
+      - DJI O4:
+        - Общее: 00_Drones/30_Camera/DJI_O4/10_Obshhee.md
+        - Доработка: 00_Drones/30_Camera/DJI_O4/Dorabotka.md
+        - Защита от воды: 00_Drones/30_Camera/DJI_O4/WaterProtect.md
     - Buzzer (пищалка): 00_Drones/30_Buzzer.md
     - Моторы:
       - Общее: 00_Drones/35_Motor/Obshhee.md
