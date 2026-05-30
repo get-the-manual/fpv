@@ -10,7 +10,7 @@
 
 ## Способы крепления антенны
 
-### Вариант 1
+### Вариант 1 {: #sposop-kreplenija-1 }
 ![](CetusX_Foxeer.jpg)
 
 ### [How to install a U.FL antenna - BETAFPV Cetus X. YouTube: GR4YK3Y](https://www.youtube.com/watch?v=ErxKLmwsnYQ)
