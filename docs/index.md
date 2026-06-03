@@ -112,6 +112,8 @@ spinnerproduction.ru
 [FPV Tricks](https://t.me/fpv_tricks)  
 Подборка анимационных видео с различными триками
 
+[FPVmaniya](https://t.me/fpvmaniya)
+
 [DJI FPV Drone / Avata / чат на русском](https://t.me/dji_fpv_avata)
 
 [DJI FPV](https://t.me/djifpvru)  
