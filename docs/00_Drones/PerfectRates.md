@@ -102,9 +102,9 @@ RateFinder — это бесплатная программа для Windows, к
 
 (07:03) Then I got a pretty big normal flying range up until 300. Then I got a relatively small dead range. And of course, I got my max rate or my trick range up here at 700 still. So let's get back on the sim and try these out. 250, 700, and 0.7. And let's try flying like this. And I've never flown these rates before, so this is first time trying them.
 
-(07:28) And let's see how it feels. [screaming] Nice. It's a bit different than my rates, so it's going to take a couple minutes to get used to. >> [screaming] [screaming] >> And this This is what it should look like once you set up your rates correctly for your flying style. And there's no getting used to them first because they're just going to feel right for your flying style.
+(07:28) And let's see how it feels.  Nice. It's a bit different than my rates, so it's going to take a couple minutes to get used to. >>   >> And this This is what it should look like once you set up your rates correctly for your flying style. And there's no getting used to them first because they're just going to feel right for your flying style.
 
-(08:28) And another tool I added to the sim to find out if your rates are set up correctly is a little graph in the rates tab, which looks like this. And it basically shows you what part of your range you're using the most. And this is exactly what it looks like if your rates are set up correctly. >> [snorts] >> It's going to be a fairly even spread across the entire range.
+(08:28) And another tool I added to the sim to find out if your rates are set up correctly is a little graph in the rates tab, which looks like this. And it basically shows you what part of your range you're using the most. And this is exactly what it looks like if your rates are set up correctly.  It's going to be a fairly even spread across the entire range.
 
 (08:50) And here's the the dead range where I'm not really flying, which is good. And then here, a little tick where I'm doing my max flips and max rolls. But let me now show you what happens if you try to force a different flying style that is not really compatible with these rates. And to do that, I'm going to take these racing.
 
@@ -112,11 +112,11 @@ RateFinder — это бесплатная программа для Windows, к
 
 (09:44) And you can see I'm spending basically an equal amount of time over the entire range. So let's set up some racing rates that are more compatible with this flying style. So since I was spending basically an equal amount of time over the entire range, I'm just going to make my rates very linear. So let's try this. It's very linear.
 
-(10:02) It's going to be pretty twitchy in the middle, but I think that's fine for racing. And let's just uh try this 450 700.7. So, before on the freestyle rates, I got a time of 6.4, I think. And let's try on these rates. Oh, this is really twitchy. [screaming] On the on the second lap, I already matched my time. And I've never flown these race before, BY THE WAY.
+(10:02) It's going to be pretty twitchy in the middle, but I think that's fine for racing. And let's just uh try this 450 700.7. So, before on the freestyle rates, I got a time of 6.4, I think. And let's try on these rates. Oh, this is really twitchy.  On the on the second lap, I already matched my time. And I've never flown these race before, BY THE WAY.
 
-(10:43) >> [screaming] >> ALREADY BEAT IT BY 0.3. [screaming] [screaming] OH, it beat my PB. So, this is what the distribution is like. And uh but they are feeling super twitchy in the middle. So, I'm going to decrease this a little bit. Let's try 400. And I'm also not really using this max range too much. So, I'm going to decrease this a bit to 600. And let's try these instead.
+(10:43)  ALREADY BEAT IT BY 0.3.   OH, it beat my PB. So, this is what the distribution is like. And uh but they are feeling super twitchy in the middle. So, I'm going to decrease this a little bit. Let's try 400. And I'm also not really using this max range too much. So, I'm going to decrease this a bit to 600. And let's try these instead.
 
-(11:23) [screaming] Oh, beat my PB again. And I even beat Freddy. Nice. Let's look at the graph now. Okay. I'm hitting max range quite a bit, but I think that's fine. And this is looking a lot more flat now. And it also feels much better. So these are the two rates that I just set up. The light one is the racing rate and the dark one is the freestyle rate.
+(11:23)  Oh, beat my PB again. And I even beat Freddy. Nice. Let's look at the graph now. Okay. I'm hitting max range quite a bit, but I think that's fine. And this is looking a lot more flat now. And it also feels much better. So these are the two rates that I just set up. The light one is the racing rate and the dark one is the freestyle rate.
 
 (11:51) And as you can see, they are quite a bit different where the freestyle one has a lot more expo at the end because I need to get up to that trick range. And the freestyle one also is a lot more soft in the middle here. And the racing rate goes up pretty linear all the way up until the max range because when you're racing, you're not really doing tricks.
 
