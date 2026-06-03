@@ -45,3 +45,12 @@
 ## AG01 Nano CNC стики
 [Апгрейд Radiomaster Pocket: ставим AG01 Nano CNC стики. YouTube: DRONOFLY FPV]()
 
+## 3D печать
+
+[Radiomaster Pocket Gimbal Stick End](https://makerworld.com/en/models/1068865-radiomaster-pocket-gimbal-stick-end#profileId-1233293)
+
+![](3D-stick-end-1.jpeg)  
+![](3D-stick-end-2.jpeg)  
+
+[Скачать](Radiomaster+Pocket+Gimbal+Stick+End.zip)
+
