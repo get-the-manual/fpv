@@ -17,6 +17,7 @@
 [С чего начать fpv. YouTube: k_reel_t](https://www.youtube.com/shorts/sqpbRFGo5-8)   
 [С какого дрона начать FPV. YouTube: k_reel_t](https://www.youtube.com/shorts/zS5T5iKmh4A)   
 [Научиться летать на FPV и не разбить дрон. YouTube: k_reel_t](https://www.youtube.com/shorts/Vdr0CUVFkhY)  
+[Сколько стоит начать FPV - YouTube](https://www.youtube.com/shorts/4rQN7js924A?feature=share)  
 
 
 [Как собрать FPV комплект - пошаговая инструкция. Сравнение с Cetus X kit. YouTube: Петрокей](https://www.youtube.com/watch?v=G06lMb3Cs3A)  
