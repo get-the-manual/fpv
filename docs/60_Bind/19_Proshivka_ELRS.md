@@ -1,10 +1,11 @@
 # Прошивка ELRS приемника/передатчика
 
+[Полный гайд: 4 способа прошивки ELRS приемника. YouTube: DRONOFLY FPV](https://www.youtube.com/watch?v=meUq4ThdNGc)
+
 ## [ExpressLRS Configurator](https://github.com/ExpressLRS/ExpressLRS-Configurator/releases)
 
 ## [ExpressLRS Web Flasher](https://expresslrs.github.io/web-flasher/)
 
-[Полный гайд: 4 способа прошивки ELRS приемника. YouTube: DRONOFLY FPV](https://www.youtube.com/watch?v=meUq4ThdNGc)
 
 ## Прошивка внутренних передатчиков
 [expresslrs.ru](https://expresslrs.ru/Manuals/Firmware/Transmitters/Flashing-internal-tx/)    
