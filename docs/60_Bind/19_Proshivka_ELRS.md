@@ -1,5 +1,7 @@
 # Прошивка ELRS приемника/передатчика
 
+## [ExpressLRS Configurator](https://github.com/ExpressLRS/ExpressLRS-Configurator/releases)
+
 ## [ExpressLRS Web Flasher](https://expresslrs.github.io/web-flasher/)
 
 [Полный гайд: 4 способа прошивки ELRS приемника. YouTube: DRONOFLY FPV](https://www.youtube.com/watch?v=meUq4ThdNGc)
