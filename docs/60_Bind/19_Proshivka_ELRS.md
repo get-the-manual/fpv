@@ -7,8 +7,12 @@
 ## [ExpressLRS Web Flasher](https://expresslrs.github.io/web-flasher/)
 
 
-## Прошивка внутренних передатчиков
+## Прошивка внутренних передатчиков аппаратур
+
+[ExpressLRS - соединить Betafpv Cetus, LiteRadio3 RadioMaster tx16s. версии, совместимость, настройка. YouTube: Петрокей](https://youtu.be/cM5g9BC9sQY?t=456) начиная с 7:30  
+
 [expresslrs.ru](https://expresslrs.ru/Manuals/Firmware/Transmitters/Flashing-internal-tx/)    
+
 [Easiest Way To Flash and Bind ExpressLRS. YouTube: Joshua Bardwell](https://www.youtube.com/watch?v=MFFUsN9ZHSU)  
 
 ## Прошивка внешних передатчиков
