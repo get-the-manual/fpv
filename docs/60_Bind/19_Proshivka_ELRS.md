@@ -24,3 +24,5 @@
 
 Полный гайд на примере дронов от Happymodel:  
 [How to Flash ExpressLRS V3 to Happymodel Mobula6 Mobula7 Mobeetle (oscarliang.com)](https://oscarliang.com/how-to-flash-expresslrs-v3-to-happymodel-mobula6-mobula7-mobeetle/)  
+
+[Заглючив приймач ExpressLRS RX_ Що робити_ Прошиваємо через USB-TTL і BetaflightPassthrough. YouTube: Є-Дрон (укр.)](https://youtu.be/7UJabVje0YU)
