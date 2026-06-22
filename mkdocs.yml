@@ -147,6 +147,7 @@ nav:
         - Общее: 00_Drones/30_Camera/DJI_O4/10_Obshhee.md
         - Доработка: 00_Drones/30_Camera/DJI_O4/Dorabotka.md
         - Защита от воды: 00_Drones/30_Camera/DJI_O4/WaterProtect.md
+        - Настройки камеры: 00_Drones/30_Camera/DJI_O4/CameraSettings.md
     - Buzzer (пищалка): 00_Drones/30_Buzzer.md
     - Моторы:
       - Общее: 00_Drones/35_Motor/Obshhee.md
