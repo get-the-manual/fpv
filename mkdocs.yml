@@ -83,11 +83,14 @@ nav:
         - Mobeetle6: 00_Drones/01_Models/Happymodel/Mobeetle6.md
         - mobula6: 00_Drones/01_Models/Happymodel/mobula6.md
         - mobula7: 00_Drones/01_Models/Happymodel/mobula7.md
-      - HGLRC:
-        - Draknight 2-inch: 00_Drones/01_Models/HGLRC/Draknight_2-inch.md
       - GepRC:
         - DarkStar22 O4 Pro: 
           - Общее: 00_Drones/01_Models/GepRC/DarkStar22/General.md
+      - HGLRC:
+        - Draknight 2-inch: 00_Drones/01_Models/HGLRC/Draknight_2-inch.md
+      - FLYWOO:
+        - FlyWoo Firefly18 1S Nano Baby V3: 00_Drones/01_Models/FLYWOO/Firefly18_V3/General.md
+        - Доработка: 00_Drones/01_Models/FLYWOO/Firefly18_V3/Improvements.md
     - Сборка и пайка:
       - Общая информация: 00_Drones/10_Assemble_soldering/10_Obshhaya_informatsiya.md
       - Принадлежности: 00_Drones/10_Assemble_soldering/15_Prinadlezhnosti.md
