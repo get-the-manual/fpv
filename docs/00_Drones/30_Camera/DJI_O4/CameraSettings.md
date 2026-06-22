@@ -4,12 +4,14 @@
 
 Режим: Manual  
 ISO: как можно ниже (100)  
-Выдержка (Shutter): 120 для 60fps или 60 для 30fps
+EV: -0.3 to avoid overexposure
+Выдержка (Shutter) (FPS*2): 120 для 60fps или 60 для 30fps  
+Баланс белого в ручной режим: около 5600K для солнечной погоды и 6000–6500K  
 Aspect Ratio: 4:3  
 Resolution: 4K/60fps   
 FOV: Wide  
+Auto ISO Limit: 1600  
 Стабилизация: OFF  
-Баланс белого в ручной режим: около 5600K для солнечной погоды и 6000–6500K
 
 ## ND Filter
 
