@@ -89,8 +89,9 @@ nav:
       - HGLRC:
         - Draknight 2-inch: 00_Drones/01_Models/HGLRC/Draknight_2-inch.md
       - FLYWOO:
-        - FlyWoo Firefly18 1S Nano Baby V3: 00_Drones/01_Models/FLYWOO/Firefly18_V3/General.md
-        - Доработка: 00_Drones/01_Models/FLYWOO/Firefly18_V3/Improvements.md
+        - Firefly18 1S Nano Baby V3: 
+          - Общее: 00_Drones/01_Models/FLYWOO/Firefly18_V3/General.md
+          - Доработка: 00_Drones/01_Models/FLYWOO/Firefly18_V3/Improvements.md
     - Сборка и пайка:
       - Общая информация: 00_Drones/10_Assemble_soldering/10_Obshhaya_informatsiya.md
       - Принадлежности: 00_Drones/10_Assemble_soldering/15_Prinadlezhnosti.md
