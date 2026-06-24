@@ -4,6 +4,20 @@
 
 ![](FW_Wide_MainView.png)
 
+<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+
+<model-viewer
+  src="firefly18.glb"
+  alt="Firefly18 1S Nano Baby V3 O4"
+  camera-controls
+  auto-rotate
+  shadow-intensity="1"
+  ar
+  ar-modes="webxr scene-viewer quick-look"
+  style="width: 100%; max-width: 720px; height: 480px; background: #f4f4f4; border-radius: 12px;">
+</model-viewer>
+	
+
 ## Спецификация
 
 
