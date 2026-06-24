@@ -4,6 +4,8 @@
 
 ![](FW_Wide_MainView.png)
 
+## 3D модель
+
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 
 <model-viewer
@@ -35,7 +37,8 @@
 | Flight Times & throttle | Flywoo 1S 450mAh / 4m17s / 32% （Firefly18 O4）<br><br>Flywoo 1S 750mAh / 5m40s / 35% （Firefly18 O4）                                                        |
 
 
-## In the box : 
+## Комплектация
+
 1*  Firefly18 1S Nano Baby V3 O4 Tiny Drone  
 1* USB Data Cable For 04 Air Unit 90° Type C   
 1* 1S 450mah battery tpu mount  
