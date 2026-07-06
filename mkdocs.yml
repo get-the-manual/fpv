@@ -149,6 +149,7 @@ nav:
       - Конвертер analog в USB: 00_Drones/30_Camera/Konverter_analog_v_USB.md
       - DJI O4:
         - Общее: 00_Drones/30_Camera/DJI_O4/10_Obshhee.md
+        - DJI O4 Wide Air Unit: 00_Drones/30_Camera/DJI_O4/DJI_O4_Wide_Air_Unit.md
         - Доработка: 00_Drones/30_Camera/DJI_O4/Dorabotka.md
         - Защита от воды: 00_Drones/30_Camera/DJI_O4/WaterProtect.md
         - Настройки камеры: 00_Drones/30_Camera/DJI_O4/CameraSettings.md
