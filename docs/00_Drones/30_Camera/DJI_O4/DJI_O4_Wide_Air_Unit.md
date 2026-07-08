@@ -1,5 +1,7 @@
 # DJI O4 Wide Air Unit
 
+## [Стабилизация в Gyroflow](../../../Videomontazh/Gyroflow.md)
+
 ## Обзор
 [🔥NEW! DJI O4 Wide Air Unit_ MP66 or I469D_ FLYWOO Setup Guide - YouTube: flywoo fpv](https://youtu.be/KPUxIb2Qdfk)
 
