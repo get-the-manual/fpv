@@ -13,10 +13,6 @@
          <lastmod>2026-07-08</lastmod>
     </url>
     <url>
-         <loc>https://get-the-manual.github.io/fpv/Videomontazh/</loc>
-         <lastmod>2026-07-08</lastmod>
-    </url>
-    <url>
          <loc>https://get-the-manual.github.io/fpv/00_Drones/00_Obshhaya_informatsiya/</loc>
          <lastmod>2026-07-08</lastmod>
     </url>
@@ -786,6 +782,14 @@
     </url>
     <url>
          <loc>https://get-the-manual.github.io/fpv/60_Bind/70_Problemy/</loc>
+         <lastmod>2026-07-08</lastmod>
+    </url>
+    <url>
+         <loc>https://get-the-manual.github.io/fpv/Videomontazh/General/</loc>
+         <lastmod>2026-07-08</lastmod>
+    </url>
+    <url>
+         <loc>https://get-the-manual.github.io/fpv/Videomontazh/Gyroflow/</loc>
          <lastmod>2026-07-08</lastmod>
     </url>
 </urlset>
