@@ -18,5 +18,5 @@
 [RunCam 3D Mount for Thumb Pro 3 PCS на AliExpress.com](https://vi.aliexpress.com/item/1005004716364902.html)  
 ![](Thumb_3DMount.png)
 
-## [Стабилизация в Gyroflow](..\..\Videomontazh.md#Gyroflow)
+## [Стабилизация в Gyroflow](../../Videomontazh/Gyroflow.md)
 

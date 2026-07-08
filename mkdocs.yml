@@ -297,5 +297,6 @@ nav:
   - 3D модели:
     - Общее: 3D_models/General.md
     - Коробки для аккумуляторов: 3D_models/Battery_box.md
-  - Видеомонтаж: Videomontazh.md
+  - Видеомонтаж: Videomontazh/General.md
+    - Gyroflow: Videomontazh/Gyroflow.md
   - Мэмы: Memy.md
