@@ -2,6 +2,8 @@
 
 [Инструкции по DJI O4 Air Unit Series на сайте www.djifpv.ru](https://www.djifpv.ru/knowledge_base/dji_tutorials/)
 
+## [Стабилизация в Gyroflow](../../../Videomontazh/Gyroflow.md)
+
 ## Обзоры
 [ULTIMATE DJI 04 1s Whoop Build Guide (65mm, 75mm, and Meteor 75 Pro). YouTube: MoeFPV](https://www.youtube.com/watch?v=y0nmZ0B53to)
 
