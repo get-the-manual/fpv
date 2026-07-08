@@ -4,6 +4,9 @@
 
 [Gyroflow documentation](https://docs.gyroflow.xyz/app)  
 
+[Репозиторий с профилями линз](https://github.com/gyroflow/lens_profiles)  
+Профили из него подгружаются в окошке поиска самой программы
+
 
 Запускаем программу.
 
