@@ -51,6 +51,9 @@
 [Поширені проблеми керування FPV Дроном у новачків. YouTube: Є-Дрон](https://www.youtube.com/watch?v=3ZPLDRFWsD8)  
 [Техніка безпеки FPV. Як навчитись літати і зберегти пальці? (укр.) YouTube: Є-Дрон](https://www.youtube.com/watch?v=zq3tc3MRCeQ)  
 
+
+[Как научиться летать НАЗАД на FPV дроне (без лишних затрат на запчасти) (укр.). YouTube: SK PRODUCTION](https://youtu.be/sygTvpsifuE)
+
 ## FPV Школа от Zbestreview
 [Часть 1. Как научиться летать на FPV квадрокоптере.](https://www.youtube.com/watch?v=NXwCDb7t6ds)  
 [Часть 2. Флипы, Ролы, Хитрый ролл, Кубик рубика, Орбит](https://www.youtube.com/watch?v=kgTE2nS0oHU)  

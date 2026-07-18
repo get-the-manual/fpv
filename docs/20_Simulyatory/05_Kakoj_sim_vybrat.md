@@ -6,7 +6,9 @@
 - [Uncrashed](Uncrashed.md)  
 - [FPV LOGIC](FPV_LOGIC.md)  
 - [Velocidrone](Velocidrone.md)  
-- [The Zone](The_Zone.md)
+- [The Zone](The_Zone.md)  
+- [FPV.SkyDive](FPV_SkyDive.md) - бесплатный. [СТРИМ - ОБЗОР Orqa Fpv.SkyDive! YouTube: recopter](https://youtu.be/fcy4vS8Js7I)  
+- [pr0p](https://pr0p.dev/) - бесплатный. [СТРИМ - ОБЗОР pr0p! YouTube: recopter](https://youtu.be/pggdxQWiJSI)
 
 Для вупов:  
 - [Velocidrone](Velocidrone.md) с аддоном [Micro Class Quads](https://www.velocidrone.com/shop/premium_content/14)    
