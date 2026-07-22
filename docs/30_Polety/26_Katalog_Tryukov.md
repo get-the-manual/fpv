@@ -2,11 +2,14 @@
 
 ## Базовые трюки
 
-### Roll 180/360  
+### Surface Slalom
+![](Trick_SurfaceSlalom.gif)
 
-### Flip 180/360
+### Roll 360  
+Влево или вправо
 
-Делается движением Pitch на себя или от себя.
+### Flip 360
+Pitch на себя или от себя.
 
 ### Inverted Loopback
 
