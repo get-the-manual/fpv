@@ -23,3 +23,10 @@ Cимулятор поддерживает либо аппаратуру от DJ
 
 Аппаратура [Literadio 3 с последней прошивкой](https://betafpv.com/products/literadio-3-radio-transmitter) тоже может подключаться к симулятору (в ВЫКЛЮЧЕННОМ виде). Но для корректного управления кнопками нужно поменять местами кнопки SA и SC, как описано [в инструкции LiteRadio 3 User Manual V2-20250409.pdf](https://support.betafpv.com/hc/en-us/articles/4412082282009-Manual-for-LiteRadio-3) п.7.4
 
+## Полезные видео
+
+[DJI VIRTUAL FLIGHT FPV SIMULATOR APP _ REVIEW - YouTube: DM Productions](https://youtu.be/_XnZ1YCNdhk)  
+
+[DJI Virtual Flight Simulator Demo - How To Setup Controller & Goggles - YouTube: Air Photography](https://youtu.be/wyuHp0ZX9vw)
+
+[Connecting the DJI FPV Remote Controller 3 to the DJI Virtual Flight App (Android) - YouTube: Vernel FPV](https://youtu.be/s6dI1RkZD80)
