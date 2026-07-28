@@ -212,6 +212,7 @@ nav:
       - Озвучка низкого напряжения: 10_RC/Ozvuchka_nizkogo_napryazheniya.md
       - Таймер использования: 10_RC/EdgeTX_ArmTimer.md
     - FCC и LBT: 10_RC/27_FCC_i_LBT.md
+    - Эмуляция XBOX геймпада: 10_RC/RC-to-XBOX.md
   - Шлемы Очки:
     - Общее: 15_Goggles/10_Obshhee.md
     - Антенны на аналог: 15_Goggles/20_Antenny_na_analog.md
