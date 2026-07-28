@@ -88,7 +88,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#remote-controller-to-xbox-gamepad" class="md-skip">
+        <a href="#xbox" class="md-skip">
           Skip to content
         </a>
       
@@ -6072,23 +6072,6 @@
   
 </li>
         
-      </ul>
-    </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#3-sa-sb-windows-2-xbox-x-y" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        * 3-позиционные тумблеры (SA, SB и т.д.): В Windows они часто определяются как 2 отдельные кнопки (для крайнего верхнего и крайнего нижнего положений). Вы можете замапить верхнее положение на одну кнопку Xbox (например, X), а нижнее — на другую (например, Y).
-      
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="* 3-позиционные тумблеры (SA, SB и т.д.): В Windows они часто определяются как 2 отдельные кнопки (для крайнего верхнего и крайнего нижнего положений). Вы можете замапить верхнее положение на одну кнопку Xbox (например, X), а нижнее — на другую (например, Y).">
-      <ul class="md-nav__list">
-        
           <li class="md-nav__item">
   <a href="#_4" class="md-nav__link">
     <span class="md-ellipsis">
@@ -9166,23 +9149,6 @@
   
 </li>
         
-      </ul>
-    </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#3-sa-sb-windows-2-xbox-x-y" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        * 3-позиционные тумблеры (SA, SB и т.д.): В Windows они часто определяются как 2 отдельные кнопки (для крайнего верхнего и крайнего нижнего положений). Вы можете замапить верхнее положение на одну кнопку Xbox (например, X), а нижнее — на другую (например, Y).
-      
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="* 3-позиционные тумблеры (SA, SB и т.д.): В Windows они часто определяются как 2 отдельные кнопки (для крайнего верхнего и крайнего нижнего положений). Вы можете замапить верхнее положение на одну кнопку Xbox (например, X), а нижнее — на другую (например, Y).">
-      <ul class="md-nav__list">
-        
           <li class="md-nav__item">
   <a href="#_4" class="md-nav__link">
     <span class="md-ellipsis">
@@ -9232,25 +9198,27 @@
   
 
 
-<h1 id="remote-controller-to-xbox-gamepad">Remote controller to Xbox Gamepad</h1>
+<h1 id="xbox">Эмуляция XBOX геймпада</h1>
 <h2 id="_1">Введение</h2>
-<p>В данной инструкции будет описано, как можно использовать аппаратуру для FPV полетов, как Xbox Gamepad. это может быть удобным для использования в симуляторе <a href="https://www.dji.com/ee/downloads/products/dji-virtual-flight#other_software">DJI Virtual Flight for Windows</a>.<br />
-данный симулятор поддерживает либо аппаратуру от джай более старых версий либо xbox геймпад именно для этого нам и нужно произвести его эмуляцию.</p>
+<p>В данной инструкции будет описано, как можно использовать аппаратуру для FPV полетов, в качестве Xbox Gamepad. Это может быть удобным для использования в симуляторе <a href="https://www.dji.com/ee/downloads/products/dji-virtual-flight#other_software">DJI Virtual Flight for Windows</a>.<br />
+Данный симулятор поддерживает либо аппаратуру от DJI более старых версий либо, Xbox Gamepad. Именно по этому нам и нужно произвести его эмуляцию.</p>
 <h2 id="virtual-gamepad-emulation-driver">Virtual Gamepad Emulation Driver</h2>
 <p>Сначала нам нужно установить <a href="https://github.com/nefarius/ViGEmBus">Virtual Gamepad Emulation Driver (ViGEm Bus Driver)</a>.<br />
-нужно скачать последнюю версию инсталлятора со <a href="https://github.com/nefarius/ViGEmBus/releases#release-v1.22.0">страницы релизов</a>.<br />
+Скачать последнюю версию инсталлятора можно со <a href="https://github.com/nefarius/ViGEmBus/releases#release-v1.22.0">страницы релизов</a>.<br />
 Больше ничего делать не нужно.</p>
 <h2 id="universal-control-remapper">Universal Control Remapper</h2>
-<p>Universal Control Remapper Это программа, которая и будет преобразовывать сигналы со стиков и кнопок нашей аппаратуры в Xbox Gamepad.</p>
+<p>Universal Control Remapper - это программа, которая и будет эмулировать Xbox Gamepad и преобразовывать сигналы со стиков и кнопок нашей аппаратуры в стики и кнопки Xbox Gamepad.</p>
 <p>Главная страница программы <a href="https://github.com/Snoothy/UCR">находится здесь</a>.<br />
 Нужно скачать архив с программой со <a href="https://github.com/Snoothy/UCR/releases/tag/v0.9.0">страницы релизов</a> и распаковать в какую-нибудь папку.</p>
 <h3 id="_2">Создание профиля</h3>
-<p>Подключаем аппаратуру к компьютеру обычным образом, например через кабель и выбираем на экране аппаратуры <code>USB Joystick (HID)</code>.<br />
-Запускаем программу <code>UCR.exe</code>.<br />
+<p>Подключаем аппаратуру к компьютеру обычным образом, например через кабель и выбираем на экране аппаратуры <code>USB Joystick (HID)</code>.</p>
+<p>Запускаем программу <code>UCR.exe</code>.<br />
 В левой панели Profiles нажимаем кнопку с плюсиком, тем самым добавляя новый профиль.<br />
-Даем имя профайлу. В разделе <code>Input Devices</code> ставим галочку напротив нашей аппаратуры.<br />
-В панели Output Devices выбираем <code>ViGEm Xbox 360 Controller 1</code>. Симулятор DJI Virtual Flight ожидает именно геймпад Xbox. Номер (1, 2, 3 или 4) отвечает за то, какими по счёту игроком (слотом) будет эмулируемый контроллер. Для одного пульта выбираем самый первый слот — Controller 1.<br />
-Нажимаем кнопку Create. Откроется окно с редактированием плагинов.<br />
+Даем имя профилю.<br />
+В разделе <code>Input Devices</code> ставим галочку напротив нашей аппаратуры.<br />
+В панели Output Devices выбираем <code>ViGEm Xbox 360 Controller 1</code>. Симулятор DJI Virtual Flight ожидает именно геймпад Xbox.<br />
+Номер (1, 2, 3 или 4) отвечает за то, какими по счёту игроком (слотом) будет эмулируемый контроллер. Для одного пульта выбираем самый первый слот — Controller 1.<br />
+Нажимаем кнопку Create. Откроется окно с редактированием плагинов (пробросов каналов).<br />
 Нужно настроить **два плагина <code>Axes to Axes**</code> (по одному для каждого стика: один для левого, один для правого).</p>
 <hr />
 <h3 id="throttle-yaw">Настройка первого блока (Левый стик — Throttle / Yaw)</h3>
@@ -9260,82 +9228,72 @@
 <p>В левой колонке <strong>Plugins</strong> найдите плагин <strong><code>Axes to Axes</code></strong> и нажмите на знак <strong><code>+</code></strong> рядом с ним. Дайте имя этому плагину, например, <strong><code>Left Stick</code></strong>. Нажмите кнопку Accept.</p>
 </li>
 <li>
-<p><strong>В блоке Input (сверху):</strong>  </p>
-</li>
-<li><strong>X Axis:</strong> нажмите кнопку <strong><code>Click to bind</code></strong> и пошевелите <strong>левым стиком влево-вправо</strong> (Yaw). UCR сам перехватит нужную ось пульта. Скорее всего там появится надпись <code>Axes, RotationX</code>.  </li>
-<li>
-<p><strong>Y Axis:</strong> нажмите кнопку <strong><code>Click to bind</code></strong> и пошевелите <strong>левым стиком вверх-вниз</strong> (Throttle). Появится надпись <code>Axes, Z</code>.</p>
+<p>В разделе <strong>X Axis</strong> - <strong>Input</strong> нажмите кнопку <strong><code>Click to bind</code></strong> и пошевелите <strong>левым стиком влево-вправо</strong> (Yaw). UCR сам перехватит нужную ось пульта. Там появится надпись <code>Axes, RotationX</code>.  </p>
 </li>
 <li>
-<p><strong>В блоке Output (снизу, «Axes to Axes»):</strong>  </p>
+<p>В разделе <strong>Y Axis</strong> - <strong>Input</strong> нажмите кнопку <strong><code>Click to bind</code></strong> и пошевелите <strong>левым стиком вверх-вниз</strong> (Throttle). Появится надпись <code>Axes, Z</code>.</p>
 </li>
-<li><strong>X Axis Output:</strong> нажмите <strong><code>Click to bind</code></strong> и из появившегося списка Xbox выберите <strong><code>LS X</code></strong> (Left Stick X).  </li>
-<li><strong>Y Axis Output:</strong> нажмите <strong><code>Click to bind</code></strong> и выберите <strong><code>LS Y</code></strong> (Left Stick Y).</li>
+<li>
+<p>В разделе <strong>X Axis</strong> - <strong>Output</strong> (в нижней панели «Axes to Axes»): нажмите <strong><code>Click to bind</code></strong> и из появившегося списка Xbox выберите <strong><code>LS X</code></strong> (Left Stick X).</p>
+</li>
+<li>
+<p>В разделе <strong>Y Axis</strong> - <strong>Output</strong> нажмите <strong><code>Click to bind</code></strong> и выберите <strong><code>LS Y</code></strong> (Left Stick Y).</p>
+</li>
 </ol>
 <blockquote>
-<p><strong>Обратите внимание:</strong> Если в симуляторе газ будет работать наоборот (вверх = ноль, вниз = максимум), включите переключатель <strong><code>Invert Y</code></strong>.</p>
+<p><strong>Обратите внимание:</strong> Если в симуляторе газ или другой канал будет работать наоборот (вверх = ноль, вниз = максимум), включите переключатель <strong><code>Invert Y</code></strong>.</p>
 </blockquote>
 <hr />
 <h3 id="pitch-roll">Настройка второго блока (Правый стик — Pitch / Roll)</h3>
 <p>Правый стик отвечает за <strong>Тангаж (Pitch/Elevator)</strong> по вертикали и <strong>Крен (Roll/Aileron)</strong> по горизонтали. На геймпаде Xbox это <strong>Right Stick (RS)</strong>.</p>
 <ol>
-<li>В левой колонке <strong>Plugins</strong> найдите плагин <strong><code>Axes to Axes</code></strong> и нажмите на знак <strong><code>+</code></strong> рядом с ним. В правой части появится второй такой же блок.  </li>
-<li>Переименуйте его в <strong><code>Right Stick</code></strong>.  </li>
-<li><strong>В блоке Input (сверху):</strong>  </li>
-<li><strong>X Axis:</strong> нажмите <strong><code>Click to bind</code></strong> и пошевелите <strong>правым стиком влево-вправо</strong> (Roll). . Появится надпись <code>Axes, X</code>.  </li>
 <li>
-<p><strong>Y Axis:</strong> нажмите <strong><code>Click to bind</code></strong> и пошевелите <strong>правым стиком вверх-вниз</strong> (Pitch). . Появится надпись <code>Axes, Y</code>.</p>
+<p>В левой колонке <strong>Plugins</strong> найдите плагин <strong><code>Axes to Axes</code></strong> и нажмите на знак <strong><code>+</code></strong> рядом с ним. Дайте имя этому плагину, например, <strong><code>Right Stick</code></strong>. Нажмите кнопку Accept. В правой части появится второй такой же блок.</p>
 </li>
 <li>
-<p><strong>В блоке Output (снизу):</strong>  </p>
+<p>В разделе <strong>X Axis</strong> - <strong>Input</strong> нажмите кнопку <strong><code>Click to bind</code></strong> и пошевелите <strong>правым стиком влево-вправо</strong> (Roll). UCR сам перехватит нужную ось пульта. Там появится надпись `Axes, X``.  </p>
 </li>
-<li><strong>X Axis Output:</strong> нажмите <strong><code>Click to bind</code></strong> и выберите <strong><code>RS X</code></strong> (Right Stick X).  </li>
-<li><strong>Y Axis Output:</strong> нажмите <strong><code>Click to bind</code></strong> и выберите <strong><code>RS Y</code></strong> (Right Stick Y).</li>
+<li>
+<p>В разделе <strong>Y Axis</strong> - <strong>Input</strong> нажмите кнопку <strong><code>Click to bind</code></strong> и пошевелите <strong>правым стиком вверх-вниз</strong> (Pitch). Появится надпись <code>Axes, Y</code>.</p>
+</li>
+<li>
+<p>В разделе <strong>X Axis</strong> - <strong>Output</strong> (в нижней панели «Axes to Axes») нажмите <strong><code>Click to bind</code></strong> и из появившегося списка Xbox выберите <strong><code>RS X</code></strong> (Right Stick X).</p>
+</li>
+<li>
+<p>В разделе <strong>Y Axis</strong> - <strong>Output</strong> нажмите <strong><code>Click to bind</code></strong> и выберите <strong><code>RS Y</code></strong> (Right Stick Y).</p>
+</li>
 </ol>
 <hr />
 <h3 id="_3">Маппинг кнопок</h3>
 <p>Маппинг тумблеров и кнопок аппаратуры на кнопки Xbox (<strong>A, B, X, Y</strong>) в UCR делается через плагин <strong>Button to Button</strong>.</p>
 <ol>
 <li>
-<p>В левой колонке <strong>Plugins</strong> найдите категорию <strong>Button</strong> и нажмите <strong><code>+</code></strong> рядом с плагином <strong><code>Button to Button</code></strong>. В основной рабочей зоне появится новый блок.</p>
+<p>В левой колонке <strong>Plugins</strong> найдите категорию <strong>Button</strong> и нажмите <strong><code>+</code></strong> рядом с плагином <strong><code>Button to Button</code></strong>. Дайте название нужной кнопки — например, <strong><code>Button A</code></strong>. Нажмите кнопку Accept. В основной рабочей зоне появится новый блок.</p>
 </li>
 <li>
-<p>Переименуйте добавленный блок (значок карандаша) в название нужной кнопки — например, <strong><code>Button A</code></strong>.</p>
+<p>В разделе <strong>Button</strong> - <strong>Input</strong> нажмите синюю кнопку <strong><code>Click to bind</code></strong> и нажмите нужную физическую кнопку или переключите тумблер на пультике. UCR автоматически зафиксирует номер кнопки.</p>
 </li>
 <li>
-<p><strong>Input (Вход):</strong>  </p>
-</li>
-<li>Нажмите синюю кнопку <strong><code>Click to bind</code></strong> в секции Input.  </li>
-<li>
-<p>Нажмите нужную физическую кнопку или переключите тумблер на пультике (RadioMaster Pocket). UCR автоматически зафиксирует номер кнопки.</p>
+<p>В разделе <strong>Button</strong> - <strong>Output</strong> (в нижней панели «Button to Button») нажмите <strong><code>Click to bind</code></strong> и из появившегося списка кнопок Xbox выберите нужную кнопку, например <strong>Buttons</strong> - *<em><code>A</code></em>.</p>
 </li>
 <li>
-<p><strong>Output (Выход):</strong>  </p>
-</li>
-<li>Из выпадающего списка выберите ваш <strong><code>ViGEm Xbox 360 Controller 1</code></strong>.  </li>
-<li>
-<p>Нажмите <strong><code>Click to bind</code></strong> в секции Output и из появившегося списка кнопок Xbox выберите <strong><code>A</code></strong> (или <code>A Button</code>).</p>
-</li>
-<li>
-<p>Настройка остальных кнопок</p>
+<p>Настройка остальных кнопок делается так же</p>
 </li>
 </ol>
-<p>Повторите процесс для каждой нужной кнопки:</p>
-<ul>
-<li>Снова нажмите <strong><code>+</code></strong> напротив <strong><code>Button to Button</code></strong> в левом меню.  </li>
-<li>
-<p>Зазначьте следующий тумблер/кнопку пульта на <strong>B</strong>, <strong>X</strong> или <strong>Y</strong>.</p>
-</li>
-<li>
-<p>Полезные советы для радиоаппаратур:</p>
-</li>
-</ul>
-<h2 id="3-sa-sb-windows-2-xbox-x-y">* <strong>3-позиционные тумблеры (SA, SB и т.д.):</strong> В Windows они часто определяются как 2 отдельные кнопки (для крайнего верхнего и крайнего нижнего положений). Вы можете замапить верхнее положение на одну кнопку Xbox (например, <code>X</code>), а нижнее — на другую (например, <code>Y</code>).</h2>
+<blockquote>
+<p>Полезный совет:<br />
+<strong>2-х и 3-позиционные тумблеры (SA, SB и т.д.):</strong> в Windows часто определяются как RotationY или RotationZ. Их можно биндить через плагин <strong>Axis to Button</strong>  </p>
+</blockquote>
+<hr />
 <h3 id="_4">Запуск и сохранение</h3>
 <ol>
 <li>Нажмите на иконку <strong>дискеты (Save)</strong> в самом верхнем левом углу окна UCR.  </li>
-<li>Нажмите на значок <strong><code>Play</code> (треугольник)</strong> на верхней панели, чтобы активировать трансляцию. Перед нажатием на значок Play можно открыть панель управления, а в ней раздел <code>Setup USB Game Controllers</code>. В нем будет одно устройство. Это пульт. После нажатия кнопки play появится второе устройство <code>Controller (XBOX 360 for Windows)</code>. Можно открыть окно свойств данного контроля, подвигать стиками и увидеть, что они реагируют.  </li>
-<li>Не закрывая UCR, запускайте <strong>DJI Virtual Flight</strong>. Симулятор начнёт принимать команды с вашего RadioMaster Pocket как с оригинального геймпада Xbox.</li>
+<li>Нажмите на значок <strong><code>Play</code> (треугольник)</strong> на верхней панели, чтобы активировать трансляцию.   </li>
+</ol>
+<p>Перед нажатием на значок Play можно открыть панель управления, а в ней раздел <code>Setup USB Game Controllers</code>. В нем будет одно устройство. Это пульт. После нажатия кнопки Play появится второе устройство <code>Controller (XBOX 360 for Windows)</code>.<br />
+Можно открыть окно свойств данного контроля, подвигать стиками и увидеть, что они реагируют.  </p>
+<ol>
+<li>Не закрывая UCR, запускайте <strong>DJI Virtual Flight</strong>. Симулятор начнёт принимать команды с вашего пульта, как с оригинального геймпада Xbox.</li>
 </ol>
 
 
@@ -9359,7 +9317,7 @@
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="July 28, 2026 12:53:25 UTC">July 28, 2026</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="July 28, 2026 18:48:38 UTC">July 28, 2026</span>
   </span>
 
     
