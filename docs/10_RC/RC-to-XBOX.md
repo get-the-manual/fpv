@@ -10,10 +10,9 @@
 Скачать последнюю версию инсталлятора можно со [страницы релизов](https://github.com/nefarius/ViGEmBus/releases#release-v1.22.0).  
 Больше ничего делать не нужно.
 
-## Universal Control Remapper
+## [Universal Control Remapper (UCR)](https://github.com/Snoothy/UCR)
 Universal Control Remapper - это программа, которая и будет эмулировать Xbox Gamepad и преобразовывать сигналы со стиков и кнопок нашей аппаратуры в стики и кнопки Xbox Gamepad.
 
-Главная страница программы [находится здесь](https://github.com/Snoothy/UCR).  
 Нужно скачать архив с программой со [страницы релизов](https://github.com/Snoothy/UCR/releases/tag/v0.9.0) и распаковать в какую-нибудь папку.
 
 ### Создание профиля 
