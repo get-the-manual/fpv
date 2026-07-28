@@ -5,7 +5,7 @@
 [LiteRadio 3/2 SE | How to Calibrate Them on Simulator. YouTube:  
 BETAFPV Hobby](https://www.youtube.com/watch?v=J2UxT85Hepw)  
 
-[Налаштування графіки в Liftoff - причина втоми (укр.). YouTube: 
+[Налаштування графіки в Liftoff - причина втоми (укр.). YouTube:  
 FPV питаннячка](https://youtu.be/Aa3Ap678SYk)
 
 ## Мнение
