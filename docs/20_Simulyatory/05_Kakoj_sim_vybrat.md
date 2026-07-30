@@ -1,6 +1,12 @@
 ﻿# Какой симулятор выбрать
 
 ## Для компьютера
+
+### Бесплатные
+
+[Real Drone Simulator](Real_Drone_Simulator.md): один из лучших бесплатных симуляторов для компьютера с Windows.
+
+### Платные
 Для больших дронов:  
 - [Liftoff](Liftoff.md). Если собираешься покупать в Steam, лучше взять [Liftoff® Ultimate Collection](https://store.steampowered.com/bundle/24029/Liftoff_Ultimate_Collection/). В нее войдут все DLC и [Liftoff Micro Drones](Liftoff_Microdrones.md). То есть покроешь полеты на дронах всех размеров.     
 - [Uncrashed](Uncrashed.md)  
