@@ -2,7 +2,9 @@
 
 [Полный гайд: 4 способа прошивки ELRS приемника. YouTube: DRONOFLY FPV](https://www.youtube.com/watch?v=meUq4ThdNGc)
 
+## ELRS Mobile
 [Прошиваем ELRS ОФЛАЙН - YouTube: DRONOFLY FPV](https://youtu.be/0gXIiaazJME)  
+
 [Приложения в Google Play – ELRS Mobile](https://play.google.com/store/apps/details?id=io.datarx.elrsmobile)  
 [ELRS Mobile App - App Store](https://apps.apple.com/us/app/elrs-mobile/id6760490014)
 
