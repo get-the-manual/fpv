@@ -2,6 +2,11 @@
 [Страница на сайте производителя](https://betafpv.com/collections/meteor-series/products/meteor75-pro-brushless-whoop-quadcopter)  
 ![](Meteor75pro.png) 
 
+[Meteor75 Pro FPV Kit – BETAFPV](https://betafpv.com/products/meteor75-pro-fpv-kit)  
+
+[НАКОНЕЦ-ТО нормальный FPV-набор для новичка! BETAFPV Meteor75 Pro HD RTF - YouTube: 
+Петрокей](https://youtu.be/p2oJwgJsEk8)
+
 [METEOR 75 PRO МНЕНИЕ О ВУПЕ. YouTube: АквариуМИСТИКА FPV](https://www.youtube.com/watch?v=2zEOoNoXRAQ)  
 
 [Meteor75 Pro vs Air75: Which TinyWhoop is Right for You? YouTube: NordFPV](https://www.youtube.com/watch?v=sfPQj4Wa40Y)
