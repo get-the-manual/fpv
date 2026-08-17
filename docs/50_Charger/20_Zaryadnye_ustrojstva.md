@@ -66,13 +66,21 @@
 
 [3 причины не покупать HexaCharger. YouTube: DRONOFLY FPV](https://www.youtube.com/watch?v=8nezo9MKwLo)
 
-### Плата параллельной зарядки  HobbyFly Charging Board
+### Плата параллельной зарядки HobbyFly Charging Board
 ![](HobbyFly_ChargingBoard.png)  
 [1S LIPO Battery Balance Charging Board Plastic XT60 Input Balance Board 6 Port for PH2.0 BT2.0 / GNB27 1S FPV Tinywhoop](https://vi.aliexpress.com/item/1005005980558833.html)  
 
 [1S Lipo LiHv Batteries Series Charging Board, Storage Charge and Discharge 1S LiPo for Standard Lipo Balance Charger](https://www.amazon.com/HOBBYFLY-Batteries-Discharge-Connector-Compatible/dp/B0BR2DNYZZ)
 
-Опасность и особенности использования таких плат:  
+### Плата параллельной зарядки SkyRC 6-Port 1S Charging Hub
+
+![](SkyRC_1S_Charging_Hub.png)
+
+[На сайте производителя](https://www.skyrc.com/OSH)
+
+[Зарядить 1S без WhoopStor? Вот вариант - YouTube: DRONOFLY FPV](https://youtu.be/Nb6xjsdyYfA)
+
+### Опасность и особенности использования плат
 Категорически не рекомендуется ставить одновременно на зарядку батареи разной степени "уставшести". Есть шанс возникновения пожара. 
 
 Мнение одного из пользователей:
