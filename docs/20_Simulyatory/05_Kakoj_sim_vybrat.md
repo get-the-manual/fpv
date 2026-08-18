@@ -4,7 +4,14 @@
 
 ### Бесплатные
 
-[Real Drone Simulator](Real_Drone_Simulator.md): один из лучших бесплатных симуляторов для компьютера с Windows.
+- [FPV.SkyDive](FPV_SkyDive.md) - бесплатный. [СТРИМ - ОБЗОР Orqa Fpv.SkyDive! YouTube: recopter](https://youtu.be/fcy4vS8Js7I)  
+
+- [pr0p](https://pr0p.dev/) - бесплатный. [СТРИМ - ОБЗОР pr0p! YouTube: recopter](https://youtu.be/pggdxQWiJSI)  
+
+- [Real Drone Simulator](Real_Drone_Simulator.md): один из лучших бесплатных симуляторов для компьютера с Windows.
+
+[ЛУЧШИЙ БЕСПЛАТНЫЙ СИМУЛЯТОР СУЩЕСТВУЕТ - YouTube: recopter](https://youtu.be/NeJfB9v5h7Y)
+
 
 ### Платные
 Для больших дронов:  
@@ -13,8 +20,6 @@
 - [FPV LOGIC](FPV_LOGIC.md)  
 - [Velocidrone](Velocidrone.md)  
 - [The Zone](The_Zone.md)  
-- [FPV.SkyDive](FPV_SkyDive.md) - бесплатный. [СТРИМ - ОБЗОР Orqa Fpv.SkyDive! YouTube: recopter](https://youtu.be/fcy4vS8Js7I)  
-- [pr0p](https://pr0p.dev/) - бесплатный. [СТРИМ - ОБЗОР pr0p! YouTube: recopter](https://youtu.be/pggdxQWiJSI)
 
 Для вупов:  
 - [Velocidrone](Velocidrone.md) с аддоном [Micro Class Quads](https://www.velocidrone.com/shop/premium_content/14)    
