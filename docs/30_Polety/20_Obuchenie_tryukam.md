@@ -94,6 +94,7 @@ headmazta](https://www.youtube.com/watch?v=HbUVa1IUfFs)
 [Trippy Spin Tutorial (Inverted Orbit) - Understand The Trippy. YouTube: Grau](https://www.youtube.com/watch?v=-TxgEsk8T5I)  
 [I learned to trippy spin, and so can you. YouTube: AlexGHobby](https://www.youtube.com/watch?v=2cInhs27EXs)  
 [Actually understanding the Trippy Spin. YouTube: nils vo](https://www.youtube.com/watch?v=9jWCZihJgEg)  
+[T-Hobby FPV Freestyle Trick Tutorial_ Continuous Rolls_ Trippy Spin - YouTube: T-HOBBY FPV](https://youtu.be/-rIdmJD50Bk)  
 
 #### Juicy Flick
 [How To Juicy Flick an FPV Drone For Beginner and Advanced Pilots, An In-Depth Look](https://www.youtube.com/watch?v=tbem8fUPPxU)  
