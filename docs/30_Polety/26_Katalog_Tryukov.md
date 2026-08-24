@@ -98,7 +98,7 @@ Half roll, Flip 360, Half roll
 Yaw 360, Pitch от себя на 180, Roll 180.  
 ![](Trick_Inverse_HalfCube.gif)
 
-## Power Loop
+## Powerloop
 
 ### Вокруг горизонтальной балки  
 
@@ -121,6 +121,10 @@ Yaw 360, Pitch от себя на 180, Roll 180.
 ### Switchback
 
 ![](Trick_Switchback.gif)
+
+### Powerloop + rewind
+
+![](Trick_PowerLoopWithRewind.gif)
 
 ## Мост, столб
 
@@ -259,8 +263,13 @@ Pitch на себя на 180 (смотрим назад), Roll 360+180
 ### Trippy Spin (Inverted Orbit)
 ![](https://prowhooper.com/wp-content/uploads/2024/03/1000040862.gif)  
 
-Можно крутить не вокруг столба, а возле столба. Или ориентируясь на точке на потолке.  
-Или подлетев к углу здания возле угла
+Можно крутить не вокруг столба, а возле столба или подлетев к углу здания.  
+![](Trick_TrippySpinNearObject.gif)  
+
++ Rewind  
+![](Trick_TrippySpinNearObjetWithRewind.gif)  
+
+Или ориентируясь на точке на потолке.  
 
 ### Side Rewind
 ![](Trick_Side_Rewind.gif)
@@ -280,8 +289,9 @@ Pitch на себя на 180 (смотрим назад), Roll 360+180
 - Yaw 180 и дайв вниз  
 - Powerloop  
 
-От `dronarchy.fpv`  
-![](Trick_dronarchy_fpv_Stall.gif)
+- От `dronarchy.fpv`  
+![](Trick_dronarchy_fpv_StallYaw360.gif)  
+![](Trick_dronarchy_fpv_StallYoYo.gif)  
 
 ### Подъем с раскачкой
 
