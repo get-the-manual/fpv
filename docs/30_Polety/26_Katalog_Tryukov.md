@@ -126,6 +126,9 @@ Yaw 360, Pitch от себя на 180, Roll 180.
 
 ![](Trick_PowerLoopWithRewind.gif)
 
+### Cheeky Roll
+![](Trick_CheekyRoll.gif)
+
 ## Мост, столб
 
 ### Фокус на опоре/столбе
