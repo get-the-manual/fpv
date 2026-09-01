@@ -99,3 +99,5 @@
 
 
 ## [FPV 101: Drone School. YouTube: Drone Racing League](https://www.youtube.com/watch?v=NkyrESchTpA&list=PLj8kmZ6kpXqhaqvZMsj2_ibIkjMfACu7d)
+
+## [FPV для начинающих, плейлист от канала ИМПЕРАТОР ДРОНОВ](https://www.youtube.com/playlist?list=PLGxw5jmzBiFM)
