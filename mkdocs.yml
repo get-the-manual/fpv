@@ -163,6 +163,7 @@ nav:
       - Сравнение: 00_Drones/40_Prop/30_Sravnenie.md
     - Рамы:
       - Для 1S: 00_Drones/45_Frame/1S.md
+      - Ремонт: 00_Drones/45_Frame/Repair.md
     - ESC:
       - Общая информация: 00_Drones/50_ESC/General.md
     - Батареи: 00_Drones/Batarei.md
