@@ -11,6 +11,8 @@
 
 [Meteor75 Pro vs Air75: Which TinyWhoop is Right for You? YouTube: NordFPV](https://www.youtube.com/watch?v=sfPQj4Wa40Y)
 
+[Полёт на дальность на тинивупе. - YouTube: xFAIRx](https://youtu.be/vgi_RT1A7pQ)
+
 ## Bind
 Полетный контроллер имеет встроенный ELRS приемник подключен через `UART`.
 
