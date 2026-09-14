@@ -66,6 +66,17 @@
 
 [3 причины не покупать HexaCharger. YouTube: DRONOFLY FPV](https://www.youtube.com/watch?v=8nezo9MKwLo)
 
+### ToolkitRC H1
+
+Зарядка на 8(!) портов.  
+![](ToolkitRC-H1.png)
+
+[На сайте производителя](https://www.toolkitrc.com/h1/)
+
+**Внимание:**  
+В данной зарядке можно настраивать ток заряда от **0,5** ампера с шагом 0,1 ампера.  
+
+
 ### Плата параллельной зарядки HobbyFly Charging Board
 ![](HobbyFly_ChargingBoard.png)  
 [1S LIPO Battery Balance Charging Board Plastic XT60 Input Balance Board 6 Port for PH2.0 BT2.0 / GNB27 1S FPV Tinywhoop](https://vi.aliexpress.com/item/1005005980558833.html)  

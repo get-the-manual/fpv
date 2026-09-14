@@ -24,7 +24,6 @@
 <iframe src="https://www.youtube.com/embed/t9Nb8-qjZ3A"></iframe>
 
 [Как быстро и безопасно научиться летать на FPV дроне. Симуляторы. YouTube: SetUp](https://www.youtube.com/watch?v=WUCFuBNKXnM)  
-<iframe src="https://www.youtube.com/embed/WUCFuBNKXnM"></iframe>
 
 [Учимся летать на FPV. С чего начать. YouTube: Horizon](https://www.youtube.com/watch?v=fgZnj6Oskxk)
 
@@ -33,11 +32,6 @@
 [Вводный курс про БПЛА. YouTube: UAVProf](https://www.youtube.com/playlist?list=PL6YxO2VuFvNk9bkHpJ4YfjtvJd1rxacu0)
 
 [FPV Freestyle - 5 Mistakes To Avoid. YouTube: Patrick Watkins](https://www.youtube.com/watch?v=GZ-5h-h3zCs)  
-Кратко основное:  
-
-1. Практикуйтесь полетами в симуляторе. Хотя бы пару раз в неделю  
-2. Если есть несколько дронов, лучше пусть они будут с одинаковыми характеристиками   
-3. Используйте одинаковые рейты на всех своих дронах  
 
 [The Most Asked Questions in FPV. YouTube: Patrick Watkins](https://www.youtube.com/watch?v=sP33Q2p1TJw) 
   
@@ -51,6 +45,8 @@
 [Поширені проблеми керування FPV Дроном у новачків. YouTube: Є-Дрон](https://www.youtube.com/watch?v=3ZPLDRFWsD8)  
 [Техніка безпеки FPV. Як навчитись літати і зберегти пальці? (укр.) YouTube: Є-Дрон](https://www.youtube.com/watch?v=zq3tc3MRCeQ)  
 
+
+[YouTube канал `Багряний` с большим количеством видео (укр.)](https://www.youtube.com/@Bagrianyi_Kanal/)
 
 [Как научиться летать НАЗАД на FPV дроне (без лишних затрат на запчасти) (укр.). YouTube: SK PRODUCTION](https://youtu.be/sygTvpsifuE)
 
