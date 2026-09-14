@@ -24,6 +24,9 @@
 [XT30 Plug Pigtail Power Wire Cable 100F Capacitor](https://vi.aliexpress.com/item/4000156071382.html)  
 ![](XT30_withCapacitor.png)
 
+
+[Паяємо XT60 як професіонали! 🔥 Усі секрети та хитрощі - YouTube: VELAUTO](https://youtu.be/WGqV1vHzbNg)
+
 # Сигнальные коннекторы
 ![](Con_SignalConnectors.jpg)
 
