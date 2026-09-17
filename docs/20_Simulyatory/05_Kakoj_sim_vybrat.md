@@ -4,6 +4,14 @@
 
 ### Бесплатные
 
+- [Free Browser FPV Simulator _ Flight Division](https://www.flightdivision.com/) 
+Бесплатный симулятор прямо в браузере.  
+Есть уроки по обучению полетам.  
+Одна карта, но на ней есть все для фристайла и гонок. Можно гоняться за машинками и биться в манекены.  
+Можно настраивать характеристики дрона, рейты и камеру.  
+Есть таблица лидеров.   
+Вывод: Конечно это не полноценный симулятор, но попробовать свои силы вполне можно.
+
 - [FPV.SkyDive](FPV_SkyDive.md) - бесплатный. [СТРИМ - ОБЗОР Orqa Fpv.SkyDive! YouTube: recopter](https://youtu.be/fcy4vS8Js7I)  
 
 - [pr0p](https://pr0p.dev/) - бесплатный. [СТРИМ - ОБЗОР pr0p! YouTube: recopter](https://youtu.be/pggdxQWiJSI)  
