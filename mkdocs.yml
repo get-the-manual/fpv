@@ -178,6 +178,7 @@ nav:
     - Настройка рейтов по научному: 00_Drones/PerfectRates.md
     - LED: 00_Drones/LED.md
     - Охлаждение, обдув дрона: 00_Drones/Cooling.md
+    - Поиск дрона: 00_Drones/DroneSearch.md
   - Аппаратура(Пульты):
     - Общая информация: 10_RC/01_Obshhaya_informatsiya.md
     - Модели:
