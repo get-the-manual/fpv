@@ -42,6 +42,6 @@
 [FPV ШОЛОМ Eachine EV800D | Заміна батареї | РЕМОНТ НЕ ПИШЕ ВІДЕО ФПВ. YouTube:  
 DRONTOM (укр.)](https://www.youtube.com/watch?v=yacO0YyAjao)  
 
-[Разборка видеошлема Eachine EV800Dю YouTube: Деревенский Киберпанк](https://www.youtube.com/watch?v=-R8S4xmMZ9A)  
+[Разборка видеошлема Eachine EV800D. YouTube: Деревенский Киберпанк](https://www.youtube.com/watch?v=-R8S4xmMZ9A)  
 
 [Доработка чтобы питаться от внешнего акб. YouTube: Dron RC](https://www.youtube.com/watch?v=AX1V_Q4AeYE)  
