@@ -4,6 +4,11 @@
 
 ## Виды коннекторов
 ![](Antenna_Connectors.png)  
+
+SMA - RP-SMA  
+![](Antenna_ConnectorsSMA.jpg)  
+
+Другие  
 ![](Antenna_Connectors2.jpg)  
 
 ## Антенны с круговой поляризацией (Lollipop)

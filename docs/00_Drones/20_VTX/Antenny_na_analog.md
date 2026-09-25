@@ -4,6 +4,16 @@
 
 [Линейная поляризация и круговая, какая антенна лучше для квадрокоптера - Все о квадрокоптерах _ PROFPV.RU](https://profpv.ru/polyarizaciya-linejnaya-i-krugovaya/)
 
+## Виды коннекторов
+![](Antenna_Connectors.png)  
+
+SMA - RP-SMA   
+![](Antenna_ConnectorsSMA.jpg)  
+
+Другие  
+![](Antenna_Connectors2.jpg)  
+
+
 ## Диполь
 [5.8G 3DB UFL IPEX Omni Directional 70mm Brass Soft FPV Antenna for RC FPV](https://vi.aliexpress.com/item/1005005819625884.html)  
 ![](Antenna_Dipol_1.png)  
