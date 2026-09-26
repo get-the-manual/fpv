@@ -112,3 +112,8 @@
 [Лучшие мобильные FPV симуляторы 2025 — iOS и Android [Mobile FPV Sims]. YouTube: Anik FPV](https://www.youtube.com/watch?v=RVA7-tPs5rY)
 
 [FPV у твоєму смартфоні | Як підключитись до апаратури та який сим обрати? YouTube: Phoenix drones (укр.)](https://www.youtube.com/watch?v=o6ETQt9F9jI)
+
+
+## FPV дрон в игре [Bodycam](https://store.steampowered.com/app/2406770/Bodycam/)
+
+[Bodycam PRO FPV Tutorial (Setups & Tricks) - Dronarchy - YouTube](https://youtu.be/_uKgYhxVi-Q)
