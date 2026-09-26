@@ -50,14 +50,17 @@
 
 [Как научиться летать НАЗАД на FPV дроне (без лишних затрат на запчасти) (укр.). YouTube: SK PRODUCTION](https://youtu.be/sygTvpsifuE)
 
-## FPV Школа от Zbestreview
+
+## [Плейлист `FPV для начинающих` от `ИМПЕРАТОР ДРОНОВ`](https://www.youtube.com/playlist?list=PLGxw5jmzBiFM)
+
+## `FPV Школа` от `Zbestreview`
 [Часть 1. Как научиться летать на FPV квадрокоптере.](https://www.youtube.com/watch?v=NXwCDb7t6ds)  
 [Часть 2. Флипы, Ролы, Хитрый ролл, Кубик рубика, Орбит](https://www.youtube.com/watch?v=kgTE2nS0oHU)  
 [Часть 3. Повер луп, Дайв, Сплит-s, Inverted Yaw Spin](https://www.youtube.com/watch?v=zOsbUyZ0fKk)  
 [Часть 4. Полет задом! Гонки, двойной кубик рубика и т.д.](https://www.youtube.com/watch?v=knjYEKkeNkE)  
 [Практика FPV Freestyle! Diatone GT2, Foxeer Box](https://www.youtube.com/watch?v=KpC5n8-BzIc)  
 
-## Обучение от Joshua Bardwell
+## Обучение от `Joshua Bardwell`
 [Оригинальный плейлист с английской озвучкой](https://youtube.com/playlist?list=PLwoDb7WF6c8lCKhQOTy-Vb9LfW0VAIrTP&si=0SZZOEqDsY0uLuiz)  
 [Украинская озвучка от Джошуа Бардвелл UA](https://youtube.com/playlist?list=PLxSCIbfP-lXYcqGL1FTc9QYK_ypvFZj5o&si=w7udX6ylbwh4y3tC)
 
