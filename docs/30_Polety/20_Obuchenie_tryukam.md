@@ -105,7 +105,8 @@ headmazta](https://www.youtube.com/watch?v=HbUVa1IUfFs)
 [Apprends le Dolphin Dive - Fpv Freestyle. YouTube: Bard Fpv](https://www.youtube.com/watch?v=X3eSvNI12HE)  
 
 #### Barani
-[FPV Trick Tutorial - BARANI. YouTube: Patrick Watkins](https://www.youtube.com/watch?v=guEXMMV3TSo)
+[FPV Trick Tutorial - BARANI. YouTube: Patrick Watkins](https://www.youtube.com/watch?v=guEXMMV3TSo)  
+[How to Barani FPV Freestyle трюк Барані у фпв симуляторі - YouTube: Багряний](https://youtu.be/HL8u06ajCzU)
 
 #### Rubik's Cube
 [Як робити Rubik's Cube. YouTube: FlyingCat](https://www.youtube.com/shorts/Ioo8-RNfXy0)
