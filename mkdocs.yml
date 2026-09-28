@@ -213,6 +213,7 @@ nav:
       - Поиск дрона по RSSI: 10_RC/EdgeTX_DroneFinder.md
       - Озвучка низкого напряжения: 10_RC/Ozvuchka_nizkogo_napryazheniya.md
       - Таймер использования: 10_RC/EdgeTX_ArmTimer.md
+      - VB Telemetry for EdgeTX: 10_RC/VB_Telemetry_for_EdgeTX.md
     - FCC и LBT: 10_RC/27_FCC_i_LBT.md
     - Эмуляция XBOX геймпада: 10_RC/RC-to-XBOX.md
   - Шлемы Очки:
