@@ -4,6 +4,12 @@
 
 ### Бесплатные
 
+- [WebFPV, free FPV drone racing simulator in your browser](https://webfpv.org/)  
+Бесплатный симулятор прямо в браузере.  
+И здесь 65-й вуп и 5-ти дюймовый дрон. Много настроек.  
+Большое количество карт и построитель карт.  
+Физика более менее адекватная. 
+
 - [Free Browser FPV Simulator _ Flight Division](https://www.flightdivision.com/) 
 Бесплатный симулятор прямо в браузере.  
 Есть уроки по обучению полетам.  
