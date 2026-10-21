@@ -39,7 +39,7 @@
 - [Velocidrone](Velocidrone.md) с аддоном [Micro Class Quads](https://www.velocidrone.com/shop/premium_content/14)    
 - [Liftoff Micro Drones](Liftoff_Microdrones.md). Если собираешься покупать в Steam, лучше взять [Liftoff® Ultimate Collection](https://store.steampowered.com/bundle/24029/Liftoff_Ultimate_Collection/). В нее войдут все DLC и [Liftoff](Liftoff.md). То есть покроешь полеты на дронах всех размеров.  
 - [FPV LOGIC](FPV_LOGIC.md). В нем есть вупы.   
-- [Uncrashed](Uncrashed.md). Если купить в Steam, можно из Workshop скачать вупы.  
+- [Uncrashed](Uncrashed.md). В обновлении 3.0 появились три вупа, новая карта для вупов и несколько гоночных трасс    
 - [The Zone](The_Zone.md)
 
 
