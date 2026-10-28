@@ -16,6 +16,8 @@
 
 [Первый FPV-дрон, очки, аппаратура - с чего НАЧАТЬ?! (Полный Гайд для Новичков. YouTube: DRONOFLY FPV)](https://www.youtube.com/watch?v=OKOhqE8bt3Q)
 
+[Подробный гайд по FPV оборудованию - YouTube: Chief Fpv](https://youtu.be/2Im8zRogbVg)
+
 **shorts от [K_reel](https://www.youtube.com/@k_reel_t)**  
 [С чего начать fpv. YouTube: k_reel_t](https://www.youtube.com/shorts/sqpbRFGo5-8)   
 [С какого дрона начать FPV. YouTube: k_reel_t](https://www.youtube.com/shorts/zS5T5iKmh4A)   

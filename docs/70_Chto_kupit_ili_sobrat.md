@@ -1,5 +1,6 @@
 ﻿# Тема постоянных споров: с чего начинать новичку, что купить или собрать
 
+
 RTF набор или самосбор (кратко). Подготовлено @V8787
 ## Ready To Fly kit (RTF) наборы 
 Плюсы:  
@@ -11,6 +12,9 @@ RTF набор или самосбор (кратко). Подготовлено 
 - Зачастую ограниченный функционал
 
 ## Самостоятельная подборка FPV комплекта
+
+[Подробный гайд по FPV оборудованию - YouTube: Chief Fpv](https://youtu.be/2Im8zRogbVg)
+
 Отдельно покупается аппаратура(пульт), шлем, дрон, батареи, зарядное устройство к ним, зип.  
 Для работы потребуется комп или ноут, отвертки и паяльник.  
 Плюсы:  
@@ -67,14 +71,15 @@ RTF набор или самосбор (кратко). Подготовлено 
 
 ### Варианты FPV комплектов
 
-Начальный сетап на DJI цифре:  
-![](Basic_FPV_Setup_DJI.jpg)
+[Подробный гайд по FPV оборудованию 2026 - YouTube: Chief Fpv](https://youtu.be/2Im8zRogbVg)
+
+[Заход в FPV в 2025 для новичка (2 года опыта)| Flywoo Flytimes 85 2S O4Pro. YouTube: Alexander Goncharov](https://www.youtube.com/watch?v=-tH1bS7eAF4)
 
 [Как собрать FPV комплект - пошаговая инструкция. Сравнение с Cetus X kit. YouTube: Петрокей](https://www.youtube.com/watch?v=G06lMb3Cs3A)
 
 #### Мнение №1
  - аппаратура **Radiomaster Pocket ELRS FCC** версию,  
- - шлем можно и **BETAFPV VR03** взять как самый дешёвый, но можно и **Eachine ev800dm**, либо **Skyzone cobra** (тут по бюджету).  
+ - шлем можно и **BETAFPV VR03/VR4** взять как самый дешёвый, но можно и **Eachine ev800dm**, либо **Skyzone cobra** (тут по бюджету).  
  - дрон на аналоге(в описании написано, да и как правило большинство недорогих дронов на нем), с протоколом связи ELRS,  
  - батарейки смотри по дрону, его разъёмам и фото этих разъемов(может быть например 2s на одном разъёме а30-это надо брать 2s аккум с этим разьемом, может и на двух по 1s, например как на цетусе 2s на bt2 разьеме-подключаются две 1s батарейки.  
   
@@ -110,56 +115,6 @@ ELRS 2.4 - это популярный и распространенный фо�
 
 А если ты захочешь дрон с цифровой видеосистемой - тут сложнее. Под каждую видеосистему свои очки. Есть не то чтобы универсальные, но те которые подходят к разным видеосистемам. А есть такие, которые работали только со своим железом и все. Поэтому когда для себя решишь «хочу цифру» - нужно решить какую, и какие очки под нее покупать отдельно.
 
-#### Мнение пользователя Эдуард (turboeggs)
-Всё ниже актуально для вупов
-
-Бюджетный аналоговый заход это:  
-- 6к на vr03  
-- 8к на эир65  
-- 4к на pocket  
-- 2к на 5 аккумов  
-- 3к на whoopstor  
-= 23 килорубля
-
-нормальный заход в аналог это:  
-- 14к на cobra sd  
-- 8к на эир65  
-- 11к на boxer  
-- 2к на 5 аккумов  
-- 3к на whoopstor  
-= 38 килорублей
-
-бюджетный заход в цифру это:  
-- 16к на g n3  
-- 16к на эир65 с o4  
-- 4к на pocket  
-- 2к на 5 аккумов  
-- 3к на whoopstor  
-= 41 килорубль
-
-крутой заход в цифру это:  
-- 40к на g3  
-- 16к на эир65 с o4  
-- 11к на boxer  
-- 2к на 5 аккумов  
-- 3к на whoopstor  
-= 72 килорубля
-
-Расчеты можно перепроверить, глаз замыливается)
-
-## Варианты RTF наборов
-  
-[Cetus X FPV Kit](https://betafpv.com/collections/all-drone/products/cetus-x-fpv-kit)    
-![](./00_Drones/01_Models/Betafpv/10_Cetus_X/CetusXFpvKit.png)   
-Почитать [можно здесь](./00_Drones/01_Models/Betafpv/10_Cetus_X/10_Obshhee.md)
-
-[GEPRC TinyGO 4K FPV Whoop RTF](https://geprc.com/product/geprc-tinygo-4k-fpv-whoop-rtf/)  
-![](GEPRC_TinyGO_4K_RTF.png)  
-[Amazing FPV Drone all in one Kit for Beginners - GEPRC TinyGo Review. YouTube: CAPTAIN DRONE  
-](https://www.youtube.com/watch?v=UMm_j2-KR_I)
-
-[Sub250 Whoopfly16 RTF Combo](https://sub250.com/collections/new-arrival/products/whoopfly16-rtf-combo)
-
 ## Готовые дроны
 
 ### Для помещений (с дактами)
@@ -170,7 +125,6 @@ ELRS 2.4 - это популярный и распространенный фо�
 [Happymodel Mobeetle6](./00_Drones/01_Models/Happymodel/Mobeetle6.md)  
 
 ### Для улицы
-[BETAFPV Meteor85 (2022) (с дактами)](./00_Drones/01_Models/Betafpv/Meteor85/10_Obshhee.md)  
 [HGLRC Draknight 2-inch toothpick (без дактов)](./00_Drones/01_Models/HGLRC/Draknight_2-inch.md)  
 [Darwin Baby Ape Pro V2 FPV Drone 3-inch (без дактов)](./00_Drones/01_Models/DarwinFPV/BabyApe_Pro_V2.md)
 
@@ -196,69 +150,3 @@ ELRS 2.4 - это популярный и распространенный фо�
 - Камера C02 BetaFpv    
 - Моторы vci 0802 25000 kv   
 
-#### На базе рамы Meteor65
-- Полетный контроллер HappyModel Diamond F4 5 шт 1  
-- Камера CADDX Ant lite  
-- Моторы VCI Spark 0702 1S 25000KV  
-- Рама Meteor65  
-- Батки DOGCOM 320mAh 1S 
-
-### Для улицы
-
-#### На базе BETAFPV Meteor85
-- [Рама от BETAFPV Meteor 85](https://betafpv.com/products/meteor85-brushless-whoop-frame?variant=40024037654662)  
-- [Моторы BETAFPV 1103 11000KV-2S](https://betafpv.com/collections/motors/products/1103-brushless-motors?variant=14762596007980)  
-- [Полетный контроллер BETAFPV F4 1S 12A AIO SPI ELRS 2.4G](https://betafpv.com/products/f4-1s-12a-flight-controller)  
-- [Камера Caddx Ratel 2 Baby](https://caddxfpv.com/products/caddxfpv-baby-ratel2-analog-camera)  
-- [Видеопередатчик RUSH TINY TANK Nano VTX](https://rushfpv.net/products/tank-tiny-vtx)  
-- [Пропеллеры Gemfan 2015 2-Blade Propellers 4PCS (1.5mm Shaft)](https://betafpv.com/products/gemfan-2015-2-blade-propellers-4pcs-1-5mm-shaft)  
-- [Батарея LAVA 2S3S4S 450mAh 75C](https://betafpv.com/products/lava-2s-3s-4s-450mah-75c-battery-2pcs)  
-
-#### 2,5" чертолет от @Тимура
-- Speedybee f405 mini(лучше aio взять, этот полетник вообще запаска для трешки и с этой рамой не очень совместим)  
-- Моторы happymodel 1204 5000kv  
-- VTX hglrc zeus nano  
-- Курсовая камера caddx baby rattle 2  
-- Пишущая камера runcam thumb pro w  
-- Пропеллеры emax avan 2,5"(есть и на 2") или gemfan 2540   
-- Антенна rush cherry 2  
-- Приемник ELRS 2,4 jhemcu rx24t  
-- Рама eyas 100  
-- Кастомные подкладки под моторы, дабы их поднять над стаком  
-- Кастомная канопа 20х20, ибо с таким стаком туда вообще ничего другого либо не лезет  
-![](2.5inch_from_Timur.jpg)
-
-#### 2,5" дрон от @Соуп МакТаVиш
-AIO - Argus f722 aio 40a with shell  
-Motor - 1203 6500kv любые   
-Frame - Sologood Apex 2  
-VTX - Caddx Vista Nebula Pro Nano   
-RX - Radiomaster RP1  
-Пропы хз 
-
-#### На базе Cetus X от @Oriel120
-Сегодня я дозавершил сборку Cetus X, теперь он оснащен GPS (цифровая система и поисковая пищалка это было).  
-Вес немного увеличился, но ощущается легко.  
-Пропелеры больше 2.5".  
-Максимальная скорость превышает 80 км/ч.  
-Присутствует функция возврата домой, датчик высоты и другие полезные функции.
-
-От Cetus X использованы контроллер и моторы. Моторы припаять.  
-На контроллер припаял гнездо u.fl — там как раз есть отвод дорожек на месте выхода антенны ELRS. Вместо штатной антенны подключена Т-образная, расположенная спереди снизу, что заметно улучшает сигнал.
-
-VTX — Walksnail Mini 1S. Антенна — GEPRC Left, лёгкая и достаточно эффективная.  
-GPS — FlyfishRC M10 Mini: на установленном месте ловит более 14 спутников.  
-Пищалка — ViFly, выбрал самую лёгкую (2.5 г).  
-
-Настройки моторов не менял, просто установил последнюю прошивку с сайта. Нет блакбокса на контролере.  
-Рама — Darwin Tiny Ape 2.5 очень легкая.  
-Пропы — Gemfan 2512.  
-Разьем для батарей xt30.  И конденсатор.  
-Вес 67 грамм + вес батарей  
-![](Drone_Oriel120_1.jpg)  
-![](Drone_Oriel120_2.jpg)  
-![](Drone_Oriel120_3.jpg)  
-![](Drone_Oriel120_4.jpg)  
-
-## Видеообзоры и мнения
-[Заход в FPV в 2025 для новичка (2 года опыта)| Flywoo Flytimes 85 2S O4Pro. YouTube: Alexander Goncharov](https://www.youtube.com/watch?v=-tH1bS7eAF4)
