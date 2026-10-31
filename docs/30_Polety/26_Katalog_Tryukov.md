@@ -5,8 +5,18 @@
 ### Surface Slalom
 ![](Trick_SurfaceSlalom.gif)
 
+### Змейка (Snake)
+![](Trick_Snake.gif)  
+Источник: [3 Simulator Exercises That Will Change How You Fly FPV - YouTube: Hucubama](https://youtu.be/25C5Fwplf-k)
+
+
 ### Roll 360  
 Влево или вправо
+
+### Змейка с роллом (Snake with Barel roll)
+![](Trick_SnakeWithBarelRoll.gif)  
+Источник: [3 Simulator Exercises That Will Change How You Fly FPV - YouTube: Hucubama](https://youtu.be/25C5Fwplf-k)
+
 
 ### Flip 360
 Pitch на себя или от себя.
@@ -228,7 +238,10 @@ Pitch на себя на 180 (смотрим назад), Roll 360+180
 ## У столба
 
 ### Orbit
-Орбита, это когда мы облетаем столб по кругу не теряя его из вида. Столб можно держать:  
+Орбита, это когда мы облетаем столб по кругу не теряя его из вида.  
+![](Trick_Orbit.gif)
+
+Столб можно держать:  
 
 - В центре экрана.  
 - ближе к левому или правому краю. Причем если летим по часовой стрелке и столб правее, это просто `Orbit`. Если столб левее центра, это называется `Reverse Orbit`. При Reverse Orbit дрон сильнее кренится под углом к столбу.
