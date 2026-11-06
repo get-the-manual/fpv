@@ -33,6 +33,8 @@
 
 [ЛУЧШИЙ БЕСПЛАТНЫЙ СИМУЛЯТОР СУЩЕСТВУЕТ - YouTube: recopter](https://youtu.be/NeJfB9v5h7Y)
 
+[StickTime - симулятор на экране контроллера с прошивкой EdgeTX](https://github.com/juricabi/sticktime)
+
 
 ### Платные
 Для больших дронов:  
