@@ -35,3 +35,7 @@
 
 ## [EdgeTX Quad telemetry dashboard](https://github.com/alexey-gamov/opentx-quad-telemetry)
 ![](EdgeTX_Quad_telemetry_dashboard.png)
+
+## [Yaapu Telemetry Script and Widget](https://github.com/yaapu/FrskyTelemetryScript)
+
+## [Yaapu OpenTX/EdgeTX Mapping Widget](https://github.com/yaapu/HorusMappingWidget)
