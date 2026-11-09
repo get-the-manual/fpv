@@ -1886,6 +1886,34 @@
 
               
             
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../01_Models/1S-long-range/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Долголет на 1S
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
           </ul>
         </nav>
       
@@ -4012,10 +4040,10 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#betafpv-meteor65-pro" class="md-nav__link">
+  <a href="#bz" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Подключение к BETAFPV Meteor65 Pro
+        Подключение если нет отдельного контакта BZ
       
     </span>
   </a>
@@ -9319,10 +9347,10 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#betafpv-meteor65-pro" class="md-nav__link">
+  <a href="#bz" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Подключение к BETAFPV Meteor65 Pro
+        Подключение если нет отдельного контакта BZ
       
     </span>
   </a>
@@ -9415,12 +9443,24 @@
 <h3 id="betafpv-air65">Подключение к BETAFPV Air65</h3>
 <p>Просто напаиваем на контакты полетника BZ+ и BZ-. Сразу начинает работать.<br />
 <img alt="" src="../Buzzer_TMB09A05_Air65.png" /></p>
-<h3 id="betafpv-meteor65-pro">Подключение к BETAFPV Meteor65 Pro</h3>
-<p>На полетнике (кресте) нет выводов на бипер. Можно подключить на один из RX UART2 выходов, но через транзистор. Потом вывод будет переназначен на BEEPER ресурс:  </p>
-<pre><code>resource SERIAL_RX 2 none  
-resource BEEPER 1 A03  
+<h3 id="bz">Подключение если нет отдельного контакта BZ</h3>
+<p>Если есть свободные UART порты, можно переназначить ресурсы</p>
+<p>Проще всего подключать пищалку со встроенным драйвером, то есть со встроенной схемой управления (например, TuneRC Buzzer, он подключается к любому свободному пину и не требует PWM-сигнала, только вкл/выкл).  </p>
+<p>Подключение:<br />
+5V контроллера → красный провод зуммера<br />
+GND контроллера → чёрный провод зуммера<br />
+Свободный пин (например, RX2 или TX2) → сигнальный провод зуммера  </p>
+<p>Настройка в Betaflight CLI:<br />
+Подключитесь к Betaflight Configurator, перейдите на вкладку CLI<br />
+Введите resource и найдите, к какому пину MCU привязан выбранный порт (например, для RX2 это может быть A10 или другой — зависит от распиновки)  </p>
+<p>Освободите порт и назначьте его как BEEPER:</p>
+<pre><code>resource SERIAL_RX 2 NONE
+resource BEEPER 1 A10
 save
 </code></pre>
+<p>(Замените A10 на актуальный пин из вывода resource, а SERIAL_RX 2 — на ту функцию, которая привязана к выбранному пину)<br />
+После перезагрузки зуммер заработает со стандартными сигналами Betaflight (низкий заряд батареи, потеря связи и т. д.)</p>
+<p>Если драйвера нет, то можно подключить через транзистор.</p>
 <p>В качестве транзистора можно взять один из вариантов:<br />
 - Mosfet: BSS138 (SMD) / 2N7002 (SMD)<br />
 - Обычный корпус: BS170 / 2N7000  </p>
@@ -9449,7 +9489,7 @@ save
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="May 7, 2026 14:59:53 UTC">May 7, 2026</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="November 9, 2026 19:23:18 UTC">November 9, 2026</span>
   </span>
 
     
