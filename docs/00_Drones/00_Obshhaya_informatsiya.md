@@ -77,3 +77,5 @@
 
 [Сравнительный тест моторов, батарей, пропеллеров от AOS RC](https://www.aos-rc.com/aos-labs)  
 
+[RC Log Viewer — EdgeTX & Betaflight_iNAV Blackbox in 3D](https://www.narenana.com/log-viewer/)
+

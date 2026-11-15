@@ -142,4 +142,6 @@
 Чтобы сбросить этот таймер надо на этом экране нажать и подержать колесико
 
 
-## Полезные скрипты
+## Полезные ссылки и скрипты
+[RC Log Viewer — EdgeTX & Betaflight_iNAV Blackbox in 3D](https://www.narenana.com/log-viewer/)
+
