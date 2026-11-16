@@ -223,6 +223,9 @@ Pitch на себя на 180 (смотрим назад), Roll 360+180
 ![](https://prowhooper.com/wp-content/uploads/2024/03/1000040880.gif)
 
 ### Cinnamon Roll
+Орбита с контролем газа  
+![](Trick_CinnamonRoll.gif)  
+
 ![](https://prowhooper.com/wp-content/uploads/2024/02/1000039099.gif)  
 
 ### Burrito Roll
