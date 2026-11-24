@@ -1,8 +1,7 @@
 {
   "profiles": {
     "NameTransformer": {
-      "commandName": "Project",
-      "commandLineArgs": "C:\\dev\\fpv\\docs\\00_Дроны(Квадрокоптеры)"
+      "commandName": "Project"
     }
   }
 }
