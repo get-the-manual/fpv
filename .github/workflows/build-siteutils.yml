@@ -4,9 +4,15 @@ on:
   push:
     branches:
       - '**'
+    paths:
+      - 'SiteUtils/**'
+      - '.github/workflows/build-siteutils.yml'
   pull_request:
     branches:
       - '**'
+    paths:
+      - 'SiteUtils/**'
+      - '.github/workflows/build-siteutils.yml'
 
 jobs:
   build:
@@ -30,5 +36,5 @@ jobs:
     - name: Test run BuildNavigation
       run: dotnet run --project SiteUtils/BuildNavigation/BuildNavigation.csproj --configuration Release --no-build
       
-    - name: Test run NameTransformer (help)
-      run: dotnet run --project SiteUtils/NameTransformer/NameTransformer.csproj --configuration Release --no-build || true
+    - name: Test run NameTransformer (no-op on a Latin name)
+      run: dotnet run --project SiteUtils/NameTransformer/NameTransformer.csproj --configuration Release --no-build -- docs/index.md

@@ -180,7 +180,7 @@ nav:
     - LED: 00_Drones/LED.md
     - Охлаждение, обдув дрона: 00_Drones/Cooling.md
     - Поиск дрона: 00_Drones/DroneSearch.md
-  - Аппаратура(Пульты):
+  - Аппаратура (Пульты):
     - Общая информация: 10_RC/01_Obshhaya_informatsiya.md
     - Модели:
       - Radiomaster:
@@ -195,8 +195,9 @@ nav:
           - Общая информация: 10_RC/10_Modeli/10_Radiomaster/20_Boxer/01_Obshhaya_informatsiya.md
         - T8L:
           - Общая информация: 10_RC/10_Modeli/10_Radiomaster/T8L/01_General.md
-        - Jumper T14:
-          - Общая информация: 10_RC/10_Modeli/10_Radiomaster/Jumper_T14/01_Obshhaya_informatsiya.md
+      - Jumper:
+        - T14:
+          - Общая информация: 10_RC/10_Modeli/20_Jumper/T14/01_Obshhaya_informatsiya.md
       - Betafpv:
         - LiteRadio:
           - Literadio2 3: 10_RC/10_Modeli/30_Betafpv/LiteRadio/01_Literadio2_3.md
@@ -277,7 +278,7 @@ nav:
     - Стили Freestyle: 30_Polety/Stili_Freestyle.md
     - Freestyle в помещении: 30_Polety/Freestyle_v_pomeshhenii.md
   - Зарядные устройства:
-    - Общая информация: 50_Charger/05_Obshhaya informatsiya.md
+    - Общая информация: 50_Charger/05_Obshhaya_informatsiya.md
     - Зарядные устройства: 50_Charger/20_Zaryadnye_ustrojstva.md
     - Зарядка BETAFPV: 50_Charger/30_Zaryadka_BetaFPV.md
   - Аксессуары:
@@ -308,4 +309,4 @@ nav:
   - Видеомонтаж: 
     - Общее: Videomontazh/General.md
     - Gyroflow: Videomontazh/Gyroflow.md
-  - Мэмы: Memy.md
+  - Мемы: Memy.md
