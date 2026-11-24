@@ -4,7 +4,8 @@ namespace NameTransformer;
 
 public static class CyrillicTransliterator
 {
-    // ISO 9 (GOST 7.79 System A) transliteration mapping
+    // Project-specific ASCII transliteration (not a formal standard).
+    // Existing file names in docs/ depend on it, so do not change the mapping.
     private static readonly Dictionary<char, string> TransliterationMap = new()
     {
         // Uppercase

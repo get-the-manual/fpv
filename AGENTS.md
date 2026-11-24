@@ -1,169 +1,106 @@
-# Copilot instructions for FPV Documentation Repository
+# Agent instructions for the FPV knowledge base
 
-## Repository Purpose
-This repository hosts a comprehensive knowledge base about FPV (First Person View) drones, published at https://get-the-manual.github.io/fpv/. The content is primarily in Russian and covers topics for beginners and enthusiasts in the FPV drone hobby.
+## Repository
 
-## Project Structure
+- A knowledge base about FPV drones, written in Russian. Published at https://get-the-manual.github.io/fpv/.
+- Pages are Markdown files in `docs/`. The site is built with MkDocs + Material (`mkdocs.yml`).
+- The `build-site.yml` workflow builds the site with `mkdocs gh-deploy --force --strict` on every push to `main` and publishes it to the `gh-pages` branch. Never edit `gh-pages` by hand.
+- `--strict` turns every MkDocs warning into a failure: a broken relative link or a bad `nav:` path stops the deployment.
+- `SiteUtils/` holds small .NET 9 helper tools (see the last section).
 
-### Documentation (`docs/`)
-- Main content directory containing all documentation in Markdown format
-- Organized hierarchically by topic (drones, controllers, goggles, simulators, flight techniques, etc.)
-- Primarily Russian language content with some English terms
-- Uses MkDocs with Material theme for site generation
-- Images are stored alongside markdown files
+## Content rules
 
-### Site Utilities (`SiteUtils/`)
-Two .NET 9 console applications for maintaining the documentation:
+### Files and folders
 
-1. **BuildNavigation** - Legacy one-off tool. It was used to create the initial navigation section for `mkdocs.yml` from the `docs/` folder structure. Do not run it: it replaces the whole `nav:` section and loses the hand-written Russian titles
-2. **NameTransformer** - Transliterates Cyrillic file/folder names to Latin characters and updates all references
+- Use only Latin letters, digits, `_`, `-` and `.` in file and folder names: English words or transliterated Russian (`Obshhaya_informatsiya.md`). No spaces, no Cyrillic. Use NameTransformer to transliterate (see below).
+- Use a numeric prefix (`10_`, `20_`) when the order inside a folder matters. Do not give two sibling folders the same number.
+- One topic per page. Put images and other files for a page in the same folder as the page.
 
-## Documentation Guidelines
+### Navigation
 
-### Content Structure
-- Use descriptive folder and file names
-- Prefix with numbers for ordering (e.g., `00_`, `10_`, `20_`)
-- Use underscores instead of spaces in file/folder names
-- Keep one topic per markdown file
-- Store images in the same directory as the markdown file
+- The `nav:` section of `mkdocs.yml` is maintained by hand. Titles are in Russian and differ from file names.
+- When you add, move or rename a page, update `nav:` yourself. Keep the order of sections in line with the folder numbers.
+- Never run BuildNavigation: it rewrites the whole `nav:` section and loses the Russian titles.
 
-### Markdown Conventions
-- Use Markdown standard formatting
-- Include descriptive headers (H1 for page title, H2-H3 for sections)
-- Use relative paths for images: `![](image.png)`
-- Include links to external resources (videos, articles, product pages)
-- Keep language consistent (primarily Russian)
+### Page format
 
-### When Modifying Documentation
-- After adding/renaming/moving files, update the `nav:` section of `mkdocs.yml` by hand (Russian titles, matching paths)
-- Use NameTransformer when transliterating Cyrillic names to ensure all references are updated
-- Verify links still work after structural changes
+- Start every page with one H1 (`# Title`). Use H2/H3 for sections.
+- Inside a paragraph, a line break is two spaces at the end of the line (MD009 is disabled in `.markdownlint.json` for this). `docs/FixMarkdownLineBreaks.ps1` adds the missing trailing spaces.
+- Video links follow the pattern `[Video title. YouTube: Channel name](url)`.
+- Product pages usually have a `[На сайте производителя](url)` link and a product image.
 
-## C# SiteUtils Development
+### Links
 
-### General Guidelines
-- Target framework: .NET 9
-- Follow SOLID principles
-- Keep each utility focused on a single responsibility
-- Use console applications for automation tasks
+- Link to other pages with a relative path to the `.md` file, for example `[текст](../20_VTX/OSD.md)`. MkDocs checks these links.
+- Encode spaces in link targets as `%20`, or better, do not create files with spaces.
+- Cross-page anchors use mkdocs-autorefs: define an anchor with `[](){#anchor_id}` and link to it with `[текст][anchor_id]`.
+- MkDocs does not rewrite paths inside raw HTML (for example `<model-viewer src="...">`). On the site such a path resolves from the page URL (`.../Page/`), not from the folder of the `.md` file.
+- When two pages cover related topics, link them both ways.
 
-### Code Style
-- Four-space indentation
-- Use `namespace` blocks (no file-scoped namespaces)
-- Place `using` directives at the top of files
-- Use `var` for local variable declarations
-- One class per file, file name matches class name
-- Use static classes for utility functions
-- Keep code buildable and compile-ready
+### Facts and sources
 
-### Naming Conventions
-- PascalCase for class names, methods, and properties
-- camelCase for local variables and parameters
-- Descriptive names that reflect purpose
+- Check technical facts against an official source (Betaflight, ExpressLRS, EdgeTX docs, firmware source code, the manufacturer's site). Add the link.
+- Say which firmware version the values apply to. Parameters change between versions (for example, Betaflight Anti-Gravity changed in 4.3 and 4.4).
+- Do not paste unchecked AI-generated text. Remove tracking parameters such as `utm_source=chatgpt.com` and placeholder links.
+- Write in Russian with correct grammar. Keep English for product names, parameter names and UI labels.
 
-### Error Handling
-- Validate inputs and provide clear error messages
-- Use `Console.WriteLine` for user feedback
-- Return appropriate exit codes (0 for success, 1 for errors)
+### Media and large files
 
-### File Operations
-- Use `Path.Combine` for path construction
-- Use `Path.GetRelativePath` for relative paths
-- Normalize path separators (`Replace("\\", "/")` for cross-platform compatibility)
-- Find repository root by looking for `.git` folder
+- Keep images reasonably small for the web.
+- Do not add large videos or GIFs to the repository until issue #16 (Git LFS or external hosting) is resolved. Link to YouTube or similar instead.
+- `.gitattributes` normalizes line endings and marks media formats as binary. Do not convert line endings by hand.
 
-### Patterns to Follow
-- See `PathHelper.cs` for repository root detection
-- See `NavigationStructureBuilder.cs` for recursive directory traversal
-- See `CyrillicTransliterator.cs` for character mapping with dictionaries
-- Use regular expressions for pattern matching (e.g., `LeadingNumbersRegex`)
+## Workflow
 
-### What NOT to Change
-- Existing tool behavior and output formats
-- MkDocs configuration structure
-- Transliteration mapping (ISO 9 / GOST 7.79 System A)
+### Add or change a page
 
-## Build and Test
+1. Create or edit the `.md` file in the right `docs/` folder.
+2. Add or update its entry in `nav:` in `mkdocs.yml`.
+3. Build the site in strict mode (see below) and fix every warning.
+4. Commit the page, its assets and `mkdocs.yml` together.
 
-### Building SiteUtils
+### Move or rename files
+
+1. Move or rename the files (`git mv`).
+2. Update every relative link that points to them, in all pages, and the paths in `nav:`.
+3. Build in strict mode.
+
+Moving a page changes its URL on the site; external links to the old URL break. Do it only when needed.
+
+### Check the build locally
+
 ```bash
-cd SiteUtils
-dotnet build
-```
-
-### Running Tools
-```bash
-# From repository root
-dotnet run --project SiteUtils/NameTransformer/NameTransformer.csproj -- <path>
-```
-
-### Testing Documentation Site
-The site is built and deployed by the `build-site.yml` workflow on every push to `main`. A local preview is optional:
-```bash
-# Install MkDocs dependencies (the same packages as in build-site.yml)
 pip install mkdocs-material mkdocs-autorefs mkdocs-git-revision-date-localized-plugin
-
-# Serve locally
-mkdocs serve
+mkdocs build --strict
 ```
 
-## Repository Maintenance
+The git-revision-date plugin warns about moved files until the move is committed. A strict build of uncommitted moves can fail only for that reason.
 
-### When Adding New Documentation
-1. Create markdown file in appropriate `docs/` subdirectory
-2. Add the page to the `nav:` section of `mkdocs.yml` by hand
-3. Optionally preview with `mkdocs serve`
-4. Commit both the new file and updated `mkdocs.yml`
+## SiteUtils (C#)
 
-### When Modifying File Structure
-1. Move/rename files as needed
-2. Update the paths in the `nav:` section of `mkdocs.yml` by hand
-3. If transliterating Cyrillic names, use NameTransformer
-4. Verify all links work
-5. Commit all changes
+- **NameTransformer** transliterates the name of one file or folder inside `docs/` and renames it. Then it replaces the old name with the new name in `mkdocs.yml` and in all `.md` files. The replacement is plain text, so review the diff.
 
-### Git Workflow
-- The repository uses GitHub Pages for deployment
-- CI/CD workflows are in `.github/workflows/`
-- `build-site.yml` - Builds and deploys the MkDocs site
-- `build-siteutils.yml` - Builds the C# utilities
+  ```bash
+  # from the repository root
+  dotnet run --project SiteUtils/NameTransformer/NameTransformer.csproj -- docs/path/to/Имя_файла.md
+  ```
 
-## Special Considerations
+  The mapping is a project-specific scheme, not a formal standard: `ё→yo`, `ж→zh`, `й→j`, `х→h`, `ц→ts`, `ч→ch`, `ш→sh`, `щ→shh`, `ы→y`, `э→e`, `ю→yu`, `я→ya`, `ъ`/`ь` dropped. Do not change it: existing file names depend on it.
+- **BuildNavigation** is a legacy one-off tool. It is kept only as a buildable project. Do not run it (see Navigation).
+- `build-siteutils.yml` builds the solution and test-runs both tools. It runs only on changes in `SiteUtils/` or in the workflow itself.
 
-### Cyrillic Support
-- The repository contains extensive Russian content
-- Use NameTransformer tool for systematic transliteration
-- Don't manually transliterate, as it won't update references
+### Code style
 
-### MkDocs Configuration
-- Main config file: `mkdocs.yml`
-- The `nav:` section is maintained by hand; titles are in Russian
-- Do not regenerate it with BuildNavigation
+Follow the existing code:
 
-### Images and Assets
-- Store images alongside markdown files
-- Use descriptive names for images
-- Keep image sizes reasonable for web viewing
+- .NET 9, top-level statements in `Program.cs`, file-scoped namespaces (`namespace NameTransformer;`).
+- Four-space indentation, `var` for locals, one class per file, the file is named after the class.
+- Static classes for helpers, `[GeneratedRegex]` for regular expressions.
+- `Path.Combine` / `Path.GetRelativePath`; write paths with `/` in output and in `mkdocs.yml`.
+- Find the repository root by walking up to the folder that contains `.git`.
+- Print clear messages with `Console.WriteLine`; return 0 on success and 1 on error.
 
-## Code Generation Preferences
+## When suggesting changes
 
-### When Generating C# Code
-- Follow existing patterns in SiteUtils
-- Keep it simple and maintainable
-- Add comments only for complex logic
-- Include error handling and validation
-- Make tools user-friendly with clear messages
-
-### When Generating Documentation
-- Match the existing documentation style
-- Use proper Russian grammar and terminology
-- Include relevant external links
-- Organize content logically
-- Keep files focused on specific topics
-
-### When Suggesting Changes
-- Prefer minimal, surgical changes
-- Don't refactor working code unnecessarily
-- Explain breaking changes
-- Consider impact on existing documentation structure
-- Test changes with the provided tools
+- Prefer minimal, focused changes. Do not refactor working code without a reason.
+- Explain changes that break URLs, tool behavior or the site structure.
