@@ -42,6 +42,8 @@
 
 ## Другие ресурсы
 
+### YouTube
+
 [YouTube канал Petrokey](https://www.youtube.com/@petrokey)
 
 [YouTube канал Recopter](https://www.youtube.com/@recopter)  
@@ -49,7 +51,6 @@
 [YouTube канал nils vo](https://www.youtube.com/@nils_vo)  
 
 [YouTube канал Chris Rosser](https://www.youtube.com/@ChrisRosser)  
-[Сайт где Chris Rosser тестирует и сравнивает разное железо](https://www.aos-rc.com/aos-labs)   
 
 [YouTube канал Joshua Bardwell](https://www.youtube.com/@JoshuaBardwell)    
 [YouTube канал Joshua Bardwell Livestream Clips](https://www.youtube.com/@JoshuaBardwellLivestreamClips)    
@@ -58,15 +59,23 @@
 
 [YouTube канал Anik FPV](https://www.youtube.com/@AnikFPV)  
 
-[FPV Know-It-All (fpvknowitall) - The Ultimate FPV Shopping List by Joshua Bardwell](https://www.fpvknowitall.com/)
+[YouTube канал SpiNiks FPV](https://www.youtube.com/@SpiNiksFPV)
 
-[DoggyDog.blog — Блог о FPV полетах](https://doggydog.blog/)
+### Сайты и блоги
+
+[AOS Labs — сайт, где Chris Rosser тестирует и сравнивает разное железо](https://www.aos-rc.com/aos-labs)
+
+[FPV Know-It-All (fpvknowitall) - The Ultimate FPV Shopping List by Joshua Bardwell](https://www.fpvknowitall.com/)
 
 [Mads Tech FPV & Drone Wiki](https://fpvwiki.co.uk/)
 
 [HDZero Documents](https://docs.hd-zero.com/)
 
 [FPV Links](https://fpvlinks.com/)
+
+[FPVFAQ.RU — база знаний Telegram-канала ShtarkFPV (ремонт и настройка видеооборудования)](https://fpvfaq.ru/)
+
+[DoggyDog.blog — Блог о FPV полетах](https://doggydog.blog/)
 
 [Блог по FPV от непрофессионала](https://snmplz.github.io/)
 
@@ -156,5 +165,4 @@ spinnerproduction.ru
 [Smakadron](https://t.me/SmakadronChannel) (укр.)  
 [NskFpv-pilot](https://t.me/nskfpvpilot)  
 [StephanaoFpv Chat 2.0](https://t.me/whoopfanchat1)  
-[DoggyDog.blog](https://t.me/doggydb)  
-[SpiNiks FPV](https://www.youtube.com/@SpiNiksFPV)
+[DoggyDog.blog](https://t.me/doggydb)
