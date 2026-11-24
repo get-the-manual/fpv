@@ -281,8 +281,6 @@ nav:
     - Общая информация: 50_Charger/05_Obshhaya_informatsiya.md
     - Зарядные устройства: 50_Charger/20_Zaryadnye_ustrojstva.md
     - Зарядка BETAFPV: 50_Charger/30_Zaryadka_BetaFPV.md
-  - Аксессуары:
-    - Сумки, футляры: 65_Aksessuary/10_Sumki_futlyary.md
   - Bind:
     - Введение: 60_Bind/10_Vvedenie.md
     - Протокол FrSky: 60_Bind/15_Protokol_FrSky.md
@@ -302,6 +300,8 @@ nav:
       - Пульта EdgeTX: 60_Bind/56_Bind_fraza_pulta_EdgeTX.md
       - Пульта LiteRadio: 60_Bind/58_Bind_fraza_pulta_LiteRadio.md
     - Проблемы: 60_Bind/70_Problemy.md
+  - Аксессуары:
+    - Сумки, футляры: 65_Aksessuary/10_Sumki_futlyary.md
   - Что купить или собрать: 70_Chto_kupit_ili_sobrat.md
   - 3D модели:
     - Общее: 3D_models/General.md

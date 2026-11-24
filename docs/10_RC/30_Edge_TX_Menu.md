@@ -44,9 +44,9 @@
 ####  01. `ExpressLRS` - вход в настройки ExpressLRS
   `Packet Rate` - частота пакетов  
   
-  `Telem Ratio` - Телеметрия ???
+  `Telem Ratio` - доля пакетов, которая отдается под телеметрию (от дрона к пульту). Например, `1:64` - каждый 64-й пакет. Варианты: `Off`, `1:128` ... `1:2`; `Std` - доля подбирается автоматически по Packet Rate; `Race` - как `Std`, но телеметрия отключается, пока дрон заармлен. [Подробнее](https://www.expresslrs.org/quick-start/transmitters/lua-howto/)  
   
-  `Switch Mode` ???
+  `Switch Mode` - способ передачи переключателей (AUX каналов). `Hybrid` - 6 переключателей на 2, 3 или 6 положений + 1 на 16 положений; `Wide` - 7 переключателей на 64 или 128 положений. Менять можно только когда пульт не подключен к приемнику.  
   
   `Model Match Off` [Детали здесь](https://oscarliang.com/the-power-of-model-match-in-expresslrs-and-how-to-set-up/)
   
