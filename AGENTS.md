@@ -5,14 +5,13 @@
 - A knowledge base about FPV drones, written in Russian. Published at https://get-the-manual.github.io/fpv/.
 - Pages are Markdown files in `docs/`. The site is built with MkDocs + Material (`mkdocs.yml`).
 - The `build-site.yml` workflow builds the site with `mkdocs gh-deploy --force --strict` on every push to `main` and publishes it to the `gh-pages` branch. Never edit `gh-pages` by hand.
-- `--strict` turns every MkDocs warning into a failure: a broken relative link or a bad `nav:` path stops the deployment.
-- `SiteUtils/` holds small .NET 9 helper tools (see the last section).
+- `SiteUtils/` holds small .NET 9 helper tools. They are rarely needed; their rules are in `SiteUtils/AGENTS.md`.
 
 ## Content rules
 
 ### Files and folders
 
-- Use only Latin letters, digits, `_`, `-` and `.` in file and folder names: English words or transliterated Russian (`Obshhaya_informatsiya.md`). No spaces, no Cyrillic. Use NameTransformer to transliterate (see below).
+- Use only Latin letters, digits, `_`, `-` and `.` in file and folder names: English words or transliterated Russian (`Obshhaya_informatsiya.md`). No spaces, no Cyrillic. To transliterate a Cyrillic name, use NameTransformer (see `SiteUtils/AGENTS.md`).
 - Use a numeric prefix (`10_`, `20_`) when the order inside a folder matters. Do not give two sibling folders the same number.
 - One topic per page. Put images and other files for a page in the same folder as the page.
 
@@ -56,7 +55,7 @@
 
 1. Create or edit the `.md` file in the right `docs/` folder.
 2. Add or update its entry in `nav:` in `mkdocs.yml`.
-3. Build the site in strict mode (see below) and fix every warning.
+3. Build the site in strict mode (see below) and fix every warning: CI uses `--strict` too, so any warning stops the deployment.
 4. Commit the page, its assets and `mkdocs.yml` together.
 
 ### Move or rename files
@@ -75,30 +74,6 @@ mkdocs build --strict
 ```
 
 The git-revision-date plugin warns about moved files until the move is committed. A strict build of uncommitted moves can fail only for that reason.
-
-## SiteUtils (C#)
-
-- **NameTransformer** transliterates the name of one file or folder inside `docs/` and renames it. Then it replaces the old name with the new name in `mkdocs.yml` and in all `.md` files. The replacement is plain text, so review the diff.
-
-  ```bash
-  # from the repository root
-  dotnet run --project SiteUtils/NameTransformer/NameTransformer.csproj -- docs/path/to/Имя_файла.md
-  ```
-
-  The mapping is a project-specific scheme, not a formal standard: `ё→yo`, `ж→zh`, `й→j`, `х→h`, `ц→ts`, `ч→ch`, `ш→sh`, `щ→shh`, `ы→y`, `э→e`, `ю→yu`, `я→ya`, `ъ`/`ь` dropped. Do not change it: existing file names depend on it.
-- **BuildNavigation** is a legacy one-off tool. It is kept only as a buildable project. Do not run it (see Navigation).
-- `build-siteutils.yml` builds the solution and test-runs both tools. It runs only on changes in `SiteUtils/` or in the workflow itself.
-
-### Code style
-
-Follow the existing code:
-
-- .NET 9, top-level statements in `Program.cs`, file-scoped namespaces (`namespace NameTransformer;`).
-- Four-space indentation, `var` for locals, one class per file, the file is named after the class.
-- Static classes for helpers, `[GeneratedRegex]` for regular expressions.
-- `Path.Combine` / `Path.GetRelativePath`; write paths with `/` in output and in `mkdocs.yml`.
-- Find the repository root by walking up to the folder that contains `.git`.
-- Print clear messages with `Console.WriteLine`; return 0 on success and 1 on error.
 
 ## When suggesting changes
 
