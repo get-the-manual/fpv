@@ -52,7 +52,7 @@
 [Сайт где Chris Rosser тестирует и сравнивает разное железо](https://www.aos-rc.com/aos-labs)   
 
 [YouTube канал Joshua Bardwell](https://www.youtube.com/@JoshuaBardwell)    
-[YouTube канал Joshua Bardwell Livestream Clips](https://www.youtube.com/@oshuaBardwellLivestreamClips)    
+[YouTube канал Joshua Bardwell Livestream Clips](https://www.youtube.com/@JoshuaBardwellLivestreamClips)    
 
 [YouTube канал Patrick Watkins](https://www.youtube.com/@fpvwithpatrick)  
 

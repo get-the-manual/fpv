@@ -6,6 +6,8 @@ Site utilities for the FPV documentation project.
 
 A .NET 9 console application that generates the navigation section for `mkdocs.yml` based on the file and folder structure of the `docs` folder.
 
+> **Legacy.** This tool was used once to create the initial `nav:` section. The navigation is now maintained by hand with Russian titles. Running the tool replaces the whole `nav:` section and loses those titles.
+
 ### Features
 
 - Scans the `docs` folder recursively

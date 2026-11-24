@@ -12,7 +12,7 @@
 
 ### [Шлем BETAFPV VR03 FPV Goggles](BETAFPV_VR03.md)
 
-### [Шлем Eachine EV800D(M)](Eachine_EV800D(M)/Obshhaya informatsiya.md)
+### [Шлем Eachine EV800D(M)](Eachine_EV800DM/Obshhaya_informatsiya.md)
 
 ### Очки Eachine EV100
 Плохие отзывы  

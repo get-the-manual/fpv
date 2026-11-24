@@ -9,13 +9,16 @@
 Содержимое страниц лежит в папке `docs`. Pull request'ы по улучшению ресурса приветствуются.
 
 
+Сайт собирается и публикуется автоматически (GitHub Actions, `.github/workflows/build-site.yml`) при каждом push в `main`. Локальный запуск нужен только для предварительного просмотра.
+
+Навигация (`nav:` в `mkdocs.yml`) ведется вручную: новую страницу нужно добавить туда самостоятельно.
+
 ## Установка
 
 ```
-pip install mkdocs
 pip install mkdocs-material
-pip install mkdocs-gen-nav-plugin
 pip install mkdocs-autorefs
+pip install mkdocs-git-revision-date-localized-plugin
 ```
 
 ## Локальный запуск
