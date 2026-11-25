@@ -6,6 +6,7 @@
 - Pages are Markdown files in `docs/`. The site is built with MkDocs + Material (`mkdocs.yml`).
 - The `build-site.yml` workflow builds the site with `mkdocs gh-deploy --force --strict` on every push to `main` and publishes it to the `gh-pages` branch. Never edit `gh-pages` by hand.
 - `SiteUtils/` holds small .NET 9 helper tools. They are rarely needed; their rules are in `SiteUtils/AGENTS.md`.
+- `scripts/` holds PowerShell 7 helper scripts. Keep scripts out of `docs/`: MkDocs publishes every file there.
 
 ## Content rules
 
@@ -46,7 +47,19 @@
 ### Media and large files
 
 - Keep images reasonably small for the web.
-- Do not add large videos or GIFs to the repository until issue #16 (Git LFS or external hosting) is resolved. Link to YouTube or similar instead.
+- Do not add long videos (more than about a minute, or with sound) to the repository. Link to YouTube or similar instead. Issue #16 tracks how to store large media.
+- Do not add animated GIFs. Convert every animation to MP4 (see "Add an animation" below). An MP4 is usually 5–20 times smaller than the same GIF.
+- Embed an animation as a looping video, not as an image:
+
+  ```html
+  <video src="../Name.mp4" autoplay loop muted playsinline width="W" height="H"></video>
+  ```
+
+  - `autoplay loop muted` make it behave like a GIF. Browsers start a video on their own only when it is muted.
+  - `playsinline` keeps the video inside the page on iPhone. Do not add `controls`.
+  - `width` and `height` are the real size of the video. The browser reserves the space, so the page does not jump while the video loads.
+  - `src` starts with `../` because MkDocs does not rewrite paths in raw HTML (see "Links"). On an `index.md` page, omit `../`.
+- No empty bars around the picture. MP4 has no transparency, so transparent GIF borders turn into white bars, which stand out in dark mode. Crop transparent borders and solid black or white bars, so the video holds only the picture.
 - `.gitattributes` normalizes line endings and marks media formats as binary. Do not convert line endings by hand.
 
 ## Workflow
@@ -57,6 +70,20 @@
 2. Add or update its entry in `nav:` in `mkdocs.yml`.
 3. Build the site in strict mode (see below) and fix every warning: CI uses `--strict` too, so any warning stops the deployment.
 4. Commit the page, its assets and `mkdocs.yml` together.
+
+### Add an animation
+
+`scripts/Convert-GifToMp4.ps1` converts GIFs to MP4. It needs PowerShell 7 and FFmpeg (`ffmpeg` and `ffprobe` on `PATH`, or pass `-FfmpegDir` or set `FFMPEG_DIR`).
+
+1. Put the GIF in the folder of the page and link it as usual: `![](Name.gif)`.
+2. Run `pwsh scripts/Convert-GifToMp4.ps1 docs/<folder>/Name.gif -UpdateLinks`. The script:
+   - crops transparent borders;
+   - writes `Name.mp4` (H.264, `yuv420p`, `faststart`, no audio) next to the GIF;
+   - replaces `![...](Name.gif)` in the pages of that folder with the `<video>` tag and the real `width` and `height`.
+3. If the script warns about possible solid bars, look at a frame of the video. If they are bars, run it again with `-CropSolidBars`. Dark scenes can look like black bars, so always check the frame first.
+4. Look at one frame of each video: the picture must fill it, with no bars on any side.
+5. When no page links to the GIF any more, remove it with `git rm`. Search the whole repository for the file name first.
+6. Build in strict mode and check the page in the browser, in both light and dark mode.
 
 ### Move or rename files
 
