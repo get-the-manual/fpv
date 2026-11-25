@@ -75,7 +75,7 @@ Patrick Watkins](https://www.youtube.com/watch?v=vYaq1cCAjTs)
 [FPV Tricks - Split S & Reverse Split S](https://www.youtube.com/watch?v=Iu7Q4SHjpjQ)
 
 #### Split S Rewind
-<video src="../Trick_Split-S_Rewind.mp4" autoplay loop muted playsinline width="640" height="320"></video>   
+<video src="Trick_Split-S_Rewind.mp4" autoplay loop muted playsinline width="640" height="320"></video>   
 [Apprends le Split S Rewind - Tuto BARD - Fpv Freestyle. YouTube: Bard Fpv](https://www.youtube.com/watch?v=YZnMHTyD5TE)  
 
 #### Reverse Split-S (Half Matty)
@@ -112,11 +112,11 @@ headmazta](https://www.youtube.com/watch?v=HbUVa1IUfFs)
 [Як робити Rubik's Cube. YouTube: FlyingCat](https://www.youtube.com/shorts/Ioo8-RNfXy0)
 
 #### Corkscrew (Freestyle Version)
-<video src="../Trick_Corkscrew.mp4" autoplay loop muted playsinline width="640" height="328"></video>   
+<video src="Trick_Corkscrew.mp4" autoplay loop muted playsinline width="640" height="328"></video>   
 [How To: Corkscrew (Freestyle Version) | FPV Tutorial. YouTube: headmazta](https://www.youtube.com/watch?v=ti8pGuEvwbM)
 
 #### Corkscrew (Race version)
-<video src="../Trick_RaceCorkscrew.mp4" autoplay loop muted playsinline width="320" height="164"></video>   
+<video src="Trick_RaceCorkscrew.mp4" autoplay loop muted playsinline width="320" height="164"></video>   
 [Racing with the DJI FPV Drone! - How to Corkscrew. Youtube: Rotor Riot](https://www.youtube.com/watch?v=TNr8TydRE7A)
 
 #### Side Rewind

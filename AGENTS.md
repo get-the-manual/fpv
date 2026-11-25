@@ -3,10 +3,10 @@
 ## Repository
 
 - A knowledge base about FPV drones, written in Russian. Published at https://get-the-manual.github.io/fpv/.
-- Pages are Markdown files in `docs/`. The site is built with MkDocs + Material (`mkdocs.yml`).
-- The `build-site.yml` workflow builds the site with `mkdocs gh-deploy --force --strict --no-history` on every push to `main` and publishes it to the `gh-pages` branch. Each deploy replaces the branch with one commit, so `gh-pages` keeps no history. Never edit `gh-pages` by hand.
+- Pages are Markdown files in `docs/`. The site is built with [Zensical](https://zensical.org/), the successor of Material for MkDocs. Its configuration is still `mkdocs.yml` (theme variant `classic`).
+- The `build-site.yml` workflow runs `zensical build --strict --clean` on every push to `main` and publishes the result to GitHub Pages with `actions/deploy-pages` (the Pages source is "GitHub Actions", not a branch).
 - `SiteUtils/` holds small .NET 9 helper tools. They are rarely needed; their rules are in `SiteUtils/AGENTS.md`.
-- `scripts/` holds PowerShell 7 helper scripts. Keep scripts out of `docs/`: MkDocs publishes every file there.
+- `scripts/` holds PowerShell 7 helper scripts. Keep scripts out of `docs/`: Zensical publishes every file there.
 
 ## Content rules
 
@@ -31,10 +31,10 @@
 
 ### Links
 
-- Link to other pages with a relative path to the `.md` file, for example `[текст](../20_VTX/OSD.md)`. MkDocs checks these links.
+- Link to other pages with a relative path to the `.md` file, for example `[текст](../20_VTX/OSD.md)`. A strict build fails on a broken link or anchor.
 - Encode spaces in link targets as `%20`, or better, do not create files with spaces.
 - Cross-page anchors use mkdocs-autorefs: define an anchor with `[](){#anchor_id}` and link to it with `[текст][anchor_id]`.
-- MkDocs does not rewrite paths inside raw HTML (for example `<model-viewer src="...">`). On the site such a path resolves from the page URL (`.../Page/`), not from the folder of the `.md` file.
+- In raw HTML (for example `<video src="...">` or `<model-viewer src="...">`), write paths relative to the `.md` file, as in Markdown links. Zensical rewrites them for the page URL (`.../Page/`). This differs from MkDocs, which left such paths unchanged. A strict build does not check paths in raw HTML, so open the page and check the file loads.
 - When two pages cover related topics, link them both ways.
 
 ### Facts and sources
@@ -53,13 +53,13 @@
 - Embed an animation as a looping video, not as an image:
 
   ```html
-  <video src="../Name.mp4" autoplay loop muted playsinline width="W" height="H"></video>
+  <video src="Name.mp4" autoplay loop muted playsinline width="W" height="H"></video>
   ```
 
   - `autoplay loop muted` make it behave like a GIF. Browsers start a video on their own only when it is muted.
   - `playsinline` keeps the video inside the page on iPhone. Do not add `controls`.
   - `width` and `height` are the real size of the video. The browser reserves the space, so the page does not jump while the video loads.
-  - `src` starts with `../` because MkDocs does not rewrite paths in raw HTML (see "Links"). On an `index.md` page, omit `../`.
+  - `src` is relative to the `.md` file (see "Links"); a video in the same folder needs no prefix.
 - No empty bars around the picture. MP4 has no transparency, so transparent GIF borders turn into white bars, which stand out in dark mode. Crop transparent borders and solid black or white bars, so the video holds only the picture.
 - `.gitattributes` normalizes line endings and marks media formats as binary. Do not convert line endings by hand.
 
@@ -97,11 +97,14 @@ Moving a page changes its URL on the site; external links to the old URL break. 
 ### Check the build locally
 
 ```bash
-pip install mkdocs-material mkdocs-autorefs mkdocs-git-revision-date-localized-plugin
-mkdocs build --strict
+pip install "zensical~=0.1.3"
+zensical build --strict
+zensical serve   # local preview
 ```
 
-The git-revision-date plugin warns about moved files until the move is committed. A strict build of uncommitted moves can fail only for that reason.
+- On Windows, Zensical 0.1.3 fails in the git-revision-date plugin with a path error. Build with the plugin turned off: set `FPV_GIT_DATES=false` (PowerShell: `$env:FPV_GIT_DATES = 'false'`). Pages then have no dates; CI on Linux builds them with dates.
+- The git-revision-date plugin warns about moved files until the move is committed. A strict build of uncommitted moves can fail only for that reason.
+- Pin the same Zensical version as `build-site.yml`. Zensical is on the 0.x line, so check the build before you raise the version.
 
 ## When suggesting changes
 

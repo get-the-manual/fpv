@@ -153,9 +153,9 @@ process {
                 $hasBom = $bytes.Length -ge 3 -and $bytes[0] -eq 0xEF -and $bytes[1] -eq 0xBB -and $bytes[2] -eq 0xBF
                 $text = [IO.File]::ReadAllText($md.FullName)
                 if ($text -notmatch $pattern) { continue }
-                # A page's URL is ".../Page/", so same-folder media is one level up;
-                # index.md is served at the folder URL itself.
-                $src = if ($md.BaseName -in 'index', 'README') { "$name.mp4" } else { "../$name.mp4" }
+                # Zensical resolves paths in raw HTML relative to the .md file,
+                # so a video in the same folder needs no prefix.
+                $src = "$name.mp4"
                 $text = [regex]::Replace($text, $pattern, {
                         param($m)
                         $title = if ($m.Groups[1].Value) { ' title="{0}"' -f [Net.WebUtility]::HtmlEncode($m.Groups[1].Value) } else { '' }
