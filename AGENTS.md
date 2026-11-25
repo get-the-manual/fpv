@@ -48,7 +48,7 @@
 
 - Keep images reasonably small for the web. Save photo-like screenshots as JPG, not PNG.
 - Store external images and animations in the repository instead of hotlinking them, so a page does not depend on another site. Credit the source on the page.
-- Do not add long videos (more than about a minute, or with sound) to the repository. Link to YouTube or similar instead. Issue #16 tracks how to store large media.
+- Do not add long videos (more than about a minute, or with sound) to the repository. Link to YouTube or similar instead. Media stay in plain Git without Git LFS; issue #16 explains why.
 - Do not add animated GIFs. Convert every animation to MP4 (see "Add an animation" below). An MP4 is usually 5–20 times smaller than the same GIF.
 - Embed an animation as a looping video, not as an image:
 
