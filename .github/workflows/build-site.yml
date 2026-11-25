@@ -1,4 +1,4 @@
-name: Build MkDocs site
+name: Build site
 
 on:
   workflow_dispatch:
@@ -6,32 +6,38 @@ on:
   push:
     branches:
       - main
+
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
+
+# Run one deployment at a time; let a running one finish.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
         with:
+          # Full history: git-revision-date-localized reads page dates from it.
           fetch-depth: 0
-      - name: Configure Git Credentials
-        run: |
-          git config user.name github-actions[bot]
-          git config user.email github-actions[bot]@users.noreply.github.com
-      - uses: actions/setup-python@v6
+      - uses: actions/configure-pages@v6
+      - uses: actions/setup-python@v7
         with:
           python-version: 3.x
-      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
-      - uses: actions/cache@v5
+      # Zensical is on the 0.x line and may change; stay on 0.1.x until checked.
+      - run: pip install "zensical~=0.1.3"
+      # --strict: any warning (for example a broken link) fails the build.
+      - run: zensical build --strict --clean
+      - uses: actions/upload-pages-artifact@v5
         with:
-          key: mkdocs-material-${{ env.cache_id }}
-          path: .cache
-          restore-keys: |
-            mkdocs-material-
-      - run: pip install mkdocs-material
-      - run: pip install mkdocs-autorefs
-      - run: pip install mkdocs-git-revision-date-localized-plugin
-      # --no-history: every deploy is a single commit without parents, so the
-      # gh-pages branch does not keep old copies of the site.
-      - run: mkdocs gh-deploy --force --strict --no-history
+          path: site
+      - uses: actions/deploy-pages@v5
+        id: deployment

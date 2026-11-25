@@ -13,10 +13,15 @@ plugins:
   - autorefs
   - git-revision-date-localized:
       enable_creation_date: true
+      # Zensical 0.1.3 fails on this plugin on Windows; set FPV_GIT_DATES=false
+      # to build locally without page dates.
+      enabled: !ENV [FPV_GIT_DATES, true]
 markdown_extensions:
   - attr_list
 theme:
   name: material
+  # Zensical: keep the look of Material for MkDocs
+  variant: classic
   palette:
     # Palette toggle for light mode
     - scheme: default

@@ -9,7 +9,7 @@
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 
 <model-viewer
-  src="firefly18.glb"
+  src="General/firefly18.glb"
   alt="Firefly18 1S Nano Baby V3 O4"
   camera-controls
   auto-rotate

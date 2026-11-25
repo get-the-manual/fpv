@@ -11,7 +11,7 @@ Reverse Split-S => Trippy Spin
 Juicy Flick + Power Loop
 
 Yaw 180, pitch от себя 180, Yaw 180, pitch на себя 180, продолжаем лететь дальше  
-<video src="../Series_1.mp4" autoplay loop muted playsinline width="320" height="240"></video>
+<video src="Series_1.mp4" autoplay loop muted playsinline width="320" height="240"></video>
 
 
 ## Flat yaw
