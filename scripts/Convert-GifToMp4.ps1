@@ -27,6 +27,11 @@
 .PARAMETER CropSolidBars
     Also crop solid black/white bars that are opaque in the GIF.
 
+.PARAMETER TrimEdges
+    Cut this many more pixels from every side after the other crops. Use it
+    for a thin dark or light frame that cropdetect misses (for example a
+    1-2 px grey border). Default 0.
+
 .PARAMETER UpdateLinks
     Rewrite image links to the GIF in .md files of the GIF's folder.
 
@@ -40,6 +45,8 @@ param(
     [string]$FfmpegDir = $env:FFMPEG_DIR,
     [int]$Crf = 23,
     [switch]$CropSolidBars,
+    [ValidateRange(0, 64)]
+    [int]$TrimEdges = 0,
     [switch]$UpdateLinks
 )
 
@@ -111,6 +118,16 @@ process {
         if ($solid -and $solid -ne $afterAlpha) {
             if ($CropSolidBars) {
                 $s = $solid -split ':' | ForEach-Object { [int]$_ }
+                # cropdetect rounds to even values and can leave a 1 px line of the bar.
+                # Trim 2 more pixels on every side that has a bar.
+                $a = $afterAlpha -split ':' | ForEach-Object { [int]$_ }
+                $margin = 2
+                $barLeft = $s[2] -gt 0; $barRight = ($s[2] + $s[0]) -lt $a[0]
+                $barTop = $s[3] -gt 0; $barBottom = ($s[3] + $s[1]) -lt $a[1]
+                if ($barLeft) { $s[2] += $margin; $s[0] -= $margin }
+                if ($barRight) { $s[0] -= $margin }
+                if ($barTop) { $s[3] += $margin; $s[1] -= $margin }
+                if ($barBottom) { $s[1] -= $margin }
                 if ($crop) {
                     $c = $crop -split ':' | ForEach-Object { [int]$_ }
                     $crop = '{0}:{1}:{2}:{3}' -f $s[0], $s[1], ($c[2] + $s[2]), ($c[3] + $s[3])
@@ -121,7 +138,8 @@ process {
         }
 
         # 3. Encode.
-        $vf = (@($(if ($crop) { "crop=$crop" }), 'scale=trunc(iw/2)*2:trunc(ih/2)*2') | Where-Object { $_ }) -join ','
+        $trim = if ($TrimEdges -gt 0) { 'crop=iw-{0}:ih-{0}:{1}:{1}' -f (2 * $TrimEdges), $TrimEdges }
+        $vf = (@($(if ($crop) { "crop=$crop" }), $trim, 'scale=trunc(iw/2)*2:trunc(ih/2)*2') | Where-Object { $_ }) -join ','
         & $ffmpeg -v error -y -i $gif -vf $vf -c:v libx264 -crf $Crf -preset slow -pix_fmt yuv420p -movflags +faststart -an $mp4
         if ($LASTEXITCODE -ne 0) { Write-Error "ffmpeg failed: $gif"; continue }
         $out = Get-Size $mp4
@@ -151,7 +169,7 @@ process {
         [pscustomobject]@{
             Gif      = Split-Path $gif -Leaf
             GifKB = [int]((Get-Item $gif).Length / 1KB)
-            Crop  = if ($crop) { $crop } else { 'none' }
+            Crop  = (@($(if ($crop) { $crop } else { 'none' }), $(if ($TrimEdges) { "trim $TrimEdges" })) | Where-Object { $_ }) -join ' + '
             Size  = '{0}x{1}' -f $out.Width, $out.Height
             Mp4KB = [int]((Get-Item $mp4).Length / 1KB)
             Pages = $updated -join ', '

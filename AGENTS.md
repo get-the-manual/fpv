@@ -81,7 +81,7 @@
    - writes `Name.mp4` (H.264, `yuv420p`, `faststart`, no audio) next to the GIF;
    - replaces `![...](Name.gif)` in the pages of that folder with the `<video>` tag and the real `width` and `height`.
 3. If the script warns about possible solid bars, look at a frame of the video. If they are bars, run it again with `-CropSolidBars`. Dark scenes can look like black bars, so always check the frame first.
-4. Look at one frame of each video: the picture must fill it, with no bars on any side.
+4. Look at one frame of each video, zoomed in at the edges: the picture must fill it, with no bars or thin frame lines on any side. If a 1–3 px grey or dark frame remains (cropdetect misses soft borders), run the script again with `-TrimEdges 3` (more if needed).
 5. When no page links to the GIF any more, remove it with `git rm`. Search the whole repository for the file name first.
 6. Build in strict mode and check the page in the browser, in both light and dark mode.
 
