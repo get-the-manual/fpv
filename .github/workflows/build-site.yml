@@ -32,4 +32,6 @@ jobs:
       - run: pip install mkdocs-material
       - run: pip install mkdocs-autorefs
       - run: pip install mkdocs-git-revision-date-localized-plugin
-      - run: mkdocs gh-deploy --force --strict
+      # --no-history: every deploy is a single commit without parents, so the
+      # gh-pages branch does not keep old copies of the site.
+      - run: mkdocs gh-deploy --force --strict --no-history

@@ -4,7 +4,7 @@
 
 - A knowledge base about FPV drones, written in Russian. Published at https://get-the-manual.github.io/fpv/.
 - Pages are Markdown files in `docs/`. The site is built with MkDocs + Material (`mkdocs.yml`).
-- The `build-site.yml` workflow builds the site with `mkdocs gh-deploy --force --strict` on every push to `main` and publishes it to the `gh-pages` branch. Never edit `gh-pages` by hand.
+- The `build-site.yml` workflow builds the site with `mkdocs gh-deploy --force --strict --no-history` on every push to `main` and publishes it to the `gh-pages` branch. Each deploy replaces the branch with one commit, so `gh-pages` keeps no history. Never edit `gh-pages` by hand.
 - `SiteUtils/` holds small .NET 9 helper tools. They are rarely needed; their rules are in `SiteUtils/AGENTS.md`.
 - `scripts/` holds PowerShell 7 helper scripts. Keep scripts out of `docs/`: MkDocs publishes every file there.
 
