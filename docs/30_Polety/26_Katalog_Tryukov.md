@@ -3,10 +3,10 @@
 ## Базовые трюки
 
 ### Surface Slalom
-![](Trick_SurfaceSlalom.gif)
+<video src="../Trick_SurfaceSlalom.mp4" autoplay loop muted playsinline width="320" height="180"></video>
 
 ### Змейка (Snake)
-![](Trick_Snake.gif)  
+<video src="../Trick_Snake.mp4" autoplay loop muted playsinline width="320" height="180"></video>  
 Источник: [3 Simulator Exercises That Will Change How You Fly FPV - YouTube: Hucubama](https://youtu.be/25C5Fwplf-k)
 
 
@@ -14,7 +14,7 @@
 Влево или вправо
 
 ### Змейка с роллом (Snake with Barel roll)
-![](Trick_SnakeWithBarelRoll.gif)  
+<video src="../Trick_SnakeWithBarelRoll.mp4" autoplay loop muted playsinline width="320" height="180"></video>  
 Источник: [3 Simulator Exercises That Will Change How You Fly FPV - YouTube: Hucubama](https://youtu.be/25C5Fwplf-k)
 
 
@@ -27,7 +27,7 @@ Pitch от себя 180, летим вверх ногами, опять Pitch о
 
 ### Flat Yaw
 Выравниваемся дрон параллельно земле, yaw 180/360  
-![](Trick_FlatYaw.gif)
+<video src="../Trick_FlatYaw.mp4" autoplay loop muted playsinline width="320" height="240"></video>
 ### Yaw Spin
 
 Нужно одновременно смещать и Yaw и Roll для того чтобы оставаться в том же положении горизонта.
@@ -51,7 +51,7 @@ Pitch от себя 180, Roll 180
   
 ### Juicy Flick + Yaw 180
 
-![](Trick_JuicyFlick-Yaw180.gif)
+<video src="../Trick_JuicyFlick-Yaw180.mp4" autoplay loop muted playsinline width="320" height="240"></video>
 
   
 ### Snapback (Look Back juicy или Immelmann Turn)
@@ -71,10 +71,10 @@ Pitch на себя 180, Roll 180
 
 ### Dolphin Dive
 Stall, в верхней точке Pitch от себя 180, и дайвим  
-![](Trick_DolphinDive.gif)
+<video src="../Trick_DolphinDive.mp4" autoplay loop muted playsinline width="280" height="330"></video>
 
 ### Dolphin 360
-![](Dolphin360.gif)
+<video src="../Dolphin360.mp4" autoplay loop muted playsinline width="320" height="240"></video>
 
 ### Inverted Yaw Spin
 Half flip или roll, 360 Yaw, Half flip или roll в ту же сторону  
@@ -91,22 +91,22 @@ Half flip, 360 Roll, Half flip
 Half roll, Flip 360, Half roll
 
 ### Corkscrew (Freestyle Version)
-<video src="../Trick_Corkscrew.mp4" autoplay loop muted playsinline width="640"></video>
+<video src="../Trick_Corkscrew.mp4" autoplay loop muted playsinline width="640" height="328"></video>
 
 ### Trebuchet
-![](Trick_Trebuchet.gif)  
+<video src="../Trick_Trebuchet.mp4" autoplay loop muted playsinline width="420" height="224"></video>  
 
 ### Moonwalk
-![](Trick_Moonwalk.gif)  
+<video src="../Trick_Moonwalk.mp4" autoplay loop muted playsinline width="592" height="330"></video>  
  Yaw 180, Pitch на себя 180, летим задом и верх ногами, Pitch от себя 180 выравниваемся.  
 [How To MOONWALK - FPV TRICK TUTORIAL. YouTube: Max Beamer](https://www.youtube.com/watch?v=kwZDB4bY6kw)
 
 ### Slingshot
-![](Trick_slingshot.gif)
+<video src="../Trick_slingshot.mp4" autoplay loop muted playsinline width="640" height="360"></video>
 
 ### Inverse HalfCube
 Yaw 360, Pitch от себя на 180, Roll 180.  
-![](Trick_Inverse_HalfCube.gif)
+<video src="../Trick_Inverse_HalfCube.mp4" autoplay loop muted playsinline width="320" height="180"></video>
 
 ## Powerloop
 
@@ -122,41 +122,41 @@ Yaw 360, Pitch от себя на 180, Roll 180.
 
 ### Maverick Loop, Beginner Switch  
 В верхней точке вверх ногами: Pitch от себя 180, дайв под преграду. Получается что как челноком гуляем.  
-![](Trick_Beginner_Switch.gif)  
+<video src="../Trick_Beginner_Switch.mp4" autoplay loop muted playsinline width="320" height="240"></video>  
 
 ### В верхней точке Flip/Roll/Yaw360, заканчиваем маневр   
 
-![](Trick_PowerLoop360.gif)
+<video src="../Trick_PowerLoop360.mp4" autoplay loop muted playsinline width="320" height="180"></video>
 
 ### Switchback
 
-![](Trick_Switchback.gif)
+<video src="../Trick_Switchback.mp4" autoplay loop muted playsinline width="432" height="396"></video>
 
 ### Powerloop + rewind
 
-![](Trick_PowerLoopWithRewind.gif)
+<video src="../Trick_PowerLoopWithRewind.mp4" autoplay loop muted playsinline width="320" height="180"></video>
 
 ### Cheeky Roll
-![](Trick_CheekyRoll.gif)
+<video src="../Trick_CheekyRoll.mp4" autoplay loop muted playsinline width="320" height="374"></video>
 
 ## Мост, столб
 
 ### Фокус на опоре/столбе
-![](Trick_BridgeFocus.gif)
+<video src="../Trick_BridgeFocus.mp4" autoplay loop muted playsinline width="320" height="200"></video>
 
 ### Yaw 360 с фокусом на опоре/столбе
-![](Trick_Yaw360_to_see_point.gif)
+<video src="../Trick_Yaw360_to_see_point.mp4" autoplay loop muted playsinline width="320" height="240"></video>
 
 ### Split-S
 НАД препятствием, Roll 180, плавно Pitch на себя, пролетаем ПОД препятствием.  
 ![](https://prowhooper.com/wp-content/uploads/2023/12/1000036098.gif)
 
 ### Split-S Rewind
-![](Trick_Split-S_Rewind.gif)   
+<video src="../Trick_Split-S_Rewind.mp4" autoplay loop muted playsinline width="640" height="320"></video>   
 
 ### Split-S + Yaw
-![](Trick_Split-S_Yaw.gif)   
-![](Trick_Split-S_Yaw2.gif)   
+<video src="../Trick_Split-S_Yaw.mp4" autoplay loop muted playsinline width="316" height="240"></video>   
+<video src="../Trick_Split-S_Yaw2.mp4" autoplay loop muted playsinline width="316" height="240"></video>   
 
 ### Juicy Moonwalk
 Это Split-S, но  когда выворачиваем питчем, сильнее задираем нос и тогда дрон летит ЗАДОМ. То есть это не смена направления
@@ -172,25 +172,25 @@ Pitch от себя на 180, Roll 180
 
 ### Juicy Flick с роллом
 Pitch от себя на 180, Roll 720  
-![](Trick_JuicyFlickRoll.gif)
+<video src="../Trick_JuicyFlickRoll.mp4" autoplay loop muted playsinline width="480" height="270"></video>
 
 ### Juicy Flick с Yaw
-![](Trick_JuicyFlickYaw.gif)  
-![](Trick_JuicyFlickYaw2.gif)  
+<video src="../Trick_JuicyFlickYaw.mp4" autoplay loop muted playsinline width="316" height="240"></video>  
+<video src="../Trick_JuicyFlickYaw2.mp4" autoplay loop muted playsinline width="316" height="240"></video>  
 
 ### Snapback (Look Back juicy)
 Pitch на себя на 180 (смотрим назад), Roll 180  
 ![](https://prowhooper.com/wp-content/uploads/2023/12/1000036111.gif)
 
 ### Snapback rewind
-![](Trick_SnapbackRewind.gif)
+<video src="../Trick_SnapbackRewind.mp4" autoplay loop muted playsinline width="320" height="164"></video>
   
 ### Vortex
 Pitch на себя на 180 (смотрим назад), Roll 360+180  
-![](Trick_Vortex.gif)
+<video src="../Trick_Vortex.mp4" autoplay loop muted playsinline width="480" height="266"></video>
 
 ### Vortex Rewind
-![](Trick_Vortex_Rewind.gif)
+<video src="../Trick_Vortex_Rewind.mp4" autoplay loop muted playsinline width="480" height="266"></video>
 
 ### Vanny Roll
 Пролетаем мимо столба, Yaw 180 (смотрим назад), Roll +360, Yaw 180  
@@ -198,7 +198,7 @@ Pitch на себя на 180 (смотрим назад), Roll 360+180
 
 ### Vanny Cube 
 Пролетаем мимо столба, Yaw 180 (смотрим назад), Roll +180, Pitch от себя 180, летим дальше  
-![](Trick_Vanny_Cube.gif)
+<video src="../Trick_Vanny_Cube.mp4" autoplay loop muted playsinline width="480" height="266"></video>
 
 ### Immelmann Turn
 Плавно Pitch на себя, Roll 180 и мы летим в другую сторону.  
@@ -224,7 +224,7 @@ Pitch на себя на 180 (смотрим назад), Roll 360+180
 
 ### Cinnamon Roll
 Орбита с контролем газа  
-![](Trick_CinnamonRoll.gif)  
+<video src="../Trick_CinnamonRoll.mp4" autoplay loop muted playsinline width="320" height="180"></video>  
 
 ![](https://prowhooper.com/wp-content/uploads/2024/02/1000039099.gif)  
 
@@ -233,16 +233,16 @@ Pitch на себя на 180 (смотрим назад), Roll 360+180
 
 ### Corkscrew (Race version)
 Летим в ворота, внутри разворачиваемся боком, даем газ, держа угол ворот в центре, перелетаем через верх и залетаем в ворота рядом.  
-![](Trick_RaceCorkscrew.gif)   
+<video src="../Trick_RaceCorkscrew.mp4" autoplay loop muted playsinline width="320" height="164"></video>   
 
 ### Пролет под мостом с разворотом на 360
-![](Trick_Bridge360.gif)
+<video src="../Trick_Bridge360.mp4" autoplay loop muted playsinline width="320" height="240"></video>
 
 ## У столба
 
 ### Orbit
 Орбита, это когда мы облетаем столб по кругу не теряя его из вида.  
-![](Trick_Orbit.gif)
+<video src="../Trick_Orbit.mp4" autoplay loop muted playsinline width="320" height="180"></video>
 
 Столб можно держать:  
 
@@ -258,10 +258,10 @@ Pitch на себя на 180 (смотрим назад), Roll 360+180
 
 ### Orbit Rewind
 Крутим орбиту, резко меняем направление орбиты на противоположное.  
-![](Trick_Orbit_Rewind.gif)  
+<video src="../Trick_Orbit_Rewind.mp4" autoplay loop muted playsinline width="420" height="236"></video>  
 
 ### Орбита вокруг одного столба, переключаемся на орбиту вокруг другого столба
-![](Trick_Multi_Orbits.gif)
+<video src="../Trick_Multi_Orbits.mp4" autoplay loop muted playsinline width="420" height="236"></video>
 
 ### Cradle (Candle)  
 Качелька вокруг столба  
@@ -283,24 +283,24 @@ Pitch на себя на 180 (смотрим назад), Roll 360+180
 ![](https://prowhooper.com/wp-content/uploads/2024/03/1000040862.gif)  
 
 Можно крутить не вокруг столба, а возле столба или подлетев к углу здания.  
-![](Trick_TrippySpinNearObject.gif)  
+<video src="../Trick_TrippySpinNearObject.mp4" autoplay loop muted playsinline width="320" height="180"></video>  
 
 + Rewind  
-![](Trick_TrippySpinNearObjetWithRewind.gif)  
+<video src="../Trick_TrippySpinNearObjetWithRewind.mp4" autoplay loop muted playsinline width="320" height="180"></video>  
 
 Или ориентируясь на точке на потолке.  
 
 ### Side Rewind
-![](Trick_Side_Rewind.gif)
+<video src="../Trick_Side_Rewind.mp4" autoplay loop muted playsinline width="640" height="356"></video>
 
 ### Rewind Hot Spot
-![](Trick_RewindHotSpot.gif)
+<video src="../Trick_RewindHotSpot.mp4" autoplay loop muted playsinline width="616" height="316"></video>
 
 ## У стены
 
 ### Stall (Backwards Dive)
 Летим на стену/столб, перед ним нос на 90 и взлетаем. Pitch на себя, падаем спиной вниз и отлетаем назад  
-![](Trick_Stall.gif)  
+<video src="../Trick_Stall.mp4" autoplay loop muted playsinline width="320" height="160"></video>  
 Варианты в верхней точке:  
 
 - отскок  
@@ -309,8 +309,8 @@ Pitch на себя на 180 (смотрим назад), Roll 360+180
 - Powerloop  
 
 - От `dronarchy.fpv`  
-![](Trick_dronarchy_fpv_StallYaw360.gif)  
-![](Trick_dronarchy_fpv_StallYoYo.gif)  
+<video src="../Trick_dronarchy_fpv_StallYaw360.mp4" autoplay loop muted playsinline width="360" height="348"></video>  
+<video src="../Trick_dronarchy_fpv_StallYoYo.mp4" autoplay loop muted playsinline width="320" height="372"></video>  
 
 ### Подъем с раскачкой
 
@@ -342,19 +342,19 @@ Pitch на себя на 180 (смотрим назад), Roll 360+180
 
 ### Cube Ejects from [FPVSkittles](https://www.youtube.com/@FPVSkittles)
 Standard Cube Eject  
-![](Trick_CubeEject1.gif)  
+<video src="../Trick_CubeEject1.mp4" autoplay loop muted playsinline width="320" height="236"></video>  
 
 Backflip Cube Eject  
-![](Trick_CubeEject2.gif)  
+<video src="../Trick_CubeEject2.mp4" autoplay loop muted playsinline width="320" height="236"></video>  
 
 Roll Cube Eject  
-![](Trick_CubeEject3.gif)  
+<video src="../Trick_CubeEject3.mp4" autoplay loop muted playsinline width="320" height="236"></video>  
 
 Backflip+Roll Cube Eject  
-![](Trick_CubeEject4.gif)  
+<video src="../Trick_CubeEject4.mp4" autoplay loop muted playsinline width="320" height="236"></video>  
 
 Ceiling Tap Cube Eject  
-![](Trick_CubeEject5.gif)  
+<video src="../Trick_CubeEject5.mp4" autoplay loop muted playsinline width="320" height="236"></video>  
 
 ### Backwards Dive
 Подлетаем к колодцу, Pitch на себя и падаем спиной.
@@ -365,13 +365,13 @@ Ceiling Tap Cube Eject
 ![](https://prowhooper.com/wp-content/uploads/2024/02/1000039660.gif)
 
 На этот трик похож изобретенный `Frogi@` трик с Matty Flip перед стеной `Frogi Flip`  
-![](Trick_FroggyFlip.gif)
+<video src="../Trick_FroggyFlip.mp4" autoplay loop muted playsinline width="320" height="212"></video>
 
 ### Hallway Turn from [Dinglez](https://www.youtube.com/@Dinglez44)
-![](Trick_HallwayTurn_Dinglez.gif)
+<video src="../Trick_HallwayTurn_Dinglez.mp4" autoplay loop muted playsinline width="320" height="236"></video>
 
 ### Спираль вверх/вниз от `dronarchy.fpv`
-![](Trick_dronarchy_fpv_MindBender.gif)
+<video src="../Trick_dronarchy_fpv_MindBender.mp4" autoplay loop muted playsinline width="360" height="348"></video>
 
 ### Knife Edge
 Пролетаем в узкий вертикальный пролет, перед ним roll 90, чтобы пройти через него  
