@@ -11,7 +11,7 @@
 
 [Как загерметизировать FPV дрон? Подготовка к дождю и снегу. YouTube: Антон Евдаков](https://www.youtube.com/watch?v=wsgYL4-icS0)
 
-[Видео как снимать эти покрытия (B7000/T7000)](Как_снимать_B7000.mp4)
+[Видео как снимать эти покрытия (B7000/T7000)](Kak_snimat_B7000.mp4)
 
 ## Flywoo X30 Waterproof Superhydrophobic Spray
 [на сайте производителя](https://flywoo.net/products/flywoo-x30-waterproof-superhydrophobic-invisible-spray)  
