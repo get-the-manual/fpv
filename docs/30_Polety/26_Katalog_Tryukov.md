@@ -37,17 +37,17 @@ Pitch от себя 180, летим вверх ногами, опять Pitch о
 ### Split-S
 
 Roll 180, Pitch на себя  
-![](https://prowhooper.com/wp-content/uploads/2023/12/1000036098.gif)
+<video src="../Trick_Split-S.mp4" autoplay loop muted playsinline width="474" height="354"></video>
 
 ### Half Matty (Reverse Split-S)
 
 Roll 180, Pitch от себя  
-![](https://prowhooper.com/wp-content/uploads/2024/02/1000039645.gif)
+<video src="../Trick_HalfMatty.mp4" autoplay loop muted playsinline width="474" height="350"></video>
 
 ### Juicy Flick
 
 Pitch от себя 180, Roll 180  
-![](https://prowhooper.com/wp-content/uploads/2023/12/1000036113.gif)  
+<video src="../Trick_JuicyFlick.mp4" autoplay loop muted playsinline width="474" height="350"></video>  
   
 ### Juicy Flick + Yaw 180
 
@@ -57,7 +57,7 @@ Pitch от себя 180, Roll 180
 ### Snapback (Look Back juicy или Immelmann Turn)
 
 Pitch на себя 180, Roll 180  
-![](https://prowhooper.com/wp-content/uploads/2023/12/1000036111.gif)
+<video src="../Trick_Snapback.mp4" autoplay loop muted playsinline width="474" height="350"></video>
   
 ## На открытом пространстве
 
@@ -78,14 +78,14 @@ Stall, в верхней точке Pitch от себя 180, и дайвим
 
 ### Inverted Yaw Spin
 Half flip или roll, 360 Yaw, Half flip или roll в ту же сторону  
-![](https://prowhooper.com/wp-content/uploads/2023/12/1000036107-1.gif)  
+<video src="../Trick_InvertedYawSpin.mp4" autoplay loop muted playsinline width="714" height="534"></video>  
 
 ### Inverted Uh-Uh
 Half flip или roll, покачать Yaw в обе стороны, Half flip или roll в ту же сторону  
 
 ### Rubik's Cube
 Half flip, 360 Roll, Half flip  
-![](https://prowhooper.com/wp-content/uploads/2023/12/1000036117.gif)
+<video src="../Trick_RubiksCube.mp4" autoplay loop muted playsinline width="474" height="350"></video>
 
 ### Cubik's Rube
 Half roll, Flip 360, Half roll
@@ -113,7 +113,7 @@ Yaw 360, Pitch от себя на 180, Roll 180.
 ### Вокруг горизонтальной балки  
 
 - Вокруг горизонтальной балки  
-![](https://prowhooper.com/wp-content/uploads/2023/12/1000036039.gif)  
+<video src="../Trick_HorizontalBar.mp4" autoplay loop muted playsinline width="466" height="354"></video>  
 
 - Перед стеной/деревом  
 - В верхней точке вверх ногами: Yaw360/Flip/Roll, заканчиваем маневр   
@@ -149,7 +149,7 @@ Yaw 360, Pitch от себя на 180, Roll 180.
 
 ### Split-S
 НАД препятствием, Roll 180, плавно Pitch на себя, пролетаем ПОД препятствием.  
-![](https://prowhooper.com/wp-content/uploads/2023/12/1000036098.gif)
+<video src="../Trick_Split-S.mp4" autoplay loop muted playsinline width="474" height="354"></video>
 
 ### Split-S Rewind
 <video src="../Trick_Split-S_Rewind.mp4" autoplay loop muted playsinline width="640" height="320"></video>   
@@ -163,11 +163,11 @@ Yaw 360, Pitch от себя на 180, Roll 180.
 
 ### Half Matty (Reverse Split-S)
 Roll 180, плавно Pitch от себя и задом пролетаем под преградой.  
-![](https://prowhooper.com/wp-content/uploads/2024/02/1000039645.gif)
+<video src="../Trick_HalfMatty.mp4" autoplay loop muted playsinline width="474" height="350"></video>
 
 ### Juicy Flick
 Pitch от себя на 180, Roll 180  
-![](https://prowhooper.com/wp-content/uploads/2023/12/1000036113.gif)  
+<video src="../Trick_JuicyFlick.mp4" autoplay loop muted playsinline width="474" height="350"></video>  
 Можно пролетая над объектом плавно Pitch от себя, чтобы следить как объект проходит снизу, пока не перевернемся вверх ногами. И тогда Roll 180  
 
 ### Juicy Flick с роллом
@@ -180,7 +180,7 @@ Pitch от себя на 180, Roll 720
 
 ### Snapback (Look Back juicy)
 Pitch на себя на 180 (смотрим назад), Roll 180  
-![](https://prowhooper.com/wp-content/uploads/2023/12/1000036111.gif)
+<video src="../Trick_Snapback.mp4" autoplay loop muted playsinline width="474" height="350"></video>
 
 ### Snapback rewind
 <video src="../Trick_SnapbackRewind.mp4" autoplay loop muted playsinline width="320" height="164"></video>
@@ -194,7 +194,7 @@ Pitch на себя на 180 (смотрим назад), Roll 360+180
 
 ### Vanny Roll
 Пролетаем мимо столба, Yaw 180 (смотрим назад), Roll +360, Yaw 180  
-![](https://prowhooper.com/wp-content/uploads/2023/12/1000036119.gif)
+<video src="../Trick_VannyRoll.mp4" autoplay loop muted playsinline width="474" height="350"></video>
 
 ### Vanny Cube 
 Пролетаем мимо столба, Yaw 180 (смотрим назад), Roll +180, Pitch от себя 180, летим дальше  
@@ -202,34 +202,34 @@ Pitch на себя на 180 (смотрим назад), Roll 360+180
 
 ### Immelmann Turn
 Плавно Pitch на себя, Roll 180 и мы летим в другую сторону.  
-![](https://prowhooper.com/wp-content/uploads/2023/12/1000036040.gif)  
+<video src="../Trick_ImmelmannTurn.mp4" autoplay loop muted playsinline width="712" height="534"></video>  
 Эффектно залететь на этаж выше.
 
 ### Matty Flip
 Вроде как PowerLoop, но наоборот носом вниз.  
 Летим над преградой, ЗА ней ныряем носом 360, плавно задом пролетаем ПОД преградой.  
-![](https://prowhooper.com/wp-content/uploads/2023/12/1000036187.gif)  
+<video src="../Trick_MattyFlip.mp4" autoplay loop muted playsinline width="470" height="346"></video>  
 
 Вариация без кувырка носом вперед: летим над преградой, за ней Pitch на себя, тормозим опускаясь вниз и летим спиной под преградой.   
-![](https://prowhooper.com/wp-content/uploads/2023/12/1000036045.gif)
+<video src="../Trick_MattyFlip_NoFlip.mp4" autoplay loop muted playsinline width="712" height="534"></video>
 
 ### Side Loop (Barrel Loop)
 Боковой луп вокруг горизонтальной балки.  
-![](https://prowhooper.com/wp-content/uploads/2024/03/1000040855.gif)  
+<video src="../Trick_SideLoop.mp4" autoplay loop muted playsinline width="474" height="354"></video>  
 
 Вариация: боковая качелька без лупа
 
 ### Jump Rope 
-![](https://prowhooper.com/wp-content/uploads/2024/03/1000040880.gif)
+<video src="../Trick_JumpRope.mp4" autoplay loop muted playsinline width="474" height="356"></video>
 
 ### Cinnamon Roll
 Орбита с контролем газа  
 <video src="../Trick_CinnamonRoll.mp4" autoplay loop muted playsinline width="320" height="180"></video>  
 
-![](https://prowhooper.com/wp-content/uploads/2024/02/1000039099.gif)  
+<video src="../Trick_CinnamonRoll2.mp4" autoplay loop muted playsinline width="474" height="350"></video>  
 
 ### Burrito Roll
-![](https://prowhooper.com/wp-content/uploads/2024/03/1000040856.gif)
+<video src="../Trick_BurritoRoll.mp4" autoplay loop muted playsinline width="474" height="354"></video>
 
 ### Corkscrew (Race version)
 Летим в ворота, внутри разворачиваемся боком, даем газ, держа угол ворот в центре, перелетаем через верх и залетаем в ворота рядом.  
@@ -266,11 +266,11 @@ Pitch на себя на 180 (смотрим назад), Roll 360+180
 ### Cradle (Candle)  
 Качелька вокруг столба  
 Залетаем слева, задираем нос, чтобы видеть столб, уходим вправо, возвращаемся и на оборот.  
-![](https://prowhooper.com/wp-content/uploads/2023/12/1000036050.gif)  
+<video src="../Trick_Cradle.mp4" autoplay loop muted playsinline width="470" height="354"></video>  
 После захода, можно перейти в Inverted Orbit.  
 
 ### Pole Dance (Boomerang)
-![](https://prowhooper.com/wp-content/uploads/2023/12/f89bc02f-6a33-4050-b591-abb7da78f24a-1.gif)  
+<video src="../Trick_PoleDance.mp4" autoplay loop muted playsinline width="468" height="306"></video>  
 Идущий один за одним Snapback (Look Back juicy) и Reverse Split-S.  
 Подлетаем к столбу и залетая за него делаем Snapback, но продолжаем крутить roll, входя в Reverse Split-S.  
 То есть: Pitch на себя (носом вверх) 180, Roll 360, Pitch от себя.  
@@ -280,7 +280,7 @@ Pitch на себя на 180 (смотрим назад), Roll 360+180
 Перед столбом Reverse Split-S. Выйдя из него оказываешься опять лицом к столбу и снова Reverse Split-S в туже сторону. И так до бесконечности.  
 
 ### Trippy Spin (Inverted Orbit)
-![](https://prowhooper.com/wp-content/uploads/2024/03/1000040862.gif)  
+<video src="../Trick_TrippySpin.mp4" autoplay loop muted playsinline width="474" height="350"></video>  
 
 Можно крутить не вокруг столба, а возле столба или подлетев к углу здания.  
 <video src="../Trick_TrippySpinNearObject.mp4" autoplay loop muted playsinline width="320" height="180"></video>  
@@ -319,18 +319,18 @@ Pitch на себя на 180 (смотрим назад), Roll 360+180
 Поднимаемся вдоль стены качаясь носом вперед/назад
 ### Wall Tap (Wall bonk)
 Подлетаем к стене, контакт, выравниваемся  
-![](https://prowhooper.com/wp-content/uploads/2023/12/1000036169.gif)
+<video src="../Trick_WallTap.mp4" autoplay loop muted playsinline width="474" height="350"></video>
 
 ### Wall Ride
 Пролетаем вдоль стены и касаемся   
-![](https://prowhooper.com/wp-content/uploads/2023/12/1000036076.gif)
+<video src="../Trick_WallRide.mp4" autoplay loop muted playsinline width="474" height="350"></video>
 
 Летя вдоль можно развернутся Yaw и лететь задом, боком. Можно флип
 
 ## У потолка
 
 ### Trippy Spin (Inverted Orbit)
-![](https://prowhooper.com/wp-content/uploads/2024/03/1000040862.gif)  
+<video src="../Trick_TrippySpin.mp4" autoplay loop muted playsinline width="474" height="350"></video>  
 Можно крутить не вокруг столба, а ориентируясь на точке на потолке.
 
 ### Ceiling bonk
@@ -362,7 +362,7 @@ Ceiling Tap Cube Eject
 ## Другое
 
 ### Matty Stall Rewind
-![](https://prowhooper.com/wp-content/uploads/2024/02/1000039660.gif)
+<video src="../Trick_MattyStallRewind.mp4" autoplay loop muted playsinline width="354" height="260"></video>
 
 На этот трик похож изобретенный `Frogi@` трик с Matty Flip перед стеной `Frogi Flip`  
 <video src="../Trick_FroggyFlip.mp4" autoplay loop muted playsinline width="320" height="212"></video>
