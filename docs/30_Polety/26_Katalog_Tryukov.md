@@ -91,7 +91,7 @@ Half flip, 360 Roll, Half flip
 Half roll, Flip 360, Half roll
 
 ### Corkscrew (Freestyle Version)
-![](Trick_Corkscrew.gif)   
+<video src="../Trick_Corkscrew.mp4" autoplay loop muted playsinline width="640"></video>
 
 ### Trebuchet
 ![](Trick_Trebuchet.gif)  
