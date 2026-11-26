@@ -21,11 +21,16 @@
 - среднее качество компонентов;
 - часто ограниченные возможности.
 
-Примеры RTF-наборов в базе:
+Примеры RTF-наборов, которые рекомендует [BETAFPV](https://betafpv.com/collections/ready-to-fly-fpv-whoop-kits):
 
-- [BETAFPV Cetus X FPV Kit](00_Drones/01_Models/Betafpv/10_Cetus_X/10_Obshhee.md)
-- [BETAFPV Aquila16 FPV Kit](00_Drones/01_Models/Betafpv/Aquila16.md)
-- [DJI Neo Motion Fly More Combo](00_Drones/01_Models/DJI/DJI_Neo.md) (это не классический FPV-дрон, но в комбо есть очки)
+- [Meteor75 Pro HD FPV Kit](https://betafpv.com/products/meteor75-pro-hd-fpv-kit)
+- [Meteor75 Pro II FPV Kit](https://betafpv.com/products/meteor75-pro-fpv-kit)
+- [Aquila20 HD FPV Kit](https://betafpv.com/products/aquila20-hd-fpv-kit)
+- [Aquila20 FPV Kit](https://betafpv.com/products/aquila20-fpv-kit)
+
+[DJI Neo 2](https://www.dji.com/neo-2) — это не классический FPV-дрон, но он работает с очками DJI Goggles N3 или Goggles 3 и пультом DJI RC Motion 3 или DJI FPV Remote Controller 3 ([характеристики](https://www.dji.com/neo-2/specs)).
+
+Предыдущие модели, для которых в базе есть страницы: [BETAFPV Cetus X FPV Kit](00_Drones/01_Models/Betafpv/10_Cetus_X/10_Obshhee.md), [BETAFPV Aquila16 FPV Kit](00_Drones/01_Models/Betafpv/Aquila16.md), [DJI Neo](00_Drones/01_Models/DJI/DJI_Neo.md).
 
 ### Самостоятельная подборка комплекта
 
