@@ -27,6 +27,8 @@
 
 [Как собрать FPV комплект - пошаговая инструкция. Сравнение с Cetus X kit. YouTube: Петрокей](https://www.youtube.com/watch?v=G06lMb3Cs3A)  
 
+[От коробки до первого взлёта: настраиваем FPV комплект. YouTube: ZhukoRama FPVlog (ZRFPV Crew)](https://www.youtube.com/watch?v=kSFzVFHjeUI)  
+
 [Базові поняття про FPV дрони та обладнання. Терміни + пояснення. (укр.). YouTube: Є-Дрон](https://www.youtube.com/watch?v=sfohRjv3Fyk)  
 
 [ЛУЧШАЯ СИСТЕМА для FPV ДРОНА - АНАЛОГ или ЦИФРА? DJI, Walksnail, HDZero. YouTube: recopter](https://www.youtube.com/watch?v=1AQI37pF4fw)
