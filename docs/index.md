@@ -12,6 +12,8 @@
 [Почему квадрокоптер 100 лет не мог взлететь - YouTube: 
 Инвера | Как это устроено?](https://youtu.be/V8isBZYclpU)
 
+[FPV-ДРОН ИЗНУТРИ: за что отвечает каждая деталь. YouTube: PHOENIX DRONE RACING](https://youtu.be/pQHAcYn4Wos)
+
 [ГАЙД на ВХОД В FPV по БОМЖУ 2026. YouTube: recopter](https://www.youtube.com/watch?v=VdBMS37sMCs)
 
 [Первый FPV-дрон, очки, аппаратура - с чего НАЧАТЬ?! (Полный Гайд для Новичков. YouTube: DRONOFLY FPV)](https://www.youtube.com/watch?v=OKOhqE8bt3Q)
